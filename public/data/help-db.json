@@ -1,0 +1,5945 @@
+{
+  "lastUpdated": "2026-03-02T23:30:29.147Z",
+  "countries": {
+    "iran": {
+      "name": "Iran",
+      "code": "IR",
+      "callingCode": "+98",
+      "currency": "IRR",
+      "languages": [
+        "Persian (Farsi)"
+      ],
+      "timezone": "Asia/Tehran (UTC+3:30)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "110"
+        },
+        {
+          "service": "Ambulance",
+          "number": "115"
+        },
+        {
+          "service": "Fire Department",
+          "number": "125"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "147"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "139"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Disaster Management (NDMO)",
+          "number": "+98-21-66944750"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Imam Khomeini Hospital Complex",
+          "city": "Tehran",
+          "address": "Keshavarz Blvd, Tehran",
+          "phone": "+98-21-61192000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Shariati Hospital",
+          "city": "Tehran",
+          "address": "Jalal Al-e-Ahmad Hwy, Tehran",
+          "phone": "+98-21-84902000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Milad Hospital",
+          "city": "Tehran",
+          "address": "Hemmat Expressway, Tehran",
+          "phone": "+98-21-88621011",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Namazi Hospital",
+          "city": "Shiraz",
+          "address": "Zand Blvd, Shiraz",
+          "phone": "+98-71-36474331",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Zahra Hospital",
+          "city": "Isfahan",
+          "address": "Sofeh Blvd, Isfahan",
+          "phone": "+98-31-36202020",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Sina Hospital",
+          "city": "Tehran",
+          "address": "Hassan Abad Sq, Tehran",
+          "phone": "+98-21-66348050",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United Kingdom",
+          "address": "198 Ferdowsi Ave, Tehran (Swiss Embassy representing UK interests)",
+          "phone": "+98-21-66724015",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "No. 7, Mir Emad St, Motahhari Ave, Tehran",
+          "phone": "+98-21-88755802",
+          "emergencyLine": "+98-912-1493937"
+        },
+        {
+          "country": "China",
+          "address": "No. 13, Narenjestan 7th St, Pasdaran Ave, Tehran",
+          "phone": "+98-21-22291242",
+          "emergencyLine": "+98-21-22296172"
+        },
+        {
+          "country": "Russia",
+          "address": "Neauphle-le-Chateau St, Tehran",
+          "phone": "+98-21-66701161",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "81 Neauphle-le-Chateau Ave, Tehran",
+          "phone": "+98-21-66723500",
+          "emergencyLine": "+98-21-66723501"
+        },
+        {
+          "country": "Germany",
+          "address": "324 Ferdowsi Ave, Tehran",
+          "phone": "+98-21-39991111",
+          "emergencyLine": "+98-21-39991112"
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Iranian Red Crescent Society HQ",
+          "address": "Ostad Nejatollahi St, Tehran",
+          "phone": "+98-21-88849971",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Tehran Office",
+          "address": "No. 38A, Shahrzad Blvd, Darrous, Tehran",
+          "phone": "+98-21-80662800",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Iranian Red Crescent Society",
+          "type": "redCrescent",
+          "phone": "+98-21-88849971",
+          "address": "Tehran"
+        },
+        {
+          "name": "UNHCR Iran",
+          "type": "unhcr",
+          "phone": "+98-21-80662800",
+          "address": "Tehran"
+        },
+        {
+          "name": "UNICEF Iran",
+          "type": "unicef",
+          "phone": "+98-21-88841583",
+          "address": "Tehran"
+        },
+        {
+          "name": "WFP Iran",
+          "type": "wfp",
+          "phone": "+98-21-22048724",
+          "address": "Tehran"
+        }
+      ],
+      "travelWarnings": [
+        "Risk of arbitrary arrest and detention",
+        "Internet frequently disrupted",
+        "Restricted zones near borders and military installations",
+        "Dual nationals at high risk"
+      ]
+    },
+    "israel": {
+      "name": "Israel",
+      "code": "IL",
+      "callingCode": "+972",
+      "currency": "ILS",
+      "languages": [
+        "Hebrew",
+        "Arabic"
+      ],
+      "timezone": "Asia/Jerusalem (UTC+2)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel to Gaza border area. Reconsider travel to rest of Israel due to active conflict and rocket threats.",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "100"
+        },
+        {
+          "service": "Ambulance (Magen David Adom)",
+          "number": "101"
+        },
+        {
+          "service": "Fire Department",
+          "number": "102"
+        },
+        {
+          "service": "Home Front Command",
+          "number": "104"
+        },
+        {
+          "service": "IDF Hotline",
+          "number": "1207"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Counter-terrorism Hotline",
+          "number": "1-700-500-554"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Sheba Medical Center (Tel HaShomer)",
+          "city": "Ramat Gan",
+          "address": "Derech Sheba 2, Ramat Gan",
+          "phone": "+972-3-5302222",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hadassah Medical Center – Ein Kerem",
+          "city": "Jerusalem",
+          "address": "Kalman Ya'akov Man St, Jerusalem",
+          "phone": "+972-2-6777111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Sourasky Medical Center (Ichilov)",
+          "city": "Tel Aviv",
+          "address": "6 Weizmann St, Tel Aviv",
+          "phone": "+972-3-6974444",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Rambam Health Care Campus",
+          "city": "Haifa",
+          "address": "8 HaAliya HaShniya St, Haifa",
+          "phone": "+972-4-7772222",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Soroka Medical Center",
+          "city": "Beer Sheva",
+          "address": "Rager Blvd 151, Beer Sheva",
+          "phone": "+972-8-6400111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Rabin Medical Center (Beilinson)",
+          "city": "Petah Tikva",
+          "address": "39 Jabotinski St, Petah Tikva",
+          "phone": "+972-3-9377377",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "71 HaYarkon St, Tel Aviv (consular: 18 Agron Rd, Jerusalem)",
+          "phone": "+972-3-5197575",
+          "emergencyLine": "+972-3-5197575"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "192 HaYarkon St, Tel Aviv",
+          "phone": "+972-3-7251222",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "140 HaYarkon St, Tel Aviv",
+          "phone": "+972-3-5226144",
+          "emergencyLine": "+972-3-5226144"
+        },
+        {
+          "country": "China",
+          "address": "222 Ben Yehuda St, Tel Aviv",
+          "phone": "+972-3-5440929",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "120 HaYarkon St, Tel Aviv",
+          "phone": "+972-3-5226733",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "112 Herbert Samuel Promenade, Tel Aviv",
+          "phone": "+972-3-5208300",
+          "emergencyLine": "+972-3-5208345"
+        },
+        {
+          "country": "Germany",
+          "address": "3 Daniel Frish St, Tel Aviv",
+          "phone": "+972-3-6931313",
+          "emergencyLine": "+972-3-6931316"
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Magen David Adom (National EMS)",
+          "address": "Nationwide – public shelters in every neighborhood",
+          "phone": "101",
+          "type": "civilDefense"
+        },
+        {
+          "name": "Home Front Command Shelters",
+          "address": "Nationwide community shelters (mamad/miklat)",
+          "phone": "104",
+          "type": "civilDefense"
+        },
+        {
+          "name": "ICRC Israel & OPT Delegation",
+          "address": "Habosem 3, Tel Aviv",
+          "phone": "+972-3-5245286",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Magen David Adom",
+          "type": "redCross",
+          "phone": "101",
+          "address": "Tel Aviv"
+        },
+        {
+          "name": "ICRC Delegation",
+          "type": "icrc",
+          "phone": "+972-3-5245286",
+          "address": "Tel Aviv"
+        },
+        {
+          "name": "UNICEF",
+          "type": "unicef",
+          "phone": "+972-2-5840440",
+          "address": "Jerusalem"
+        },
+        {
+          "name": "UNRWA",
+          "type": "other",
+          "phone": "+972-2-5890400",
+          "address": "Jerusalem"
+        }
+      ],
+      "travelWarnings": [
+        "Active military operations in Gaza border area",
+        "Rocket attacks possible nationwide",
+        "Avoid border areas with Lebanon and Syria",
+        "Carry ID at all times"
+      ]
+    },
+    "palestine": {
+      "name": "Palestine",
+      "code": "PS",
+      "callingCode": "+970",
+      "currency": "ILS",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Gaza (UTC+2)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel. Active military conflict in Gaza. Severe humanitarian crisis. West Bank: extreme risk.",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "100"
+        },
+        {
+          "service": "Ambulance (Red Crescent)",
+          "number": "101"
+        },
+        {
+          "service": "Fire Department",
+          "number": "102"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "103"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Al-Shifa Hospital",
+          "city": "Gaza City",
+          "address": "Rimal, Gaza City",
+          "phone": "+970-8-2864190",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "European Gaza Hospital",
+          "city": "Khan Younis",
+          "address": "Khan Younis",
+          "phone": "+970-8-2641433",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Nasser Medical Complex",
+          "city": "Khan Younis",
+          "address": "Khan Younis",
+          "phone": "+970-8-2053592",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Aqsa Martyrs Hospital",
+          "city": "Deir al-Balah",
+          "address": "Deir al-Balah",
+          "phone": "+970-8-2530561",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Rafidya Hospital",
+          "city": "Nablus",
+          "address": "Nablus, West Bank",
+          "phone": "+970-9-2390390",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Palestine Medical Complex",
+          "city": "Ramallah",
+          "address": "Ramallah, West Bank",
+          "phone": "+970-2-2987440",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [],
+      "shelters": [
+        {
+          "name": "Palestine Red Crescent Society",
+          "address": "Al-Bireh, Ramallah",
+          "phone": "+970-2-2406515",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNRWA Gaza Field Office",
+          "address": "Gaza City",
+          "phone": "+972-8-6777333",
+          "type": "unhcr"
+        },
+        {
+          "name": "UNRWA West Bank Field Office",
+          "address": "Jerusalem",
+          "phone": "+972-2-5890400",
+          "type": "unhcr"
+        },
+        {
+          "name": "UNHCR shelters at UNRWA schools",
+          "address": "Various locations, Gaza Strip",
+          "phone": null,
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Palestine Red Crescent Society",
+          "type": "redCrescent",
+          "phone": "+970-2-2406515",
+          "address": "Ramallah"
+        },
+        {
+          "name": "UNRWA",
+          "type": "other",
+          "phone": "+972-2-5890400",
+          "address": "Jerusalem/Gaza"
+        },
+        {
+          "name": "ICRC Gaza",
+          "type": "icrc",
+          "phone": "+972-8-2824888",
+          "address": "Gaza City"
+        },
+        {
+          "name": "MSF Palestine",
+          "type": "msf",
+          "phone": "+970-8-2845938",
+          "address": "Gaza"
+        },
+        {
+          "name": "UNICEF Palestine",
+          "type": "unicef",
+          "phone": "+972-2-5840440",
+          "address": "Jerusalem"
+        },
+        {
+          "name": "WFP Palestine",
+          "type": "wfp",
+          "phone": "+972-2-5401340",
+          "address": "Jerusalem"
+        }
+      ],
+      "travelWarnings": [
+        "Active war zone in Gaza",
+        "Communications blackout in Gaza",
+        "Hospitals overwhelmed and damaged",
+        "West Bank: military raids, checkpoints, settler violence",
+        "No functioning airport"
+      ]
+    },
+    "lebanon": {
+      "name": "Lebanon",
+      "code": "LB",
+      "callingCode": "+961",
+      "currency": "LBP",
+      "languages": [
+        "Arabic",
+        "French"
+      ],
+      "timezone": "Asia/Beirut (UTC+2)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police (ISF)",
+          "number": "112"
+        },
+        {
+          "service": "Ambulance (Red Cross)",
+          "number": "140"
+        },
+        {
+          "service": "Fire Department",
+          "number": "175"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "125"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Internal Security Forces",
+          "number": "160"
+        },
+        {
+          "service": "Army Intelligence",
+          "number": "1714"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "American University of Beirut Medical Center",
+          "city": "Beirut",
+          "address": "Riad El Solh, Beirut",
+          "phone": "+961-1-350000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hotel Dieu de France Hospital",
+          "city": "Beirut",
+          "address": "Alfred Naccache Blvd, Ashrafieh",
+          "phone": "+961-1-615300",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Rafik Hariri University Hospital",
+          "city": "Beirut",
+          "address": "Jnah, Beirut",
+          "phone": "+961-1-830000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Saint George Hospital",
+          "city": "Beirut",
+          "address": "Ashrafieh, Beirut",
+          "phone": "+961-1-441000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hammoud Hospital",
+          "city": "Saida",
+          "address": "Saida, South Lebanon",
+          "phone": "+961-7-723111",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Tripoli Governmental Hospital",
+          "city": "Tripoli",
+          "address": "El-Kobbeh, Tripoli",
+          "phone": "+961-6-440516",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Awkar, Metn, Mount Lebanon",
+          "phone": "+961-4-542600",
+          "emergencyLine": "+961-4-543600"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Army St, Zokak el-Blat, Beirut",
+          "phone": "+961-1-960800",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Mar Takla, Hazmieh, Beirut",
+          "phone": "+961-5-954978",
+          "emergencyLine": "+961-3-067084"
+        },
+        {
+          "country": "China",
+          "address": "Ramlet el-Baida, Beirut",
+          "phone": "+961-1-850227",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Mar Elias, Ras Beirut",
+          "phone": "+961-1-300041",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Rue de Damas, Beirut",
+          "phone": "+961-1-420000",
+          "emergencyLine": "+961-1-420002"
+        },
+        {
+          "country": "Germany",
+          "address": "Rabieh, Metn",
+          "phone": "+961-4-935000",
+          "emergencyLine": "+961-4-935001"
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Lebanese Red Cross HQ",
+          "address": "Spears St, Beirut",
+          "phone": "140",
+          "type": "redCross"
+        },
+        {
+          "name": "UNHCR Lebanon",
+          "address": "ESCWA Building, Riad El Solh, Beirut",
+          "phone": "+961-1-981301",
+          "type": "unhcr"
+        },
+        {
+          "name": "Designated school shelters (government)",
+          "address": "Nationwide during emergencies",
+          "phone": "112",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Lebanese Red Cross",
+          "type": "redCross",
+          "phone": "140",
+          "address": "Beirut"
+        },
+        {
+          "name": "ICRC Lebanon",
+          "type": "icrc",
+          "phone": "+961-1-740202",
+          "address": "Beirut"
+        },
+        {
+          "name": "UNHCR Lebanon",
+          "type": "unhcr",
+          "phone": "+961-1-981301",
+          "address": "Beirut"
+        },
+        {
+          "name": "MSF Lebanon",
+          "type": "msf",
+          "phone": "+961-1-346700",
+          "address": "Beirut"
+        },
+        {
+          "name": "UNICEF Lebanon",
+          "type": "unicef",
+          "phone": "+961-1-981301",
+          "address": "Beirut"
+        },
+        {
+          "name": "WFP Lebanon",
+          "type": "wfp",
+          "phone": "+961-1-962811",
+          "address": "Beirut"
+        }
+      ],
+      "travelWarnings": [
+        "Active conflict in southern Lebanon",
+        "Do not travel south of the Litani River",
+        "Economic collapse – limited access to cash and fuel",
+        "Rolling power outages",
+        "Risk of unexploded ordnance"
+      ]
+    },
+    "syria": {
+      "name": "Syria",
+      "code": "SY",
+      "callingCode": "+963",
+      "currency": "SYP",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Damascus (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "112"
+        },
+        {
+          "service": "Ambulance",
+          "number": "110"
+        },
+        {
+          "service": "Fire Department",
+          "number": "113"
+        },
+        {
+          "service": "Civil Defense (White Helmets NW)",
+          "number": "+90-342-2200660"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Al-Mouwasat University Hospital",
+          "city": "Damascus",
+          "address": "Mezzeh, Damascus",
+          "phone": "+963-11-6624200",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Damascus Hospital (Al-Mujtahid)",
+          "city": "Damascus",
+          "address": "Al-Mujtahid, Damascus",
+          "phone": "+963-11-2219300",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Aleppo University Hospital",
+          "city": "Aleppo",
+          "address": "University St, Aleppo",
+          "phone": "+963-21-2634470",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Tishreen Military Hospital",
+          "city": "Damascus",
+          "address": "Harasta Hwy, Damascus",
+          "phone": "+963-11-5130400",
+          "type": "Military",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Assad University Hospital",
+          "city": "Latakia",
+          "address": "Latakia",
+          "phone": "+963-41-428700",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "Russia",
+          "address": "Omar bin Al-Khatab St, Damascus",
+          "phone": "+963-11-4420735",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "83 Ata Al-Ayyoubi St, Damascus",
+          "phone": "+963-11-3320888",
+          "emergencyLine": null
+        },
+        {
+          "country": "India",
+          "address": "40/17 Mezzeh Autostrad, Damascus",
+          "phone": "+963-11-6117340",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Syrian Arab Red Crescent",
+          "address": "Red Crescent Bldg, Damascus",
+          "phone": "+963-11-4413551",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Syria",
+          "address": "Kafr Sousa, Damascus",
+          "phone": "+963-11-2181402",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Syrian Arab Red Crescent",
+          "type": "redCrescent",
+          "phone": "+963-11-4413551",
+          "address": "Damascus"
+        },
+        {
+          "name": "ICRC Syria",
+          "type": "icrc",
+          "phone": "+963-11-4439446",
+          "address": "Damascus"
+        },
+        {
+          "name": "UNHCR Syria",
+          "type": "unhcr",
+          "phone": "+963-11-2181402",
+          "address": "Damascus"
+        },
+        {
+          "name": "MSF Syria (cross-border)",
+          "type": "msf",
+          "phone": null,
+          "address": "NW Syria / Turkey-based"
+        },
+        {
+          "name": "White Helmets (Syria Civil Defense)",
+          "type": "other",
+          "phone": null,
+          "address": "NW Syria"
+        },
+        {
+          "name": "UNICEF Syria",
+          "type": "unicef",
+          "phone": "+963-11-6110791",
+          "address": "Damascus"
+        },
+        {
+          "name": "WFP Syria",
+          "type": "wfp",
+          "phone": "+963-11-2181900",
+          "address": "Damascus"
+        }
+      ],
+      "travelWarnings": [
+        "Active civil war and military operations",
+        "ISIS remnants and other armed groups",
+        "Extremely high kidnapping risk",
+        "Chemical weapons have been used",
+        "Most embassies closed"
+      ]
+    },
+    "iraq": {
+      "name": "Iraq",
+      "code": "IQ",
+      "callingCode": "+964",
+      "currency": "IQD",
+      "languages": [
+        "Arabic",
+        "Kurdish"
+      ],
+      "timezone": "Asia/Baghdad (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "104"
+        },
+        {
+          "service": "Ambulance",
+          "number": "122"
+        },
+        {
+          "service": "Fire Department",
+          "number": "115"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "115"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Counter-terrorism",
+          "number": "131"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Baghdad Medical City (Medical City Complex)",
+          "city": "Baghdad",
+          "address": "Bab Al-Muadham, Baghdad",
+          "phone": "+964-1-4170088",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Ibn Sina Hospital",
+          "city": "Baghdad",
+          "address": "International Zone, Baghdad",
+          "phone": "+964-1-7196090",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Yarmouk Teaching Hospital",
+          "city": "Baghdad",
+          "address": "Al-Yarmouk, Baghdad",
+          "phone": "+964-1-5560740",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Erbil Teaching Hospital",
+          "city": "Erbil",
+          "address": "Erbil, KRG",
+          "phone": "+964-66-2233161",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Basra General Hospital",
+          "city": "Basra",
+          "address": "Basra",
+          "phone": "+964-40-2181100",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Sulaymaniyah General Hospital",
+          "city": "Sulaymaniyah",
+          "address": "Sulaymaniyah, KRG",
+          "phone": "+964-53-3121990",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Al-Kindi St, International Zone, Baghdad",
+          "phone": "+964-760-0300000",
+          "emergencyLine": "+964-760-0300000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "International Zone, Baghdad",
+          "phone": "+964-790-1926280",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "212/35/929 Al-Mansour, Baghdad",
+          "phone": "+964-1-5422157",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "52/35/929 Al-Mansour, Baghdad",
+          "phone": "+964-1-5437891",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Al-Mutanabi St, Baghdad",
+          "phone": "+964-1-5415279",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "102/3/605 Hay Babel, Baghdad",
+          "phone": "+964-1-7190360",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "Hay Al-Mansour, Baghdad",
+          "phone": "+964-1-5421491",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Iraqi Red Crescent Society",
+          "address": "Al-Mansour, Baghdad",
+          "phone": "+964-1-5372494",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Iraq",
+          "address": "UN Compound, Baghdad",
+          "phone": "+964-751-4026756",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Iraqi Red Crescent",
+          "type": "redCrescent",
+          "phone": "+964-1-5372494",
+          "address": "Baghdad"
+        },
+        {
+          "name": "ICRC Iraq",
+          "type": "icrc",
+          "phone": "+964-1-7192121",
+          "address": "Baghdad"
+        },
+        {
+          "name": "UNHCR Iraq",
+          "type": "unhcr",
+          "phone": "+964-751-4026756",
+          "address": "Baghdad"
+        },
+        {
+          "name": "MSF Iraq",
+          "type": "msf",
+          "phone": null,
+          "address": "Baghdad/Erbil"
+        },
+        {
+          "name": "UNICEF Iraq",
+          "type": "unicef",
+          "phone": "+964-1-7785759",
+          "address": "Baghdad"
+        },
+        {
+          "name": "WFP Iraq",
+          "type": "wfp",
+          "phone": "+964-1-7782633",
+          "address": "Baghdad"
+        }
+      ],
+      "travelWarnings": [
+        "Terrorism risk remains high",
+        "Avoid areas near ISIS remnants",
+        "Kidnapping for ransom is common",
+        "Kurdistan Region is relatively safer",
+        "Armed militia activity throughout"
+      ]
+    },
+    "yemen": {
+      "name": "Yemen",
+      "code": "YE",
+      "callingCode": "+967",
+      "currency": "YER",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Aden (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "199"
+        },
+        {
+          "service": "Ambulance",
+          "number": "191"
+        },
+        {
+          "service": "Fire Department",
+          "number": "175"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "179"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "+967-2-562935"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Al-Thawra General Hospital",
+          "city": "Sanaa",
+          "address": "Al-Zubairy St, Sanaa",
+          "phone": "+967-1-246969",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Jomhouri Hospital",
+          "city": "Sanaa",
+          "address": "Sanaa",
+          "phone": "+967-1-274875",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Aden General Hospital",
+          "city": "Aden",
+          "address": "Crater, Aden",
+          "phone": "+967-2-252751",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Sadaqah Hospital",
+          "city": "Aden",
+          "address": "Sheikh Othman, Aden",
+          "phone": "+967-2-385841",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Thawra Hospital",
+          "city": "Taiz",
+          "address": "Taiz",
+          "phone": "+967-4-212860",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [],
+      "shelters": [
+        {
+          "name": "Yemen Red Crescent Society",
+          "address": "26 September St, Sanaa",
+          "phone": "+967-1-283132",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Yemen",
+          "address": "Hadda St, Sanaa",
+          "phone": "+967-1-416828",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Yemen Red Crescent",
+          "type": "redCrescent",
+          "phone": "+967-1-283132",
+          "address": "Sanaa"
+        },
+        {
+          "name": "ICRC Yemen",
+          "type": "icrc",
+          "phone": "+967-1-467570",
+          "address": "Sanaa"
+        },
+        {
+          "name": "UNHCR Yemen",
+          "type": "unhcr",
+          "phone": "+967-1-416828",
+          "address": "Sanaa"
+        },
+        {
+          "name": "MSF Yemen",
+          "type": "msf",
+          "phone": null,
+          "address": "Multiple locations"
+        },
+        {
+          "name": "UNICEF Yemen",
+          "type": "unicef",
+          "phone": "+967-1-211400",
+          "address": "Sanaa"
+        },
+        {
+          "name": "WFP Yemen",
+          "type": "wfp",
+          "phone": "+967-1-213600",
+          "address": "Sanaa"
+        }
+      ],
+      "travelWarnings": [
+        "Active civil war",
+        "Coalition airstrikes",
+        "Landmines widespread",
+        "Houthi-controlled areas restricted",
+        "Cholera outbreaks",
+        "Most embassies evacuated"
+      ]
+    },
+    "united-arab-emirates": {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "callingCode": "+971",
+      "currency": "AED",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "timezone": "Asia/Dubai (UTC+4)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "999"
+        },
+        {
+          "service": "Ambulance",
+          "number": "998"
+        },
+        {
+          "service": "Fire Department",
+          "number": "997"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "996"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "995"
+        },
+        {
+          "service": "Anti-terrorism Hotline",
+          "number": "800-2626"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Cleveland Clinic Abu Dhabi",
+          "city": "Abu Dhabi",
+          "address": "Al Maryah Island, Abu Dhabi",
+          "phone": "+971-2-5019000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Sheikh Khalifa Medical City",
+          "city": "Abu Dhabi",
+          "address": "Karama St, Abu Dhabi",
+          "phone": "+971-2-8190000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Dubai Hospital",
+          "city": "Dubai",
+          "address": "Al Baraha, Deira, Dubai",
+          "phone": "+971-4-2195000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Rashid Hospital",
+          "city": "Dubai",
+          "address": "Oud Metha, Dubai",
+          "phone": "+971-4-2192000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Mediclinic City Hospital",
+          "city": "Dubai",
+          "address": "Dubai Healthcare City",
+          "phone": "+971-4-4359999",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Tawam Hospital",
+          "city": "Al Ain",
+          "address": "Al Ain",
+          "phone": "+971-3-7677444",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al Qassimi Hospital",
+          "city": "Sharjah",
+          "address": "King Faisal St, Sharjah",
+          "phone": "+971-6-5124000",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Embassies District, Plot 38, Abu Dhabi",
+          "phone": "+971-2-4142200",
+          "emergencyLine": "+971-2-4142200"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Khalid bin Al Waleed St, Abu Dhabi",
+          "phone": "+971-2-6101100",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Plot 10, Sector W-59/02, Abu Dhabi",
+          "phone": "+971-2-4492700",
+          "emergencyLine": "+971-50-2485714"
+        },
+        {
+          "country": "China",
+          "address": "Plot A26-02, Abu Dhabi",
+          "phone": "+971-2-4434276",
+          "emergencyLine": "+971-50-6188513"
+        },
+        {
+          "country": "Russia",
+          "address": "Umm Al Nar St, Abu Dhabi",
+          "phone": "+971-2-6721797",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Etihad Towers, T3, Abu Dhabi",
+          "phone": "+971-2-8135100",
+          "emergencyLine": "+971-2-8135100"
+        },
+        {
+          "country": "Germany",
+          "address": "14th Floor, Abu Dhabi Mall, Abu Dhabi",
+          "phone": "+971-2-6446693",
+          "emergencyLine": "+971-2-6446693"
+        }
+      ],
+      "shelters": [
+        {
+          "name": "UAE Red Crescent Authority",
+          "address": "Red Crescent Bldg, Airport Rd, Abu Dhabi",
+          "phone": "+971-2-6418888",
+          "type": "redCrescent"
+        },
+        {
+          "name": "National Emergency Crisis & Disasters Management Authority (NCEMA)",
+          "address": "Abu Dhabi",
+          "phone": "995",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "UAE Red Crescent",
+          "type": "redCrescent",
+          "phone": "+971-2-6418888",
+          "address": "Abu Dhabi"
+        },
+        {
+          "name": "UNHCR UAE",
+          "type": "unhcr",
+          "phone": "+971-2-6584000",
+          "address": "Abu Dhabi"
+        },
+        {
+          "name": "UNICEF Gulf Area Office",
+          "type": "unicef",
+          "phone": "+971-4-3264646",
+          "address": "Dubai"
+        }
+      ],
+      "travelWarnings": [
+        "UAE airspace partially closed — only limited flights departing",
+        "Avoid non-essential travel to the region",
+        "Iranian missile threat remains elevated",
+        "Stock exchanges temporarily closed",
+        "QatarEnergy has halted LNG shipments through the Strait of Hormuz",
+        "Keep emergency supplies and documents ready"
+      ]
+    },
+    "saudi-arabia": {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "callingCode": "+966",
+      "currency": "SAR",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Riyadh (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "999"
+        },
+        {
+          "service": "Ambulance (Red Crescent)",
+          "number": "997"
+        },
+        {
+          "service": "Fire Department",
+          "number": "998"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "998"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "994"
+        },
+        {
+          "service": "National Emergency",
+          "number": "911"
+        },
+        {
+          "service": "Anti-terrorism Hotline",
+          "number": "990"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "King Faisal Specialist Hospital & Research Centre",
+          "city": "Riyadh",
+          "address": "Zahrawi St, Al Maather, Riyadh",
+          "phone": "+966-11-4647272",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "King Abdulaziz Medical City (KAMC)",
+          "city": "Riyadh",
+          "address": "Al Rimayah, Riyadh",
+          "phone": "+966-11-8011111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "King Fahad Medical City",
+          "city": "Riyadh",
+          "address": "Makkah Al Mukarramah Branch Rd, Riyadh",
+          "phone": "+966-11-2889999",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "King Abdulaziz University Hospital",
+          "city": "Jeddah",
+          "address": "King Abdulaziz University, Jeddah",
+          "phone": "+966-12-6400000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "King Fahd Hospital of the University",
+          "city": "Dammam",
+          "address": "Imam Abdulrahman Bin Faisal Univ, Dammam",
+          "phone": "+966-13-8966666",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Saudi German Hospital",
+          "city": "Jeddah",
+          "address": "Al Muhammadiyyah, Jeddah",
+          "phone": "+966-12-6829000",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Collector Rd M, Diplomatic Quarter, Riyadh",
+          "phone": "+966-11-4883800",
+          "emergencyLine": "+966-11-4883800"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Diplomatic Quarter, Riyadh",
+          "phone": "+966-11-4819100",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "B-1/27, Diplomatic Quarter, Riyadh",
+          "phone": "+966-11-4884144",
+          "emergencyLine": "+966-11-4885556"
+        },
+        {
+          "country": "China",
+          "address": "D1/5, Diplomatic Quarter, Riyadh",
+          "phone": "+966-11-4831077",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Diplomatic Quarter, Riyadh",
+          "phone": "+966-11-4810891",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Diplomatic Quarter, Riyadh",
+          "phone": "+966-11-4344100",
+          "emergencyLine": "+966-11-4344167"
+        },
+        {
+          "country": "Germany",
+          "address": "Diplomatic Quarter, Riyadh",
+          "phone": "+966-11-2773900",
+          "emergencyLine": "+966-11-2773932"
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Saudi Red Crescent Authority",
+          "address": "Riyadh",
+          "phone": "997",
+          "type": "redCrescent"
+        },
+        {
+          "name": "Civil Defense Shelters",
+          "address": "Major cities",
+          "phone": "998",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Saudi Red Crescent Authority",
+          "type": "redCrescent",
+          "phone": "997",
+          "address": "Riyadh"
+        },
+        {
+          "name": "King Salman Humanitarian Aid Centre",
+          "type": "other",
+          "phone": "+966-11-2849090",
+          "address": "Riyadh"
+        }
+      ],
+      "travelWarnings": [
+        "Houthi missile/drone attacks on border areas",
+        "Avoid areas within 80km of Yemen border",
+        "Strict dress code and social laws",
+        "Religious laws strictly enforced"
+      ]
+    },
+    "qatar": {
+      "name": "Qatar",
+      "code": "QA",
+      "callingCode": "+974",
+      "currency": "QAR",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "timezone": "Asia/Qatar (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "restricted",
+      "advisoryLevel": 3,
+      "advisoryNote": "Reconsider Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "999"
+        },
+        {
+          "service": "Ambulance",
+          "number": "999"
+        },
+        {
+          "service": "Fire Department",
+          "number": "999"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "+974-4483-7000"
+        },
+        {
+          "service": "National Emergency",
+          "number": "999"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Hamad General Hospital",
+          "city": "Doha",
+          "address": "Rayyan Rd, Doha",
+          "phone": "+974-4439-4444",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al Wakra Hospital",
+          "city": "Al Wakra",
+          "address": "Al Wakra",
+          "phone": "+974-4011-4411",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Sidra Medicine",
+          "city": "Doha",
+          "address": "Al Luqta St, Education City",
+          "phone": "+974-4003-3333",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "The Cuban Hospital",
+          "city": "Doha",
+          "address": "Dukhan Hwy, Doha",
+          "phone": "+974-4429-5295",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al Ahli Hospital",
+          "city": "Doha",
+          "address": "Ahmed Bin Ali St, Doha",
+          "phone": "+974-4489-8888",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "22 February St, Al Luqta District, Doha",
+          "phone": "+974-4496-6000",
+          "emergencyLine": "+974-4496-6000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Al Jazeera Tower, Doha",
+          "phone": "+974-4496-2000",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "P.O. Box 2788, Doha",
+          "phone": "+974-4467-6777",
+          "emergencyLine": "+974-5540-3544"
+        },
+        {
+          "country": "China",
+          "address": "West Bay, Doha",
+          "phone": "+974-4493-5370",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "West Bay, Doha",
+          "phone": "+974-4402-7070",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "Al Jazira Al Arabia St, Doha",
+          "phone": "+974-4408-3200",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Qatar Red Crescent Society",
+          "address": "Al Hilal Area, Doha",
+          "phone": "+974-4486-8686",
+          "type": "redCrescent"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Qatar Red Crescent",
+          "type": "redCrescent",
+          "phone": "+974-4486-8686",
+          "address": "Doha"
+        },
+        {
+          "name": "Qatar Charity",
+          "type": "other",
+          "phone": "+974-4466-7711",
+          "address": "Doha"
+        }
+      ],
+      "travelWarnings": [
+        "Generally safe",
+        "Strict social and alcohol laws",
+        "Respect local customs and dress codes"
+      ]
+    },
+    "kuwait": {
+      "name": "Kuwait",
+      "code": "KW",
+      "callingCode": "+965",
+      "currency": "KWD",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Kuwait (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "restricted",
+      "advisoryLevel": 3,
+      "advisoryNote": "Reconsider Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "112"
+        },
+        {
+          "service": "Ambulance",
+          "number": "112"
+        },
+        {
+          "service": "Fire Department",
+          "number": "112"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "113"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Mubarak Al-Kabeer Hospital",
+          "city": "Jabriya",
+          "address": "Jabriya, Kuwait",
+          "phone": "+965-2531-2700",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Amiri Hospital",
+          "city": "Kuwait City",
+          "address": "Arabian Gulf St, Kuwait City",
+          "phone": "+965-2245-0005",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Sabah Hospital",
+          "city": "Kuwait City",
+          "address": "Sabah Health Area, Kuwait City",
+          "phone": "+965-2481-2000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Jaber Al-Ahmad Hospital",
+          "city": "South Surra",
+          "address": "South Surra, Kuwait",
+          "phone": "+965-1826-666",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Dar Al Shifa Hospital",
+          "city": "Hawally",
+          "address": "Hawally, Kuwait",
+          "phone": "+965-2262-2200",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Al-Masjed Al-Aqsa St, Bayan, Kuwait",
+          "phone": "+965-2259-1001",
+          "emergencyLine": "+965-2259-1001"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Arabian Gulf St, Dasman, Kuwait City",
+          "phone": "+965-2259-4320",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Diplomatic Enclave, Arabian Gulf St, Kuwait City",
+          "phone": "+965-2253-0600",
+          "emergencyLine": "+965-9649-8988"
+        },
+        {
+          "country": "China",
+          "address": "Block 9, Mishref, Kuwait",
+          "phone": "+965-2533-9192",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Mansouriya, Kuwait City",
+          "phone": "+965-2257-1061",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "Block 1, Daiya, Kuwait",
+          "phone": "+965-2252-0827",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Kuwait Red Crescent Society",
+          "address": "Shuwaikh, Kuwait City",
+          "phone": "+965-2484-2484",
+          "type": "redCrescent"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Kuwait Red Crescent",
+          "type": "redCrescent",
+          "phone": "+965-2484-2484",
+          "address": "Kuwait City"
+        }
+      ],
+      "travelWarnings": [
+        "Generally safe",
+        "Avoid northern border area near Iraq",
+        "Extreme summer heat hazard"
+      ]
+    },
+    "bahrain": {
+      "name": "Bahrain",
+      "code": "BH",
+      "callingCode": "+973",
+      "currency": "BHD",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Bahrain (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "restricted",
+      "advisoryLevel": 3,
+      "advisoryNote": "Reconsider Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "999"
+        },
+        {
+          "service": "Ambulance",
+          "number": "999"
+        },
+        {
+          "service": "Fire Department",
+          "number": "999"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "17700000"
+        },
+        {
+          "service": "National Emergency",
+          "number": "999"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Salmaniya Medical Complex",
+          "city": "Manama",
+          "address": "Salmaniya, Manama",
+          "phone": "+973-1728-8888",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "King Hamad University Hospital",
+          "city": "Busaiteen",
+          "address": "Busaiteen, Muharraq",
+          "phone": "+973-1744-4444",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Bahrain Defence Force Hospital",
+          "city": "Riffa",
+          "address": "West Riffa",
+          "phone": "+973-1776-6666",
+          "type": "Military",
+          "hasEmergency": true
+        },
+        {
+          "name": "American Mission Hospital",
+          "city": "Manama",
+          "address": "Manama",
+          "phone": "+973-1725-3447",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Building 979, Road 3119, Zinj, Manama",
+          "phone": "+973-1724-2700",
+          "emergencyLine": "+973-1727-5532"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "21 Government Ave, Manama",
+          "phone": "+973-1757-4100",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Building 182, Road 2608, Adliya, Manama",
+          "phone": "+973-1771-2785",
+          "emergencyLine": "+973-3962-3747"
+        },
+        {
+          "country": "China",
+          "address": "Building 158, Road 4156, Juffair",
+          "phone": "+973-1772-3800",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Diplomatic Area, Manama",
+          "phone": "+973-1729-8600",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Bahrain Red Crescent Society",
+          "address": "Manama",
+          "phone": "+973-1729-3171",
+          "type": "redCrescent"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Bahrain Red Crescent",
+          "type": "redCrescent",
+          "phone": "+973-1729-3171",
+          "address": "Manama"
+        }
+      ],
+      "travelWarnings": [
+        "Regional tensions from Iran",
+        "Occasional political protests",
+        "US Fifth Fleet base – potential target"
+      ]
+    },
+    "oman": {
+      "name": "Oman",
+      "code": "OM",
+      "callingCode": "+968",
+      "currency": "OMR",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Muscat (UTC+4)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "9999"
+        },
+        {
+          "service": "Ambulance",
+          "number": "9999"
+        },
+        {
+          "service": "Fire Department",
+          "number": "9999"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "24714499"
+        },
+        {
+          "service": "National Emergency",
+          "number": "9999"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Royal Hospital",
+          "city": "Muscat",
+          "address": "Al Ghubrah, Muscat",
+          "phone": "+968-2459-9000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Sultan Qaboos University Hospital",
+          "city": "Muscat",
+          "address": "Al Khoud, Muscat",
+          "phone": "+968-2414-1000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Khoula Hospital",
+          "city": "Muscat",
+          "address": "Mina Al Fahal, Muscat",
+          "phone": "+968-2456-3625",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Armed Forces Hospital",
+          "city": "Muscat",
+          "address": "Seeb, Muscat",
+          "phone": "+968-2445-2795",
+          "type": "Military",
+          "hasEmergency": true
+        },
+        {
+          "name": "Sohar Hospital",
+          "city": "Sohar",
+          "address": "Sohar",
+          "phone": "+968-2684-0399",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Jameat Al Duwal Al Arabiya St, Shatti Al Qurum, Muscat",
+          "phone": "+968-2464-3400",
+          "emergencyLine": "+968-2464-3400"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Al Khuwair, Muscat",
+          "phone": "+968-2460-9000",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Diplomatic Area, Jiddat Al Harasis St, Muscat",
+          "phone": "+968-2468-4500",
+          "emergencyLine": "+968-9213-4563"
+        },
+        {
+          "country": "China",
+          "address": "Shatti Al Qurum, Muscat",
+          "phone": "+968-2470-2861",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Shatti Al Qurum, Muscat",
+          "phone": "+968-2468-1800",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "Al Khuwair, Muscat",
+          "phone": "+968-2469-1244",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Oman Red Crescent",
+          "address": "Muscat",
+          "phone": "+968-2469-6986",
+          "type": "redCrescent"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Oman Red Crescent",
+          "type": "redCrescent",
+          "phone": "+968-2469-6986",
+          "address": "Muscat"
+        }
+      ],
+      "travelWarnings": [
+        "Generally very safe",
+        "Cyclone season Jun-Nov",
+        "Wadi flooding risks",
+        "Respect local customs"
+      ]
+    },
+    "jordan": {
+      "name": "Jordan",
+      "code": "JO",
+      "callingCode": "+962",
+      "currency": "JOD",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Asia/Amman (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "911"
+        },
+        {
+          "service": "Ambulance",
+          "number": "911"
+        },
+        {
+          "service": "Fire Department",
+          "number": "911"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "199"
+        },
+        {
+          "service": "National Emergency",
+          "number": "911"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "King Hussein Medical Center",
+          "city": "Amman",
+          "address": "Dabouq, Amman",
+          "phone": "+962-6-5804804",
+          "type": "Military",
+          "hasEmergency": true
+        },
+        {
+          "name": "Jordan Hospital",
+          "city": "Amman",
+          "address": "Queen Noor St, Shmeisani, Amman",
+          "phone": "+962-6-5608080",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Al-Bashir Hospital",
+          "city": "Amman",
+          "address": "Ashrafiyeh, Amman",
+          "phone": "+962-6-4750520",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "King Abdullah University Hospital",
+          "city": "Irbid",
+          "address": "JUST, Irbid",
+          "phone": "+962-2-7200600",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Jordan University Hospital",
+          "city": "Amman",
+          "address": "University of Jordan, Amman",
+          "phone": "+962-6-5353444",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Al-Umayyaween St, Abdoun, Amman",
+          "phone": "+962-6-5906000",
+          "emergencyLine": "+962-6-5906000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Abdoun, Amman",
+          "phone": "+962-6-5909200",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "1st Circle, Jabal Amman",
+          "phone": "+962-6-4622098",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "9 Zahran St, Amman",
+          "phone": "+962-6-5515150",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Mutanabi St, Jabal Amman",
+          "phone": "+962-6-4604630",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "25 Benghazi St, Jabal Amman",
+          "phone": "+962-6-5901170",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Jordan Red Crescent",
+          "address": "Amman",
+          "phone": "+962-6-4773141",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Jordan",
+          "address": "Khalda, Amman",
+          "phone": "+962-6-5100460",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Jordan Red Crescent",
+          "type": "redCrescent",
+          "phone": "+962-6-4773141",
+          "address": "Amman"
+        },
+        {
+          "name": "UNHCR Jordan",
+          "type": "unhcr",
+          "phone": "+962-6-5100460",
+          "address": "Amman"
+        },
+        {
+          "name": "UNICEF Jordan",
+          "type": "unicef",
+          "phone": "+962-6-5502400",
+          "address": "Amman"
+        },
+        {
+          "name": "WFP Jordan",
+          "type": "wfp",
+          "phone": "+962-6-5500170",
+          "address": "Amman"
+        },
+        {
+          "name": "ICRC Jordan",
+          "type": "icrc",
+          "phone": "+962-6-4611879",
+          "address": "Amman"
+        }
+      ],
+      "travelWarnings": [
+        "Avoid Syrian and Iraqi border areas",
+        "Terrorism risk",
+        "Large refugee population",
+        "Zaatari camp area restricted"
+      ]
+    },
+    "egypt": {
+      "name": "Egypt",
+      "code": "EG",
+      "callingCode": "+20",
+      "currency": "EGP",
+      "languages": [
+        "Arabic"
+      ],
+      "timezone": "Africa/Cairo (UTC+2)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "122"
+        },
+        {
+          "service": "Ambulance",
+          "number": "123"
+        },
+        {
+          "service": "Fire Department",
+          "number": "180"
+        },
+        {
+          "service": "Tourist Police",
+          "number": "126"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "124"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Kasr Al Ainy Hospital (Cairo University)",
+          "city": "Cairo",
+          "address": "Kasr Al Ainy St, Cairo",
+          "phone": "+20-2-23654010",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Ain Shams University Hospital",
+          "city": "Cairo",
+          "address": "Ramsis St, Abbassia, Cairo",
+          "phone": "+20-2-26834567",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Dar Al Fouad Hospital",
+          "city": "6th of October City",
+          "address": "6th of October City, Giza",
+          "phone": "+20-2-38350250",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Alexandria University Hospital",
+          "city": "Alexandria",
+          "address": "Khartoum Sq, Alexandria",
+          "phone": "+20-3-5921675",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "As-Salam International Hospital",
+          "city": "Cairo",
+          "address": "Corniche El Nil, Maadi, Cairo",
+          "phone": "+20-2-25240250",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Nasser Institute Hospital",
+          "city": "Cairo",
+          "address": "Shubra, Cairo",
+          "phone": "+20-2-22614196",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "5 Tawfik Diab St, Garden City, Cairo",
+          "phone": "+20-2-27973300",
+          "emergencyLine": "+20-2-27973300"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "7 Ahmed Ragheb St, Garden City, Cairo",
+          "phone": "+20-2-27916000",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "5 Aziz Abaza St, Zamalek, Cairo",
+          "phone": "+20-2-27360052",
+          "emergencyLine": "+20-2-27356053"
+        },
+        {
+          "country": "China",
+          "address": "14 Bahgat Aly St, Zamalek, Cairo",
+          "phone": "+20-2-27361219",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "95 Giza St, Giza",
+          "phone": "+20-2-37489353",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "29 Charles de Gaulle St, Giza",
+          "phone": "+20-2-35679700",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "2 Berlin St, Zamalek, Cairo",
+          "phone": "+20-2-27282000",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Egyptian Red Crescent",
+          "address": "26 Ramsis St, Cairo",
+          "phone": "+20-2-26703979",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Egypt",
+          "address": "17 Mekram Ebeid St, Nasr City, Cairo",
+          "phone": "+20-2-22694940",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Egyptian Red Crescent",
+          "type": "redCrescent",
+          "phone": "+20-2-26703979",
+          "address": "Cairo"
+        },
+        {
+          "name": "UNHCR Egypt",
+          "type": "unhcr",
+          "phone": "+20-2-22694940",
+          "address": "Cairo"
+        },
+        {
+          "name": "UNICEF Egypt",
+          "type": "unicef",
+          "phone": "+20-2-25264583",
+          "address": "Cairo"
+        },
+        {
+          "name": "WFP Egypt",
+          "type": "wfp",
+          "phone": "+20-2-25281730",
+          "address": "Cairo"
+        }
+      ],
+      "travelWarnings": [
+        "Sinai Peninsula: active military operations",
+        "Western Desert border: restricted",
+        "Terrorism risk throughout",
+        "Rafah border crossing: restricted access"
+      ]
+    },
+    "turkey": {
+      "name": "Turkey",
+      "code": "TR",
+      "callingCode": "+90",
+      "currency": "TRY",
+      "languages": [
+        "Turkish"
+      ],
+      "timezone": "Europe/Istanbul (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "155"
+        },
+        {
+          "service": "Ambulance",
+          "number": "112"
+        },
+        {
+          "service": "Fire Department",
+          "number": "110"
+        },
+        {
+          "service": "Gendarmerie",
+          "number": "156"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "158"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "AFAD (Disaster Management)",
+          "number": "122"
+        },
+        {
+          "service": "Anti-terrorism Hotline",
+          "number": "155"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Hacettepe University Hospital",
+          "city": "Ankara",
+          "address": "Sıhhiye, Ankara",
+          "phone": "+90-312-3051111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Istanbul University Cerrahpaşa Medical Faculty",
+          "city": "Istanbul",
+          "address": "Fatih, Istanbul",
+          "phone": "+90-212-4143000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Ankara City Hospital",
+          "city": "Ankara",
+          "address": "Bilkent, Ankara",
+          "phone": "+90-312-5526000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Başakşehir Çam ve Sakura City Hospital",
+          "city": "Istanbul",
+          "address": "Başakşehir, Istanbul",
+          "phone": "+90-212-9096000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Ege University Hospital",
+          "city": "Izmir",
+          "address": "Bornova, Izmir",
+          "phone": "+90-232-3903838",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Acibadem Maslak Hospital",
+          "city": "Istanbul",
+          "address": "Maslak, Sarıyer, Istanbul",
+          "phone": "+90-212-3044444",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "110 Atatürk Blvd, Kavaklıdere, Ankara",
+          "phone": "+90-312-4555555",
+          "emergencyLine": "+90-312-4555555"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Şehit Ersan Cad 46/A, Çankaya, Ankara",
+          "phone": "+90-312-4556344",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Cinnah Cad 77, Çankaya, Ankara",
+          "phone": "+90-312-4382195",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "Gölgeli Sok 34, Gaziosmanpaşa, Ankara",
+          "phone": "+90-312-4360628",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Karyağdı Sok 5, Çankaya, Ankara",
+          "phone": "+90-312-4392122",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Paris Cad 70, Kavaklıdere, Ankara",
+          "phone": "+90-312-4551545",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "114 Atatürk Blvd, Kavaklıdere, Ankara",
+          "phone": "+90-312-4555100",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Turkish Red Crescent (Kızılay)",
+          "address": "Ataç 1 Sok 32, Ankara",
+          "phone": "+90-312-4302300",
+          "type": "redCrescent"
+        },
+        {
+          "name": "AFAD (Disaster Authority)",
+          "address": "Ankara",
+          "phone": "122",
+          "type": "civilDefense"
+        },
+        {
+          "name": "UNHCR Turkey",
+          "address": "Kızılırmak Mah, Ankara",
+          "phone": "+90-312-4091100",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Turkish Red Crescent (Kızılay)",
+          "type": "redCrescent",
+          "phone": "+90-312-4302300",
+          "address": "Ankara"
+        },
+        {
+          "name": "UNHCR Turkey",
+          "type": "unhcr",
+          "phone": "+90-312-4091100",
+          "address": "Ankara"
+        },
+        {
+          "name": "ICRC Turkey",
+          "type": "icrc",
+          "phone": "+90-312-4461160",
+          "address": "Ankara"
+        },
+        {
+          "name": "UNICEF Turkey",
+          "type": "unicef",
+          "phone": "+90-312-4541100",
+          "address": "Ankara"
+        },
+        {
+          "name": "WFP Turkey (Gaziantep hub)",
+          "type": "wfp",
+          "phone": "+90-342-2200660",
+          "address": "Gaziantep"
+        }
+      ],
+      "travelWarnings": [
+        "Avoid southeast Turkey near Syrian border",
+        "PKK terrorism risk in southeast",
+        "Risk of arbitrary detention",
+        "Earthquake zone – be prepared"
+      ]
+    },
+    "pakistan": {
+      "name": "Pakistan",
+      "code": "PK",
+      "callingCode": "+92",
+      "currency": "PKR",
+      "languages": [
+        "Urdu",
+        "English"
+      ],
+      "timezone": "Asia/Karachi (UTC+5)",
+      "commsStatus": "normal",
+      "airportStatus": "restricted",
+      "advisoryLevel": 3,
+      "advisoryNote": "Reconsider Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "15"
+        },
+        {
+          "service": "Ambulance (Edhi)",
+          "number": "115"
+        },
+        {
+          "service": "Fire Department",
+          "number": "16"
+        },
+        {
+          "service": "National Emergency (Rescue 1122)",
+          "number": "1122"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "+92-21-99203598"
+        },
+        {
+          "service": "Counter-terrorism",
+          "number": "1717"
+        },
+        {
+          "service": "NDMA (Disaster)",
+          "number": "+92-51-9221500"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Aga Khan University Hospital",
+          "city": "Karachi",
+          "address": "Stadium Rd, Karachi",
+          "phone": "+92-21-111-911-911",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Shifa International Hospital",
+          "city": "Islamabad",
+          "address": "H-8/4, Islamabad",
+          "phone": "+92-51-8464646",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Jinnah Hospital",
+          "city": "Lahore",
+          "address": "Allama Iqbal Medical College, Lahore",
+          "phone": "+92-42-99231401",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "PIMS (Pakistan Institute of Medical Sciences)",
+          "city": "Islamabad",
+          "address": "G-8/3, Islamabad",
+          "phone": "+92-51-9261170",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "CMH Rawalpindi",
+          "city": "Rawalpindi",
+          "address": "The Mall, Rawalpindi",
+          "phone": "+92-51-9270614",
+          "type": "Military",
+          "hasEmergency": true
+        },
+        {
+          "name": "Civil Hospital",
+          "city": "Karachi",
+          "address": "Baba-e-Urdu Rd, Karachi",
+          "phone": "+92-21-99215740",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Diplomatic Enclave, Ramna 5, Islamabad",
+          "phone": "+92-51-2080000",
+          "emergencyLine": "+92-51-2080000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Diplomatic Enclave, Ramna 5, Islamabad",
+          "phone": "+92-51-2012000",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "G-5, Diplomatic Enclave, Islamabad",
+          "phone": "+92-51-2206074",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "Diplomatic Enclave, Islamabad",
+          "phone": "+92-51-8355056",
+          "emergencyLine": "+92-315-6070000"
+        },
+        {
+          "country": "Russia",
+          "address": "Diplomatic Enclave, Islamabad",
+          "phone": "+92-51-2260922",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Diplomatic Enclave, Islamabad",
+          "phone": "+92-51-2011281",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "Diplomatic Enclave, Ramna 5, Islamabad",
+          "phone": "+92-51-2279430",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Pakistan Red Crescent Society",
+          "address": "H-8, Islamabad",
+          "phone": "+92-51-9257404",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Pakistan",
+          "address": "Diplomatic Enclave, Islamabad",
+          "phone": "+92-51-2090150",
+          "type": "unhcr"
+        },
+        {
+          "name": "Edhi Foundation",
+          "address": "Nationwide shelters, HQ: Karachi",
+          "phone": "115",
+          "type": "other"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Pakistan Red Crescent",
+          "type": "redCrescent",
+          "phone": "+92-51-9257404",
+          "address": "Islamabad"
+        },
+        {
+          "name": "UNHCR Pakistan",
+          "type": "unhcr",
+          "phone": "+92-51-2090150",
+          "address": "Islamabad"
+        },
+        {
+          "name": "UNICEF Pakistan",
+          "type": "unicef",
+          "phone": "+92-51-2097700",
+          "address": "Islamabad"
+        },
+        {
+          "name": "MSF Pakistan",
+          "type": "msf",
+          "phone": null,
+          "address": "Balochistan/KPK"
+        },
+        {
+          "name": "Edhi Foundation",
+          "type": "other",
+          "phone": "115",
+          "address": "Nationwide"
+        },
+        {
+          "name": "WFP Pakistan",
+          "type": "wfp",
+          "phone": "+92-51-111-097-097",
+          "address": "Islamabad"
+        }
+      ],
+      "travelWarnings": [
+        "Do not travel to Balochistan or FATA/KPK tribal areas",
+        "Terrorism risk throughout",
+        "Kidnapping risk for foreigners",
+        "India-Pakistan border area sensitive",
+        "Periodic internet shutdowns in conflict areas"
+      ]
+    },
+    "india": {
+      "name": "India",
+      "code": "IN",
+      "callingCode": "+91",
+      "currency": "INR",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "timezone": "Asia/Kolkata (UTC+5:30)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "100"
+        },
+        {
+          "service": "Ambulance",
+          "number": "108"
+        },
+        {
+          "service": "Fire Department",
+          "number": "101"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "+91-22-24382798"
+        },
+        {
+          "service": "NDMA (Disaster)",
+          "number": "+91-11-26701728"
+        },
+        {
+          "service": "Women Helpline",
+          "number": "181"
+        },
+        {
+          "service": "Anti-terrorism (NIA)",
+          "number": "+91-11-24368800"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "AIIMS (All India Institute of Medical Sciences)",
+          "city": "New Delhi",
+          "address": "Ansari Nagar, New Delhi",
+          "phone": "+91-11-26588500",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Safdarjung Hospital",
+          "city": "New Delhi",
+          "address": "Ring Rd, New Delhi",
+          "phone": "+91-11-26707437",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Apollo Hospital",
+          "city": "Chennai",
+          "address": "Greams Lane, Chennai",
+          "phone": "+91-44-28290200",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "KEM Hospital",
+          "city": "Mumbai",
+          "address": "Parel, Mumbai",
+          "phone": "+91-22-24136051",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "CMC Vellore",
+          "city": "Vellore",
+          "address": "Ida Scudder Rd, Vellore",
+          "phone": "+91-416-2281000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "PGIMER",
+          "city": "Chandigarh",
+          "address": "Sector 12, Chandigarh",
+          "phone": "+91-172-2747585",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Medanta - The Medicity",
+          "city": "Gurugram",
+          "address": "Sector 38, Gurugram, Haryana",
+          "phone": "+91-124-4141414",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Shantipath, Chanakyapuri, New Delhi",
+          "phone": "+91-11-24198000",
+          "emergencyLine": "+91-11-24198000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Shantipath, Chanakyapuri, New Delhi",
+          "phone": "+91-11-24192100",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "China",
+          "address": "50-D Shantipath, Chanakyapuri, New Delhi",
+          "phone": "+91-11-26112345",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Shantipath, Chanakyapuri, New Delhi",
+          "phone": "+91-11-26110640",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "2/50-E Shantipath, Chanakyapuri, New Delhi",
+          "phone": "+91-11-24196100",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "6/50-G Shantipath, Chanakyapuri, New Delhi",
+          "phone": "+91-11-44199199",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Indian Red Cross Society",
+          "address": "1 Red Cross Rd, New Delhi",
+          "phone": "+91-11-23716441",
+          "type": "redCross"
+        },
+        {
+          "name": "UNHCR India",
+          "address": "14 Jor Bagh, New Delhi",
+          "phone": "+91-11-43530444",
+          "type": "unhcr"
+        },
+        {
+          "name": "NDRF (National Disaster Response Force)",
+          "address": "6th Bn NDRF, Pune / multiple locations",
+          "phone": "112",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Indian Red Cross Society",
+          "type": "redCross",
+          "phone": "+91-11-23716441",
+          "address": "New Delhi"
+        },
+        {
+          "name": "UNHCR India",
+          "type": "unhcr",
+          "phone": "+91-11-43530444",
+          "address": "New Delhi"
+        },
+        {
+          "name": "UNICEF India",
+          "type": "unicef",
+          "phone": "+91-11-24690401",
+          "address": "New Delhi"
+        },
+        {
+          "name": "MSF India",
+          "type": "msf",
+          "phone": "+91-11-49015050",
+          "address": "New Delhi"
+        },
+        {
+          "name": "WFP India",
+          "type": "wfp",
+          "phone": "+91-11-46558228",
+          "address": "New Delhi"
+        }
+      ],
+      "travelWarnings": [
+        "Avoid Jammu & Kashmir (India-Pakistan tensions)",
+        "Northeast India: periodic insurgency",
+        "Naxalite areas: central/eastern India",
+        "Communal violence risk in some areas"
+      ]
+    },
+    "united-states": {
+      "name": "United States",
+      "code": "US",
+      "callingCode": "+1",
+      "currency": "USD",
+      "languages": [
+        "English"
+      ],
+      "timezone": "Multiple (UTC-5 to UTC-10)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 1,
+      "advisoryNote": "Exercise Normal Precautions.",
+      "emergencyContacts": [
+        {
+          "service": "Police/Fire/Ambulance",
+          "number": "911"
+        },
+        {
+          "service": "Poison Control",
+          "number": "1-800-222-1222"
+        },
+        {
+          "service": "FEMA",
+          "number": "1-800-621-3362"
+        },
+        {
+          "service": "FBI Tips",
+          "number": "1-800-225-5324"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "1-800-424-8802"
+        },
+        {
+          "service": "National Suicide Prevention",
+          "number": "988"
+        },
+        {
+          "service": "DHS Tip Line",
+          "number": "1-866-347-2423"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Massachusetts General Hospital",
+          "city": "Boston",
+          "address": "55 Fruit St, Boston, MA",
+          "phone": "+1-617-726-2000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Mayo Clinic",
+          "city": "Rochester",
+          "address": "200 First St SW, Rochester, MN",
+          "phone": "+1-507-284-2511",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Johns Hopkins Hospital",
+          "city": "Baltimore",
+          "address": "1800 Orleans St, Baltimore, MD",
+          "phone": "+1-410-955-5000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "UCLA Medical Center",
+          "city": "Los Angeles",
+          "address": "757 Westwood Plaza, Los Angeles, CA",
+          "phone": "+1-310-825-9111",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "NewYork-Presbyterian Hospital",
+          "city": "New York",
+          "address": "525 E 68th St, New York, NY",
+          "phone": "+1-212-746-5454",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Cleveland Clinic",
+          "city": "Cleveland",
+          "address": "9500 Euclid Ave, Cleveland, OH",
+          "phone": "+1-216-444-2200",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United Kingdom",
+          "address": "3100 Massachusetts Ave NW, Washington DC",
+          "phone": "+1-202-588-6500",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "2107 Massachusetts Ave NW, Washington DC",
+          "phone": "+1-202-939-7000",
+          "emergencyLine": "+1-202-939-7000"
+        },
+        {
+          "country": "China",
+          "address": "3505 International Pl NW, Washington DC",
+          "phone": "+1-202-495-2266",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "2650 Wisconsin Ave NW, Washington DC",
+          "phone": "+1-202-298-5700",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "4101 Reservoir Rd NW, Washington DC",
+          "phone": "+1-202-944-6000",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "4645 Reservoir Rd NW, Washington DC",
+          "phone": "+1-202-298-4000",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "American Red Cross",
+          "address": "431 18th St NW, Washington DC (nationwide)",
+          "phone": "1-800-733-2767",
+          "type": "redCross"
+        },
+        {
+          "name": "FEMA Shelters (activated during disasters)",
+          "address": "Nationwide",
+          "phone": "1-800-621-3362",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "American Red Cross",
+          "type": "redCross",
+          "phone": "1-800-733-2767",
+          "address": "Washington DC"
+        },
+        {
+          "name": "FEMA",
+          "type": "other",
+          "phone": "1-800-621-3362",
+          "address": "Washington DC"
+        }
+      ],
+      "travelWarnings": [
+        "Mass shooting risk",
+        "Natural disaster zones vary by region",
+        "Hurricane season Jun-Nov (coastal)",
+        "Tornado alley central states"
+      ]
+    },
+    "united-kingdom": {
+      "name": "United Kingdom",
+      "code": "GB",
+      "callingCode": "+44",
+      "currency": "GBP",
+      "languages": [
+        "English"
+      ],
+      "timezone": "Europe/London (UTC+0)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police/Fire/Ambulance",
+          "number": "999"
+        },
+        {
+          "service": "Non-emergency Police",
+          "number": "101"
+        },
+        {
+          "service": "NHS Health Line",
+          "number": "111"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "999"
+        },
+        {
+          "service": "Anti-terrorism Hotline",
+          "number": "0800-789-321"
+        },
+        {
+          "service": "Crimestoppers",
+          "number": "0800-555-111"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "St Thomas' Hospital",
+          "city": "London",
+          "address": "Westminster Bridge Rd, London SE1",
+          "phone": "+44-20-7188-7188",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "University College Hospital",
+          "city": "London",
+          "address": "235 Euston Rd, London NW1",
+          "phone": "+44-845-155-5000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Royal London Hospital",
+          "city": "London",
+          "address": "Whitechapel Rd, London E1",
+          "phone": "+44-20-7377-7000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Manchester Royal Infirmary",
+          "city": "Manchester",
+          "address": "Oxford Rd, Manchester M13",
+          "phone": "+44-161-276-1234",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Queen Elizabeth Hospital Birmingham",
+          "city": "Birmingham",
+          "address": "Mindelsohn Way, Birmingham B15",
+          "phone": "+44-121-627-2000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Edinburgh Royal Infirmary",
+          "city": "Edinburgh",
+          "address": "51 Little France Crescent, Edinburgh EH16",
+          "phone": "+44-131-536-1000",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "33 Nine Elms Ln, London SW11",
+          "phone": "+44-20-7499-9000",
+          "emergencyLine": "+44-20-7499-9000"
+        },
+        {
+          "country": "India",
+          "address": "India House, Aldwych, London WC2",
+          "phone": "+44-20-7836-8484",
+          "emergencyLine": "+44-7766-502923"
+        },
+        {
+          "country": "China",
+          "address": "49-51 Portland Pl, London W1",
+          "phone": "+44-20-7299-4049",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "6/7 Kensington Palace Gardens, London W8",
+          "phone": "+44-20-7229-6412",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "58 Knightsbridge, London SW1",
+          "phone": "+44-20-7073-1000",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "23 Belgrave Sq, London SW1",
+          "phone": "+44-20-7824-1300",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "British Red Cross",
+          "address": "44 Moorfields, London EC2Y",
+          "phone": "+44-344-871-1111",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "British Red Cross",
+          "type": "redCross",
+          "phone": "+44-344-871-1111",
+          "address": "London"
+        }
+      ],
+      "travelWarnings": [
+        "Terrorism threat level: SUBSTANTIAL",
+        "Watch for security advisories in public spaces",
+        "Northern Ireland: legacy tensions in some areas"
+      ]
+    },
+    "germany": {
+      "name": "Germany",
+      "code": "DE",
+      "callingCode": "+49",
+      "currency": "EUR",
+      "languages": [
+        "German"
+      ],
+      "timezone": "Europe/Berlin (UTC+1)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "110"
+        },
+        {
+          "service": "Ambulance/Fire",
+          "number": "112"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Poison Control",
+          "number": "+49-30-19240"
+        },
+        {
+          "service": "Counter-terrorism (BKA)",
+          "number": "+49-611-551-0"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Charité – Universitätsmedizin Berlin",
+          "city": "Berlin",
+          "address": "Charitéplatz 1, 10117 Berlin",
+          "phone": "+49-30-450-50",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Universitätsklinikum Hamburg-Eppendorf",
+          "city": "Hamburg",
+          "address": "Martinistraße 52, Hamburg",
+          "phone": "+49-40-7410-0",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "LMU Klinikum München",
+          "city": "Munich",
+          "address": "Marchioninistraße 15, Munich",
+          "phone": "+49-89-4400-0",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Universitätsklinikum Heidelberg",
+          "city": "Heidelberg",
+          "address": "Im Neuenheimer Feld 672, Heidelberg",
+          "phone": "+49-6221-56-0",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Universitätsklinikum Frankfurt",
+          "city": "Frankfurt",
+          "address": "Theodor-Stern-Kai 7, Frankfurt",
+          "phone": "+49-69-6301-0",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Pariser Platz 2, 10117 Berlin",
+          "phone": "+49-30-83050",
+          "emergencyLine": "+49-30-83050"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Wilhelmstraße 70, 10117 Berlin",
+          "phone": "+49-30-204570",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Tiergartenstraße 17, 10785 Berlin",
+          "phone": "+49-30-25795-0",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "Märkisches Ufer 54, 10179 Berlin",
+          "phone": "+49-30-27588-0",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Unter den Linden 63-65, 10117 Berlin",
+          "phone": "+49-30-229-1110",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Pariser Platz 5, 10117 Berlin",
+          "phone": "+49-30-590039-0",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "German Red Cross (DRK)",
+          "address": "Carstennstraße 58, 12205 Berlin",
+          "phone": "+49-30-85404-0",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "German Red Cross (DRK)",
+          "type": "redCross",
+          "phone": "+49-30-85404-0",
+          "address": "Berlin"
+        }
+      ],
+      "travelWarnings": [
+        "Terrorism threat exists",
+        "Petty crime in tourist areas",
+        "Generally very safe"
+      ]
+    },
+    "france": {
+      "name": "France",
+      "code": "FR",
+      "callingCode": "+33",
+      "currency": "EUR",
+      "languages": [
+        "French"
+      ],
+      "timezone": "Europe/Paris (UTC+1)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "17"
+        },
+        {
+          "service": "Ambulance (SAMU)",
+          "number": "15"
+        },
+        {
+          "service": "Fire Department (Pompiers)",
+          "number": "18"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Coast Guard (CROSS)",
+          "number": "196"
+        },
+        {
+          "service": "Anti-terrorism",
+          "number": "0800-005-696"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Hôpital Pitié-Salpêtrière",
+          "city": "Paris",
+          "address": "47-83 Blvd de l'Hôpital, 75013 Paris",
+          "phone": "+33-1-42-16-00-00",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hôpital Necker-Enfants Malades",
+          "city": "Paris",
+          "address": "149 Rue de Sèvres, 75015 Paris",
+          "phone": "+33-1-44-49-40-00",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hôpital Européen Georges-Pompidou",
+          "city": "Paris",
+          "address": "20 Rue Leblanc, 75015 Paris",
+          "phone": "+33-1-56-09-20-00",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospices Civils de Lyon",
+          "city": "Lyon",
+          "address": "3 Quai des Célestins, 69002 Lyon",
+          "phone": "+33-4-72-11-69-11",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "CHU de Marseille (La Timone)",
+          "city": "Marseille",
+          "address": "264 Rue Saint-Pierre, 13005 Marseille",
+          "phone": "+33-4-91-38-60-00",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "2 Ave Gabriel, 75008 Paris",
+          "phone": "+33-1-43-12-22-22",
+          "emergencyLine": "+33-1-43-12-22-22"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "35 Rue du Faubourg St Honoré, 75008 Paris",
+          "phone": "+33-1-44-51-31-00",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "15 Rue Alfred Dehodencq, 75016 Paris",
+          "phone": "+33-1-40-50-70-70",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "11 Ave George V, 75008 Paris",
+          "phone": "+33-1-49-52-19-50",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "40-50 Blvd Lannes, 75016 Paris",
+          "phone": "+33-1-45-04-05-50",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "13-15 Ave Franklin D. Roosevelt, 75008 Paris",
+          "phone": "+33-1-53-83-45-00",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "French Red Cross (Croix-Rouge française)",
+          "address": "98 Rue Didot, 75014 Paris",
+          "phone": "+33-1-44-43-11-00",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "French Red Cross",
+          "type": "redCross",
+          "phone": "+33-1-44-43-11-00",
+          "address": "Paris"
+        },
+        {
+          "name": "MSF France (HQ)",
+          "type": "msf",
+          "phone": "+33-1-40-21-29-29",
+          "address": "Paris"
+        }
+      ],
+      "travelWarnings": [
+        "Elevated terrorism threat",
+        "Protests can turn violent",
+        "Petty crime in tourist areas and transport"
+      ]
+    },
+    "ukraine": {
+      "name": "Ukraine",
+      "code": "UA",
+      "callingCode": "+380",
+      "currency": "UAH",
+      "languages": [
+        "Ukrainian"
+      ],
+      "timezone": "Europe/Kyiv (UTC+2)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "102"
+        },
+        {
+          "service": "Ambulance",
+          "number": "103"
+        },
+        {
+          "service": "Fire Department",
+          "number": "101"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "State Emergency Service",
+          "number": "101"
+        },
+        {
+          "service": "Mine/UXO Reporting",
+          "number": "101"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Oleksandrivska Clinical Hospital",
+          "city": "Kyiv",
+          "address": "Shovkovychna St 39/1, Kyiv",
+          "phone": "+380-44-2346500",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Kyiv City Clinical Hospital #1",
+          "city": "Kyiv",
+          "address": "Kharkivske Hwy 121, Kyiv",
+          "phone": "+380-44-5596740",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Mechnikov Hospital",
+          "city": "Dnipro",
+          "address": "Soborna Sq 14, Dnipro",
+          "phone": "+380-56-7560555",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Lviv Regional Clinical Hospital",
+          "city": "Lviv",
+          "address": "Chornovola Ave 7, Lviv",
+          "phone": "+380-32-2768300",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Odesa Regional Clinical Hospital",
+          "city": "Odesa",
+          "address": "Zabolotnoho St 26, Odesa",
+          "phone": "+380-48-7176800",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "4 A.I. Sikorsky St, Kyiv",
+          "phone": "+380-44-5215000",
+          "emergencyLine": "+380-44-5215000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "9 Desiatynna St, Kyiv",
+          "phone": "+380-44-4903660",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "20-B Muzeynyi Lane, Kyiv",
+          "phone": "+380-44-4686161",
+          "emergencyLine": "+380-44-4686162"
+        },
+        {
+          "country": "China",
+          "address": "32 Hrushevskoho St, Kyiv",
+          "phone": "+380-44-2533154",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "39 Reitarska St, Kyiv",
+          "phone": "+380-44-5903600",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "25 B. Khmelnytskoho St, Kyiv",
+          "phone": "+380-44-2816800",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Ukrainian Red Cross Society",
+          "address": "30 Pushkinska St, Kyiv",
+          "phone": "+380-44-2351531",
+          "type": "redCross"
+        },
+        {
+          "name": "UNHCR Ukraine",
+          "address": "16 Lavrska St, Kyiv",
+          "phone": "+380-44-2880710",
+          "type": "unhcr"
+        },
+        {
+          "name": "Metro stations (designated bomb shelters)",
+          "address": "Kyiv, Kharkiv, Dnipro metro systems",
+          "phone": "112",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Ukrainian Red Cross",
+          "type": "redCross",
+          "phone": "+380-44-2351531",
+          "address": "Kyiv"
+        },
+        {
+          "name": "ICRC Ukraine",
+          "type": "icrc",
+          "phone": "+380-44-3920050",
+          "address": "Kyiv"
+        },
+        {
+          "name": "UNHCR Ukraine",
+          "type": "unhcr",
+          "phone": "+380-44-2880710",
+          "address": "Kyiv"
+        },
+        {
+          "name": "MSF Ukraine",
+          "type": "msf",
+          "phone": null,
+          "address": "Multiple locations"
+        },
+        {
+          "name": "UNICEF Ukraine",
+          "type": "unicef",
+          "phone": "+380-44-5210125",
+          "address": "Kyiv"
+        },
+        {
+          "name": "WFP Ukraine",
+          "type": "wfp",
+          "phone": "+380-44-2532950",
+          "address": "Kyiv"
+        }
+      ],
+      "travelWarnings": [
+        "Active war zone – Russian invasion ongoing",
+        "Airspace closed to civilian traffic",
+        "Missile and drone strikes across the country",
+        "Landmines in eastern and southern regions",
+        "Martial law – restrictions on movement",
+        "Power grid frequently targeted"
+      ]
+    },
+    "russia": {
+      "name": "Russia",
+      "code": "RU",
+      "callingCode": "+7",
+      "currency": "RUB",
+      "languages": [
+        "Russian"
+      ],
+      "timezone": "Multiple (UTC+2 to UTC+12)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "102"
+        },
+        {
+          "service": "Ambulance",
+          "number": "103"
+        },
+        {
+          "service": "Fire Department",
+          "number": "101"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "FSB Anti-terrorism",
+          "number": "+7-495-224-2222"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Sklifosovsky Emergency Medicine Institute",
+          "city": "Moscow",
+          "address": "Bolshaya Sukharevskaya Sq 3, Moscow",
+          "phone": "+7-495-680-4154",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Botkin Hospital",
+          "city": "Moscow",
+          "address": "2nd Botkinsky Pr 5, Moscow",
+          "phone": "+7-499-490-0303",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Pirogov National Medical Centre",
+          "city": "Moscow",
+          "address": "Nizhnyaya Pervomayskaya St 70, Moscow",
+          "phone": "+7-499-464-0303",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Mariinsky Hospital",
+          "city": "St Petersburg",
+          "address": "Liteyny Pr 56, St Petersburg",
+          "phone": "+7-812-275-7446",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Alexandrovskaya Hospital",
+          "city": "St Petersburg",
+          "address": "Solidarnosti Pr 4, St Petersburg",
+          "phone": "+7-812-583-1637",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Bolshoy Devyatinsky Per 8, Moscow (limited operations)",
+          "phone": "+7-495-728-5000",
+          "emergencyLine": "+7-495-728-5000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Smolenskaya Nab 10, Moscow (limited operations)",
+          "phone": "+7-495-956-7200",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "6-8 Vorontsovo Polye, Moscow",
+          "phone": "+7-495-783-7535",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "Druzhby St 6, Moscow",
+          "phone": "+7-499-143-1543",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Bolshaya Yakimanka St 45, Moscow",
+          "phone": "+7-495-937-1500",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "Mosfilmovskaya St 56, Moscow",
+          "phone": "+7-495-937-9500",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Russian Red Cross",
+          "address": "Cheremushkinsky Pr 5, Moscow",
+          "phone": "+7-495-126-7571",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Russian Red Cross",
+          "type": "redCross",
+          "phone": "+7-495-126-7571",
+          "address": "Moscow"
+        },
+        {
+          "name": "ICRC Moscow",
+          "type": "icrc",
+          "phone": "+7-495-748-0020",
+          "address": "Moscow"
+        }
+      ],
+      "travelWarnings": [
+        "Risk of wrongful detention of US/Western citizens",
+        "Military mobilization ongoing",
+        "Limited flight connections to/from West",
+        "Border closures possible without notice",
+        "Heavy surveillance and censorship"
+      ]
+    },
+    "taiwan": {
+      "name": "Taiwan",
+      "code": "TW",
+      "callingCode": "+886",
+      "currency": "TWD",
+      "languages": [
+        "Mandarin Chinese"
+      ],
+      "timezone": "Asia/Taipei (UTC+8)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 1,
+      "advisoryNote": "Exercise Normal Precautions",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "110"
+        },
+        {
+          "service": "Ambulance/Fire",
+          "number": "119"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "118"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Disaster Prevention",
+          "number": "1991"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "National Taiwan University Hospital",
+          "city": "Taipei",
+          "address": "7 Chung Shan S Rd, Taipei",
+          "phone": "+886-2-2312-3456",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Taipei Veterans General Hospital",
+          "city": "Taipei",
+          "address": "201 Shipai Rd Sec 2, Taipei",
+          "phone": "+886-2-2871-2121",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Chang Gung Memorial Hospital",
+          "city": "Taoyuan",
+          "address": "5 Fuxing St, Guishan, Taoyuan",
+          "phone": "+886-3-328-1200",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Kaohsiung Medical University Hospital",
+          "city": "Kaohsiung",
+          "address": "100 Tzyou 1st Rd, Kaohsiung",
+          "phone": "+886-7-312-1101",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Taichung Veterans General Hospital",
+          "city": "Taichung",
+          "address": "1650 Taiwan Blvd Sec 4, Taichung",
+          "phone": "+886-4-2359-2525",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "American Institute in Taiwan, 100 Jinhu Rd, Taipei",
+          "phone": "+886-2-2162-2000",
+          "emergencyLine": "+886-2-2162-2000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "British Office Taipei, 26F President Intl Tower, Taipei",
+          "phone": "+886-2-8758-2088",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "India-Taipei Association, Taipei",
+          "phone": "+886-2-2757-6112",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Bureau Français de Taipei, 10F, 205 Dunhua N Rd",
+          "phone": "+886-2-3518-5151",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "German Institute Taipei, 33F, 7 Xinyi Rd Sec 5",
+          "phone": "+886-2-8722-2800",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Taiwan Red Cross",
+          "address": "53 Chongqing S Rd Sec 1, Taipei",
+          "phone": "+886-2-2362-8232",
+          "type": "redCross"
+        },
+        {
+          "name": "National Disaster Prevention Center",
+          "address": "Taipei",
+          "phone": "1991",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Taiwan Red Cross",
+          "type": "redCross",
+          "phone": "+886-2-2362-8232",
+          "address": "Taipei"
+        },
+        {
+          "name": "Tzu Chi Foundation",
+          "type": "other",
+          "phone": "+886-3-826-6779",
+          "address": "Hualien / Nationwide"
+        }
+      ],
+      "travelWarnings": [
+        "Cross-strait tensions with China",
+        "Earthquake zone – be prepared",
+        "Typhoon season Jul-Oct",
+        "Military exercises may affect travel"
+      ]
+    },
+    "china": {
+      "name": "China",
+      "code": "CN",
+      "callingCode": "+86",
+      "currency": "CNY",
+      "languages": [
+        "Mandarin Chinese"
+      ],
+      "timezone": "Asia/Shanghai (UTC+8)",
+      "commsStatus": "normal",
+      "airportStatus": "restricted",
+      "advisoryLevel": 3,
+      "advisoryNote": "Reconsider Travel. Risk of arbitrary detention, exit bans, and wrongful imprisonment.",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "110"
+        },
+        {
+          "service": "Ambulance",
+          "number": "120"
+        },
+        {
+          "service": "Fire Department",
+          "number": "119"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "12395"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Peking Union Medical College Hospital",
+          "city": "Beijing",
+          "address": "1 Shuaifuyuan, Dongcheng, Beijing",
+          "phone": "+86-10-69156114",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Beijing Hospital",
+          "city": "Beijing",
+          "address": "1 Dahua Rd, Dongcheng, Beijing",
+          "phone": "+86-10-85132266",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Zhongshan Hospital (Fudan University)",
+          "city": "Shanghai",
+          "address": "180 Fenglin Rd, Shanghai",
+          "phone": "+86-21-64041990",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Huashan Hospital",
+          "city": "Shanghai",
+          "address": "12 Wulumuqi Middle Rd, Shanghai",
+          "phone": "+86-21-52889999",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "West China Hospital (Sichuan University)",
+          "city": "Chengdu",
+          "address": "37 Guoxue Xiang, Wuhou, Chengdu",
+          "phone": "+86-28-85422114",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Guangdong Provincial People's Hospital",
+          "city": "Guangzhou",
+          "address": "106 Zhongshan 2nd Rd, Guangzhou",
+          "phone": "+86-20-83827812",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "55 Anjialou Rd, Chaoyang, Beijing",
+          "phone": "+86-10-85313000",
+          "emergencyLine": "+86-10-85313000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "11 Guanghua Lu, Jianguomenwai, Beijing",
+          "phone": "+86-10-51924000",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "1 Ritan Dong Lu, Chaoyang, Beijing",
+          "phone": "+86-10-65321908",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "4 Dongzhimen Beizhongjie, Beijing",
+          "phone": "+86-10-65322051",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "60 Tianzelu, Chaoyang, Beijing",
+          "phone": "+86-10-85328080",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "17 Dongzhimenwai Dajie, Beijing",
+          "phone": "+86-10-85329000",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Red Cross Society of China",
+          "address": "53 Ganmian Hutong, Dongcheng, Beijing",
+          "phone": "+86-10-65139999",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Red Cross Society of China",
+          "type": "redCross",
+          "phone": "+86-10-65139999",
+          "address": "Beijing"
+        },
+        {
+          "name": "ICRC Beijing",
+          "type": "icrc",
+          "phone": "+86-10-85323290",
+          "address": "Beijing"
+        },
+        {
+          "name": "UNHCR Beijing",
+          "type": "unhcr",
+          "phone": "+86-10-65321881",
+          "address": "Beijing"
+        }
+      ],
+      "travelWarnings": [
+        "Risk of arbitrary detention and exit bans",
+        "Heavy internet censorship (Great Firewall)",
+        "Taiwan Strait tensions",
+        "Surveillance is pervasive",
+        "Restricted areas in Xinjiang and Tibet"
+      ]
+    },
+    "south-korea": {
+      "name": "South Korea",
+      "code": "KR",
+      "callingCode": "+82",
+      "currency": "KRW",
+      "languages": [
+        "Korean"
+      ],
+      "timezone": "Asia/Seoul (UTC+9)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 1,
+      "advisoryNote": "Exercise Normal Precautions",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "112"
+        },
+        {
+          "service": "Ambulance/Fire",
+          "number": "119"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "122"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Civil Defense (NDMA)",
+          "number": "110"
+        },
+        {
+          "service": "Anti-terrorism",
+          "number": "111"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Seoul National University Hospital",
+          "city": "Seoul",
+          "address": "101 Daehak-ro, Jongno-gu, Seoul",
+          "phone": "+82-2-2072-2114",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Samsung Medical Center",
+          "city": "Seoul",
+          "address": "81 Irwon-ro, Gangnam-gu, Seoul",
+          "phone": "+82-2-3410-2114",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Asan Medical Center",
+          "city": "Seoul",
+          "address": "88 Olympic-ro 43-gil, Songpa-gu, Seoul",
+          "phone": "+82-2-3010-3114",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Severance Hospital (Yonsei)",
+          "city": "Seoul",
+          "address": "50-1 Yonsei-ro, Seodaemun-gu, Seoul",
+          "phone": "+82-2-2228-0114",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Pusan National University Hospital",
+          "city": "Busan",
+          "address": "179 Gudeok-ro, Seo-gu, Busan",
+          "phone": "+82-51-240-7000",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "188 Sejong-daero, Jongno-gu, Seoul",
+          "phone": "+82-2-397-4114",
+          "emergencyLine": "+82-2-397-4114"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "24 Sejong-daero 19-gil, Jung-gu, Seoul",
+          "phone": "+82-2-3210-5500",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "37-3 Hannam-dong, Yongsan-gu, Seoul",
+          "phone": "+82-2-798-4257",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "54 Hyoja-ro, Jongno-gu, Seoul",
+          "phone": "+82-2-738-1038",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "43-10 Jeong-dong, Jung-gu, Seoul",
+          "phone": "+82-2-318-2116",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "43-12 Seosomun-ro, Jung-gu, Seoul",
+          "phone": "+82-2-3149-4300",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "8F Seoul Square, 416 Hangang-daero, Seoul",
+          "phone": "+82-2-748-4114",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Korean Red Cross",
+          "address": "145 Sejong-daero, Jongno-gu, Seoul",
+          "phone": "+82-2-3705-3705",
+          "type": "redCross"
+        },
+        {
+          "name": "Civil Defense Shelters (nationwide)",
+          "address": "Metro stations and designated buildings",
+          "phone": "110",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Korean Red Cross",
+          "type": "redCross",
+          "phone": "+82-2-3705-3705",
+          "address": "Seoul"
+        },
+        {
+          "name": "UNHCR Korea",
+          "type": "unhcr",
+          "phone": "+82-2-773-7012",
+          "address": "Seoul"
+        }
+      ],
+      "travelWarnings": [
+        "North Korean missile/nuclear threat",
+        "DMZ area restricted",
+        "Civil defense drills occur regularly",
+        "Generally very safe otherwise"
+      ]
+    },
+    "north-korea": {
+      "name": "North Korea",
+      "code": "KP",
+      "callingCode": "+850",
+      "currency": "KPW",
+      "languages": [
+        "Korean"
+      ],
+      "timezone": "Asia/Pyongyang (UTC+9)",
+      "commsStatus": "disrupted",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police/Emergency",
+          "number": "Not available to foreigners"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Pyongyang Medical University Hospital",
+          "city": "Pyongyang",
+          "address": "Pyongyang",
+          "phone": "N/A",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Kim Man Yu Hospital",
+          "city": "Pyongyang",
+          "address": "Pyongyang",
+          "phone": "N/A",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "China",
+          "address": "Kinmaul-dong, Moranbong District, Pyongyang",
+          "phone": "+850-2-381-3116",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Sosong District, Pyongyang",
+          "phone": "+850-2-381-3101",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [],
+      "humanitarianOrgs": [
+        {
+          "name": "ICRC DPRK",
+          "type": "icrc",
+          "phone": null,
+          "address": "Pyongyang (limited access)"
+        },
+        {
+          "name": "WFP DPRK",
+          "type": "wfp",
+          "phone": null,
+          "address": "Pyongyang (limited operations)"
+        }
+      ],
+      "travelWarnings": [
+        "Extremely dangerous for all travelers",
+        "No independent travel allowed",
+        "No internet/phone access for visitors",
+        "Arbitrary detention/imprisonment risk",
+        "No US consular services",
+        "Borders mostly closed"
+      ]
+    },
+    "venezuela": {
+      "name": "Venezuela",
+      "code": "VE",
+      "callingCode": "+58",
+      "currency": "VES",
+      "languages": [
+        "Spanish"
+      ],
+      "timezone": "America/Caracas (UTC-4)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "171"
+        },
+        {
+          "service": "Ambulance",
+          "number": "171"
+        },
+        {
+          "service": "Fire Department",
+          "number": "171"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "170"
+        },
+        {
+          "service": "CICPC (Criminal Investigation)",
+          "number": "0800-00-24272"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Hospital Universitario de Caracas",
+          "city": "Caracas",
+          "address": "Ciudad Universitaria, Caracas",
+          "phone": "+58-212-6062111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospital de Clínicas Caracas",
+          "city": "Caracas",
+          "address": "Av Panteón, San Bernardino, Caracas",
+          "phone": "+58-212-5084111",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospital Vargas de Caracas",
+          "city": "Caracas",
+          "address": "San José, Caracas",
+          "phone": "+58-212-8623011",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospital Central de Maracaibo",
+          "city": "Maracaibo",
+          "address": "Maracaibo, Zulia",
+          "phone": "+58-261-2005100",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "China",
+          "address": "Calle Guaicaipuro, Altamira, Caracas",
+          "phone": "+58-212-2651643",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "Chuao, Caracas",
+          "phone": "+58-212-9931753",
+          "emergencyLine": null
+        },
+        {
+          "country": "India",
+          "address": "Qta Tagore, Altamira, Caracas",
+          "phone": "+58-212-2671648",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Calle Madrid, Las Mercedes, Caracas",
+          "phone": "+58-212-9091800",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Venezuelan Red Cross",
+          "address": "Av Andrés Bello, Caracas",
+          "phone": "+58-212-5718211",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Venezuelan Red Cross",
+          "type": "redCross",
+          "phone": "+58-212-5718211",
+          "address": "Caracas"
+        },
+        {
+          "name": "UNHCR Venezuela",
+          "type": "unhcr",
+          "phone": "+58-212-2862498",
+          "address": "Caracas"
+        },
+        {
+          "name": "UNICEF Venezuela",
+          "type": "unicef",
+          "phone": "+58-212-2860815",
+          "address": "Caracas"
+        }
+      ],
+      "travelWarnings": [
+        "Extremely high crime rate",
+        "Kidnapping common",
+        "Hyperinflation – cash shortages",
+        "Political instability",
+        "US Embassy closed – limited consular assistance"
+      ]
+    },
+    "sudan": {
+      "name": "Sudan",
+      "code": "SD",
+      "callingCode": "+249",
+      "currency": "SDG",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "timezone": "Africa/Khartoum (UTC+2)",
+      "commsStatus": "normal",
+      "airportStatus": "closed",
+      "advisoryLevel": 4,
+      "advisoryNote": "Do Not Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "999"
+        },
+        {
+          "service": "Ambulance",
+          "number": "333"
+        },
+        {
+          "service": "Fire Department",
+          "number": "998"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "996"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Khartoum Teaching Hospital",
+          "city": "Khartoum",
+          "address": "Khartoum",
+          "phone": "+249-183-778633",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Soba University Hospital",
+          "city": "Khartoum",
+          "address": "Soba, Khartoum",
+          "phone": "+249-183-221600",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Omdurman Military Hospital",
+          "city": "Omdurman",
+          "address": "Omdurman",
+          "phone": "+249-187-550300",
+          "type": "Military",
+          "hasEmergency": true
+        },
+        {
+          "name": "Royal Care Hospital",
+          "city": "Khartoum",
+          "address": "Khartoum",
+          "phone": "+249-183-777700",
+          "type": "Private",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [],
+      "shelters": [
+        {
+          "name": "Sudanese Red Crescent",
+          "address": "Khartoum",
+          "phone": "+249-183-784240",
+          "type": "redCrescent"
+        },
+        {
+          "name": "UNHCR Sudan",
+          "address": "Khartoum",
+          "phone": "+249-183-248400",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Sudanese Red Crescent",
+          "type": "redCrescent",
+          "phone": "+249-183-784240",
+          "address": "Khartoum"
+        },
+        {
+          "name": "ICRC Sudan",
+          "type": "icrc",
+          "phone": "+249-183-471599",
+          "address": "Khartoum"
+        },
+        {
+          "name": "UNHCR Sudan",
+          "type": "unhcr",
+          "phone": "+249-183-248400",
+          "address": "Khartoum"
+        },
+        {
+          "name": "MSF Sudan",
+          "type": "msf",
+          "phone": null,
+          "address": "Multiple locations"
+        },
+        {
+          "name": "UNICEF Sudan",
+          "type": "unicef",
+          "phone": "+249-183-471835",
+          "address": "Khartoum"
+        },
+        {
+          "name": "WFP Sudan",
+          "type": "wfp",
+          "phone": "+249-183-248001",
+          "address": "Khartoum"
+        }
+      ],
+      "travelWarnings": [
+        "Active civil war – SAF vs RSF",
+        "Most embassies evacuated",
+        "Khartoum airport closed",
+        "Mass displacement",
+        "Food crisis",
+        "Communications frequently cut"
+      ]
+    },
+    "nigeria": {
+      "name": "Nigeria",
+      "code": "NG",
+      "callingCode": "+234",
+      "currency": "NGN",
+      "languages": [
+        "English",
+        "Hausa",
+        "Yoruba",
+        "Igbo"
+      ],
+      "timezone": "Africa/Lagos (UTC+1)",
+      "commsStatus": "normal",
+      "airportStatus": "restricted",
+      "advisoryLevel": 3,
+      "advisoryNote": "Reconsider Travel",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "112"
+        },
+        {
+          "service": "Ambulance",
+          "number": "112"
+        },
+        {
+          "service": "Fire Department",
+          "number": "112"
+        },
+        {
+          "service": "NEMA (Disaster)",
+          "number": "+234-9-2340021"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Lagos University Teaching Hospital (LUTH)",
+          "city": "Lagos",
+          "address": "Idi-Araba, Surulere, Lagos",
+          "phone": "+234-1-7600780",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "National Hospital Abuja",
+          "city": "Abuja",
+          "address": "Central District, Abuja",
+          "phone": "+234-9-5233444",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "University College Hospital (UCH)",
+          "city": "Ibadan",
+          "address": "Queen Elizabeth Rd, Ibadan",
+          "phone": "+234-2-2411768",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Aminu Kano Teaching Hospital",
+          "city": "Kano",
+          "address": "Zaria Rd, Kano",
+          "phone": "+234-64-666023",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "University of Nigeria Teaching Hospital",
+          "city": "Enugu",
+          "address": "Ituku-Ozalla, Enugu",
+          "phone": "+234-42-256197",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Plot 1075 Diplomatic Dr, Abuja",
+          "phone": "+234-9-4613000",
+          "emergencyLine": "+234-9-4613000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Dangote House, Aguyi Ironsi St, Abuja",
+          "phone": "+234-9-4621500",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Plot 144, Adetokunbo Ademola Crescent, Abuja",
+          "phone": "+234-9-4133540",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "6 Aguiyi Ironsi St, Maitama, Abuja",
+          "phone": "+234-9-2346597",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "37 Udi Hills, Off Aso Dr, Abuja",
+          "phone": "+234-9-4618900",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "9 Lake Maracaibo Close, Maitama, Abuja",
+          "phone": "+234-9-4610050",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Nigerian Red Cross Society",
+          "address": "11 Eko Akete Close, Lagos",
+          "phone": "+234-1-2690839",
+          "type": "redCross"
+        },
+        {
+          "name": "UNHCR Nigeria",
+          "address": "Abuja",
+          "phone": "+234-9-4617511",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Nigerian Red Cross",
+          "type": "redCross",
+          "phone": "+234-1-2690839",
+          "address": "Lagos"
+        },
+        {
+          "name": "UNHCR Nigeria",
+          "type": "unhcr",
+          "phone": "+234-9-4617511",
+          "address": "Abuja"
+        },
+        {
+          "name": "MSF Nigeria",
+          "type": "msf",
+          "phone": null,
+          "address": "Abuja/Northeast"
+        },
+        {
+          "name": "UNICEF Nigeria",
+          "type": "unicef",
+          "phone": "+234-9-4618600",
+          "address": "Abuja"
+        },
+        {
+          "name": "WFP Nigeria",
+          "type": "wfp",
+          "phone": "+234-9-4619300",
+          "address": "Abuja"
+        },
+        {
+          "name": "ICRC Nigeria",
+          "type": "icrc",
+          "phone": "+234-9-4133430",
+          "address": "Abuja"
+        }
+      ],
+      "travelWarnings": [
+        "Boko Haram/ISWAP in northeast",
+        "Banditry in northwest",
+        "Kidnapping throughout",
+        "Avoid Niger Delta oil region",
+        "Farmer-herder conflicts in Middle Belt"
+      ]
+    },
+    "kenya": {
+      "name": "Kenya",
+      "code": "KE",
+      "callingCode": "+254",
+      "currency": "KES",
+      "languages": [
+        "Swahili",
+        "English"
+      ],
+      "timezone": "Africa/Nairobi (UTC+3)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "999"
+        },
+        {
+          "service": "Ambulance",
+          "number": "999"
+        },
+        {
+          "service": "Fire Department",
+          "number": "999"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Red Cross",
+          "number": "1199"
+        },
+        {
+          "service": "Anti-terrorism Hotline",
+          "number": "+254-800-723-253"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Kenyatta National Hospital",
+          "city": "Nairobi",
+          "address": "Hospital Rd, Upper Hill, Nairobi",
+          "phone": "+254-20-2726300",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Aga Khan University Hospital",
+          "city": "Nairobi",
+          "address": "3rd Parklands Ave, Nairobi",
+          "phone": "+254-20-3662000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Nairobi Hospital",
+          "city": "Nairobi",
+          "address": "Argwings Kodhek Rd, Nairobi",
+          "phone": "+254-20-2845000",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Moi Teaching & Referral Hospital",
+          "city": "Eldoret",
+          "address": "Nandi Rd, Eldoret",
+          "phone": "+254-53-2033471",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Coast General Teaching Hospital",
+          "city": "Mombasa",
+          "address": "Moi Ave, Mombasa",
+          "phone": "+254-41-2314201",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "United Nations Ave, Gigiri, Nairobi",
+          "phone": "+254-20-3636000",
+          "emergencyLine": "+254-20-3636000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Upper Hill Rd, Nairobi",
+          "phone": "+254-20-2873000",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "Jeevan Bharati Building, Harambee Ave, Nairobi",
+          "phone": "+254-20-2225104",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "Woodlands Rd, Kilimani, Nairobi",
+          "phone": "+254-20-2726851",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "Barclays Plaza, Loita St, Nairobi",
+          "phone": "+254-20-2778000",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "113 Riverside Dr, Nairobi",
+          "phone": "+254-20-4262100",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Kenya Red Cross Society",
+          "address": "South C, Bellevue, Nairobi",
+          "phone": "1199",
+          "type": "redCross"
+        },
+        {
+          "name": "UNHCR Kenya",
+          "address": "Westlands, Nairobi",
+          "phone": "+254-20-4232000",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Kenya Red Cross",
+          "type": "redCross",
+          "phone": "1199",
+          "address": "Nairobi"
+        },
+        {
+          "name": "UNHCR Kenya",
+          "type": "unhcr",
+          "phone": "+254-20-4232000",
+          "address": "Nairobi"
+        },
+        {
+          "name": "UNICEF Kenya",
+          "type": "unicef",
+          "phone": "+254-20-7622135",
+          "address": "Nairobi"
+        },
+        {
+          "name": "MSF Kenya",
+          "type": "msf",
+          "phone": "+254-20-3884617",
+          "address": "Nairobi"
+        },
+        {
+          "name": "WFP Kenya",
+          "type": "wfp",
+          "phone": "+254-20-7621234",
+          "address": "Nairobi"
+        }
+      ],
+      "travelWarnings": [
+        "Al-Shabaab threat near Somalia border",
+        "Do not travel to Eastleigh/border counties",
+        "Petty crime in Nairobi",
+        "Coastal area: moderate risk"
+      ]
+    },
+    "south-africa": {
+      "name": "South Africa",
+      "code": "ZA",
+      "callingCode": "+27",
+      "currency": "ZAR",
+      "languages": [
+        "English",
+        "Afrikaans",
+        "Zulu",
+        "Xhosa"
+      ],
+      "timezone": "Africa/Johannesburg (UTC+2)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "10111"
+        },
+        {
+          "service": "Ambulance",
+          "number": "10177"
+        },
+        {
+          "service": "Fire Department",
+          "number": "10177"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Crime Stop",
+          "number": "08600-10111"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Groote Schuur Hospital",
+          "city": "Cape Town",
+          "address": "Main Rd, Observatory, Cape Town",
+          "phone": "+27-21-404-9111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Chris Hani Baragwanath Hospital",
+          "city": "Johannesburg",
+          "address": "Chris Hani Rd, Soweto, Johannesburg",
+          "phone": "+27-11-933-8000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Netcare Milpark Hospital",
+          "city": "Johannesburg",
+          "address": "9 Guild Rd, Parktown West, Johannesburg",
+          "phone": "+27-11-480-5600",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Tygerberg Hospital",
+          "city": "Cape Town",
+          "address": "Francie van Zijl Dr, Parow, Cape Town",
+          "phone": "+27-21-938-4911",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Inkosi Albert Luthuli Central Hospital",
+          "city": "Durban",
+          "address": "800 Vusi Mzimela Rd, Durban",
+          "phone": "+27-31-240-1000",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "877 Pretorius St, Arcadia, Pretoria",
+          "phone": "+27-12-431-4000",
+          "emergencyLine": "+27-12-431-4000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "255 Hill St, Arcadia, Pretoria",
+          "phone": "+27-12-421-7500",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "852 Schoeman St, Arcadia, Pretoria",
+          "phone": "+27-12-342-5392",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "972 Pretorius St, Arcadia, Pretoria",
+          "phone": "+27-12-431-6500",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "316 Brooks St, Menlo Park, Pretoria",
+          "phone": "+27-12-362-1337",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "250 Melk St, Nieuw Muckleneuk, Pretoria",
+          "phone": "+27-12-425-1600",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "201 Florence Ribeiro Ave, Groenkloof, Pretoria",
+          "phone": "+27-12-427-8900",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "South African Red Cross Society",
+          "address": "1st Floor, Helen Bowden Building, Beach Rd, Cape Town",
+          "phone": "+27-21-418-6640",
+          "type": "redCross"
+        },
+        {
+          "name": "UNHCR South Africa",
+          "address": "Pretoria",
+          "phone": "+27-12-354-8303",
+          "type": "unhcr"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "South African Red Cross",
+          "type": "redCross",
+          "phone": "+27-21-418-6640",
+          "address": "Cape Town"
+        },
+        {
+          "name": "UNHCR South Africa",
+          "type": "unhcr",
+          "phone": "+27-12-354-8303",
+          "address": "Pretoria"
+        },
+        {
+          "name": "MSF South Africa",
+          "type": "msf",
+          "phone": "+27-11-403-4440",
+          "address": "Johannesburg"
+        }
+      ],
+      "travelWarnings": [
+        "Very high crime rate",
+        "Carjacking and armed robbery common",
+        "Avoid walking at night",
+        "Load shedding affects infrastructure"
+      ]
+    },
+    "brazil": {
+      "name": "Brazil",
+      "code": "BR",
+      "callingCode": "+55",
+      "currency": "BRL",
+      "languages": [
+        "Portuguese"
+      ],
+      "timezone": "America/Sao_Paulo (UTC-3)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 2,
+      "advisoryNote": "Exercise Increased Caution",
+      "emergencyContacts": [
+        {
+          "service": "Police (Military)",
+          "number": "190"
+        },
+        {
+          "service": "Ambulance (SAMU)",
+          "number": "192"
+        },
+        {
+          "service": "Fire Department",
+          "number": "193"
+        },
+        {
+          "service": "Civil Police",
+          "number": "197"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "185"
+        },
+        {
+          "service": "Civil Defense",
+          "number": "199"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Hospital das Clínicas (USP)",
+          "city": "São Paulo",
+          "address": "Av Dr Enéas de Carvalho Aguiar 255, São Paulo",
+          "phone": "+55-11-2661-0000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospital Albert Einstein",
+          "city": "São Paulo",
+          "address": "Av Albert Einstein 627, São Paulo",
+          "phone": "+55-11-2151-1233",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospital Copa D'Or",
+          "city": "Rio de Janeiro",
+          "address": "Rua Figueiredo Magalhães 875, Rio",
+          "phone": "+55-21-2545-3600",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospital de Clínicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "address": "Rua Ramiro Barcelos 2350, Porto Alegre",
+          "phone": "+55-51-3359-8000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Hospital Sarah Kubitschek",
+          "city": "Brasília",
+          "address": "SMHS Q 501 Conj A, Brasília",
+          "phone": "+55-61-3319-1111",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "SES Av das Nações Q 801 Lote 3, Brasília",
+          "phone": "+55-61-3312-7000",
+          "emergencyLine": "+55-61-3312-7000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "SES Q 801 Conj K Lote 8, Brasília",
+          "phone": "+55-61-3329-2300",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "SES Q 805 Lote 24, Brasília",
+          "phone": "+55-61-3248-4006",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "SES Q 813 Lote 51, Brasília",
+          "phone": "+55-61-2195-8200",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "SES Q 801 Lote A, Brasília",
+          "phone": "+55-61-3223-3094",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "SES Q 801 Lote 4, Brasília",
+          "phone": "+55-61-3222-3999",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "SES Q 807 Lote 25, Brasília",
+          "phone": "+55-61-3442-7000",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Brazilian Red Cross",
+          "address": "Praça Cruz Vermelha 10, Rio de Janeiro",
+          "phone": "+55-21-2507-6446",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Brazilian Red Cross",
+          "type": "redCross",
+          "phone": "+55-21-2507-6446",
+          "address": "Rio de Janeiro"
+        },
+        {
+          "name": "UNHCR Brazil",
+          "type": "unhcr",
+          "phone": "+55-61-3038-9260",
+          "address": "Brasília"
+        },
+        {
+          "name": "UNICEF Brazil",
+          "type": "unicef",
+          "phone": "+55-61-3035-1900",
+          "address": "Brasília"
+        }
+      ],
+      "travelWarnings": [
+        "High crime in urban areas",
+        "Favela areas extremely dangerous",
+        "Carjacking and street crime",
+        "Amazon region: limited infrastructure"
+      ]
+    },
+    "canada": {
+      "name": "Canada",
+      "code": "CA",
+      "callingCode": "+1",
+      "currency": "CAD",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "timezone": "Multiple (UTC-3:30 to UTC-8)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 1,
+      "advisoryNote": "Exercise Normal Precautions",
+      "emergencyContacts": [
+        {
+          "service": "Police/Fire/Ambulance",
+          "number": "911"
+        },
+        {
+          "service": "Poison Control",
+          "number": "1-800-268-9017"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "1-800-267-6687"
+        },
+        {
+          "service": "National Emergency",
+          "number": "911"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Toronto General Hospital",
+          "city": "Toronto",
+          "address": "200 Elizabeth St, Toronto, ON",
+          "phone": "+1-416-340-4800",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Vancouver General Hospital",
+          "city": "Vancouver",
+          "address": "899 W 12th Ave, Vancouver, BC",
+          "phone": "+1-604-875-4111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "McGill University Health Centre",
+          "city": "Montreal",
+          "address": "1001 Blvd Décarie, Montreal, QC",
+          "phone": "+1-514-934-1934",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "The Ottawa Hospital",
+          "city": "Ottawa",
+          "address": "501 Smyth Rd, Ottawa, ON",
+          "phone": "+1-613-722-7000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Foothills Medical Centre",
+          "city": "Calgary",
+          "address": "1403 29 St NW, Calgary, AB",
+          "phone": "+1-403-944-1110",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "490 Sussex Dr, Ottawa, ON",
+          "phone": "+1-613-238-5335",
+          "emergencyLine": "+1-613-238-5335"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "80 Elgin St, Ottawa, ON",
+          "phone": "+1-613-237-1530",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "10 Springfield Rd, Ottawa, ON",
+          "phone": "+1-613-744-3751",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "515 St Patrick St, Ottawa, ON",
+          "phone": "+1-613-789-3434",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "285 Charlotte St, Ottawa, ON",
+          "phone": "+1-613-235-4341",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "42 Sussex Dr, Ottawa, ON",
+          "phone": "+1-613-789-1795",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "1 Waverley St, Ottawa, ON",
+          "phone": "+1-613-232-1101",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Canadian Red Cross",
+          "address": "170 Metcalfe St, Ottawa, ON",
+          "phone": "1-800-418-1111",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Canadian Red Cross",
+          "type": "redCross",
+          "phone": "1-800-418-1111",
+          "address": "Ottawa"
+        }
+      ],
+      "travelWarnings": [
+        "Generally very safe",
+        "Winter weather hazards",
+        "Wildlife in rural/northern areas"
+      ]
+    },
+    "australia": {
+      "name": "Australia",
+      "code": "AU",
+      "callingCode": "+61",
+      "currency": "AUD",
+      "languages": [
+        "English"
+      ],
+      "timezone": "Multiple (UTC+8 to UTC+11)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 1,
+      "advisoryNote": "Exercise Normal Precautions",
+      "emergencyContacts": [
+        {
+          "service": "Police/Fire/Ambulance",
+          "number": "000"
+        },
+        {
+          "service": "National Emergency (mobile)",
+          "number": "112"
+        },
+        {
+          "service": "SES (State Emergency)",
+          "number": "132-500"
+        },
+        {
+          "service": "Poison Information",
+          "number": "13-11-26"
+        },
+        {
+          "service": "Coast Guard (Sea Rescue)",
+          "number": "000"
+        },
+        {
+          "service": "National Security Hotline",
+          "number": "1800-123-400"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "Royal Melbourne Hospital",
+          "city": "Melbourne",
+          "address": "300 Grattan St, Parkville, VIC",
+          "phone": "+61-3-9342-7000",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Royal Prince Alfred Hospital",
+          "city": "Sydney",
+          "address": "50 Missenden Rd, Camperdown, NSW",
+          "phone": "+61-2-9515-6111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Royal Brisbane & Women's Hospital",
+          "city": "Brisbane",
+          "address": "Butterfield St, Herston, QLD",
+          "phone": "+61-7-3646-8111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Royal Perth Hospital",
+          "city": "Perth",
+          "address": "197 Wellington St, Perth, WA",
+          "phone": "+61-8-9224-2244",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Royal Adelaide Hospital",
+          "city": "Adelaide",
+          "address": "Port Rd, Adelaide, SA",
+          "phone": "+61-8-7074-0000",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "Moonah Pl, Yarralumla, Canberra",
+          "phone": "+61-2-6214-5600",
+          "emergencyLine": "+61-2-6214-5600"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "Commonwealth Ave, Yarralumla, Canberra",
+          "phone": "+61-2-6270-6666",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "3-5 Moonah Pl, Yarralumla, Canberra",
+          "phone": "+61-2-6273-3999",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "15 Coronation Dr, Yarralumla, Canberra",
+          "phone": "+61-2-6228-3999",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "78 Canberra Ave, Griffith, Canberra",
+          "phone": "+61-2-6295-9033",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "6 Perth Ave, Yarralumla, Canberra",
+          "phone": "+61-2-6216-0100",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "119 Empire Cct, Yarralumla, Canberra",
+          "phone": "+61-2-6270-1911",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Australian Red Cross",
+          "address": "23-47 Villiers St, North Melbourne, VIC",
+          "phone": "1800-733-276",
+          "type": "redCross"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Australian Red Cross",
+          "type": "redCross",
+          "phone": "1800-733-276",
+          "address": "Melbourne"
+        }
+      ],
+      "travelWarnings": [
+        "Bushfire season Oct-Mar",
+        "Cyclone season Nov-Apr (northern)",
+        "Dangerous wildlife",
+        "Extreme heat in outback"
+      ]
+    },
+    "japan": {
+      "name": "Japan",
+      "code": "JP",
+      "callingCode": "+81",
+      "currency": "JPY",
+      "languages": [
+        "Japanese"
+      ],
+      "timezone": "Asia/Tokyo (UTC+9)",
+      "commsStatus": "normal",
+      "airportStatus": "open",
+      "advisoryLevel": 1,
+      "advisoryNote": "Exercise Normal Precautions",
+      "emergencyContacts": [
+        {
+          "service": "Police",
+          "number": "110"
+        },
+        {
+          "service": "Ambulance/Fire",
+          "number": "119"
+        },
+        {
+          "service": "Coast Guard",
+          "number": "118"
+        },
+        {
+          "service": "National Emergency",
+          "number": "112"
+        },
+        {
+          "service": "Disaster Prevention",
+          "number": "+81-3-5253-7527"
+        },
+        {
+          "service": "Japan Helpline",
+          "number": "0570-000-911"
+        }
+      ],
+      "hospitals": [
+        {
+          "name": "University of Tokyo Hospital",
+          "city": "Tokyo",
+          "address": "7-3-1 Hongo, Bunkyo-ku, Tokyo",
+          "phone": "+81-3-3815-5411",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "St. Luke's International Hospital",
+          "city": "Tokyo",
+          "address": "9-1 Akashi-cho, Chuo-ku, Tokyo",
+          "phone": "+81-3-3541-5151",
+          "type": "Private",
+          "hasEmergency": true
+        },
+        {
+          "name": "Osaka University Hospital",
+          "city": "Suita",
+          "address": "2-15 Yamadaoka, Suita, Osaka",
+          "phone": "+81-6-6879-5111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Kyoto University Hospital",
+          "city": "Kyoto",
+          "address": "54 Shogoin Kawahara-cho, Sakyo-ku, Kyoto",
+          "phone": "+81-75-751-3111",
+          "type": "Government",
+          "hasEmergency": true
+        },
+        {
+          "name": "Kyushu University Hospital",
+          "city": "Fukuoka",
+          "address": "3-1-1 Maidashi, Higashi-ku, Fukuoka",
+          "phone": "+81-92-641-1151",
+          "type": "Government",
+          "hasEmergency": true
+        }
+      ],
+      "embassies": [
+        {
+          "country": "United States",
+          "address": "1-10-5 Akasaka, Minato-ku, Tokyo",
+          "phone": "+81-3-3224-5000",
+          "emergencyLine": "+81-3-3224-5000"
+        },
+        {
+          "country": "United Kingdom",
+          "address": "1 Ichiban-cho, Chiyoda-ku, Tokyo",
+          "phone": "+81-3-5211-1100",
+          "emergencyLine": "+44-20-7008-5000"
+        },
+        {
+          "country": "India",
+          "address": "2-2-11 Kudan-Minami, Chiyoda-ku, Tokyo",
+          "phone": "+81-3-3262-2391",
+          "emergencyLine": null
+        },
+        {
+          "country": "China",
+          "address": "3-4-33 Moto-Azabu, Minato-ku, Tokyo",
+          "phone": "+81-3-3403-3388",
+          "emergencyLine": null
+        },
+        {
+          "country": "Russia",
+          "address": "2-1-1 Azabudai, Minato-ku, Tokyo",
+          "phone": "+81-3-3583-4224",
+          "emergencyLine": null
+        },
+        {
+          "country": "France",
+          "address": "4-11-44 Minami-Azabu, Minato-ku, Tokyo",
+          "phone": "+81-3-5798-6000",
+          "emergencyLine": null
+        },
+        {
+          "country": "Germany",
+          "address": "4-5-10 Minami-Azabu, Minato-ku, Tokyo",
+          "phone": "+81-3-5791-7700",
+          "emergencyLine": null
+        }
+      ],
+      "shelters": [
+        {
+          "name": "Japanese Red Cross Society",
+          "address": "1-1-3 Shiba Daimon, Minato-ku, Tokyo",
+          "phone": "+81-3-3438-1311",
+          "type": "redCross"
+        },
+        {
+          "name": "Designated evacuation shelters (nationwide)",
+          "address": "Schools, community centers",
+          "phone": "119",
+          "type": "civilDefense"
+        }
+      ],
+      "humanitarianOrgs": [
+        {
+          "name": "Japanese Red Cross",
+          "type": "redCross",
+          "phone": "+81-3-3438-1311",
+          "address": "Tokyo"
+        },
+        {
+          "name": "UNHCR Japan",
+          "type": "unhcr",
+          "phone": "+81-3-3499-2011",
+          "address": "Tokyo"
+        }
+      ],
+      "travelWarnings": [
+        "Earthquake and tsunami risk",
+        "Typhoon season Jun-Oct",
+        "North Korean missile overflight risk",
+        "Volcanic activity in some areas"
+      ]
+    }
+  }
+}
