@@ -74,7 +74,7 @@ function determineTopic(text: string): string {
   for (const [keywords, topic] of mapping) {
     if (keywords.some(k => lower.includes(k))) return topic
   }
-  return 'middle-east'
+  return 'general'
 }
 
 function extractText(xml: string, tag: string): string {
