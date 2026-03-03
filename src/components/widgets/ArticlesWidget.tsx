@@ -47,6 +47,7 @@ export default function ArticlesWidget({ news, title = 'Key Articles' }: Props) 
       title={title}
       size="lg"
       urgency="info"
+      sources={[{name:'Reuters',url:'https://reuters.com'},{name:'BBC News',url:'https://bbc.com/news'},{name:'Al Jazeera',url:'https://aljazeera.com'}]}
       expandedContent={
         articles.length > 3 ? (
           <div className="space-y-3">

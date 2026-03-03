@@ -18,6 +18,7 @@ export default function NewsTickerWidget({ news, title = 'Latest Updates' }: Pro
       title={title}
       size="lg"
       urgency="info"
+      sources={[{name:'Reuters',url:'https://reuters.com'},{name:'Al Jazeera',url:'https://aljazeera.com'},{name:'BBC News',url:'https://bbc.com/news'}]}
       expandedContent={
         items.length > 4 ? (
           <div className="space-y-2">
