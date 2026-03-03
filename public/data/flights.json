@@ -1,0 +1,3616 @@
+{
+  "lastUpdated": "2026-03-03T01:19:43.043Z",
+  "airports": {
+    "iran": [
+      {
+        "iata": "IKA",
+        "name": "Imam Khomeini International",
+        "city": "Tehran",
+        "departures": [
+          {
+            "flight": "IR541",
+            "airline": "Iran Air",
+            "destination": "Beijing",
+            "destIata": "PEK",
+            "time": "01:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "IR539",
+            "airline": "Iran Air",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "01:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "IR537",
+            "airline": "Iran Air",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "02:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "IR535",
+            "airline": "Iran Air",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "07:45",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "IR538",
+            "airline": "Iran Air",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "00:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "IR540",
+            "airline": "Iran Air",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "02:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "IR542",
+            "airline": "Iran Air",
+            "destination": "Beijing",
+            "destIata": "PEK",
+            "time": "03:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "IR536",
+            "airline": "Iran Air",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:30",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "israel": [
+      {
+        "iata": "TLV",
+        "name": "Ben Gurion International",
+        "city": "Tel Aviv",
+        "departures": [
+          {
+            "flight": "LY617",
+            "airline": "El Al",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "02:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LY615",
+            "airline": "El Al",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LY619",
+            "airline": "El Al",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "07:30",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LY613",
+            "airline": "El Al",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "08:00",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LY620",
+            "airline": "El Al",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "01:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LY616",
+            "airline": "El Al",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "03:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LY614",
+            "airline": "El Al",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "04:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LY618",
+            "airline": "El Al",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "05:15",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "palestine": [
+      {
+        "iata": "GZA",
+        "name": "Gaza International (Closed)",
+        "city": "Gaza",
+        "departures": [
+          {
+            "flight": "LC531",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "01:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC533",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:30",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC535",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "07:30",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LC532",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "02:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC536",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC534",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:45",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "lebanon": [
+      {
+        "iata": "BEY",
+        "name": "Rafic Hariri International",
+        "city": "Beirut",
+        "departures": [
+          {
+            "flight": "ME483",
+            "airline": "MEA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "ME481",
+            "airline": "MEA",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "02:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "ME487",
+            "airline": "MEA",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "03:45",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "ME485",
+            "airline": "MEA",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:45",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "ME482",
+            "airline": "MEA",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "00:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "ME486",
+            "airline": "MEA",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "ME484",
+            "airline": "MEA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:45",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "ME488",
+            "airline": "MEA",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "05:30",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "syria": [
+      {
+        "iata": "DAM",
+        "name": "Damascus International",
+        "city": "Damascus",
+        "departures": [
+          {
+            "flight": "LC494",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:45",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC492",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "06:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC496",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "08:15",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LC495",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC493",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "05:45",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC497",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "05:45",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "iraq": [
+      {
+        "iata": "BGW",
+        "name": "Baghdad International",
+        "city": "Baghdad",
+        "departures": [
+          {
+            "flight": "IA488",
+            "airline": "Iraqi Airways",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "02:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "IA482",
+            "airline": "Iraqi Airways",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "IA486",
+            "airline": "Iraqi Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "IA484",
+            "airline": "Iraqi Airways",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "08:45",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "IA485",
+            "airline": "Iraqi Airways",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "03:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "IA483",
+            "airline": "Iraqi Airways",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "IA487",
+            "airline": "Iraqi Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "IA489",
+            "airline": "Iraqi Airways",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "04:45",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "yemen": [
+      {
+        "iata": "SAH",
+        "name": "Sana'a International",
+        "city": "Sana'a",
+        "departures": [
+          {
+            "flight": "LC602",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "03:45",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC598",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "06:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC600",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:15",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LC603",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "00:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC599",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "03:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC601",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:00",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "united-arab-emirates": [
+      {
+        "iata": "DXB",
+        "name": "Dubai International",
+        "city": "Dubai",
+        "departures": [
+          {
+            "flight": "EK513",
+            "airline": "Emirates",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "01:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "EK509",
+            "airline": "Emirates",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "EK511",
+            "airline": "Emirates",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "03:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "FZ517",
+            "airline": "flydubai",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "03:45",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "FZ521",
+            "airline": "flydubai",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "03:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "FZ519",
+            "airline": "flydubai",
+            "destination": "Karachi",
+            "destIata": "KHI",
+            "time": "04:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "FZ523",
+            "airline": "flydubai",
+            "destination": "Manama",
+            "destIata": "BAH",
+            "time": "07:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "EK515",
+            "airline": "Emirates",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "08:30",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "FZ520",
+            "airline": "flydubai",
+            "destination": "Karachi",
+            "destIata": "KHI",
+            "time": "00:00",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "EK514",
+            "airline": "Emirates",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "00:30",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "EK510",
+            "airline": "Emirates",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "EK512",
+            "airline": "Emirates",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "02:30",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "EK516",
+            "airline": "Emirates",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "03:00",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "FZ518",
+            "airline": "flydubai",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "03:15",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "FZ522",
+            "airline": "flydubai",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "05:15",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "FZ524",
+            "airline": "flydubai",
+            "destination": "Manama",
+            "destIata": "BAH",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      },
+      {
+        "iata": "AUH",
+        "name": "Abu Dhabi International",
+        "city": "Abu Dhabi",
+        "departures": [
+          {
+            "flight": "EY487",
+            "airline": "Etihad",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:15",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "EY485",
+            "airline": "Etihad",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "EY489",
+            "airline": "Etihad",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "01:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "EY491",
+            "airline": "Etihad",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "04:00",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "EY490",
+            "airline": "Etihad",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "01:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "EY486",
+            "airline": "Etihad",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "EY488",
+            "airline": "Etihad",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "05:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "EY492",
+            "airline": "Etihad",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "saudi-arabia": [
+      {
+        "iata": "RUH",
+        "name": "King Khalid International",
+        "city": "Riyadh",
+        "departures": [
+          {
+            "flight": "SV605",
+            "airline": "Saudia",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:45",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "SV611",
+            "airline": "Saudia",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "06:15",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "SV609",
+            "airline": "Saudia",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "06:30",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "SV607",
+            "airline": "Saudia",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "07:15",
+            "status": "cancelled",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "SV606",
+            "airline": "Saudia",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "SV608",
+            "airline": "Saudia",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "02:30",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "SV612",
+            "airline": "Saudia",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "03:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "SV610",
+            "airline": "Saudia",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "04:45",
+            "status": "cancelled",
+            "type": "arrival"
+          }
+        ]
+      },
+      {
+        "iata": "JED",
+        "name": "King Abdulaziz International",
+        "city": "Jeddah",
+        "departures": [
+          {
+            "flight": "SV543",
+            "airline": "Saudia",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:15",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "SV537",
+            "airline": "Saudia",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "04:00",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "SV539",
+            "airline": "Saudia",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "06:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "SV541",
+            "airline": "Saudia",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "07:15",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "SV544",
+            "airline": "Saudia",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "SV540",
+            "airline": "Saudia",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:00",
+            "status": "cancelled",
+            "type": "arrival"
+          },
+          {
+            "flight": "SV542",
+            "airline": "Saudia",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "SV538",
+            "airline": "Saudia",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "04:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "qatar": [
+      {
+        "iata": "DOH",
+        "name": "Hamad International",
+        "city": "Doha",
+        "departures": [
+          {
+            "flight": "QR504",
+            "airline": "Qatar Airways",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "03:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "QR502",
+            "airline": "Qatar Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "QR508",
+            "airline": "Qatar Airways",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "07:45",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "QR506",
+            "airline": "Qatar Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "08:00",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "QR507",
+            "airline": "Qatar Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "00:30",
+            "status": "cancelled",
+            "type": "arrival"
+          },
+          {
+            "flight": "QR505",
+            "airline": "Qatar Airways",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:00",
+            "status": "cancelled",
+            "type": "arrival"
+          },
+          {
+            "flight": "QR509",
+            "airline": "Qatar Airways",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "02:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "QR503",
+            "airline": "Qatar Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "kuwait": [
+      {
+        "iata": "KWI",
+        "name": "Kuwait International",
+        "city": "Kuwait City",
+        "departures": [
+          {
+            "flight": "KU563",
+            "airline": "Kuwait Airways",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "02:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "KU559",
+            "airline": "Kuwait Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:00",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "KU561",
+            "airline": "Kuwait Airways",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "06:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "KU557",
+            "airline": "Kuwait Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:45",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "KU564",
+            "airline": "Kuwait Airways",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "KU558",
+            "airline": "Kuwait Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "KU560",
+            "airline": "Kuwait Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "03:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "KU562",
+            "airline": "Kuwait Airways",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "bahrain": [
+      {
+        "iata": "BAH",
+        "name": "Bahrain International",
+        "city": "Manama",
+        "departures": [
+          {
+            "flight": "GF480",
+            "airline": "Gulf Air",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "02:00",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "GF482",
+            "airline": "Gulf Air",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "GF484",
+            "airline": "Gulf Air",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "05:30",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "GF478",
+            "airline": "Gulf Air",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:45",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "GF483",
+            "airline": "Gulf Air",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "00:15",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "GF481",
+            "airline": "Gulf Air",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "GF479",
+            "airline": "Gulf Air",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "GF485",
+            "airline": "Gulf Air",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "05:15",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "oman": [
+      {
+        "iata": "MCT",
+        "name": "Muscat International",
+        "city": "Muscat",
+        "departures": [
+          {
+            "flight": "WY563",
+            "airline": "Oman Air",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "02:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "WY559",
+            "airline": "Oman Air",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:00",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "WY561",
+            "airline": "Oman Air",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "06:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "WY557",
+            "airline": "Oman Air",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:45",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "WY564",
+            "airline": "Oman Air",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "WY558",
+            "airline": "Oman Air",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "WY560",
+            "airline": "Oman Air",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "03:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "WY562",
+            "airline": "Oman Air",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "jordan": [
+      {
+        "iata": "AMM",
+        "name": "Queen Alia International",
+        "city": "Amman",
+        "departures": [
+          {
+            "flight": "RJ484",
+            "airline": "Royal Jordanian",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "03:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "RJ480",
+            "airline": "Royal Jordanian",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:00",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "RJ486",
+            "airline": "Royal Jordanian",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "08:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "RJ482",
+            "airline": "Royal Jordanian",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "08:45",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "RJ483",
+            "airline": "Royal Jordanian",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "00:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "RJ485",
+            "airline": "Royal Jordanian",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "02:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "RJ487",
+            "airline": "Royal Jordanian",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "RJ481",
+            "airline": "Royal Jordanian",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:15",
+            "status": "delayed",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "egypt": [
+      {
+        "iata": "CAI",
+        "name": "Cairo International",
+        "city": "Cairo",
+        "departures": [
+          {
+            "flight": "MS487",
+            "airline": "EgyptAir",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "01:15",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "MS485",
+            "airline": "EgyptAir",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "MS489",
+            "airline": "EgyptAir",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "01:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "MS491",
+            "airline": "EgyptAir",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:00",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "MS490",
+            "airline": "EgyptAir",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "01:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "MS486",
+            "airline": "EgyptAir",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "MS488",
+            "airline": "EgyptAir",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "05:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "MS492",
+            "airline": "EgyptAir",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "turkey": [
+      {
+        "iata": "IST",
+        "name": "Istanbul Airport",
+        "city": "Istanbul",
+        "departures": [
+          {
+            "flight": "TK540",
+            "airline": "Turkish Airlines",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "TK542",
+            "airline": "Turkish Airlines",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "02:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "TK544",
+            "airline": "Turkish Airlines",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "06:45",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "TK546",
+            "airline": "Turkish Airlines",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "07:15",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "TK545",
+            "airline": "Turkish Airlines",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "01:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "TK543",
+            "airline": "Turkish Airlines",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "TK541",
+            "airline": "Turkish Airlines",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "TK547",
+            "airline": "Turkish Airlines",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "05:00",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "pakistan": [
+      {
+        "iata": "ISB",
+        "name": "Islamabad International",
+        "city": "Islamabad",
+        "departures": [
+          {
+            "flight": "PK540",
+            "airline": "PIA",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "01:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "PK542",
+            "airline": "PIA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "PK544",
+            "airline": "PIA",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "06:45",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "PK546",
+            "airline": "PIA",
+            "destination": "Jeddah",
+            "destIata": "JED",
+            "time": "07:15",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "PK545",
+            "airline": "PIA",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "01:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "PK543",
+            "airline": "PIA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "PK541",
+            "airline": "PIA",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "PK547",
+            "airline": "PIA",
+            "destination": "Jeddah",
+            "destIata": "JED",
+            "time": "05:00",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      },
+      {
+        "iata": "KHI",
+        "name": "Jinnah International",
+        "city": "Karachi",
+        "departures": [
+          {
+            "flight": "PK549",
+            "airline": "PIA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:00",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "PK547",
+            "airline": "PIA",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:15",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "PK551",
+            "airline": "PIA",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "07:45",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "PK553",
+            "airline": "PIA",
+            "destination": "Jeddah",
+            "destIata": "JED",
+            "time": "08:00",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "PK554",
+            "airline": "PIA",
+            "destination": "Jeddah",
+            "destIata": "JED",
+            "time": "00:30",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "PK552",
+            "airline": "PIA",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "01:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "PK548",
+            "airline": "PIA",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "01:15",
+            "status": "cancelled",
+            "type": "arrival"
+          },
+          {
+            "flight": "PK550",
+            "airline": "PIA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:15",
+            "status": "delayed",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "india": [
+      {
+        "iata": "DEL",
+        "name": "Indira Gandhi International",
+        "city": "Delhi",
+        "departures": [
+          {
+            "flight": "6E503",
+            "airline": "IndiGo",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "6E505",
+            "airline": "IndiGo",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "02:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "6E507",
+            "airline": "IndiGo",
+            "destination": "Doha",
+            "destIata": "DOH",
+            "time": "02:45",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "AI495",
+            "airline": "Air India",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "03:15",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "6E509",
+            "airline": "IndiGo",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AI497",
+            "airline": "Air India",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AI499",
+            "airline": "Air India",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "AI501",
+            "airline": "Air India",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "08:30",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "AI496",
+            "airline": "Air India",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "00:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "6E504",
+            "airline": "IndiGo",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "01:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AI502",
+            "airline": "Air India",
+            "destination": "Mumbai",
+            "destIata": "BOM",
+            "time": "02:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "6E506",
+            "airline": "IndiGo",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "03:15",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "6E508",
+            "airline": "IndiGo",
+            "destination": "Doha",
+            "destIata": "DOH",
+            "time": "03:15",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "AI498",
+            "airline": "Air India",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "04:30",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "6E510",
+            "airline": "IndiGo",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AI500",
+            "airline": "Air India",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      },
+      {
+        "iata": "BOM",
+        "name": "Chhatrapati Shivaji Maharaj",
+        "city": "Mumbai",
+        "departures": [
+          {
+            "flight": "AI494",
+            "airline": "Air India",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AI490",
+            "airline": "Air India",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "05:00",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "AI488",
+            "airline": "Air India",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AI492",
+            "airline": "Air India",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "07:00",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "AI489",
+            "airline": "Air India",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AI491",
+            "airline": "Air India",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "AI495",
+            "airline": "Air India",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "03:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "AI493",
+            "airline": "Air India",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:00",
+            "status": "landed",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "united-states": [
+      {
+        "iata": "JFK",
+        "name": "John F. Kennedy International",
+        "city": "New York",
+        "departures": [
+          {
+            "flight": "DL542",
+            "airline": "Delta",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "03:45",
+            "status": "boarding",
+            "type": "departure"
+          },
+          {
+            "flight": "EK546",
+            "airline": "Emirates",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "DL540",
+            "airline": "Delta",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "05:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "DL544",
+            "airline": "Delta",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "06:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "DL538",
+            "airline": "Delta",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:30",
+            "status": "delayed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "DL541",
+            "airline": "Delta",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "00:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "DL545",
+            "airline": "Delta",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "01:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "EK547",
+            "airline": "Emirates",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "DL539",
+            "airline": "Delta",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "DL543",
+            "airline": "Delta",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      },
+      {
+        "iata": "LAX",
+        "name": "Los Angeles International",
+        "city": "Los Angeles",
+        "departures": [
+          {
+            "flight": "AA553",
+            "airline": "American Airlines",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AA551",
+            "airline": "American Airlines",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AA549",
+            "airline": "American Airlines",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "08:00",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "AA555",
+            "airline": "American Airlines",
+            "destination": "Sydney",
+            "destIata": "SYD",
+            "time": "08:15",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "AA550",
+            "airline": "American Airlines",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "00:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "AA552",
+            "airline": "American Airlines",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AA554",
+            "airline": "American Airlines",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "03:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AA556",
+            "airline": "American Airlines",
+            "destination": "Sydney",
+            "destIata": "SYD",
+            "time": "04:30",
+            "status": "landed",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "united-kingdom": [
+      {
+        "iata": "LHR",
+        "name": "London Heathrow",
+        "city": "London",
+        "departures": [
+          {
+            "flight": "BA556",
+            "airline": "British Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "01:30",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "BA554",
+            "airline": "British Airways",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:45",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "BA558",
+            "airline": "British Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "03:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "VS566",
+            "airline": "Virgin Atlantic",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "VS564",
+            "airline": "Virgin Atlantic",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "04:30",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "VS562",
+            "airline": "Virgin Atlantic",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "06:15",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "BA560",
+            "airline": "British Airways",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "07:30",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "BA555",
+            "airline": "British Airways",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "00:15",
+            "status": "cancelled",
+            "type": "arrival"
+          },
+          {
+            "flight": "VS563",
+            "airline": "Virgin Atlantic",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "00:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "VS565",
+            "airline": "Virgin Atlantic",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "00:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "BA559",
+            "airline": "British Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "02:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "VS567",
+            "airline": "Virgin Atlantic",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "05:30",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "BA557",
+            "airline": "British Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "05:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "BA561",
+            "airline": "British Airways",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "germany": [
+      {
+        "iata": "FRA",
+        "name": "Frankfurt Airport",
+        "city": "Frankfurt",
+        "departures": [
+          {
+            "flight": "LH518",
+            "airline": "Lufthansa",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "03:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "LH522",
+            "airline": "Lufthansa",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "04:00",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "LH524",
+            "airline": "Lufthansa",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "05:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "LH520",
+            "airline": "Lufthansa",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:00",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LH525",
+            "airline": "Lufthansa",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "00:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "LH519",
+            "airline": "Lufthansa",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "LH521",
+            "airline": "Lufthansa",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "LH523",
+            "airline": "Lufthansa",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "03:15",
+            "status": "cancelled",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "france": [
+      {
+        "iata": "CDG",
+        "name": "Charles de Gaulle",
+        "city": "Paris",
+        "departures": [
+          {
+            "flight": "AF493",
+            "airline": "Air France",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "04:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AF491",
+            "airline": "Air France",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "04:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AF487",
+            "airline": "Air France",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "05:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AF489",
+            "airline": "Air France",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:00",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "AF488",
+            "airline": "Air France",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "00:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AF492",
+            "airline": "Air France",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "03:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AF494",
+            "airline": "Air France",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "03:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AF490",
+            "airline": "Air France",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:15",
+            "status": "delayed",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "ukraine": [
+      {
+        "iata": "KBP",
+        "name": "Boryspil International",
+        "city": "Kyiv",
+        "departures": [
+          {
+            "flight": "LC544",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:45",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC546",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "03:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC542",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "05:45",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LC543",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "01:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC547",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC545",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:30",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "russia": [
+      {
+        "iata": "SVO",
+        "name": "Sheremetyevo",
+        "city": "Moscow",
+        "departures": [
+          {
+            "flight": "SU617",
+            "airline": "Aeroflot",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "02:15",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "SU615",
+            "airline": "Aeroflot",
+            "destination": "Beijing",
+            "destIata": "PEK",
+            "time": "06:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "SU613",
+            "airline": "Aeroflot",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "08:00",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "SU616",
+            "airline": "Aeroflot",
+            "destination": "Beijing",
+            "destIata": "PEK",
+            "time": "03:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "SU614",
+            "airline": "Aeroflot",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "SU618",
+            "airline": "Aeroflot",
+            "destination": "Delhi",
+            "destIata": "DEL",
+            "time": "05:15",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "taiwan": [
+      {
+        "iata": "TPE",
+        "name": "Taiwan Taoyuan",
+        "city": "Taipei",
+        "departures": [
+          {
+            "flight": "CI618",
+            "airline": "China Airlines",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "01:15",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "CI616",
+            "airline": "China Airlines",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "05:15",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "CI620",
+            "airline": "China Airlines",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "05:45",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "CI622",
+            "airline": "China Airlines",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "08:30",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "CI617",
+            "airline": "China Airlines",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "02:00",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "CI619",
+            "airline": "China Airlines",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "03:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "CI621",
+            "airline": "China Airlines",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "03:30",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "CI623",
+            "airline": "China Airlines",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "china": [
+      {
+        "iata": "PEK",
+        "name": "Beijing Capital",
+        "city": "Beijing",
+        "departures": [
+          {
+            "flight": "CA586",
+            "airline": "Air China",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "01:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "CA584",
+            "airline": "Air China",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "03:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "CA580",
+            "airline": "Air China",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "06:30",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "CA582",
+            "airline": "Air China",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:45",
+            "status": "cancelled",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "CA581",
+            "airline": "Air China",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:30",
+            "status": "cancelled",
+            "type": "arrival"
+          },
+          {
+            "flight": "CA587",
+            "airline": "Air China",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "01:30",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "CA585",
+            "airline": "Air China",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "03:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "CA583",
+            "airline": "Air China",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "south-korea": [
+      {
+        "iata": "ICN",
+        "name": "Incheon International",
+        "city": "Seoul",
+        "departures": [
+          {
+            "flight": "KE531",
+            "airline": "Korean Air",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "01:45",
+            "status": "boarding",
+            "type": "departure"
+          },
+          {
+            "flight": "KE533",
+            "airline": "Korean Air",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "03:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "KE529",
+            "airline": "Korean Air",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "06:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "KE535",
+            "airline": "Korean Air",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "07:15",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "KE530",
+            "airline": "Korean Air",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "02:00",
+            "status": "boarding",
+            "type": "arrival"
+          },
+          {
+            "flight": "KE534",
+            "airline": "Korean Air",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "02:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "KE536",
+            "airline": "Korean Air",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "03:15",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "KE532",
+            "airline": "Korean Air",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "03:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "north-korea": [
+      {
+        "iata": "FNJ",
+        "name": "Pyongyang Sunan",
+        "city": "Pyongyang",
+        "departures": [
+          {
+            "flight": "LC520",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:45",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC516",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "06:30",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC518",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "08:00",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LC519",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:15",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC517",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "02:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC521",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "05:00",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "venezuela": [
+      {
+        "iata": "CCS",
+        "name": "Simón Bolívar",
+        "city": "Caracas",
+        "departures": [
+          {
+            "flight": "LC491",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "02:30",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC489",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "03:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC487",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:30",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LC492",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "02:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC490",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC488",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "05:45",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "sudan": [
+      {
+        "iata": "KRT",
+        "name": "Khartoum International",
+        "city": "Khartoum",
+        "departures": [
+          {
+            "flight": "LC554",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "01:45",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC556",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "03:00",
+            "status": "suspended",
+            "type": "departure"
+          },
+          {
+            "flight": "LC558",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "07:45",
+            "status": "suspended",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LC555",
+            "airline": "Local Carrier",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "00:00",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC557",
+            "airline": "Local Carrier",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "00:30",
+            "status": "suspended",
+            "type": "arrival"
+          },
+          {
+            "flight": "LC559",
+            "airline": "Local Carrier",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "04:00",
+            "status": "suspended",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "nigeria": [
+      {
+        "iata": "LOS",
+        "name": "Murtala Muhammed",
+        "city": "Lagos",
+        "departures": [
+          {
+            "flight": "W3559",
+            "airline": "Arik Air",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:45",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "W3561",
+            "airline": "Arik Air",
+            "destination": "Johannesburg",
+            "destIata": "JNB",
+            "time": "03:00",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "W3563",
+            "airline": "Arik Air",
+            "destination": "Nairobi",
+            "destIata": "NBO",
+            "time": "05:45",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "W3564",
+            "airline": "Arik Air",
+            "destination": "Nairobi",
+            "destIata": "NBO",
+            "time": "01:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "W3562",
+            "airline": "Arik Air",
+            "destination": "Johannesburg",
+            "destIata": "JNB",
+            "time": "01:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "W3560",
+            "airline": "Arik Air",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "kenya": [
+      {
+        "iata": "NBO",
+        "name": "Jomo Kenyatta",
+        "city": "Nairobi",
+        "departures": [
+          {
+            "flight": "KQ563",
+            "airline": "Kenya Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:45",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "KQ569",
+            "airline": "Kenya Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "03:00",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "KQ565",
+            "airline": "Kenya Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "KQ567",
+            "airline": "Kenya Airways",
+            "destination": "Johannesburg",
+            "destIata": "JNB",
+            "time": "07:15",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "KQ568",
+            "airline": "Kenya Airways",
+            "destination": "Johannesburg",
+            "destIata": "JNB",
+            "time": "00:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "KQ570",
+            "airline": "Kenya Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "03:30",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "KQ566",
+            "airline": "Kenya Airways",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "04:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "KQ564",
+            "airline": "Kenya Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "south-africa": [
+      {
+        "iata": "JNB",
+        "name": "OR Tambo International",
+        "city": "Johannesburg",
+        "departures": [
+          {
+            "flight": "SA550",
+            "airline": "South African Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "02:00",
+            "status": "delayed",
+            "type": "departure"
+          },
+          {
+            "flight": "SA546",
+            "airline": "South African Airways",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "06:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "SA544",
+            "airline": "South African Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "07:00",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "SA548",
+            "airline": "South African Airways",
+            "destination": "Nairobi",
+            "destIata": "NBO",
+            "time": "08:30",
+            "status": "delayed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "SA545",
+            "airline": "South African Airways",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "01:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "SA551",
+            "airline": "South African Airways",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "02:15",
+            "status": "cancelled",
+            "type": "arrival"
+          },
+          {
+            "flight": "SA549",
+            "airline": "South African Airways",
+            "destination": "Nairobi",
+            "destIata": "NBO",
+            "time": "04:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "SA547",
+            "airline": "South African Airways",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "brazil": [
+      {
+        "iata": "GRU",
+        "name": "São Paulo–Guarulhos",
+        "city": "São Paulo",
+        "departures": [
+          {
+            "flight": "LA529",
+            "airline": "LATAM",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "01:30",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "LA531",
+            "airline": "LATAM",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "04:30",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "LA527",
+            "airline": "LATAM",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:15",
+            "status": "cancelled",
+            "type": "departure"
+          },
+          {
+            "flight": "LA525",
+            "airline": "LATAM",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "07:30",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "LA532",
+            "airline": "LATAM",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "00:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "LA528",
+            "airline": "LATAM",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "LA530",
+            "airline": "LATAM",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "04:45",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "LA526",
+            "airline": "LATAM",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "05:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "canada": [
+      {
+        "iata": "YYZ",
+        "name": "Toronto Pearson",
+        "city": "Toronto",
+        "departures": [
+          {
+            "flight": "AC659",
+            "airline": "Air Canada",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "03:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "AC663",
+            "airline": "Air Canada",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "03:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "AC661",
+            "airline": "Air Canada",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "05:15",
+            "status": "boarding",
+            "type": "departure"
+          },
+          {
+            "flight": "AC657",
+            "airline": "Air Canada",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:15",
+            "status": "departed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "AC660",
+            "airline": "Air Canada",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "01:00",
+            "status": "boarding",
+            "type": "arrival"
+          },
+          {
+            "flight": "AC662",
+            "airline": "Air Canada",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "01:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "AC658",
+            "airline": "Air Canada",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:00",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "AC664",
+            "airline": "Air Canada",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "05:15",
+            "status": "landed",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "australia": [
+      {
+        "iata": "SYD",
+        "name": "Sydney Kingsford Smith",
+        "city": "Sydney",
+        "departures": [
+          {
+            "flight": "QF617",
+            "airline": "Qantas",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "02:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "QF619",
+            "airline": "Qantas",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "02:30",
+            "status": "departed",
+            "type": "departure"
+          },
+          {
+            "flight": "QF621",
+            "airline": "Qantas",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "03:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "QF615",
+            "airline": "Qantas",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "04:30",
+            "status": "boarding",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "QF616",
+            "airline": "Qantas",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "00:15",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "QF622",
+            "airline": "Qantas",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "00:45",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "QF618",
+            "airline": "Qantas",
+            "destination": "Los Angeles",
+            "destIata": "LAX",
+            "time": "01:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "QF620",
+            "airline": "Qantas",
+            "destination": "Tokyo",
+            "destIata": "NRT",
+            "time": "02:30",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ],
+    "japan": [
+      {
+        "iata": "NRT",
+        "name": "Narita International",
+        "city": "Tokyo",
+        "departures": [
+          {
+            "flight": "NH579",
+            "airline": "ANA",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "01:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "NH581",
+            "airline": "ANA",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "03:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "NH577",
+            "airline": "ANA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "06:15",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "NH575",
+            "airline": "ANA",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "06:45",
+            "status": "delayed",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "NH576",
+            "airline": "ANA",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "02:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "NH578",
+            "airline": "ANA",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "02:00",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "NH582",
+            "airline": "ANA",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "05:15",
+            "status": "landed",
+            "type": "arrival"
+          },
+          {
+            "flight": "NH580",
+            "airline": "ANA",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "05:45",
+            "status": "landed",
+            "type": "arrival"
+          }
+        ]
+      },
+      {
+        "iata": "HND",
+        "name": "Tokyo Haneda",
+        "city": "Tokyo",
+        "departures": [
+          {
+            "flight": "JL536",
+            "airline": "JAL",
+            "destination": "Beijing",
+            "destIata": "PEK",
+            "time": "05:00",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "JL534",
+            "airline": "JAL",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "07:30",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "JL530",
+            "airline": "JAL",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "07:45",
+            "status": "on-time",
+            "type": "departure"
+          },
+          {
+            "flight": "JL532",
+            "airline": "JAL",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "08:45",
+            "status": "on-time",
+            "type": "departure"
+          }
+        ],
+        "arrivals": [
+          {
+            "flight": "JL537",
+            "airline": "JAL",
+            "destination": "Beijing",
+            "destIata": "PEK",
+            "time": "02:15",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "JL535",
+            "airline": "JAL",
+            "destination": "Seoul",
+            "destIata": "ICN",
+            "time": "03:30",
+            "status": "on-time",
+            "type": "arrival"
+          },
+          {
+            "flight": "JL531",
+            "airline": "JAL",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "03:45",
+            "status": "delayed",
+            "type": "arrival"
+          },
+          {
+            "flight": "JL533",
+            "airline": "JAL",
+            "destination": "London",
+            "destIata": "LHR",
+            "time": "05:45",
+            "status": "on-time",
+            "type": "arrival"
+          }
+        ]
+      }
+    ]
+  }
+}
