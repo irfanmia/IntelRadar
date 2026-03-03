@@ -72,12 +72,10 @@ const COUNTRY_AIRPORTS: Record<string, AirportInfo[]> = {
   egypt: [
     { iata: 'CAI', name: 'Cairo International', city: 'Cairo' },
     { iata: 'HRG', name: 'Hurghada International', city: 'Hurghada' },
-    { iata: 'SSH', name: 'Sharm El Sheikh International', city: 'Sharm El Sheikh' },
   ],
   japan: [
     { iata: 'NRT', name: 'Narita International', city: 'Tokyo' },
     { iata: 'HND', name: 'Haneda Airport', city: 'Tokyo' },
-    { iata: 'KIX', name: 'Kansai International', city: 'Osaka' },
   ],
   'south-korea': [
     { iata: 'ICN', name: 'Incheon International', city: 'Seoul' },
@@ -86,29 +84,23 @@ const COUNTRY_AIRPORTS: Record<string, AirportInfo[]> = {
   germany: [
     { iata: 'FRA', name: 'Frankfurt Airport', city: 'Frankfurt' },
     { iata: 'MUC', name: 'Munich Airport', city: 'Munich' },
-    { iata: 'BER', name: 'Berlin Brandenburg', city: 'Berlin' },
   ],
   france: [
     { iata: 'CDG', name: 'Charles de Gaulle', city: 'Paris' },
     { iata: 'ORY', name: 'Paris Orly', city: 'Paris' },
-    { iata: 'NCE', name: 'Nice Côte d\'Azur', city: 'Nice' },
   ],
   australia: [
     { iata: 'SYD', name: 'Sydney Kingsford Smith', city: 'Sydney' },
     { iata: 'MEL', name: 'Melbourne Tullamarine', city: 'Melbourne' },
-    { iata: 'BNE', name: 'Brisbane Airport', city: 'Brisbane' },
   ],
   russia: [
     { iata: 'SVO', name: 'Sheremetyevo', city: 'Moscow' },
     { iata: 'DME', name: 'Domodedovo', city: 'Moscow' },
-    { iata: 'LED', name: 'Pulkovo Airport', city: 'St. Petersburg' },
   ],
   ukraine: [{ iata: 'KBP', name: 'Boryspil International', city: 'Kyiv' }],
   china: [
     { iata: 'PEK', name: 'Beijing Capital', city: 'Beijing' },
     { iata: 'PVG', name: 'Shanghai Pudong', city: 'Shanghai' },
-    { iata: 'CAN', name: 'Guangzhou Baiyun', city: 'Guangzhou' },
-    { iata: 'HKG', name: 'Hong Kong International', city: 'Hong Kong' },
   ],
   lebanon: [{ iata: 'BEY', name: 'Rafic Hariri International', city: 'Beirut' }],
   israel: [{ iata: 'TLV', name: 'Ben Gurion International', city: 'Tel Aviv' }],
@@ -118,7 +110,6 @@ const COUNTRY_AIRPORTS: Record<string, AirportInfo[]> = {
   ],
   iran: [
     { iata: 'IKA', name: 'Imam Khomeini International', city: 'Tehran' },
-    { iata: 'THR', name: 'Mehrabad International', city: 'Tehran' },
     { iata: 'MHD', name: 'Mashhad International', city: 'Mashhad' },
   ],
   jordan: [{ iata: 'AMM', name: 'Queen Alia International', city: 'Amman' }],
@@ -149,7 +140,6 @@ const COUNTRY_AIRPORTS: Record<string, AirportInfo[]> = {
   canada: [
     { iata: 'YYZ', name: 'Toronto Pearson', city: 'Toronto' },
     { iata: 'YVR', name: 'Vancouver International', city: 'Vancouver' },
-    { iata: 'YUL', name: 'Montréal-Trudeau', city: 'Montréal' },
   ],
   taiwan: [{ iata: 'TPE', name: 'Taiwan Taoyuan', city: 'Taipei' }],
   venezuela: [{ iata: 'CCS', name: 'Simón Bolívar', city: 'Caracas' }],
