@@ -48,26 +48,25 @@ function RenderWidget({ id, country, news, financials, helpData, filterTopic }: 
   const slug = country.toLowerCase().replace(/\s+/g, '-')
   const impactOrder = getImpactEventIds(slug)
 
-  // Filter or sort news based on active impact filter
+  // Filter news to only country-relevant impact events, sorted by priority
   const filteredNews = filterTopic
     ? news.filter(n => n.topic === filterTopic)
-    : news.sort((a, b) => {
-        const aIdx = impactOrder.indexOf(a.topic)
-        const bIdx = impactOrder.indexOf(b.topic)
-        const aScore = aIdx >= 0 ? aIdx : 999
-        const bScore = bIdx >= 0 ? bIdx : 999
-        return aScore - bScore
-      })
+    : news
+        .filter(n => impactOrder.includes(n.topic))
+        .sort((a, b) => {
+          const aIdx = impactOrder.indexOf(a.topic)
+          const bIdx = impactOrder.indexOf(b.topic)
+          return aIdx - bIdx
+        })
 
-  const middleEastNews = filterTopic
-    ? filteredNews
-    : news.filter(n => n.topic === 'middle-east')
+  // For widgets that specifically need the top impact event's news
+  const primaryTopicNews = news.filter(n => n.topic === (filterTopic || impactOrder[0] || 'middle-east'))
 
   switch (id) {
     case 'safety-alert':
       return <SafetyAlertWidget country={country} advisoryLevel={helpData?.advisoryLevel} advisoryNote={helpData?.advisoryNote} commsStatus={helpData?.commsStatus} />
     case 'strike-list':
-      return <StrikeListWidget news={middleEastNews} />
+      return <StrikeListWidget news={primaryTopicNews} />
     case 'comms-status':
       return <CommsStatusWidget status={helpData?.commsStatus || 'normal'} country={country} />
     case 'hospitals':
@@ -75,15 +74,15 @@ function RenderWidget({ id, country, news, financials, helpData, filterTopic }: 
     case 'airport':
       return <AirportWidget status={helpData?.airportStatus || 'restricted'} country={country} />
     case 'military-orders':
-      return <MilitaryOrdersWidget news={middleEastNews} country={country} />
+      return <MilitaryOrdersWidget news={primaryTopicNews} country={country} />
     case 'evacuation':
       return <EvacuationWidget helpData={helpData} />
     case 'essentials':
       return <EssentialsWidget country={country} />
     case 'news-ticker':
-      return <NewsTickerWidget news={filterTopic ? filteredNews : middleEastNews} title="Latest Updates" />
+      return <NewsTickerWidget news={filteredNews} title="Latest Updates" />
     case 'articles':
-      return <ArticlesWidget news={filterTopic ? filteredNews : middleEastNews} title="Key Articles" />
+      return <ArticlesWidget news={filteredNews} title="Key Articles" />
     case 'threat-assessment':
       return <ThreatAssessmentWidget country={country} />
     case 'economy':
