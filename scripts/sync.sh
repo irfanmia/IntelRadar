@@ -20,6 +20,7 @@ case "$PHASE" in
   phase1)
     echo "=== $(date) PHASE 1: News + Financial + Countries Batch 1 ===" >> "$LOG"
     npx tsx scripts/fetch-data.ts >> "$LOG" 2>&1
+    npx tsx scripts/fetch-flights.ts >> "$LOG" 2>&1
     npx tsx scripts/fetch-status.ts --batch 1 >> "$LOG" 2>&1
     echo "=== Phase 1 Done ===" >> "$LOG"
     ;;
