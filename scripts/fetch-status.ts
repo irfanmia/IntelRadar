@@ -203,12 +203,25 @@ function refineCommsStatus(
 
 // --- Main ---
 async function main() {
-  log('=== IntelRadar Status Fetch Started ===')
+  // Support --batch N (1, 2, or 3) to process only a subset of countries
+  const batchArg = process.argv.indexOf('--batch')
+  const batchNum = batchArg >= 0 ? parseInt(process.argv[batchArg + 1]) : 0  // 0 = all
+
+  log(`=== IntelRadar Status Fetch Started (batch: ${batchNum || 'all'}) ===`)
 
   const dbPath = join(import.meta.dirname || __dirname, '..', 'public', 'data', 'help-db.json')
   const feedPath = join(import.meta.dirname || __dirname, '..', 'public', 'data', 'live-feed.json')
   const db = JSON.parse(readFileSync(dbPath, 'utf-8'))
-  const slugs = Object.keys(db.countries)
+  let slugs = Object.keys(db.countries)
+
+  // Split into 3 batches if requested
+  if (batchNum >= 1 && batchNum <= 3) {
+    const totalBatches = 3
+    const perBatch = Math.ceil(slugs.length / totalBatches)
+    const start = (batchNum - 1) * perBatch
+    slugs = slugs.slice(start, start + perBatch)
+    log(`  Processing batch ${batchNum}: ${slugs.length} countries (${slugs[0]} ... ${slugs[slugs.length - 1]})`)
+  }
 
   // Load recent news headlines for context-aware status derivation
   let newsHeadlines: string[] = []
