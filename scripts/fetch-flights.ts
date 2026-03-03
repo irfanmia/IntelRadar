@@ -34,45 +34,144 @@ interface AirportBoard {
   arrivals: FlightEntry[]
 }
 
-// Primary airport per country (IATA code)
-const COUNTRY_AIRPORTS: Record<string, { iata: string; name: string; city: string }> = {
-  'united-arab-emirates': { iata: 'DXB', name: 'Dubai International', city: 'Dubai' },
-  'saudi-arabia': { iata: 'RUH', name: 'King Khalid International', city: 'Riyadh' },
-  india: { iata: 'DEL', name: 'Indira Gandhi International', city: 'Delhi' },
-  pakistan: { iata: 'ISB', name: 'Islamabad International', city: 'Islamabad' },
-  'united-kingdom': { iata: 'LHR', name: 'London Heathrow', city: 'London' },
-  'united-states': { iata: 'JFK', name: 'John F. Kennedy International', city: 'New York' },
-  turkey: { iata: 'IST', name: 'Istanbul Airport', city: 'Istanbul' },
-  qatar: { iata: 'DOH', name: 'Hamad International', city: 'Doha' },
-  egypt: { iata: 'CAI', name: 'Cairo International', city: 'Cairo' },
-  japan: { iata: 'NRT', name: 'Narita International', city: 'Tokyo' },
-  'south-korea': { iata: 'ICN', name: 'Incheon International', city: 'Seoul' },
-  germany: { iata: 'FRA', name: 'Frankfurt Airport', city: 'Frankfurt' },
-  france: { iata: 'CDG', name: 'Charles de Gaulle', city: 'Paris' },
-  australia: { iata: 'SYD', name: 'Sydney Kingsford Smith', city: 'Sydney' },
-  russia: { iata: 'SVO', name: 'Sheremetyevo', city: 'Moscow' },
-  ukraine: { iata: 'KBP', name: 'Boryspil International', city: 'Kyiv' },
-  china: { iata: 'PEK', name: 'Beijing Capital', city: 'Beijing' },
-  lebanon: { iata: 'BEY', name: 'Rafic Hariri International', city: 'Beirut' },
-  israel: { iata: 'TLV', name: 'Ben Gurion International', city: 'Tel Aviv' },
-  iraq: { iata: 'BGW', name: 'Baghdad International', city: 'Baghdad' },
-  iran: { iata: 'IKA', name: 'Imam Khomeini International', city: 'Tehran' },
-  jordan: { iata: 'AMM', name: 'Queen Alia International', city: 'Amman' },
-  kuwait: { iata: 'KWI', name: 'Kuwait International', city: 'Kuwait City' },
-  bahrain: { iata: 'BAH', name: 'Bahrain International', city: 'Manama' },
-  oman: { iata: 'MCT', name: 'Muscat International', city: 'Muscat' },
-  syria: { iata: 'DAM', name: 'Damascus International', city: 'Damascus' },
-  yemen: { iata: 'SAH', name: "Sana'a International", city: "Sana'a" },
-  sudan: { iata: 'KRT', name: 'Khartoum International', city: 'Khartoum' },
-  palestine: { iata: 'GZA', name: 'Gaza International (Closed)', city: 'Gaza' },
-  'north-korea': { iata: 'FNJ', name: 'Pyongyang Sunan', city: 'Pyongyang' },
-  nigeria: { iata: 'LOS', name: 'Murtala Muhammed', city: 'Lagos' },
-  kenya: { iata: 'NBO', name: 'Jomo Kenyatta', city: 'Nairobi' },
-  'south-africa': { iata: 'JNB', name: 'OR Tambo International', city: 'Johannesburg' },
-  brazil: { iata: 'GRU', name: 'São Paulo–Guarulhos', city: 'São Paulo' },
-  canada: { iata: 'YYZ', name: 'Toronto Pearson', city: 'Toronto' },
-  taiwan: { iata: 'TPE', name: 'Taiwan Taoyuan', city: 'Taipei' },
-  venezuela: { iata: 'CCS', name: 'Simón Bolívar', city: 'Caracas' },
+// All international airports per country
+type AirportInfo = { iata: string; name: string; city: string }
+const COUNTRY_AIRPORTS: Record<string, AirportInfo[]> = {
+  'united-arab-emirates': [
+    { iata: 'DXB', name: 'Dubai International', city: 'Dubai' },
+    { iata: 'AUH', name: 'Abu Dhabi International', city: 'Abu Dhabi' },
+    { iata: 'SHJ', name: 'Sharjah International', city: 'Sharjah' },
+    { iata: 'DWC', name: 'Al Maktoum International', city: 'Dubai' },
+    { iata: 'RKT', name: 'Ras Al Khaimah International', city: 'Ras Al Khaimah' },
+  ],
+  'saudi-arabia': [
+    { iata: 'RUH', name: 'King Khalid International', city: 'Riyadh' },
+    { iata: 'JED', name: 'King Abdulaziz International', city: 'Jeddah' },
+    { iata: 'DMM', name: 'King Fahd International', city: 'Dammam' },
+    { iata: 'MED', name: 'Prince Mohammad International', city: 'Medina' },
+  ],
+  india: [
+    { iata: 'DEL', name: 'Indira Gandhi International', city: 'Delhi' },
+    { iata: 'BOM', name: 'Chhatrapati Shivaji International', city: 'Mumbai' },
+    { iata: 'BLR', name: 'Kempegowda International', city: 'Bangalore' },
+    { iata: 'MAA', name: 'Chennai International', city: 'Chennai' },
+    { iata: 'CCU', name: 'Netaji Subhas Chandra Bose', city: 'Kolkata' },
+    { iata: 'HYD', name: 'Rajiv Gandhi International', city: 'Hyderabad' },
+    { iata: 'COK', name: 'Cochin International', city: 'Kochi' },
+    { iata: 'GOI', name: 'Goa International', city: 'Goa' },
+  ],
+  pakistan: [
+    { iata: 'ISB', name: 'Islamabad International', city: 'Islamabad' },
+    { iata: 'KHI', name: 'Jinnah International', city: 'Karachi' },
+    { iata: 'LHE', name: 'Allama Iqbal International', city: 'Lahore' },
+    { iata: 'PEW', name: 'Bacha Khan International', city: 'Peshawar' },
+  ],
+  'united-kingdom': [
+    { iata: 'LHR', name: 'London Heathrow', city: 'London' },
+    { iata: 'LGW', name: 'London Gatwick', city: 'London' },
+    { iata: 'MAN', name: 'Manchester Airport', city: 'Manchester' },
+    { iata: 'STN', name: 'London Stansted', city: 'London' },
+    { iata: 'EDI', name: 'Edinburgh Airport', city: 'Edinburgh' },
+  ],
+  'united-states': [
+    { iata: 'JFK', name: 'John F. Kennedy International', city: 'New York' },
+    { iata: 'LAX', name: 'Los Angeles International', city: 'Los Angeles' },
+    { iata: 'ORD', name: "O'Hare International", city: 'Chicago' },
+    { iata: 'ATL', name: 'Hartsfield-Jackson', city: 'Atlanta' },
+    { iata: 'DFW', name: 'Dallas/Fort Worth', city: 'Dallas' },
+    { iata: 'SFO', name: 'San Francisco International', city: 'San Francisco' },
+  ],
+  turkey: [
+    { iata: 'IST', name: 'Istanbul Airport', city: 'Istanbul' },
+    { iata: 'SAW', name: 'Sabiha Gökçen', city: 'Istanbul' },
+    { iata: 'AYT', name: 'Antalya Airport', city: 'Antalya' },
+    { iata: 'ESB', name: 'Esenboğa International', city: 'Ankara' },
+  ],
+  qatar: [{ iata: 'DOH', name: 'Hamad International', city: 'Doha' }],
+  egypt: [
+    { iata: 'CAI', name: 'Cairo International', city: 'Cairo' },
+    { iata: 'HRG', name: 'Hurghada International', city: 'Hurghada' },
+    { iata: 'SSH', name: 'Sharm El Sheikh International', city: 'Sharm El Sheikh' },
+  ],
+  japan: [
+    { iata: 'NRT', name: 'Narita International', city: 'Tokyo' },
+    { iata: 'HND', name: 'Haneda Airport', city: 'Tokyo' },
+    { iata: 'KIX', name: 'Kansai International', city: 'Osaka' },
+  ],
+  'south-korea': [
+    { iata: 'ICN', name: 'Incheon International', city: 'Seoul' },
+    { iata: 'GMP', name: 'Gimpo International', city: 'Seoul' },
+  ],
+  germany: [
+    { iata: 'FRA', name: 'Frankfurt Airport', city: 'Frankfurt' },
+    { iata: 'MUC', name: 'Munich Airport', city: 'Munich' },
+    { iata: 'BER', name: 'Berlin Brandenburg', city: 'Berlin' },
+  ],
+  france: [
+    { iata: 'CDG', name: 'Charles de Gaulle', city: 'Paris' },
+    { iata: 'ORY', name: 'Paris Orly', city: 'Paris' },
+    { iata: 'NCE', name: 'Nice Côte d\'Azur', city: 'Nice' },
+  ],
+  australia: [
+    { iata: 'SYD', name: 'Sydney Kingsford Smith', city: 'Sydney' },
+    { iata: 'MEL', name: 'Melbourne Tullamarine', city: 'Melbourne' },
+    { iata: 'BNE', name: 'Brisbane Airport', city: 'Brisbane' },
+  ],
+  russia: [
+    { iata: 'SVO', name: 'Sheremetyevo', city: 'Moscow' },
+    { iata: 'DME', name: 'Domodedovo', city: 'Moscow' },
+    { iata: 'LED', name: 'Pulkovo Airport', city: 'St. Petersburg' },
+  ],
+  ukraine: [{ iata: 'KBP', name: 'Boryspil International', city: 'Kyiv' }],
+  china: [
+    { iata: 'PEK', name: 'Beijing Capital', city: 'Beijing' },
+    { iata: 'PVG', name: 'Shanghai Pudong', city: 'Shanghai' },
+    { iata: 'CAN', name: 'Guangzhou Baiyun', city: 'Guangzhou' },
+    { iata: 'HKG', name: 'Hong Kong International', city: 'Hong Kong' },
+  ],
+  lebanon: [{ iata: 'BEY', name: 'Rafic Hariri International', city: 'Beirut' }],
+  israel: [{ iata: 'TLV', name: 'Ben Gurion International', city: 'Tel Aviv' }],
+  iraq: [
+    { iata: 'BGW', name: 'Baghdad International', city: 'Baghdad' },
+    { iata: 'EBL', name: 'Erbil International', city: 'Erbil' },
+  ],
+  iran: [
+    { iata: 'IKA', name: 'Imam Khomeini International', city: 'Tehran' },
+    { iata: 'THR', name: 'Mehrabad International', city: 'Tehran' },
+    { iata: 'MHD', name: 'Mashhad International', city: 'Mashhad' },
+  ],
+  jordan: [{ iata: 'AMM', name: 'Queen Alia International', city: 'Amman' }],
+  kuwait: [{ iata: 'KWI', name: 'Kuwait International', city: 'Kuwait City' }],
+  bahrain: [{ iata: 'BAH', name: 'Bahrain International', city: 'Manama' }],
+  oman: [
+    { iata: 'MCT', name: 'Muscat International', city: 'Muscat' },
+    { iata: 'SLL', name: 'Salalah Airport', city: 'Salalah' },
+  ],
+  syria: [{ iata: 'DAM', name: 'Damascus International', city: 'Damascus' }],
+  yemen: [{ iata: 'SAH', name: "Sana'a International", city: "Sana'a" }],
+  sudan: [{ iata: 'KRT', name: 'Khartoum International', city: 'Khartoum' }],
+  palestine: [{ iata: 'GZA', name: 'Gaza International (Closed)', city: 'Gaza' }],
+  'north-korea': [{ iata: 'FNJ', name: 'Pyongyang Sunan', city: 'Pyongyang' }],
+  nigeria: [
+    { iata: 'LOS', name: 'Murtala Muhammed', city: 'Lagos' },
+    { iata: 'ABV', name: 'Nnamdi Azikiwe', city: 'Abuja' },
+  ],
+  kenya: [{ iata: 'NBO', name: 'Jomo Kenyatta', city: 'Nairobi' }],
+  'south-africa': [
+    { iata: 'JNB', name: 'OR Tambo International', city: 'Johannesburg' },
+    { iata: 'CPT', name: 'Cape Town International', city: 'Cape Town' },
+  ],
+  brazil: [
+    { iata: 'GRU', name: 'São Paulo–Guarulhos', city: 'São Paulo' },
+    { iata: 'GIG', name: 'Rio de Janeiro–Galeão', city: 'Rio de Janeiro' },
+  ],
+  canada: [
+    { iata: 'YYZ', name: 'Toronto Pearson', city: 'Toronto' },
+    { iata: 'YVR', name: 'Vancouver International', city: 'Vancouver' },
+    { iata: 'YUL', name: 'Montréal-Trudeau', city: 'Montréal' },
+  ],
+  taiwan: [{ iata: 'TPE', name: 'Taiwan Taoyuan', city: 'Taipei' }],
+  venezuela: [{ iata: 'CCS', name: 'Simón Bolívar', city: 'Caracas' }],
 }
 
 const FR24_BASE = 'https://api.flightradar24.com/common/v1/airport.json'
@@ -174,32 +273,36 @@ async function main() {
   const entries = Object.entries(COUNTRY_AIRPORTS)
   let successCount = 0
   let failCount = 0
+  let totalAirports = 0
 
   for (let i = 0; i < entries.length; i++) {
-    const [slug, airport] = entries[i]
-    console.log(`  [${i + 1}/${entries.length}] ${airport.iata} (${airport.city})...`)
+    const [slug, airports] = entries[i]
+    result[slug] = []
 
-    const departures = await fetchSchedule(airport.iata, 'departures')
-    // Small delay to avoid rate limiting
-    await sleep(800)
-    const arrivals = await fetchSchedule(airport.iata, 'arrivals')
+    for (let j = 0; j < airports.length; j++) {
+      const airport = airports[j]
+      totalAirports++
+      console.log(`  [${totalAirports}] ${airport.iata} (${airport.city}) — ${slug}...`)
 
-    if (departures.length > 0 || arrivals.length > 0) {
-      successCount++
-    } else {
-      failCount++
-    }
+      const departures = await fetchSchedule(airport.iata, 'departures')
+      await sleep(800)
+      const arrivals = await fetchSchedule(airport.iata, 'arrivals')
 
-    result[slug] = [{
-      iata: airport.iata,
-      name: airport.name,
-      city: airport.city,
-      departures,
-      arrivals,
-    }]
+      if (departures.length > 0 || arrivals.length > 0) {
+        successCount++
+      } else {
+        failCount++
+      }
 
-    // Delay between airports to avoid rate limiting
-    if (i < entries.length - 1) {
+      result[slug].push({
+        iata: airport.iata,
+        name: airport.name,
+        city: airport.city,
+        departures,
+        arrivals,
+      })
+
+      // Delay between airports to avoid rate limiting
       await sleep(1200)
     }
   }
@@ -214,10 +317,15 @@ async function main() {
   // Merge: keep existing data for airports that returned empty this time
   if (existing?.airports) {
     for (const [slug, boards] of Object.entries(existing.airports as Record<string, AirportBoard[]>)) {
-      if (result[slug]?.[0]?.departures?.length === 0 && result[slug]?.[0]?.arrivals?.length === 0) {
-        if (boards?.[0]?.departures?.length > 0) {
-          result[slug] = boards
-          console.log(`  ↩ Kept cached data for ${slug}`)
+      if (!result[slug]) continue
+      for (let k = 0; k < result[slug].length; k++) {
+        const cur = result[slug][k]
+        if (cur.departures.length === 0 && cur.arrivals.length === 0) {
+          const cached = (boards || []).find(b => b.iata === cur.iata)
+          if (cached && (cached.departures?.length > 0 || cached.arrivals?.length > 0)) {
+            result[slug][k] = cached
+            console.log(`  ↩ Kept cached data for ${cur.iata}`)
+          }
         }
       }
     }
