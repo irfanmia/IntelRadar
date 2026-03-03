@@ -52,12 +52,23 @@ function determineUrgency(text: string): 'breaking' | 'important' | 'info' {
 }
 
 function determineTopic(text: string): string {
-  const lower = text.toLowerCase()
+  // Strip HTML tags and URLs to avoid false matches from link hrefs
+  const clean = text.replace(/<[^>]+>/g, ' ').replace(/https?:\/\/\S+/g, ' ').replace(/\s+/g, ' ').toLowerCase()
+
+  // Use word-boundary matching to avoid substring false positives (e.g., "iran" in "veteran")
+  function hasWord(kw: string): boolean {
+    // Keywords with trailing space (like 'pla ') use includes
+    if (kw.endsWith(' ')) return clean.includes(kw)
+    // Otherwise use word boundary regex
+    const re = new RegExp(`\\b${kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i')
+    return re.test(clean)
+  }
+
   const mapping: [string[], string][] = [
-    // Ukraine-Russia (check before middle-east since some keywords overlap)
-    [['ukraine', 'kyiv', 'zelensky', 'zelenskyy', 'kremlin', 'putin', 'donetsk', 'crimea', 'kherson', 'zaporizhzhia', 'bakhmut', 'pokrovsk', 'dnipro', 'odesa', 'nato expansion', 'wagner'], 'ukraine-russia'],
+    // Ukraine-Russia
+    [['ukraine', 'kyiv', 'zelensky', 'zelenskyy', 'kremlin', 'putin', 'donetsk', 'crimea', 'kherson', 'zaporizhzhia', 'bakhmut', 'pokrovsk', 'dnipro', 'odesa', 'nato expansion', 'wagner group'], 'ukraine-russia'],
     // China-Taiwan
-    [['taiwan', 'taipei', 'pla ', 'south china sea', 'china military', 'strait of taiwan', 'tsai ing', 'lai ching', 'aukus', 'china drill', 'china exercise'], 'china-taiwan'],
+    [['taiwan', 'taipei', 'pla ', 'south china sea', 'china military', 'strait of taiwan', 'tsai ing-wen', 'lai ching-te', 'aukus', 'china drill', 'china exercise'], 'china-taiwan'],
     // Taliban-Pakistan
     [['taliban', 'ttp ', 'waziristan', 'balochistan', 'peshawar', 'khyber', 'pakistan army', 'afghan border', 'pashtun'], 'taliban-pakistan'],
     // Venezuela
@@ -67,12 +78,12 @@ function determineTopic(text: string): string {
     // Korean Peninsula
     [['north korea', 'pyongyang', 'kim jong', 'icbm', 'hwasong', 'korean peninsula', 'dmz ', 'denuclearization'], 'korea'],
     // Sahel
-    [['sahel', 'mali ', 'niger ', 'burkina faso', 'wagner africa', 'junta ', 'francophone'], 'sahel'],
+    [['sahel', 'mali coup', 'niger coup', 'burkina faso', 'wagner africa', 'ecowas'], 'sahel'],
     // Middle East / US-Israel-Iran (broadest — keep last)
-    [['gaza', 'israel', 'palestine', 'hamas', 'hezbollah', 'lebanon', 'syria', 'iran', 'iraq', 'yemen', 'houthi', 'west bank', 'middle east', 'netanyahu', 'tehran', 'idf ', 'irgc', 'khamenei', 'beersheba', 'tel aviv', 'beirut', 'pentagon', 'us strike', 'israeli', 'iranian'], 'middle-east'],
+    [['gaza', 'israel', 'palestine', 'hamas', 'hezbollah', 'lebanon war', 'syria', 'iran', 'iraq war', 'yemen', 'houthi', 'west bank', 'middle east', 'netanyahu', 'tehran', 'idf', 'irgc', 'khamenei', 'beersheba', 'tel aviv', 'beirut', 'pentagon strike', 'us strike', 'israeli', 'iranian', 'airspace closed', 'iron dome'], 'middle-east'],
   ]
   for (const [keywords, topic] of mapping) {
-    if (keywords.some(k => lower.includes(k))) return topic
+    if (keywords.some(k => hasWord(k))) return topic
   }
   return 'general'
 }
@@ -108,13 +119,15 @@ async function fetchRSS(url: string, sourceName: string, logo: string, sourceUrl
     const rawItems = extractItems(xml)
     log(`  Got ${rawItems.length} items from ${sourceName}`)
     return rawItems.slice(0, 20).map((item, i) => {
+      // Classify topic based on TITLE ONLY (descriptions often contain cross-linked/irrelevant content)
+      // Use full text only for urgency detection
       const combined = `${item.title} ${item.description}`
       return {
         id: `${sourceName.toLowerCase().replace(/\s/g, '-')}-${i}`,
         headline: item.title,
         summary: item.description.slice(0, 300) || item.title,
         urgency: determineUrgency(combined),
-        topic: determineTopic(combined),
+        topic: determineTopic(item.title),
         sources: [{ name: sourceName, logo, url: sourceUrl, category }],
         timestamp: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
         widgetType: 'news' as const,

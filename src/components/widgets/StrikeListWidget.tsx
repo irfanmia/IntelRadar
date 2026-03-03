@@ -9,8 +9,20 @@ interface Props {
 }
 
 export default function StrikeListWidget({ news }: Props) {
+  // Only show genuinely conflict-related breaking news, not random crime/politics
+  const STRIKE_KEYWORDS = /\b(strike|missile|bomb|shell|rocket|drone|airstrike|air strike|attack|offensive|troops|military|war|invasion|ceasefire|airspace|frontline|artillery|casualties|killed in|massacre|raid|retaliat|escalat|conflict|combat|iron dome|intercepted)\b/i
+  const EXCLUDE_KEYWORDS = /\b(bar shooting|police shooting|domestic|robbery|theft|basketball|football|soccer|cricket|tennis|movie|album|concert|stock market|weather|recipe)\b/i
+
   const strikes = news
-    .filter(n => n.urgency === 'breaking')
+    .filter(n => {
+      if (n.urgency !== 'breaking') return false
+      const text = `${n.headline} ${n.summary}`
+      // Must contain conflict-related keywords
+      if (!STRIKE_KEYWORDS.test(text)) return false
+      // Must not contain obvious non-conflict keywords
+      if (EXCLUDE_KEYWORDS.test(text)) return false
+      return true
+    })
     .slice(0, 8)
     .map(n => ({
       headline: n.headline,
