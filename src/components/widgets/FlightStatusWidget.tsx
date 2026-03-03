@@ -6,16 +6,17 @@ import WidgetCard from './WidgetCard'
 interface FlightEntry {
   flight: string
   airline: string
-  airlineIata: string
+  airlineIata?: string
   destination: string
-  destCity: string
+  destCity?: string
   destIata: string
   time: string
-  timeUnix: number
-  terminal: string
-  gate: string
+  timeUnix?: number
+  terminal?: string
+  gate?: string
   status: string
-  statusColor: string
+  statusText?: string
+  statusColor?: string
   type: 'departure' | 'arrival'
 }
 
@@ -38,15 +39,18 @@ interface Props {
   airportStatus?: string
 }
 
-function statusStyle(color: string, text: string): { color: string; label: string } {
-  if (color === 'red') return { color: '#ff3333', label: text.toUpperCase() }
-  if (color === 'yellow') return { color: '#ffaa00', label: text.toUpperCase() }
-  if (color === 'green') return { color: '#00ff41', label: text.toUpperCase() }
-  return { color: '#666666', label: text.toUpperCase() }
+function statusStyle(status: string): { color: string; label: string } {
+  const s = status.toLowerCase()
+  if (s.includes('cancel') || s.includes('suspend')) return { color: '#ff3333', label: (status || 'CANCELLED').toUpperCase() }
+  if (s.includes('delay')) return { color: '#ffaa00', label: (status || 'DELAYED').toUpperCase() }
+  if (s.includes('depart') || s.includes('land') || s.includes('arriv')) return { color: '#666666', label: (status || 'DEPARTED').toUpperCase() }
+  if (s.includes('on-time') || s.includes('on time') || s.includes('schedul')) return { color: '#00ff41', label: 'ON TIME' }
+  if (s.includes('board')) return { color: '#00ff41', label: 'BOARDING' }
+  return { color: '#00ff41', label: (status || 'ON TIME').toUpperCase() }
 }
 
 function FlightRow({ flight }: { flight: FlightEntry }) {
-  const s = statusStyle(flight.statusColor, flight.status)
+  const s = statusStyle(flight.statusText || flight.status)
   return (
     <div className="flex items-center gap-1 py-[3px] border-b border-[#1a2a1a] last:border-0 text-[11px] font-mono tracking-wide">
       <span className="w-[56px] text-[#c0ffc0] font-bold shrink-0">{flight.flight}</span>
@@ -77,8 +81,8 @@ export default function FlightStatusWidget({ country, airportStatus }: Props) {
   const board = Array.isArray(raw) ? raw[0] : raw
   const flights = board ? (showArrivals ? board.arrivals : board.departures) : []
 
-  const cancelledCount = flights.filter(f => f.statusColor === 'red').length
-  const delayedCount = flights.filter(f => f.statusColor === 'yellow').length
+  const cancelledCount = flights.filter(f => (f.status || '').toLowerCase().includes('cancel') || (f.status || '').toLowerCase().includes('suspend')).length
+  const delayedCount = flights.filter(f => (f.status || '').toLowerCase().includes('delay')).length
 
   const summaryEmoji = airportStatus === 'closed' ? '🚫' :
     cancelledCount > 5 ? '🚫' :
