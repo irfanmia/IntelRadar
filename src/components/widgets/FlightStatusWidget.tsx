@@ -30,7 +30,7 @@ interface AirportBoard {
 
 interface FlightsData {
   lastUpdated: string
-  airports: Record<string, AirportBoard>
+  airports: Record<string, AirportBoard | AirportBoard[]>
 }
 
 interface Props {
@@ -72,7 +72,9 @@ export default function FlightStatusWidget({ country, airportStatus }: Props) {
       .catch(() => {})
   }, [])
 
-  const board = data?.airports?.[slug]
+  // Handle both array format [{...}] and direct object {...}
+  const raw = data?.airports?.[slug]
+  const board = Array.isArray(raw) ? raw[0] : raw
   const flights = board ? (showArrivals ? board.arrivals : board.departures) : []
 
   const cancelledCount = flights.filter(f => f.statusColor === 'red').length
