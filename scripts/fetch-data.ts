@@ -208,8 +208,30 @@ async function fetchOilPrice(): Promise<FinancialEntry> {
 async function main() {
   log('=== IntelRadar Data Fetch Started ===')
 
+  // Topic-specific Google News search fetcher — forces topic tag
+  async function fetchTopicNews(query: string, topic: string): Promise<FeedItem[]> {
+    const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en&gl=US&ceid=US:en`
+    const items = await fetchRSS(url, 'Google News', 'https://www.google.com/s2/favicons?domain=news.google.com&sz=32', 'https://news.google.com', 'global_media')
+    // Force-tag with correct topic since these are targeted searches
+    return items.map(item => ({ ...item, topic }))
+  }
+
   // Fetch all in parallel
   const feeds = await Promise.all([
+    // === TOPIC-SPECIFIC TARGETED SEARCHES ===
+    fetchTopicNews('US Israel Iran war latest updates 2026', 'middle-east'),
+    fetchTopicNews('Gaza Palestine Hamas conflict latest', 'middle-east'),
+    fetchTopicNews('Hezbollah Lebanon war strikes', 'middle-east'),
+    fetchTopicNews('Yemen Houthi Red Sea attacks', 'middle-east'),
+    fetchTopicNews('Ukraine Russia war frontline latest', 'ukraine-russia'),
+    fetchTopicNews('China Taiwan military tensions', 'china-taiwan'),
+    fetchTopicNews('Taliban Pakistan border conflict', 'taliban-pakistan'),
+    fetchTopicNews('Venezuela crisis Maduro latest', 'venezuela'),
+    fetchTopicNews('Sudan war Khartoum RSF latest', 'sudan'),
+    fetchTopicNews('North Korea missile nuclear tensions', 'korea'),
+    fetchTopicNews('Sahel Mali Niger Burkina Faso conflict', 'sahel'),
+
+    // === GENERAL RSS FEEDS ===
     // Global Media - General
     fetchRSS('https://www.aljazeera.com/xml/rss/all.xml', 'Al Jazeera', 'https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32', 'https://aljazeera.com'),
     fetchRSS('http://feeds.bbci.co.uk/news/world/rss.xml', 'BBC World', 'https://www.google.com/s2/favicons?domain=bbc.com&sz=32', 'https://bbc.com/news'),
