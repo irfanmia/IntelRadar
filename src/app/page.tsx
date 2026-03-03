@@ -9,12 +9,14 @@ import { getPreferences, savePreferences, clearPreferences } from '@/lib/prefere
 import { useLiveFeed } from '@/lib/useLiveFeed'
 import { UserPreferences, HelpDbCountry, WidgetId } from '@/types'
 import { countryFlagUrl } from '@/lib/countryFlags'
+import ImpactFilter from '@/components/ImpactFilter'
 
 export default function Home() {
   const [prefs, setPrefs] = useState<UserPreferences | null>(null)
   const [showHelp, setShowHelp] = useState(false)
   const [mounted, setMounted] = useState(false)
   const [helpDbData, setHelpDbData] = useState<HelpDbCountry | null>(null)
+  const [selectedImpactEvent, setSelectedImpactEvent] = useState<string | null>(null)
 
   useEffect(() => {
     setMounted(true)
@@ -98,6 +100,10 @@ export default function Home() {
         onToggleHelp={setShowHelp}
       />
 
+      {!showHelp && (
+        <ImpactFilter selectedEvent={selectedImpactEvent} onSelectEvent={setSelectedImpactEvent} />
+      )}
+
       <AnimatePresence mode="wait">
         {showHelp ? (
           <motion.div key="help" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="px-4 sm:px-6 py-4">
@@ -118,6 +124,7 @@ export default function Home() {
                 helpData={helpDbData}
                 widgets={widgets}
                 onUpdateWidgets={updateWidgets}
+                filterTopic={selectedImpactEvent}
               />
             )}
           </motion.div>

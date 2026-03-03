@@ -25,6 +25,7 @@ import SanctionsWidget from './SanctionsWidget'
 import HowToHelpWidget from './HowToHelpWidget'
 import InvestmentWidget from './InvestmentWidget'
 import ArticlesWidget from './ArticlesWidget'
+import { getImpactEventIds } from '@/lib/countryImpact'
 
 interface Props {
   country: string
@@ -33,16 +34,34 @@ interface Props {
   helpData: HelpDbCountry | null
   widgets: WidgetId[]
   onUpdateWidgets: (widgets: WidgetId[]) => void
+  filterTopic?: string | null
 }
 
-function RenderWidget({ id, country, news, financials, helpData }: {
+function RenderWidget({ id, country, news, financials, helpData, filterTopic }: {
   id: WidgetId
   country: string
   news: NewsItem[]
   financials: Props['financials']
   helpData: HelpDbCountry | null
+  filterTopic?: string | null
 }) {
-  const middleEastNews = news.filter(n => n.topic === 'middle-east')
+  const slug = country.toLowerCase().replace(/\s+/g, '-')
+  const impactOrder = getImpactEventIds(slug)
+
+  // Filter or sort news based on active impact filter
+  const filteredNews = filterTopic
+    ? news.filter(n => n.topic === filterTopic)
+    : news.sort((a, b) => {
+        const aIdx = impactOrder.indexOf(a.topic)
+        const bIdx = impactOrder.indexOf(b.topic)
+        const aScore = aIdx >= 0 ? aIdx : 999
+        const bScore = bIdx >= 0 ? bIdx : 999
+        return aScore - bScore
+      })
+
+  const middleEastNews = filterTopic
+    ? filteredNews
+    : news.filter(n => n.topic === 'middle-east')
 
   switch (id) {
     case 'safety-alert':
@@ -62,9 +81,9 @@ function RenderWidget({ id, country, news, financials, helpData }: {
     case 'essentials':
       return <EssentialsWidget country={country} />
     case 'news-ticker':
-      return <NewsTickerWidget news={middleEastNews} title="Latest Updates" />
+      return <NewsTickerWidget news={filterTopic ? filteredNews : middleEastNews} title="Latest Updates" />
     case 'articles':
-      return <ArticlesWidget news={middleEastNews} title="Key Articles" />
+      return <ArticlesWidget news={filterTopic ? filteredNews : middleEastNews} title="Key Articles" />
     case 'threat-assessment':
       return <ThreatAssessmentWidget country={country} />
     case 'economy':
@@ -96,13 +115,13 @@ function RenderWidget({ id, country, news, financials, helpData }: {
   }
 }
 
-export default function WidgetGrid({ country, news, financials, helpData, widgets, onUpdateWidgets }: Props) {
+export default function WidgetGrid({ country, news, financials, helpData, widgets, onUpdateWidgets, filterTopic }: Props) {
   return (
     <div className="px-4 sm:px-6 py-4 space-y-4">
       <div className="columns-1 md:columns-2 lg:columns-3 gap-4">
         {widgets.map(id => (
           <WidgetCloseProvider key={id} onClose={() => onUpdateWidgets(widgets.filter(w => w !== id))}>
-            <RenderWidget id={id} country={country} news={news} financials={financials} helpData={helpData} />
+            <RenderWidget id={id} country={country} news={news} financials={financials} helpData={helpData} filterTopic={filterTopic} />
           </WidgetCloseProvider>
         ))}
       </div>
