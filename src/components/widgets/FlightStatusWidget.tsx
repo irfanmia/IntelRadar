@@ -24,7 +24,7 @@ interface AirportBoard {
   iata: string
   name: string
   city: string
-  country: string
+  country?: string
   departures: FlightEntry[]
   arrivals: FlightEntry[]
 }
@@ -40,13 +40,15 @@ interface Props {
 }
 
 function statusStyle(status: string): { color: string; label: string } {
-  const s = status.toLowerCase()
-  if (s.includes('cancel') || s.includes('suspend')) return { color: '#ff3333', label: (status || 'CANCELLED').toUpperCase() }
-  if (s.includes('delay')) return { color: '#ffaa00', label: (status || 'DELAYED').toUpperCase() }
-  if (s.includes('depart') || s.includes('land') || s.includes('arriv')) return { color: '#666666', label: (status || 'DEPARTED').toUpperCase() }
-  if (s.includes('on-time') || s.includes('on time') || s.includes('schedul')) return { color: '#00ff41', label: 'ON TIME' }
+  const s = (status || '').toLowerCase()
+  if (s.includes('cancel') || s.includes('suspend')) return { color: '#ff3333', label: 'CANCELLED' }
+  if (s.includes('delay') || s.includes('estimated')) return { color: '#ffaa00', label: s.includes('estimated') ? status.toUpperCase() : 'DELAYED' }
+  if (s.includes('depart')) return { color: '#555555', label: 'DEPARTED' }
+  if (s.includes('land') || s.includes('arriv')) return { color: '#555555', label: 'LANDED' }
   if (s.includes('board')) return { color: '#00ff41', label: 'BOARDING' }
-  return { color: '#00ff41', label: (status || 'ON TIME').toUpperCase() }
+  if (s.includes('divert')) return { color: '#ff8800', label: 'DIVERTED' }
+  if (s.includes('on-time') || s.includes('on time') || s.includes('schedul')) return { color: '#00ff41', label: 'ON TIME' }
+  return { color: '#00ff41', label: (status || 'SCHEDULED').toUpperCase() }
 }
 
 function FlightRow({ flight }: { flight: FlightEntry }) {
@@ -63,6 +65,37 @@ function FlightRow({ flight }: { flight: FlightEntry }) {
   )
 }
 
+function getScenarios(cancelledCount: number, delayedCount: number, totalFlights: number, airportStatus?: string): string[] {
+  const scenarios: string[] = []
+  const cancelRate = totalFlights > 0 ? cancelledCount / totalFlights : 0
+
+  if (airportStatus === 'closed') {
+    scenarios.push('⛔ Airport operations likely to remain suspended until conflict de-escalation')
+    scenarios.push('🔄 Airlines may reroute via alternative airports in coming hours')
+    scenarios.push('📋 Mass rebooking expected — check airline websites for updates')
+  } else if (cancelRate > 0.7) {
+    scenarios.push('⚠️ Cancellations likely to continue for the next 6-12 hours')
+    scenarios.push('🔄 Some airlines may resume limited operations if airspace clears')
+    scenarios.push('💰 Expect ticket price surges on available alternative routes')
+    scenarios.push('🏨 Airport hotels filling up fast — book accommodation early')
+  } else if (cancelRate > 0.3) {
+    scenarios.push('📊 Disruptions expected to continue for 3-6 hours')
+    scenarios.push('✈️ Long-haul flights more likely to operate than regional routes')
+    scenarios.push('⏰ Expect extended delays even on flights marked "On Time"')
+    scenarios.push('🔀 Some flights may be rerouted to avoid restricted airspace')
+  } else if (delayedCount > 2) {
+    scenarios.push('🕐 Delays likely to cascade through the next 2-4 hours')
+    scenarios.push('✅ Most flights expected to eventually depart')
+    scenarios.push('📱 Enable airline push notifications for real-time updates')
+  } else {
+    scenarios.push('✅ Operations running normally — no major disruptions expected')
+    scenarios.push('📊 Monitor situation as geopolitical developments evolve')
+    scenarios.push('⏰ Arrive at airport with standard lead time')
+  }
+
+  return scenarios
+}
+
 export default function FlightStatusWidget({ country, airportStatus }: Props) {
   const [data, setData] = useState<FlightsData | null>(null)
   const [showArrivals, setShowArrivals] = useState(false)
@@ -76,23 +109,20 @@ export default function FlightStatusWidget({ country, airportStatus }: Props) {
       .catch(() => {})
   }, [])
 
-  // Handle both array format [{...}] and direct object {...}
   const raw = data?.airports?.[slug]
   const board = Array.isArray(raw) ? raw[0] : raw
   const flights = board ? (showArrivals ? board.arrivals : board.departures) : []
 
-  const cancelledCount = flights.filter(f => (f.status || '').toLowerCase().includes('cancel') || (f.status || '').toLowerCase().includes('suspend')).length
-  const delayedCount = flights.filter(f => (f.status || '').toLowerCase().includes('delay')).length
+  const cancelledCount = flights.filter(f => {
+    const s = (f.statusText || f.status || '').toLowerCase()
+    return s.includes('cancel') || s.includes('suspend')
+  }).length
+  const delayedCount = flights.filter(f => {
+    const s = (f.statusText || f.status || '').toLowerCase()
+    return s.includes('delay') || s.includes('estimated')
+  }).length
 
-  const summaryEmoji = airportStatus === 'closed' ? '🚫' :
-    cancelledCount > 5 ? '🚫' :
-    cancelledCount > 2 ? '⚠️' :
-    delayedCount > 2 ? '🟡' : '✅'
-
-  const summaryText = airportStatus === 'closed' ? 'Flights Suspended' :
-    cancelledCount > 5 ? 'Severe Disruptions' :
-    cancelledCount > 2 ? 'Major Cancellations' :
-    delayedCount > 2 ? 'Some Delays' : 'Mostly Operational'
+  const scenarios = getScenarios(cancelledCount, delayedCount, flights.length, airportStatus)
 
   return (
     <WidgetCard
@@ -101,77 +131,100 @@ export default function FlightStatusWidget({ country, airportStatus }: Props) {
       title="Live Flights"
       urgency={cancelledCount > 5 ? 'critical' : cancelledCount > 2 ? 'warning' : 'info'}
       expandedContent={
-        board ? (
-          <div className="relative rounded-lg overflow-hidden" style={{ background: '#0a120a' }}>
-            {/* Header bar */}
-            <div className="flex items-center justify-between px-3 py-2" style={{ background: '#0d1a0d', borderBottom: '1px solid #1a3a1a' }}>
-              <div className="flex items-center gap-2">
-                <span className="text-[13px]">✈️</span>
-                <span className="text-[#00ff41] font-mono text-xs font-bold">{board.iata}</span>
-                <span className="text-[#00ff41] font-mono text-xs font-bold uppercase">
-                  {showArrivals ? 'ARRIVALS' : 'DEPARTURES'}
-                </span>
+        <div className="space-y-3">
+          {/* Near-future scenarios */}
+          <div>
+            <p className="text-[10px] text-[var(--text-secondary)] uppercase tracking-wider mb-2 font-medium">Expected Scenarios — Next Few Hours</p>
+            <div className="space-y-2">
+              {scenarios.map((s, i) => (
+                <p key={i} className="text-xs text-[var(--text-secondary)]">{s}</p>
+              ))}
+            </div>
+          </div>
+
+          {/* Stats summary */}
+          {board && flights.length > 0 && (
+            <div className="grid grid-cols-3 gap-2 pt-2 border-t border-[var(--border)]">
+              <div className="text-center p-2 rounded-lg bg-[var(--bg-primary)]">
+                <p className="text-lg font-bold text-red-500">{cancelledCount}</p>
+                <p className="text-[9px] text-[var(--text-secondary)]">Cancelled</p>
               </div>
-              <button
-                onClick={(e) => { e.stopPropagation(); setShowArrivals(!showArrivals) }}
-                className="text-[10px] font-mono px-2 py-0.5 rounded border border-[#1a3a1a] text-[#88aa88] hover:text-[#00ff41] hover:border-[#00ff41] transition-colors"
-                style={{ background: '#0d1a0d' }}
-              >
-                {showArrivals ? 'DEP ▸' : '◂ ARR'}
-              </button>
+              <div className="text-center p-2 rounded-lg bg-[var(--bg-primary)]">
+                <p className="text-lg font-bold text-amber-500">{delayedCount}</p>
+                <p className="text-[9px] text-[var(--text-secondary)]">Delayed</p>
+              </div>
+              <div className="text-center p-2 rounded-lg bg-[var(--bg-primary)]">
+                <p className="text-lg font-bold text-green-500">{flights.length - cancelledCount - delayedCount}</p>
+                <p className="text-[9px] text-[var(--text-secondary)]">On Track</p>
+              </div>
             </div>
-
-            {/* Column headers */}
-            <div className="flex items-center gap-1 px-3 py-1 text-[9px] font-mono text-[#445544] uppercase tracking-widest" style={{ borderBottom: '1px solid #1a2a1a' }}>
-              <span className="w-[56px] shrink-0">Flight</span>
-              <span className="flex-1">{showArrivals ? 'Origin' : 'Dest'}</span>
-              <span className="w-[42px] text-right shrink-0">Time</span>
-              <span className="w-[82px] text-right shrink-0">Status</span>
-            </div>
-
-            {/* Flight rows */}
-            <div className="px-3 py-1 max-h-[280px] overflow-y-auto" style={{
-              scrollbarWidth: 'thin',
-              scrollbarColor: '#1a3a1a #0a120a',
-            }}>
-              {flights.length > 0 ? flights.map((f, i) => (
-                <FlightRow key={i} flight={f} />
-              )) : (
-                <div className="text-center text-[#ff3333] font-mono text-xs py-4">
-                  NO FLIGHT DATA AVAILABLE
-                </div>
-              )}
-            </div>
-
-            {/* Footer */}
-            <div className="px-3 py-1.5 text-[8px] font-mono text-[#334433] flex justify-between" style={{ borderTop: '1px solid #1a2a1a' }}>
-              <span>LIVE DATA • FLIGHTRADAR24</span>
-              <span>{board.name}</span>
-            </div>
-
-            {/* Scan-line overlay */}
-            <div className="absolute inset-0 pointer-events-none rounded-lg" style={{
-              background: 'repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,255,65,0.02) 2px, rgba(0,255,65,0.02) 4px)',
-            }} />
-          </div>
-        ) : (
-          <div className="text-xs text-[var(--text-secondary)]">
-            {airportStatus === 'closed' ? 'Airport operations suspended due to conflict.' : `No flight data available for ${country}`}
-          </div>
-        )
+          )}
+        </div>
       }
     >
-      <div className="flex items-center gap-3">
-        <div className="text-2xl">{summaryEmoji}</div>
-        <div>
-          <p className="text-sm font-bold">{summaryText}</p>
-          <p className="text-[10px] text-[var(--text-secondary)]">
-            {board
-              ? `${board.iata} ${board.city} • ${cancelledCount > 0 ? `${cancelledCount} cancelled` : flights.length + ' flights'}`
-              : `Airspace & flights for ${country}`}
-          </p>
+      {/* DEFAULT VIEW: Airport departure/arrival board */}
+      {board ? (
+        <div className="relative rounded-lg overflow-hidden -mx-1" style={{ background: '#0a120a' }}>
+          {/* Header bar */}
+          <div className="flex items-center justify-between px-3 py-2" style={{ background: '#0d1a0d', borderBottom: '1px solid #1a3a1a' }}>
+            <div className="flex items-center gap-2">
+              <span className="text-[13px]">✈️</span>
+              <span className="text-[#00ff41] font-mono text-xs font-bold">{board.iata}</span>
+              <span className="text-[#00ff41] font-mono text-xs font-bold uppercase">
+                {showArrivals ? 'ARRIVALS' : 'DEPARTURES'}
+              </span>
+            </div>
+            <button
+              onClick={(e) => { e.stopPropagation(); setShowArrivals(!showArrivals) }}
+              className="text-[10px] font-mono px-2 py-0.5 rounded border border-[#1a3a1a] text-[#88aa88] hover:text-[#00ff41] hover:border-[#00ff41] transition-colors"
+              style={{ background: '#0d1a0d' }}
+            >
+              {showArrivals ? 'DEP ▸' : '◂ ARR'}
+            </button>
+          </div>
+
+          {/* Column headers */}
+          <div className="flex items-center gap-1 px-3 py-1 text-[9px] font-mono text-[#445544] uppercase tracking-widest" style={{ borderBottom: '1px solid #1a2a1a' }}>
+            <span className="w-[56px] shrink-0">Flight</span>
+            <span className="flex-1">{showArrivals ? 'Origin' : 'Dest'}</span>
+            <span className="w-[42px] text-right shrink-0">Time</span>
+            <span className="w-[82px] text-right shrink-0">Status</span>
+          </div>
+
+          {/* Flight rows */}
+          <div className="px-3 py-1 max-h-[300px] overflow-y-auto" style={{
+            scrollbarWidth: 'thin',
+            scrollbarColor: '#1a3a1a #0a120a',
+          }}>
+            {flights.length > 0 ? flights.map((f, i) => (
+              <FlightRow key={i} flight={f} />
+            )) : (
+              <div className="text-center text-[#ff3333] font-mono text-xs py-4">
+                NO FLIGHT DATA AVAILABLE
+              </div>
+            )}
+          </div>
+
+          {/* Footer */}
+          <div className="px-3 py-1.5 text-[8px] font-mono text-[#334433] flex justify-between" style={{ borderTop: '1px solid #1a2a1a' }}>
+            <span>LIVE DATA • FLIGHTRADAR24</span>
+            <span>{board.name}</span>
+          </div>
+
+          {/* Scan-line overlay */}
+          <div className="absolute inset-0 pointer-events-none rounded-lg" style={{
+            background: 'repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,255,65,0.02) 2px, rgba(0,255,65,0.02) 4px)',
+          }} />
         </div>
-      </div>
+      ) : (
+        <div className="flex items-center gap-3">
+          <div className="text-2xl">{airportStatus === 'closed' ? '🚫' : '✈️'}</div>
+          <div>
+            <p className="text-sm font-bold">{airportStatus === 'closed' ? 'Flights Suspended' : 'Loading...'}</p>
+            <p className="text-[10px] text-[var(--text-secondary)]">Flight data for {country}</p>
+          </div>
+        </div>
+      )}
     </WidgetCard>
   )
 }

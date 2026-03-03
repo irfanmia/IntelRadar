@@ -100,7 +100,7 @@ function formatTime(ts: number | null): string {
 }
 
 async function fetchSchedule(iata: string, mode: 'departures' | 'arrivals'): Promise<FlightEntry[]> {
-  const url = `${FR24_BASE}?code=${iata.toLowerCase()}&plugin%5B%5D=schedule&plugin-setting%5Bschedule%5D%5Bmode%5D=${mode}&limit=10`
+  const url = `${FR24_BASE}?code=${iata.toLowerCase()}&plugin%5B%5D=schedule&plugin-setting%5Bschedule%5D%5Bmode%5D=${mode}&limit=15`
 
   try {
     const resp = await fetch(url, {
