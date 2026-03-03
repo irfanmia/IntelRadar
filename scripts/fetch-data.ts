@@ -282,7 +282,137 @@ async function main() {
   const outPath = join(outDir, 'live-feed.json')
   writeFileSync(outPath, JSON.stringify(feed, null, 2))
   log(`Written ${deduped.length} news items to ${outPath}`)
+
+  // --- Generate dynamic impact event scores from actual news data ---
+  generateImpactScores(deduped, outDir)
+
   log('=== Fetch Complete ===')
+}
+
+/**
+ * Analyze news to score impact events and generate dynamic rankings.
+ * Writes public/data/impact-events.json
+ */
+function generateImpactScores(news: FeedItem[], outDir: string) {
+  log('Generating dynamic impact event scores...')
+
+  const urgencyWeight = { breaking: 3, important: 2, info: 1 }
+
+  // Score each topic by article count × urgency
+  const topicScores: Record<string, { count: number; score: number; breaking: number; latest: string }> = {}
+  for (const item of news) {
+    if (!topicScores[item.topic]) {
+      topicScores[item.topic] = { count: 0, score: 0, breaking: 0, latest: item.timestamp }
+    }
+    const t = topicScores[item.topic]
+    t.count++
+    t.score += urgencyWeight[item.urgency] || 1
+    if (item.urgency === 'breaking') t.breaking++
+    if (new Date(item.timestamp) > new Date(t.latest)) t.latest = item.timestamp
+  }
+
+  // Rank events globally by score
+  const globalRanking = Object.entries(topicScores)
+    .sort(([, a], [, b]) => b.score - a.score)
+    .map(([topic, stats]) => ({
+      id: topic,
+      score: stats.score,
+      count: stats.count,
+      breaking: stats.breaking,
+      latest: stats.latest,
+    }))
+
+  // Country → topic affinity (base mapping, same as countryImpact.ts)
+  const COUNTRY_BASE: Record<string, string[]> = {
+    'iran': ['middle-east'], 'israel': ['middle-east'], 'palestine': ['middle-east'],
+    'lebanon': ['middle-east'], 'syria': ['middle-east', 'ukraine-russia'],
+    'iraq': ['middle-east'], 'yemen': ['middle-east'],
+    'united-arab-emirates': ['middle-east', 'sudan'],
+    'saudi-arabia': ['middle-east', 'sudan', 'sahel'],
+    'qatar': ['middle-east'], 'kuwait': ['middle-east'], 'bahrain': ['middle-east'],
+    'oman': ['middle-east'], 'jordan': ['middle-east'],
+    'egypt': ['middle-east', 'sudan'],
+    'turkey': ['middle-east', 'ukraine-russia'],
+    'pakistan': ['taliban-pakistan', 'middle-east', 'china-taiwan'],
+    'india': ['middle-east', 'taliban-pakistan', 'china-taiwan'],
+    'united-states': ['middle-east', 'ukraine-russia', 'china-taiwan', 'korea', 'venezuela'],
+    'united-kingdom': ['ukraine-russia', 'middle-east'],
+    'germany': ['ukraine-russia', 'middle-east'],
+    'france': ['ukraine-russia', 'middle-east', 'sahel'],
+    'ukraine': ['ukraine-russia'], 'russia': ['ukraine-russia', 'middle-east'],
+    'taiwan': ['china-taiwan', 'korea'],
+    'china': ['china-taiwan', 'korea', 'middle-east'],
+    'south-korea': ['korea', 'china-taiwan'], 'north-korea': ['korea', 'china-taiwan'],
+    'venezuela': ['venezuela', 'middle-east'],
+    'sudan': ['sudan', 'sahel', 'middle-east'],
+    'nigeria': ['sahel', 'sudan'], 'kenya': ['sudan', 'sahel'],
+    'south-africa': ['middle-east', 'sudan'],
+    'brazil': ['venezuela', 'middle-east'],
+    'canada': ['ukraine-russia', 'middle-east', 'china-taiwan'],
+    'australia': ['china-taiwan', 'korea', 'middle-east'],
+    'japan': ['china-taiwan', 'korea', 'middle-east'],
+    'afghanistan': ['taliban-pakistan', 'middle-east'],
+    'colombia': ['venezuela'],
+    'algeria': ['sahel', 'middle-east'], 'libya': ['middle-east', 'sahel'],
+    'morocco': ['sahel', 'middle-east'], 'ethiopia': ['sudan'],
+    'somalia': ['middle-east', 'sudan'],
+    'bangladesh': ['middle-east', 'taliban-pakistan'],
+    'indonesia': ['middle-east', 'china-taiwan'],
+    'malaysia': ['middle-east', 'china-taiwan'],
+    'philippines': ['china-taiwan', 'middle-east'],
+    'singapore': ['china-taiwan', 'middle-east'],
+    'thailand': ['china-taiwan', 'middle-east'],
+    'vietnam': ['china-taiwan', 'middle-east'],
+    'sri-lanka': ['middle-east', 'china-taiwan'],
+    'nepal': ['middle-east', 'china-taiwan'],
+    'myanmar': ['china-taiwan', 'middle-east'],
+    'new-zealand': ['china-taiwan', 'middle-east'],
+    'mexico': ['venezuela', 'middle-east'],
+    'south-sudan': ['sudan', 'sahel'],
+    'mali': ['sahel', 'sudan'], 'niger': ['sahel', 'sudan'],
+    'burkina-faso': ['sahel', 'sudan'],
+    'democratic-republic-of-congo': ['sudan', 'sahel'],
+  }
+
+  // For each country, re-rank their relevant events by current news score
+  const countryEvents: Record<string, string[]> = {}
+  for (const [country, baseEvents] of Object.entries(COUNTRY_BASE)) {
+    // Score each of the country's events by current news volume
+    const scored = baseEvents.map(eventId => ({
+      id: eventId,
+      newsScore: topicScores[eventId]?.score || 0,
+      hasBreaking: (topicScores[eventId]?.breaking || 0) > 0,
+    }))
+
+    // Sort: breaking events first, then by news score
+    scored.sort((a, b) => {
+      if (a.hasBreaking !== b.hasBreaking) return a.hasBreaking ? 1 : -1
+      return b.newsScore - a.newsScore
+    })
+
+    // Also check: if a globally hot event (top 3) affects this country's region but isn't
+    // in their base list, consider adding it
+    for (const global of globalRanking.slice(0, 3)) {
+      if (!baseEvents.includes(global.id) && global.score > 20) {
+        // Only add if it's REALLY big and there's a plausible connection
+        // (e.g., a new conflict everyone should know about)
+        scored.push({ id: global.id, newsScore: global.score, hasBreaking: global.breaking > 0 })
+      }
+    }
+
+    countryEvents[country] = scored.map(s => s.id)
+  }
+
+  const impactData = {
+    lastUpdated: new Date().toISOString(),
+    globalRanking,
+    countryEvents,
+  }
+
+  const impactPath = join(outDir, 'impact-events.json')
+  writeFileSync(impactPath, JSON.stringify(impactData, null, 2))
+  log(`  Global ranking: ${globalRanking.map(r => `${r.id}(${r.score})`).join(', ')}`)
+  log(`  Written impact events for ${Object.keys(countryEvents).length} countries`)
 }
 
 main().catch(e => { console.error(e); process.exit(1) })

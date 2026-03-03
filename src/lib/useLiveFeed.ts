@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { NewsItem, FinancialData, TimeRange } from '@/types'
+import { setDynamicImpactData } from '@/lib/countryImpact'
 
 interface LiveFeedData {
   lastUpdated: string
@@ -79,6 +80,23 @@ export function useLiveFeed(country: string) {
     }
     setLoading(false)
   }, [])
+
+  // Fetch dynamic impact events data
+  useEffect(() => {
+    async function loadImpactEvents() {
+      try {
+        const res = await fetch('/data/impact-events.json?' + Date.now())
+        if (res.ok) {
+          const data = await res.json()
+          setDynamicImpactData({
+            countryEvents: data.countryEvents,
+            globalRanking: data.globalRanking,
+          })
+        }
+      } catch {}
+    }
+    loadImpactEvents()
+  }, [feed?.lastUpdated]) // re-fetch when feed updates
 
   // Fetch historical data once
   useEffect(() => {

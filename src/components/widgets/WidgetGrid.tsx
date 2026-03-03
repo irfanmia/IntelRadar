@@ -64,7 +64,7 @@ function RenderWidget({ id, country, news, financials, helpData, filterTopic }: 
 
   switch (id) {
     case 'safety-alert':
-      return <SafetyAlertWidget country={country} advisoryLevel={helpData?.advisoryLevel} advisoryNote={helpData?.advisoryNote} commsStatus={helpData?.commsStatus} />
+      return <SafetyAlertWidget country={country} advisoryLevel={helpData?.advisoryLevel} advisoryNote={helpData?.advisoryNote} commsStatus={helpData?.commsStatus} filterTopic={filterTopic} />
     case 'strike-list':
       return <StrikeListWidget news={primaryTopicNews} />
     case 'comms-status':
@@ -78,13 +78,13 @@ function RenderWidget({ id, country, news, financials, helpData, filterTopic }: 
     case 'evacuation':
       return <EvacuationWidget helpData={helpData} />
     case 'essentials':
-      return <EssentialsWidget country={country} />
+      return <EssentialsWidget country={country} helpData={helpData} />
     case 'news-ticker':
       return <NewsTickerWidget news={filteredNews} title="Latest Updates" />
     case 'articles':
       return <ArticlesWidget news={filteredNews} title="Key Articles" />
     case 'threat-assessment':
-      return <ThreatAssessmentWidget country={country} />
+      return <ThreatAssessmentWidget country={country} helpData={helpData} />
     case 'economy':
       return <EconomyWidget stock={financials.stock} gold={financials.gold} oil={financials.oil} />
     case 'flight-status':
@@ -100,15 +100,15 @@ function RenderWidget({ id, country, news, financials, helpData, filterTopic }: 
     case 'market-impact':
       return <MarketImpactWidget stock={financials.stock} gold={financials.gold} />
     case 'geopolitics':
-      return <GeopoliticsWidget />
+      return <GeopoliticsWidget country={country} filterTopic={filterTopic} />
     case 'travel-safety':
-      return <TravelSafetyWidget />
+      return <TravelSafetyWidget country={country} filterTopic={filterTopic} helpData={helpData} />
     case 'sanctions':
-      return <SanctionsWidget />
+      return <SanctionsWidget country={country} filterTopic={filterTopic} />
     case 'how-to-help':
       return <HowToHelpWidget />
     case 'investment':
-      return <InvestmentWidget />
+      return <InvestmentWidget country={country} filterTopic={filterTopic} />
     default:
       return null
   }
