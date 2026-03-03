@@ -6,10 +6,16 @@ import WidgetCard from './WidgetCard'
 interface FlightEntry {
   flight: string
   airline: string
+  airlineIata: string
   destination: string
+  destCity: string
   destIata: string
   time: string
-  status: 'on-time' | 'delayed' | 'cancelled' | 'departed' | 'landed' | 'boarding' | 'suspended'
+  timeUnix: number
+  terminal: string
+  gate: string
+  status: string
+  statusColor: string
   type: 'departure' | 'arrival'
 }
 
@@ -17,13 +23,14 @@ interface AirportBoard {
   iata: string
   name: string
   city: string
+  country: string
   departures: FlightEntry[]
   arrivals: FlightEntry[]
 }
 
 interface FlightsData {
   lastUpdated: string
-  airports: Record<string, AirportBoard[]>
+  airports: Record<string, AirportBoard>
 }
 
 interface Props {
@@ -31,25 +38,22 @@ interface Props {
   airportStatus?: string
 }
 
-const STATUS_CONFIG: Record<string, { color: string; label: string; dot: string }> = {
-  'on-time':   { color: '#00ff41', label: 'ON TIME',   dot: '●' },
-  'boarding':  { color: '#00ff41', label: 'BOARDING',  dot: '●' },
-  'delayed':   { color: '#ffaa00', label: 'DELAYED',   dot: '●' },
-  'cancelled': { color: '#ff3333', label: 'CANCELLED', dot: '●' },
-  'suspended': { color: '#ff3333', label: 'SUSPENDED', dot: '●' },
-  'departed':  { color: '#666666', label: 'DEPARTED',  dot: '●' },
-  'landed':    { color: '#666666', label: 'LANDED',    dot: '●' },
+function statusStyle(color: string, text: string): { color: string; label: string } {
+  if (color === 'red') return { color: '#ff3333', label: text.toUpperCase() }
+  if (color === 'yellow') return { color: '#ffaa00', label: text.toUpperCase() }
+  if (color === 'green') return { color: '#00ff41', label: text.toUpperCase() }
+  return { color: '#666666', label: text.toUpperCase() }
 }
 
 function FlightRow({ flight }: { flight: FlightEntry }) {
-  const cfg = STATUS_CONFIG[flight.status] || STATUS_CONFIG['on-time']
+  const s = statusStyle(flight.statusColor, flight.status)
   return (
     <div className="flex items-center gap-1 py-[3px] border-b border-[#1a2a1a] last:border-0 text-[11px] font-mono tracking-wide">
       <span className="w-[56px] text-[#c0ffc0] font-bold shrink-0">{flight.flight}</span>
-      <span className="flex-1 text-[#88aa88] truncate">{flight.destIata} {flight.destination}</span>
+      <span className="flex-1 text-[#88aa88] truncate">{flight.destIata} {flight.destCity || flight.destination}</span>
       <span className="w-[42px] text-[#c0ffc0] text-right shrink-0">{flight.time}</span>
-      <span className="w-[82px] text-right shrink-0 font-bold" style={{ color: cfg.color }}>
-        <span className="text-[9px] mr-1">{cfg.dot}</span>{cfg.label}
+      <span className="w-[82px] text-right shrink-0 font-bold text-[10px] truncate" style={{ color: s.color }}>
+        {s.label}
       </span>
     </div>
   )
@@ -58,125 +62,96 @@ function FlightRow({ flight }: { flight: FlightEntry }) {
 export default function FlightStatusWidget({ country, airportStatus }: Props) {
   const [data, setData] = useState<FlightsData | null>(null)
   const [showArrivals, setShowArrivals] = useState(false)
-  const [selectedAirport, setSelectedAirport] = useState(0)
 
   const slug = country.toLowerCase().replace(/\s+/g, '-')
 
   useEffect(() => {
-    fetch('/data/flights.json')
-      .then(r => r.json())
-      .then(d => setData(d))
+    fetch('/data/flights.json?' + Date.now())
+      .then(r => r.ok ? r.json() : null)
+      .then(d => d && setData(d))
       .catch(() => {})
   }, [])
 
-  const boards = data?.airports?.[slug]
-  const board = boards?.[selectedAirport]
+  const board = data?.airports?.[slug]
   const flights = board ? (showArrivals ? board.arrivals : board.departures) : []
 
-  // Summary for collapsed view
-  const cancelledCount = flights.filter(f => f.status === 'cancelled' || f.status === 'suspended').length
-  const delayedCount = flights.filter(f => f.status === 'delayed').length
+  const cancelledCount = flights.filter(f => f.statusColor === 'red').length
+  const delayedCount = flights.filter(f => f.statusColor === 'yellow').length
 
   const summaryEmoji = airportStatus === 'closed' ? '🚫' :
-    cancelledCount > 3 ? '⚠️' :
+    cancelledCount > 5 ? '🚫' :
+    cancelledCount > 2 ? '⚠️' :
     delayedCount > 2 ? '🟡' : '✅'
 
   const summaryText = airportStatus === 'closed' ? 'Flights Suspended' :
-    cancelledCount > 3 ? 'Major Disruptions' :
+    cancelledCount > 5 ? 'Severe Disruptions' :
+    cancelledCount > 2 ? 'Major Cancellations' :
     delayedCount > 2 ? 'Some Delays' : 'Mostly Operational'
 
   return (
     <WidgetCard
-      sources={[
-        { name: 'Estimated based on advisories', url: '#' },
-      ]}
+      sources={[{ name: 'Flightradar24', url: 'https://flightradar24.com' }]}
       icon={Plane}
-      title="Flight Status"
-      urgency={airportStatus === 'closed' ? 'critical' : cancelledCount > 2 ? 'warning' : 'info'}
+      title="Live Flights"
+      urgency={cancelledCount > 5 ? 'critical' : cancelledCount > 2 ? 'warning' : 'info'}
       expandedContent={
         board ? (
-          <div>
-            {/* Airport board header */}
-            <div className="rounded-lg overflow-hidden" style={{ background: '#0a120a' }}>
-              {/* Header bar */}
-              <div className="flex items-center justify-between px-3 py-2" style={{ background: '#0d1a0d', borderBottom: '1px solid #1a3a1a' }}>
-                <div className="flex items-center gap-2">
-                  <span className="text-[13px]">✈</span>
-                  {boards && boards.length > 1 ? (
-                    <select
-                      value={selectedAirport}
-                      onChange={e => setSelectedAirport(Number(e.target.value))}
-                      className="bg-transparent text-[#00ff41] font-mono text-xs font-bold border-none outline-none cursor-pointer"
-                      style={{ WebkitAppearance: 'none' }}
-                    >
-                      {boards.map((b, i) => (
-                        <option key={b.iata} value={i} className="bg-[#0a120a]">{b.iata}</option>
-                      ))}
-                    </select>
-                  ) : (
-                    <span className="text-[#00ff41] font-mono text-xs font-bold">{board.iata}</span>
-                  )}
-                  <span className="text-[#00ff41] font-mono text-xs font-bold uppercase">
-                    {showArrivals ? 'ARRIVALS' : 'DEPARTURES'}
-                  </span>
-                </div>
-                <button
-                  onClick={() => setShowArrivals(!showArrivals)}
-                  className="text-[10px] font-mono px-2 py-0.5 rounded border border-[#1a3a1a] text-[#88aa88] hover:text-[#00ff41] hover:border-[#00ff41] transition-colors"
-                  style={{ background: '#0d1a0d' }}
-                >
-                  {showArrivals ? 'DEP' : 'ARR'}
-                </button>
+          <div className="relative rounded-lg overflow-hidden" style={{ background: '#0a120a' }}>
+            {/* Header bar */}
+            <div className="flex items-center justify-between px-3 py-2" style={{ background: '#0d1a0d', borderBottom: '1px solid #1a3a1a' }}>
+              <div className="flex items-center gap-2">
+                <span className="text-[13px]">✈️</span>
+                <span className="text-[#00ff41] font-mono text-xs font-bold">{board.iata}</span>
+                <span className="text-[#00ff41] font-mono text-xs font-bold uppercase">
+                  {showArrivals ? 'ARRIVALS' : 'DEPARTURES'}
+                </span>
               </div>
-
-              {/* Column headers */}
-              <div className="flex items-center gap-1 px-3 py-1 text-[9px] font-mono text-[#445544] uppercase tracking-widest" style={{ borderBottom: '1px solid #1a2a1a' }}>
-                <span className="w-[56px] shrink-0">Flight</span>
-                <span className="flex-1">{showArrivals ? 'Origin' : 'Dest'}</span>
-                <span className="w-[42px] text-right shrink-0">Time</span>
-                <span className="w-[82px] text-right shrink-0">Status</span>
-              </div>
-
-              {/* Flight rows */}
-              <div className="px-3 py-1 max-h-[280px] overflow-y-auto" style={{
-                scrollbarWidth: 'thin',
-                scrollbarColor: '#1a3a1a #0a120a',
-              }}>
-                {flights.length > 0 ? flights.map((f, i) => (
-                  <FlightRow key={i} flight={f} />
-                )) : (
-                  <div className="text-center text-[#ff3333] font-mono text-xs py-4">
-                    NO FLIGHT DATA AVAILABLE
-                  </div>
-                )}
-              </div>
-
-              {/* Footer */}
-              <div className="px-3 py-1.5 text-[8px] font-mono text-[#334433] flex justify-between" style={{ borderTop: '1px solid #1a2a1a' }}>
-                <span>ESTIMATED STATUS • NOT LIVE TRACKING</span>
-                <span>{board.name}</span>
-              </div>
+              <button
+                onClick={(e) => { e.stopPropagation(); setShowArrivals(!showArrivals) }}
+                className="text-[10px] font-mono px-2 py-0.5 rounded border border-[#1a3a1a] text-[#88aa88] hover:text-[#00ff41] hover:border-[#00ff41] transition-colors"
+                style={{ background: '#0d1a0d' }}
+              >
+                {showArrivals ? 'DEP ▸' : '◂ ARR'}
+              </button>
             </div>
 
-            {/* Scan-line overlay effect */}
-            <style jsx>{`
-              div :global(.scan-lines) {
-                background: repeating-linear-gradient(
-                  0deg,
-                  transparent,
-                  transparent 2px,
-                  rgba(0, 255, 65, 0.03) 2px,
-                  rgba(0, 255, 65, 0.03) 4px
-                );
-                pointer-events: none;
-                position: absolute;
-                inset: 0;
-                border-radius: 0.5rem;
-              }
-            `}</style>
+            {/* Column headers */}
+            <div className="flex items-center gap-1 px-3 py-1 text-[9px] font-mono text-[#445544] uppercase tracking-widest" style={{ borderBottom: '1px solid #1a2a1a' }}>
+              <span className="w-[56px] shrink-0">Flight</span>
+              <span className="flex-1">{showArrivals ? 'Origin' : 'Dest'}</span>
+              <span className="w-[42px] text-right shrink-0">Time</span>
+              <span className="w-[82px] text-right shrink-0">Status</span>
+            </div>
+
+            {/* Flight rows */}
+            <div className="px-3 py-1 max-h-[280px] overflow-y-auto" style={{
+              scrollbarWidth: 'thin',
+              scrollbarColor: '#1a3a1a #0a120a',
+            }}>
+              {flights.length > 0 ? flights.map((f, i) => (
+                <FlightRow key={i} flight={f} />
+              )) : (
+                <div className="text-center text-[#ff3333] font-mono text-xs py-4">
+                  NO FLIGHT DATA AVAILABLE
+                </div>
+              )}
+            </div>
+
+            {/* Footer */}
+            <div className="px-3 py-1.5 text-[8px] font-mono text-[#334433] flex justify-between" style={{ borderTop: '1px solid #1a2a1a' }}>
+              <span>LIVE DATA • FLIGHTRADAR24</span>
+              <span>{board.name}</span>
+            </div>
+
+            {/* Scan-line overlay */}
+            <div className="absolute inset-0 pointer-events-none rounded-lg" style={{
+              background: 'repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,255,65,0.02) 2px, rgba(0,255,65,0.02) 4px)',
+            }} />
           </div>
         ) : (
-          <div className="text-xs text-[var(--text-secondary)]">No flight data available for {country}</div>
+          <div className="text-xs text-[var(--text-secondary)]">
+            {airportStatus === 'closed' ? 'Airport operations suspended due to conflict.' : `No flight data available for ${country}`}
+          </div>
         )
       }
     >
@@ -185,7 +160,9 @@ export default function FlightStatusWidget({ country, airportStatus }: Props) {
         <div>
           <p className="text-sm font-bold">{summaryText}</p>
           <p className="text-[10px] text-[var(--text-secondary)]">
-            {board ? `${board.iata} • ${cancelledCount > 0 ? `${cancelledCount} cancelled` : 'Tap to view board'}` : `Airspace & flights for ${country}`}
+            {board
+              ? `${board.iata} ${board.city} • ${cancelledCount > 0 ? `${cancelledCount} cancelled` : flights.length + ' flights'}`
+              : `Airspace & flights for ${country}`}
           </p>
         </div>
       </div>
