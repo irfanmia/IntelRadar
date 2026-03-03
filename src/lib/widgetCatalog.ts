@@ -11,7 +11,7 @@ export interface WidgetMeta {
 
 export const WIDGET_CATALOG: WidgetMeta[] = [
   // Direct tier
-  { id: 'safety-alert', label: 'Safety Alert', emoji: '🚨', description: 'Live safety & advisory status', tier: 'direct' },
+  { id: 'safety-alert', label: 'Threat & Safety', emoji: '🚨', description: 'Threat level, risk score & safety alerts', tier: 'direct' },
   { id: 'strike-list', label: 'Strike Updates', emoji: '💥', description: 'Conflict strike reports', tier: 'direct' },
   { id: 'comms-status', label: 'Comms Status', emoji: '📡', description: 'Internet & phone network status', tier: 'direct' },
   { id: 'hospitals', label: 'Hospitals', emoji: '🏥', description: 'Nearby hospitals & emergency rooms', tier: 'direct' },
@@ -22,7 +22,7 @@ export const WIDGET_CATALOG: WidgetMeta[] = [
   { id: 'news-ticker', label: 'News Ticker', emoji: '📰', description: 'Live news headlines', tier: 'direct' },
   { id: 'articles', label: 'Key Articles', emoji: '📑', description: 'Curated articles from major outlets', tier: 'direct' },
   // Indirect tier
-  { id: 'threat-assessment', label: 'Threat Level', emoji: '🎯', description: 'Regional threat assessment', tier: 'indirect' },
+  // threat-assessment merged into safety-alert as "Threat & Safety"
   { id: 'economy', label: 'Economy', emoji: '📊', description: 'Stock, gold & oil overview', tier: 'indirect' },
   { id: 'flight-status', label: 'Flights', emoji: '🛫', description: 'Flight disruptions & reroutes', tier: 'indirect' },
   { id: 'fuel-supply', label: 'Fuel Supply', emoji: '⛽', description: 'Fuel prices & supply chain', tier: 'indirect' },
@@ -40,7 +40,7 @@ export const WIDGET_CATALOG: WidgetMeta[] = [
 
 export const DEFAULT_WIDGETS: Record<ProximityTier, WidgetId[]> = {
   direct: ['safety-alert', 'strike-list', 'comms-status', 'hospitals', 'airport', 'military-orders', 'evacuation', 'essentials', 'articles', 'news-ticker'],
-  indirect: ['threat-assessment', 'economy', 'flight-status', 'fuel-supply', 'embassy', 'family-safety', 'articles', 'news-ticker', 'oil-price'],
+  indirect: ['economy', 'flight-status', 'fuel-supply', 'embassy', 'family-safety', 'articles', 'news-ticker', 'oil-price'],
   world: ['oil-price', 'market-impact', 'geopolitics', 'travel-safety', 'sanctions', 'how-to-help', 'articles', 'news-ticker', 'investment'],
 }
 

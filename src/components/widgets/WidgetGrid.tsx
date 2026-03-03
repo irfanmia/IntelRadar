@@ -2,7 +2,7 @@
 import { NewsItem, FinancialData, HelpDbCountry, WidgetId } from '@/types'
 import { WidgetCloseProvider } from './WidgetContext'
 import WidgetPicker from './WidgetPicker'
-import SafetyAlertWidget from './SafetyAlertWidget'
+import ThreatSafetyWidget from './ThreatSafetyWidget'
 import StrikeListWidget from './StrikeListWidget'
 import CommsStatusWidget from './CommsStatusWidget'
 import HospitalsWidget from './HospitalsWidget'
@@ -11,7 +11,7 @@ import MilitaryOrdersWidget from './MilitaryOrdersWidget'
 import EvacuationWidget from './EvacuationWidget'
 import EssentialsWidget from './EssentialsWidget'
 import NewsTickerWidget from './NewsTickerWidget'
-import ThreatAssessmentWidget from './ThreatAssessmentWidget'
+// ThreatAssessmentWidget merged into ThreatSafetyWidget
 import EconomyWidget from './EconomyWidget'
 import FlightStatusWidget from './FlightStatusWidget'
 import FuelSupplyWidget from './FuelSupplyWidget'
@@ -64,7 +64,7 @@ function RenderWidget({ id, country, news, financials, helpData, filterTopic }: 
 
   switch (id) {
     case 'safety-alert':
-      return <SafetyAlertWidget country={country} advisoryLevel={helpData?.advisoryLevel} advisoryNote={helpData?.advisoryNote} commsStatus={helpData?.commsStatus} filterTopic={filterTopic} />
+      return <ThreatSafetyWidget country={country} advisoryLevel={helpData?.advisoryLevel} advisoryNote={helpData?.advisoryNote} commsStatus={helpData?.commsStatus} filterTopic={filterTopic} helpData={helpData} />
     case 'strike-list':
       return <StrikeListWidget news={primaryTopicNews} />
     case 'comms-status':
@@ -84,7 +84,7 @@ function RenderWidget({ id, country, news, financials, helpData, filterTopic }: 
     case 'articles':
       return <ArticlesWidget news={filteredNews} title="Key Articles" />
     case 'threat-assessment':
-      return <ThreatAssessmentWidget country={country} helpData={helpData} />
+      return <ThreatSafetyWidget country={country} advisoryLevel={helpData?.advisoryLevel} advisoryNote={helpData?.advisoryNote} commsStatus={helpData?.commsStatus} filterTopic={filterTopic} helpData={helpData} />
     case 'economy':
       return <EconomyWidget stock={financials.stock} gold={financials.gold} oil={financials.oil} />
     case 'flight-status':
