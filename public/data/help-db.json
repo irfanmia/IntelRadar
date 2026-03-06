@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T06:02:02.965Z",
+  "lastUpdated": "2026-03-06T06:21:37.478Z",
   "countries": {
     "iran": {
       "name": "Iran",
@@ -10,7 +10,7 @@
         "Persian (Farsi)"
       ],
       "timezone": "Asia/Tehran (UTC+3:30)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -189,7 +189,7 @@
         "Arabic"
       ],
       "timezone": "Asia/Jerusalem (UTC+2)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel to Gaza border area. Reconsider travel to rest of Israel due to active conflict and rocket threats.",
@@ -538,7 +538,7 @@
         "French"
       ],
       "timezone": "Asia/Beirut (UTC+2)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -905,7 +905,7 @@
         "Kurdish"
       ],
       "timezone": "Asia/Baghdad (UTC+3)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -1098,7 +1098,7 @@
         "Arabic"
       ],
       "timezone": "Asia/Aden (UTC+3)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -1239,7 +1239,7 @@
       ],
       "timezone": "Asia/Dubai (UTC+4)",
       "commsStatus": "normal",
-      "airportStatus": "restricted",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -1426,8 +1426,8 @@
         "Arabic"
       ],
       "timezone": "Asia/Riyadh (UTC+3)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -1600,7 +1600,7 @@
       ],
       "timezone": "Asia/Qatar (UTC+3)",
       "commsStatus": "normal",
-      "airportStatus": "restricted",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -1742,8 +1742,8 @@
         "Arabic"
       ],
       "timezone": "Asia/Kuwait (UTC+3)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -1879,8 +1879,8 @@
         "Arabic"
       ],
       "timezone": "Asia/Bahrain (UTC+3)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -2002,8 +2002,8 @@
         "Arabic"
       ],
       "timezone": "Asia/Muscat (UTC+4)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "restricted",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -2141,7 +2141,7 @@
       ],
       "timezone": "Asia/Amman (UTC+3)",
       "commsStatus": "normal",
-      "airportStatus": "restricted",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -2689,8 +2689,8 @@
         "English"
       ],
       "timezone": "Asia/Karachi (UTC+5)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -2893,8 +2893,8 @@
         "English"
       ],
       "timezone": "Asia/Kolkata (UTC+5:30)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 2,
       "advisoryNote": "Exercise Increased Caution",
       "emergencyContacts": [
@@ -3096,7 +3096,7 @@
       ],
       "timezone": "Multiple (UTC-5 to UTC-10)",
       "commsStatus": "normal",
-      "airportStatus": "open",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 1,
       "advisoryNote": "Exercise Normal Precautions.",
       "emergencyContacts": [
@@ -3262,7 +3262,7 @@
       ],
       "timezone": "Europe/London (UTC+0)",
       "commsStatus": "normal",
-      "airportStatus": "open",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 2,
       "advisoryNote": "Exercise Increased Caution",
       "emergencyContacts": [
@@ -3698,7 +3698,7 @@
         "Ukrainian"
       ],
       "timezone": "Europe/Kyiv (UTC+2)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -3884,7 +3884,7 @@
         "Russian"
       ],
       "timezone": "Multiple (UTC+2 to UTC+12)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -4030,7 +4030,7 @@
       ],
       "timezone": "Asia/Taipei (UTC+8)",
       "commsStatus": "normal",
-      "airportStatus": "open",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 1,
       "advisoryNote": "Exercise Normal Precautions",
       "emergencyContacts": [
@@ -4173,8 +4173,8 @@
         "Mandarin Chinese"
       ],
       "timezone": "Asia/Shanghai (UTC+8)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel. Risk of arbitrary detention, exit bans, and wrongful imprisonment.",
       "emergencyContacts": [
@@ -4332,8 +4332,8 @@
         "Korean"
       ],
       "timezone": "Asia/Seoul (UTC+9)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 1,
       "advisoryNote": "Exercise Normal Precautions",
       "emergencyContacts": [
@@ -4492,7 +4492,7 @@
         "Korean"
       ],
       "timezone": "Asia/Pyongyang (UTC+9)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -4567,7 +4567,7 @@
         "Spanish"
       ],
       "timezone": "America/Caracas (UTC-4)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -4699,7 +4699,7 @@
         "English"
       ],
       "timezone": "Africa/Khartoum (UTC+2)",
-      "commsStatus": "blackout",
+      "commsStatus": "normal",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
@@ -5180,8 +5180,8 @@
         "Xhosa"
       ],
       "timezone": "Africa/Johannesburg (UTC+2)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 2,
       "advisoryNote": "Exercise Increased Caution",
       "emergencyContacts": [
@@ -5503,8 +5503,8 @@
         "French"
       ],
       "timezone": "Multiple (UTC-3:30 to UTC-8)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 1,
       "advisoryNote": "Exercise Normal Precautions",
       "emergencyContacts": [
@@ -5642,8 +5642,8 @@
         "English"
       ],
       "timezone": "Multiple (UTC+8 to UTC+11)",
-      "commsStatus": "blackout",
-      "airportStatus": "closed",
+      "commsStatus": "normal",
+      "airportStatus": "open",
       "advisoryLevel": 1,
       "advisoryNote": "Exercise Normal Precautions",
       "emergencyContacts": [
@@ -5791,7 +5791,7 @@
       ],
       "timezone": "Asia/Tokyo (UTC+9)",
       "commsStatus": "normal",
-      "airportStatus": "open",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 1,
       "advisoryNote": "Exercise Normal Precautions",
       "emergencyContacts": [
