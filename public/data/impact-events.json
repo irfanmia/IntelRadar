@@ -1,342 +1,338 @@
 {
-  "lastUpdated": "2026-03-07T02:45:34.217Z",
+  "lastUpdated": "2026-03-07T03:12:54.362Z",
   "globalRanking": [
     {
-      "id": "ukraine-russia",
-      "score": 47,
+      "id": "general",
+      "score": 32,
       "count": 17,
-      "breaking": 15,
-      "latest": "2026-02-27T12:00:00.000Z"
+      "breaking": 7,
+      "latest": "2026-03-06T17:06:14.000Z"
     },
     {
       "id": "middle-east",
-      "score": 38,
-      "count": 13,
-      "breaking": 12,
-      "latest": "2026-03-07T01:11:04.000Z"
-    },
-    {
-      "id": "general",
-      "score": 11,
-      "count": 9,
+      "score": 3,
+      "count": 1,
       "breaking": 1,
-      "latest": "2026-03-07T00:09:00.000Z"
+      "latest": "2026-03-06T17:14:56.000Z"
     },
     {
-      "id": "venezuela",
+      "id": "sudan",
+      "score": 3,
+      "count": 1,
+      "breaking": 1,
+      "latest": "2026-02-25T00:43:00.000Z"
+    },
+    {
+      "id": "sahel",
       "score": 1,
       "count": 1,
       "breaking": 0,
-      "latest": "2026-03-06T21:31:09.000Z"
+      "latest": "2026-03-02T00:02:10.000Z"
     }
   ],
   "countryEvents": {
     "iran": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "israel": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "palestine": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "lebanon": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "syria": [
       "ukraine-russia",
-      "middle-east"
+      "middle-east",
+      "general"
     ],
     "iraq": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "yemen": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "united-arab-emirates": [
-      "sudan",
       "middle-east",
-      "ukraine-russia"
+      "sudan",
+      "general"
     ],
     "saudi-arabia": [
-      "sudan",
       "sahel",
       "middle-east",
-      "ukraine-russia"
+      "sudan",
+      "general"
     ],
     "qatar": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "kuwait": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "bahrain": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "oman": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "jordan": [
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "egypt": [
-      "sudan",
       "middle-east",
-      "ukraine-russia"
+      "sudan",
+      "general"
     ],
     "turkey": [
       "ukraine-russia",
-      "middle-east"
+      "middle-east",
+      "general"
     ],
     "pakistan": [
       "taliban-pakistan",
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "india": [
       "taliban-pakistan",
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "united-states": [
-      "venezuela",
+      "ukraine-russia",
       "china-taiwan",
       "korea",
-      "ukraine-russia",
-      "middle-east"
+      "venezuela",
+      "middle-east",
+      "general"
     ],
     "united-kingdom": [
       "ukraine-russia",
-      "middle-east"
+      "middle-east",
+      "general"
     ],
     "germany": [
       "ukraine-russia",
-      "middle-east"
+      "middle-east",
+      "general"
     ],
     "france": [
       "sahel",
       "ukraine-russia",
-      "middle-east"
+      "middle-east",
+      "general"
     ],
     "ukraine": [
       "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "russia": [
       "ukraine-russia",
-      "middle-east"
+      "middle-east",
+      "general"
     ],
     "taiwan": [
       "china-taiwan",
       "korea",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "china": [
       "china-taiwan",
       "korea",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "south-korea": [
       "korea",
       "china-taiwan",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "north-korea": [
       "korea",
       "china-taiwan",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "venezuela": [
       "venezuela",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "sudan": [
-      "sudan",
       "sahel",
+      "sudan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "nigeria": [
       "sahel",
       "sudan",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "kenya": [
-      "sudan",
       "sahel",
-      "ukraine-russia",
-      "middle-east"
+      "sudan",
+      "general"
     ],
     "south-africa": [
-      "sudan",
       "middle-east",
-      "ukraine-russia"
+      "sudan",
+      "general"
     ],
     "brazil": [
       "venezuela",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "canada": [
-      "china-taiwan",
       "ukraine-russia",
-      "middle-east"
+      "china-taiwan",
+      "middle-east",
+      "general"
     ],
     "australia": [
       "china-taiwan",
       "korea",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "japan": [
       "china-taiwan",
       "korea",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "afghanistan": [
       "taliban-pakistan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "colombia": [
       "venezuela",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "algeria": [
       "sahel",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "libya": [
       "sahel",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "morocco": [
       "sahel",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "ethiopia": [
       "sudan",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "somalia": [
-      "sudan",
       "middle-east",
-      "ukraine-russia"
+      "sudan",
+      "general"
     ],
     "bangladesh": [
       "taliban-pakistan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "indonesia": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "malaysia": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "philippines": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "singapore": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "thailand": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "vietnam": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "sri-lanka": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "nepal": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "myanmar": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "new-zealand": [
       "china-taiwan",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "mexico": [
       "venezuela",
       "middle-east",
-      "ukraine-russia"
+      "general"
     ],
     "south-sudan": [
-      "sudan",
       "sahel",
-      "ukraine-russia",
-      "middle-east"
+      "sudan",
+      "general"
     ],
     "mali": [
       "sahel",
       "sudan",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "niger": [
       "sahel",
       "sudan",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "burkina-faso": [
       "sahel",
       "sudan",
-      "ukraine-russia",
-      "middle-east"
+      "general"
     ],
     "democratic-republic-of-congo": [
-      "sudan",
       "sahel",
-      "ukraine-russia",
-      "middle-east"
+      "sudan",
+      "general"
     ]
   }
 }
