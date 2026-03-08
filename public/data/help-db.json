@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T10:30:12.647Z",
+  "lastUpdated": "2026-03-08T10:40:19.238Z",
   "countries": {
     "iran": {
       "name": "Iran",
@@ -1880,7 +1880,7 @@
       ],
       "timezone": "Asia/Bahrain (UTC+3)",
       "commsStatus": "normal",
-      "airportStatus": "restricted",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 3,
       "advisoryNote": "Reconsider Travel",
       "emergencyContacts": [
@@ -3885,9 +3885,9 @@
       ],
       "timezone": "Multiple (UTC+2 to UTC+12)",
       "commsStatus": "normal",
-      "airportStatus": "closed",
-      "advisoryLevel": 4,
-      "advisoryNote": "Do Not Travel",
+      "airportStatus": "frequent-cancellations",
+      "advisoryLevel": 1,
+      "advisoryNote": "Exercise Normal Precautions",
       "emergencyContacts": [
         {
           "service": "Police",
@@ -4030,7 +4030,7 @@
       ],
       "timezone": "Asia/Taipei (UTC+8)",
       "commsStatus": "normal",
-      "airportStatus": "open",
+      "airportStatus": "frequent-cancellations",
       "advisoryLevel": 1,
       "advisoryNote": "Exercise Normal Precautions",
       "emergencyContacts": [
@@ -4492,7 +4492,7 @@
         "Korean"
       ],
       "timezone": "Asia/Pyongyang (UTC+9)",
-      "commsStatus": "normal",
+      "commsStatus": "disrupted",
       "airportStatus": "closed",
       "advisoryLevel": 4,
       "advisoryNote": "Do Not Travel",
