@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T08:25:27.753Z",
+  "lastUpdated": "2026-03-13T09:58:45.511Z",
   "source": "Flightradar24",
   "airports": {
     "united-arab-emirates": [
@@ -12025,165 +12025,105 @@
         "iata": "BGW",
         "name": "Baghdad International",
         "city": "Baghdad",
-        "departures": [
+        "departures": [],
+        "arrivals": [
           {
-            "flight": "QR459",
-            "airline": "Qatar Airways",
-            "destination": "Doha",
-            "destIata": "DOH",
-            "time": "01:25",
-            "status": "cancelled",
-            "statusText": "Canceled",
-            "type": "departure"
-          },
-          {
-            "flight": "RJ811",
-            "airline": "Royal Jordanian",
-            "destination": "Amman",
-            "destIata": "AMM",
-            "time": "02:00",
-            "status": "cancelled",
-            "statusText": "Canceled",
-            "type": "departure"
-          },
-          {
-            "flight": "IA909",
-            "airline": "Iraqi Airways",
-            "destination": "Erbil",
-            "destIata": "EBL",
-            "time": "03:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "RJ1267",
-            "airline": "Royal Jordanian",
-            "destination": "Amman",
-            "destIata": "AMM",
-            "time": "03:15",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "XY606",
-            "airline": "flynas",
-            "destination": "Jeddah",
-            "destIata": "JED",
-            "time": "04:50",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "IA443",
-            "airline": "Iraqi Airways",
-            "destination": "Delhi",
-            "destIata": "DEL",
-            "time": "05:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "IS7305",
-            "airline": "Sepehran Airlines",
-            "destination": "Mashhad",
-            "destIata": "MHD",
-            "time": "06:25",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "IR678",
-            "airline": "Iran Air",
-            "destination": "Tehran",
-            "destIata": "IKA",
-            "time": "06:40",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "IA101",
-            "airline": "Iraqi Airways",
-            "destination": "Cairo",
-            "destIata": "CAI",
-            "time": "07:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "IA123",
-            "airline": "Iraqi Airways",
-            "destination": "Dubai",
-            "destIata": "DXB",
-            "time": "07:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "IA131",
-            "airline": "Iraqi Airways",
+            "flight": "ME320",
+            "airline": "MEA",
             "destination": "Beirut",
             "destIata": "BEY",
-            "time": "07:00",
+            "time": "11:25",
             "status": "scheduled",
             "statusText": "Scheduled",
-            "type": "departure"
+            "type": "arrival"
           },
           {
-            "flight": "IA307",
-            "airline": "Iraqi Airways",
-            "destination": "Istanbul",
-            "destIata": "SAW",
-            "time": "08:10",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "TK843",
-            "airline": "Turkish Airlines",
-            "destination": "Istanbul",
-            "destIata": "IST",
-            "time": "08:40",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "GF200",
+            "flight": "GF203",
             "airline": "Gulf Air",
             "destination": "Bahrain",
             "destIata": "BAH",
-            "time": "09:25",
+            "time": "12:25",
             "status": "cancelled",
             "statusText": "Canceled",
-            "type": "departure"
+            "type": "arrival"
           },
           {
-            "flight": "IA903",
-            "airline": "Iraqi Airways",
-            "destination": "Basra",
-            "destIata": "BSR",
-            "time": "09:30",
+            "flight": "IV7906",
+            "airline": "GP Aviation",
+            "destination": "Tehran",
+            "destIata": "IKA",
+            "time": "13:40",
             "status": "scheduled",
             "statusText": "Scheduled",
-            "type": "departure"
-          }
-        ],
-        "arrivals": [
+            "type": "arrival"
+          },
           {
-            "flight": "RJ1266",
+            "flight": "ME322",
+            "airline": "MEA",
+            "destination": "Beirut",
+            "destIata": "BEY",
+            "time": "15:25",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "RJ814",
             "airline": "Royal Jordanian",
             "destination": "Amman",
             "destIata": "AMM",
-            "time": "01:45",
+            "time": "16:25",
+            "status": "cancelled",
+            "statusText": "Canceled",
+            "type": "arrival"
+          },
+          {
+            "flight": "QR442",
+            "airline": "Qatar Airways",
+            "destination": "Doha",
+            "destIata": "DOH",
+            "time": "17:50",
+            "status": "cancelled",
+            "statusText": "Canceled",
+            "type": "arrival"
+          },
+          {
+            "flight": "RJ810",
+            "airline": "Royal Jordanian",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "00:05",
+            "status": "cancelled",
+            "statusText": "Canceled",
+            "type": "arrival"
+          },
+          {
+            "flight": "MS627",
+            "airline": "Egyptair",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "00:20",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival",
+            "terminal": "3"
+          },
+          {
+            "flight": "QR458",
+            "airline": "Qatar Airways",
+            "destination": "Doha",
+            "destIata": "DOH",
+            "time": "00:25",
+            "status": "cancelled",
+            "statusText": "Canceled",
+            "type": "arrival"
+          },
+          {
+            "flight": "IA432",
+            "airline": "Iraqi Airways",
+            "destination": "Karachi",
+            "destIata": "KHI",
+            "time": "04:00",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
@@ -12200,41 +12140,20 @@
             "terminal": "1"
           },
           {
-            "flight": "IA688",
-            "airline": "Iraqi Airways",
-            "destination": "Bahrain",
-            "destIata": "BAH",
-            "time": "04:30",
+            "flight": "IS7304",
+            "airline": "Sepehran Airlines",
+            "destination": "Mashhad",
+            "destIata": "MHD",
+            "time": "04:20",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
           },
           {
-            "flight": "IA474",
+            "flight": "IA904",
             "airline": "Iraqi Airways",
-            "destination": "Guangzhou",
-            "destIata": "CAN",
-            "time": "05:20",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "3"
-          },
-          {
-            "flight": "IR679",
-            "airline": "Iran Air",
-            "destination": "Tehran",
-            "destIata": "IKA",
-            "time": "05:40",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "IA910",
-            "airline": "Iraqi Airways",
-            "destination": "Erbil",
-            "destIata": "EBL",
+            "destination": "Basra",
+            "destIata": "BSR",
             "time": "06:00",
             "status": "scheduled",
             "statusText": "Scheduled",
@@ -12251,86 +12170,14 @@
             "type": "arrival"
           },
           {
-            "flight": "TK842",
-            "airline": "Turkish Airlines",
-            "destination": "Istanbul",
-            "destIata": "IST",
-            "time": "07:35",
+            "flight": "FYC501",
+            "airline": "Fly Cham",
+            "destination": "Damascus",
+            "destIata": "DAM",
+            "time": "07:00",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
-          },
-          {
-            "flight": "GF201",
-            "airline": "Gulf Air",
-            "destination": "Bahrain",
-            "destIata": "BAH",
-            "time": "08:25",
-            "status": "cancelled",
-            "statusText": "Canceled",
-            "type": "arrival"
-          },
-          {
-            "flight": "RJ812",
-            "airline": "Royal Jordanian",
-            "destination": "Amman",
-            "destIata": "AMM",
-            "time": "09:15",
-            "status": "cancelled",
-            "statusText": "Canceled",
-            "type": "arrival"
-          },
-          {
-            "flight": "IA132",
-            "airline": "Iraqi Airways",
-            "destination": "Beirut",
-            "destIata": "BEY",
-            "time": "11:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "ME320",
-            "airline": "MEA",
-            "destination": "Beirut",
-            "destIata": "BEY",
-            "time": "11:25",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "WY427",
-            "airline": "Oman Air",
-            "destination": "Muscat",
-            "destIata": "MCT",
-            "time": "11:55",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "IA102",
-            "airline": "Iraqi Airways",
-            "destination": "Cairo",
-            "destIata": "CAI",
-            "time": "13:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "3"
-          },
-          {
-            "flight": "IA124",
-            "airline": "Iraqi Airways",
-            "destination": "Dubai",
-            "destIata": "DXB",
-            "time": "13:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "2"
           }
         ]
       },
@@ -12340,21 +12187,51 @@
         "city": "Erbil",
         "departures": [
           {
+            "flight": "W55059",
+            "airline": "Mahan Air",
+            "destination": "Tehran",
+            "destIata": "IKA",
+            "time": "11:35",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "FYC524",
+            "airline": "Fly Cham",
+            "destination": "Damascus",
+            "destIata": "DAM",
+            "time": "12:30",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "RJ821",
+            "airline": "Royal Jordanian",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "17:35",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "MS636",
+            "airline": "Egyptair",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "00:45",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
             "flight": "RJ825",
             "airline": "Royal Jordanian",
             "destination": "Amman",
             "destIata": "AMM",
             "time": "01:00",
-            "status": "cancelled",
-            "statusText": "Canceled",
-            "type": "departure"
-          },
-          {
-            "flight": "7L9804",
-            "airline": "Silk Way West Airlines",
-            "destination": "Baku",
-            "destIata": "GYD",
-            "time": "02:30",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "departure"
@@ -12364,27 +12241,17 @@
             "airline": "Flexflight",
             "destination": "Dusseldorf",
             "destIata": "DUS",
-            "time": "03:10",
+            "time": "03:05",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "departure"
           },
           {
-            "flight": "UD441",
-            "airline": "UR Airlines",
-            "destination": "Munich",
-            "destIata": "MUC",
-            "time": "04:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "W22271",
+            "flight": "W22259",
             "airline": "Flexflight",
-            "destination": "Munich",
-            "destIata": "MUC",
-            "time": "04:00",
+            "destination": "Stuttgart",
+            "destIata": "STR",
+            "time": "03:05",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "departure"
@@ -12400,143 +12267,194 @@
             "type": "departure"
           },
           {
-            "flight": "IA910",
-            "airline": "Iraqi Airways",
-            "destination": "Baghdad",
-            "destIata": "BGW",
-            "time": "05:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "UD437",
-            "airline": "UR Airlines",
-            "destination": "Dusseldorf",
-            "destIata": "DUS",
-            "time": "06:05",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "FYC522",
-            "airline": "Fly Cham",
-            "destination": "Damascus",
-            "destIata": "DAM",
-            "time": "07:30",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "TK315",
-            "airline": "Turkish Airlines",
-            "destination": "Istanbul",
-            "destIata": "IST",
-            "time": "08:25",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "IA912",
+            "flight": "IA9012",
             "airline": "Iraqi Airways",
             "destination": "Basra",
             "destIata": "BSR",
+            "time": "08:45",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "EK9774",
+            "airline": "Emirates",
+            "destination": "Dubai",
+            "destIata": "DWC",
+            "time": "10:25",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "TK6195",
+            "airline": "Turkish Airlines",
+            "destination": "Istanbul",
+            "destIata": "IST",
+            "time": "11:00",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "IA145",
+            "airline": "Iraqi Airways",
+            "destination": "Cairo",
+            "destIata": "CAI",
             "time": "12:00",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "departure"
           },
           {
-            "flight": "ME325",
-            "airline": "MEA",
-            "destination": "Beirut",
-            "destIata": "BEY",
-            "time": "13:00",
+            "flight": "W22261",
+            "airline": "Flexflight",
+            "destination": "Copenhagen",
+            "destIata": "CPH",
+            "time": "14:25",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "departure"
           },
           {
-            "flight": "UD761",
-            "airline": "UR Airlines",
-            "destination": "Istanbul",
-            "destIata": "IST",
-            "time": "14:30",
+            "flight": "W22295",
+            "airline": "Flexflight",
+            "destination": "Dubai",
+            "destIata": "DXB",
+            "time": "15:55",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "departure"
           },
           {
-            "flight": "RJ821",
-            "airline": "Royal Jordanian",
-            "destination": "Amman",
-            "destIata": "AMM",
-            "time": "17:35",
-            "status": "cancelled",
-            "statusText": "Canceled",
-            "type": "departure"
-          },
-          {
-            "flight": "QR451",
-            "airline": "Qatar Airways",
-            "destination": "Doha",
-            "destIata": "DOH",
-            "time": "19:00",
-            "status": "cancelled",
-            "statusText": "Canceled",
+            "flight": "IA908",
+            "airline": "Iraqi Airways",
+            "destination": "Baghdad",
+            "destIata": "BGW",
+            "time": "17:30",
+            "status": "scheduled",
+            "statusText": "Scheduled",
             "type": "departure"
           }
         ],
         "arrivals": [
           {
-            "flight": "UD496",
-            "airline": "UR Airlines",
-            "destination": "Hannover",
-            "destIata": "HAJ",
-            "time": "01:00",
+            "flight": "W55060",
+            "airline": "Mahan Air",
+            "destination": "Tehran",
+            "destIata": "IKA",
+            "time": "10:20",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
           },
           {
-            "flight": "W22250",
-            "airline": "Flexflight",
-            "destination": "Hannover",
-            "destIata": "HAJ",
-            "time": "01:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "IA909",
-            "airline": "Iraqi Airways",
-            "destination": "Baghdad",
-            "destIata": "BGW",
-            "time": "04:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "FYC521",
+            "flight": "FYC525",
             "airline": "Fly Cham",
-            "destination": "Damascus",
-            "destIata": "DAM",
-            "time": "06:30",
+            "destination": "Aleppo",
+            "destIata": "ALP",
+            "time": "11:30",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
           },
           {
-            "flight": "TK314",
+            "flight": "RJ820",
+            "airline": "Royal Jordanian",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "16:35",
+            "status": "cancelled",
+            "statusText": "Canceled",
+            "type": "arrival"
+          },
+          {
+            "flight": "UD424",
+            "airline": "UR Airlines",
+            "destination": "Amsterdam",
+            "destIata": "AMS",
+            "time": "16:40",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "W22242",
+            "airline": "Flexflight",
+            "destination": "Amsterdam",
+            "destIata": "AMS",
+            "time": "16:40",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "UD116",
+            "airline": "UR Airlines",
+            "destination": "London",
+            "destIata": "LGW",
+            "time": "21:50",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "W22256",
+            "airline": "Flexflight",
+            "destination": "London",
+            "destIata": "LGW",
+            "time": "21:50",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "MS635",
+            "airline": "Egyptair",
+            "destination": "Cairo",
+            "destIata": "CAI",
+            "time": "23:45",
+            "status": "cancelled",
+            "statusText": "Canceled",
+            "type": "arrival",
+            "terminal": "3"
+          },
+          {
+            "flight": "RJ824",
+            "airline": "Royal Jordanian",
+            "destination": "Amman",
+            "destIata": "AMM",
+            "time": "00:01",
+            "status": "cancelled",
+            "statusText": "Canceled",
+            "type": "arrival"
+          },
+          {
+            "flight": "IA911",
+            "airline": "Iraqi Airways",
+            "destination": "Basra",
+            "destIata": "BSR",
+            "time": "07:45",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "EK9773",
+            "airline": "Emirates",
+            "destination": "Dubai",
+            "destIata": "DWC",
+            "time": "08:30",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "TK6194",
             "airline": "Turkish Airlines",
             "destination": "Istanbul",
             "destIata": "IST",
-            "time": "07:30",
+            "time": "09:30",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
@@ -12553,32 +12471,11 @@
             "terminal": "2"
           },
           {
-            "flight": "ME324",
-            "airline": "MEA",
-            "destination": "Beirut",
-            "destIata": "BEY",
-            "time": "12:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "UD442",
-            "airline": "UR Airlines",
-            "destination": "Munich",
-            "destIata": "MUC",
-            "time": "13:45",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "1"
-          },
-          {
-            "flight": "W22272",
+            "flight": "W22260",
             "airline": "Flexflight",
-            "destination": "Munich",
-            "destIata": "MUC",
-            "time": "13:45",
+            "destination": "Stuttgart",
+            "destIata": "STR",
+            "time": "13:15",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
@@ -12588,59 +12485,9 @@
             "airline": "Flexflight",
             "destination": "Dusseldorf",
             "destIata": "DUS",
-            "time": "14:10",
+            "time": "13:40",
             "status": "scheduled",
             "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "IA907",
-            "airline": "Iraqi Airways",
-            "destination": "Baghdad",
-            "destIata": "BGW",
-            "time": "15:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "IA911",
-            "airline": "Iraqi Airways",
-            "destination": "Basra",
-            "destIata": "BSR",
-            "time": "15:30",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "RJ820",
-            "airline": "Royal Jordanian",
-            "destination": "Amman",
-            "destIata": "AMM",
-            "time": "16:35",
-            "status": "cancelled",
-            "statusText": "Canceled",
-            "type": "arrival"
-          },
-          {
-            "flight": "UD438",
-            "airline": "UR Airlines",
-            "destination": "Dusseldorf",
-            "destIata": "DUS",
-            "time": "17:20",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "QR450",
-            "airline": "Qatar Airways",
-            "destination": "Doha",
-            "destIata": "DOH",
-            "time": "17:55",
-            "status": "cancelled",
-            "statusText": "Canceled",
             "type": "arrival"
           }
         ]
