@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T11:58:18.723Z",
+  "lastUpdated": "2026-03-15T12:58:07.411Z",
   "source": "Flightradar24",
   "airports": {
     "united-arab-emirates": [
@@ -11822,308 +11822,16 @@
         "iata": "TLV",
         "name": "Ben Gurion International",
         "city": "Tel Aviv",
-        "departures": [
-          {
-            "flight": "B2748",
-            "airline": "Belavia",
-            "destination": "Minsk",
-            "destIata": "MSQ",
-            "time": "11:15",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "IZ223",
-            "airline": "arkia",
-            "destination": "Thessaloniki",
-            "destIata": "SKG",
-            "time": "11:15",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "LY5137",
-            "airline": "El Al",
-            "destination": "Pafos",
-            "destIata": "PFO",
-            "time": "11:15",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "1"
-          },
-          {
-            "flight": "IZ815",
-            "airline": "arkia",
-            "destination": "Eilat",
-            "destIata": "ETM",
-            "time": "11:20",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "LY375",
-            "airline": "El Al",
-            "destination": "Lisbon",
-            "destIata": "LIS",
-            "time": "11:40",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "E2199",
-            "airline": "airHaifa",
-            "destination": "Athens",
-            "destIata": "ATH",
-            "time": "10:30",
-            "status": "scheduled",
-            "statusText": "Estimated dep 12:30",
-            "type": "departure"
-          },
-          {
-            "flight": "LY327",
-            "airline": "El Al",
-            "destination": "Paris",
-            "destIata": "CDG",
-            "time": "11:50",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "LY973",
-            "airline": "El Al",
-            "destination": "Dubai",
-            "destIata": "DXB",
-            "time": "12:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "IZ213",
-            "airline": "arkia",
-            "destination": "Athens",
-            "destIata": "ATH",
-            "time": "12:30",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "LY427",
-            "airline": "El Al",
-            "destination": "Paris",
-            "destIata": "CDG",
-            "time": "12:45",
-            "status": "scheduled",
-            "statusText": "Estimated dep 14:45",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "IZ743",
-            "airline": "arkia",
-            "destination": "Paris",
-            "destIata": "CDG",
-            "time": "13:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "LY5193",
-            "airline": "El Al",
-            "destination": "Salzburg",
-            "destIata": "SZG",
-            "time": "13:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure",
-            "terminal": "1"
-          },
-          {
-            "flight": "5C651",
-            "airline": "Challenge Airlines IL",
-            "destination": "Hong Kong",
-            "destIata": "HKG",
-            "time": "13:05",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "departure"
-          },
-          {
-            "flight": "LY453",
-            "airline": "El Al",
-            "destination": "Munich",
-            "destIata": "MUC",
-            "time": "13:20",
-            "status": "scheduled",
-            "statusText": "Estimated dep 15:20",
-            "type": "departure",
-            "terminal": "3"
-          },
-          {
-            "flight": "IZ1161",
-            "airline": "arkia",
-            "destination": "Larnaca",
-            "destIata": "LCA",
-            "time": "13:35",
-            "status": "scheduled",
-            "statusText": "Estimated dep 15:35",
-            "type": "departure"
-          }
-        ],
+        "departures": [],
         "arrivals": [
-          {
-            "flight": "5C608",
-            "airline": "Challenge Airlines IL",
-            "destination": "Liege",
-            "destIata": "LGG",
-            "time": "11:10",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "X62256",
-            "airline": "Challenge Airlines",
-            "destination": "Larnaca",
-            "destIata": "LCA",
-            "time": "11:17",
-            "status": "scheduled",
-            "statusText": "Estimated 13:17",
-            "type": "arrival"
-          },
-          {
-            "flight": "LY5466",
-            "airline": "El Al",
-            "destination": "Podgorica",
-            "destIata": "TGD",
-            "time": "11:30",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "LY1368",
-            "airline": "El Al",
-            "destination": "Budapest",
-            "destIata": "BUD",
-            "time": "11:31",
-            "status": "scheduled",
-            "statusText": "Estimated 13:31",
-            "type": "arrival",
-            "terminal": "2B",
-            "gate": "52-5"
-          },
-          {
-            "flight": "IZ604",
-            "airline": "arkia",
-            "destination": "Dubai",
-            "destIata": "DXB",
-            "time": "11:40",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "1"
-          },
-          {
-            "flight": "LY552",
-            "airline": "El Al",
-            "destination": "Sofia",
-            "destIata": "SOF",
-            "time": "11:45",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "2"
-          },
-          {
-            "flight": "IZ212",
-            "airline": "arkia",
-            "destination": "Athens",
-            "destIata": "ATH",
-            "time": "12:00",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival"
-          },
-          {
-            "flight": "AF962",
-            "airline": "Air France",
-            "destination": "Paris",
-            "destIata": "CDG",
-            "time": "12:10",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "2E"
-          },
-          {
-            "flight": "IZ1216",
-            "airline": "arkia",
-            "destination": "Athens",
-            "destIata": "ATH",
-            "time": "12:37",
-            "status": "delayed",
-            "statusText": "Delayed 14:37",
-            "type": "arrival"
-          },
-          {
-            "flight": "TO3456",
-            "airline": "Transavia France",
-            "destination": "Paris",
-            "destIata": "ORY",
-            "time": "12:25",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "3"
-          },
-          {
-            "flight": "LY242",
-            "airline": "El Al",
-            "destination": "Geneva",
-            "destIata": "GVA",
-            "time": "12:16",
-            "status": "scheduled",
-            "statusText": "Estimated 14:16",
-            "type": "arrival",
-            "terminal": "1",
-            "gate": "62-7"
-          },
-          {
-            "flight": "LY386",
-            "airline": "El Al",
-            "destination": "Rome",
-            "destIata": "FCO",
-            "time": "12:30",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "3"
-          },
           {
             "flight": "6H762",
             "airline": "Israir Airlines",
             "destination": "Prague",
             "destIata": "PRG",
-            "time": "12:48",
+            "time": "12:51",
             "status": "scheduled",
-            "statusText": "Estimated 14:48",
+            "statusText": "Estimated 14:51",
             "type": "arrival",
             "terminal": "1",
             "gate": "186"
@@ -12149,6 +11857,133 @@
             "statusText": "Scheduled",
             "type": "arrival",
             "terminal": "2B"
+          },
+          {
+            "flight": "LY1026",
+            "airline": "El Al",
+            "destination": "New York",
+            "destIata": "EWR",
+            "time": "13:09",
+            "status": "scheduled",
+            "statusText": "Estimated 15:09",
+            "type": "arrival",
+            "terminal": "B"
+          },
+          {
+            "flight": "LY290",
+            "airline": "El Al",
+            "destination": "Venice",
+            "destIata": "VCE",
+            "time": "13:20",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "LY382",
+            "airline": "El Al",
+            "destination": "Milan",
+            "destIata": "MXP",
+            "time": "13:40",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival",
+            "terminal": "1"
+          },
+          {
+            "flight": "LY420",
+            "airline": "El Al",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "13:40",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival",
+            "terminal": "2B"
+          },
+          {
+            "flight": "LY828",
+            "airline": "El Al",
+            "destination": "Paris",
+            "destIata": "CDG",
+            "time": "15:15",
+            "status": "delayed",
+            "statusText": "Delayed 17:15",
+            "type": "arrival"
+          },
+          {
+            "flight": "IZ816",
+            "airline": "arkia",
+            "destination": "Eilat",
+            "destIata": "ETM",
+            "time": "13:50",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "IZ152",
+            "airline": "arkia",
+            "destination": "Pafos",
+            "destIata": "PFO",
+            "time": "13:55",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "LY1004",
+            "airline": "El Al",
+            "destination": "New York",
+            "destIata": "JFK",
+            "time": "13:55",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival",
+            "terminal": "4"
+          },
+          {
+            "flight": "LY358",
+            "airline": "El Al",
+            "destination": "Frankfurt",
+            "destIata": "FRA",
+            "time": "14:00",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival",
+            "terminal": "1"
+          },
+          {
+            "flight": "LY346",
+            "airline": "El Al",
+            "destination": "Geneva",
+            "destIata": "GVA",
+            "time": "14:00",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival",
+            "terminal": "1"
+          },
+          {
+            "flight": "6H350",
+            "airline": "Israir Airlines",
+            "destination": "Rome",
+            "destIata": "FCO",
+            "time": "14:15",
+            "status": "scheduled",
+            "statusText": "Estimated 16:15",
+            "type": "arrival",
+            "terminal": "3"
+          },
+          {
+            "flight": "????",
+            "airline": "Unknown",
+            "destination": "Zurich",
+            "destIata": "ZRH",
+            "time": "14:00",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
           }
         ]
       }
