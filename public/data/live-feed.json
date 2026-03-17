@@ -1,15 +1,1834 @@
 {
-  "lastUpdated": "2026-03-17T14:27:33.521Z",
-  "news": [],
+  "lastUpdated": "2026-03-17T14:40:02.898Z",
+  "news": [
+    {
+      "id": "news-0",
+      "headline": "‘Iran posed no imminent threat to our nation’: Senior US counter-terrorism official resigns to protest Mideast war",
+      "summary": "&lt;p&gt;A senior US counter-terrorism official resigned on Tuesday to protest the US-Israeli &lt;a href=\"https://www.dawn.com/news/1976377\"&gt;war a&lt;/a&gt;gainst Iran and said the Islamic Republic posed no imminent threat to the United States.&lt;/p&gt;\n&lt;p&gt;“I cannot in good conscience supp",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:37:24.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1983065/iran-posed-no-imminent-threat-to-our-nation-senior-us-counter-terrorism-official-resigns-to-protest-mideast-war"
+    },
+    {
+      "id": "news-1",
+      "headline": "Britain hit by ‘unprecedented’ meningitis outbreak, two students dead",
+      "summary": "Britain has been hit by an “unprecedented” meningitis outbreak, the country’s health minister warned Tuesday after two students died from catching a rare bacterial strain of the disease. So far, 15 cases have been reported. The outbreak has been linked to a Canterbury nightclub.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:35:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260317-britain-hit-by-unprecedented-meningitis-outbreak-two-students-dead"
+    },
+    {
+      "id": "news-2",
+      "headline": "Iran War Live Updates: Israel Says It Has Killed Iran’s De Facto Leader",
+      "summary": "Ali Larijani, Iran’s top security official, was killed in an overnight strike, the Israeli military said. His death would deal another severe blow to Iran’s power structure.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:33:56.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon"
+    },
+    {
+      "id": "news-3",
+      "headline": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
+      "summary": "Mr. Kent announced his resignation as director of the National Counterterrorism Center. He said that pressure from Israel had pushed President Trump into war against Iran.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:33:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html"
+    },
+    {
+      "id": "news-4",
+      "headline": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
+      "summary": "&lt;p&gt;Étienne Davignon is charged with participation in war crimes in relation to killing of then PM Patrice Lumumba&lt;/p&gt;&lt;p&gt;A former Belgian diplomat , 93, should stand trial over alleged complicity in the 1961 murder of Patrice Lumumba, the first prime minister of what was then the ne",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:33:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba"
+    },
+    {
+      "id": "news-5",
+      "headline": "UAE travel update: Etihad expands flights, GCAA reopens airspace after brief disruption",
+      "summary": "UAE travel update: Etihad expands flights, GCAA reopens airspace after brief disruption",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:27:43.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/uae-travel-update-etihad-expands-flights-gcaa-reopens-airspace-after-brief-disruption-1.500477681"
+    },
+    {
+      "id": "news-6",
+      "headline": "Kyrgyzstan: White yak herders  hope for recognition amid agricultural revival",
+      "summary": "High up in the mountains of #Kyrgyzstan, a white yak has been bred over three generations of #herders. The family hopes to patent its breed as yaks are being presented by the #government as a sustainable solution for the agricultural nation in the face of #climate change.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:26:32.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-kyrgyzstan-white-yak-herders-hope-for-recognition-amid-agricultural-revival"
+    },
+    {
+      "id": "news-7",
+      "headline": "From Haitian roots to viral fame: The rise of performer Ralph Beaubrun",
+      "summary": "Dancer, choreographer and singer Ralph Beaubrun has built a global following with his joyful dance classes and infectious energy online. Now the Franco-Haitian artist is stepping further into music with his new EP \"ID.2\", blending Afro-Caribbean rhythms, shatta and pop while singing in Creole, Frenc",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:24:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/arts24/20260317-from-haitian-roots-to-viral-fame-the-rise-of-performer-ralph-beaubrun"
+    },
+    {
+      "id": "news-8",
+      "headline": "Information ministry rubbishes Afghan Taliban’s claims of hospital being hit in Kabul",
+      "summary": "&lt;p&gt;Pakistan on Tuesday dismissed claims made by the Afghan Taliban that its armed forces allegedly struck a hospital in Kabul, stating that the target was “Camp Phoenix”, which is several kilometres away from the hospital.&lt;/p&gt;\n&lt;p&gt;The development comes amid the ongoing Operation Gha",
+      "urgency": "breaking",
+      "topic": "taliban-pakistan",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:23:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1983000/information-ministry-rubbishes-afghan-talibans-claims-of-hospital-being-hit-in-kabul"
+    },
+    {
+      "id": "news-9",
+      "headline": "Trump vows to 'take' Cuba as island hit by nationwide blackout",
+      "summary": "- US President Donald Trump vowed Monday to \"take\" Cuba as the communist island plunged into darkness under a total power blackout linked to a crippling oil embargo imposed by Washington.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:23:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-trump-vows-to-take-cuba-as-island-hit-by-nationwide-blackout"
+    },
+    {
+      "id": "news-10",
+      "headline": "Trump seeks to delay China visit as Beijing rebuffs Hormuz demands",
+      "summary": "US President Donald Trump on Monday said he is seeking to delay a highly anticipated trip to China in early April by about a month because of the Iran war. It comes after Trump called on numerous nations, including China, to help ships safely transit the Strait of Hormuz, a request that so far has l",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:21:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-trump-seeks-to-delay-china-visit-as-beijing-rebuffs-hormuz-demands"
+    },
+    {
+      "id": "news-11",
+      "headline": "Israel sends more troops to southern Lebanon as residents flee",
+      "summary": "The Israeli military said Tuesday that additional troops have been deployed in southern Lebanon, as part of efforts to create an “additional layer of security for residents of northern Israel against Hezbollah's threat\". It comes as shelters in the country fill up with more than a million people dis",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:19:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-israel-sends-more-troops-to-southern-lebanon-as-residents-flee"
+    },
+    {
+      "id": "news-12",
+      "headline": "Trump claims mystery ex-president backed his war on Iran but no one is owning up",
+      "summary": "Twice on Monday, US President Donald Trump said he had wrangled a confession of sorts from an Oval Office predecessor who he said had expressed regret in a private conversation about not attacking Iran the way Trump has been doing for more than two weeks.\nBut there’s just a little problem: represent",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:15:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3346927/trump-claims-mystery-ex-president-backed-his-war-iran-no-one-owning?utm_source=rss_feed"
+    },
+    {
+      "id": "news-13",
+      "headline": "15 Hong Kong schools risk closure as falling numbers trigger Primary One ban",
+      "summary": "Fifteen Hong Kong public primary schools are at risk of closing after being banned from operating subsidised Primary One classes in the coming academic year due to insufficient enrolment.\nBut Secretary for Education Christine Choi Yuk-lin also warned on Tuesday that more closures were expected if sc",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:10:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3346926/15-hong-kong-schools-risk-closure-falling-numbers-trigger-primary-one-ban?utm_source=rss_feed"
+    },
+    {
+      "id": "news-14",
+      "headline": "Do you have knowledge of ‘dirty bombs’? The bizarre question being asked by Anthropic and OpenAI to new hires",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129634714.cms\" /&gt;<![CDATA[Leading AI firms are now seeking experts in chemical weapons and explosives. This move aims to stop artificial intelligence tools from assi",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:10:32.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/do-you-have-knowledge-of-dirty-bombs-the-bizarre-question-being-asked-by-anthropic-and-openai-to-new-hires/articleshow/129634714.cms"
+    },
+    {
+      "id": "news-15",
+      "headline": "Iran war threatens Gulf’s dugongs, turtles and birds",
+      "summary": "&lt;p&gt;From sea turtles to birds and the gentle dugong, the Persian Gulf’s diverse but fragile marine life is threatened by the bombs and oil of the &lt;a href=\"https://www.dawn.com/live/iran-israel-war\"&gt;war in the Middle East&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;The ecosystem was already under pressu",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:09:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1983056/iran-war-threatens-gulfs-dugongs-turtles-and-birds"
+    },
+    {
+      "id": "news-16",
+      "headline": "Watch: When Sanju Samson got a grand welcome in college",
+      "summary": "Watch: When Sanju Samson got a grand welcome in college",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:09:04.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/cricket/watch-when-sanju-samson-got-a-grand-welcome-in-college-1.500477660"
+    },
+    {
+      "id": "news-17",
+      "headline": "Top Gabbard counterterrorism official Joe Kent resigns in opposition to Iran war",
+      "summary": "Kent, a top counterterrorism official and close aide to Director of National Intelligence Tulsi Gabbard, cited deliberate Israeli “misinformation” and lies to President Donald Trump about a “swift path to victory.”",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:07:54.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/national-security/2026/03/17/joe-kent-resigns-iran-war/"
+    },
+    {
+      "id": "news-18",
+      "headline": "US envoys meet Hamas in Cairo to salvage fragile Gaza truce",
+      "summary": "Rare US-Hamas talks come as the war on Iran strains the battered Gaza &#039;ceasefire&#039; and post-war plans.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:06:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/features/2026/3/17/us-envoys-meet-hamas-in-cairo-to-salvage-fragile-gaza-truce?traffic_source=rss"
+    },
+    {
+      "id": "news-19",
+      "headline": "Man and woman appear in court over murder of Iranian activist in Canada",
+      "summary": "&lt;p&gt;Charges follow discovery of body of Masood Masjoody, who was a critic of the Tehran regime and the exiled shah&lt;/p&gt;&lt;p&gt;Two people have been charged with the murder of an Iranian activist in Canada, in a case which has intensified fears over transnational repression of critics of t",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:05:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/world/2026/mar/17/two-men-court-murder-iranian-activist-canada"
+    },
+    {
+      "id": "news-20",
+      "headline": "Indian-origin cab driver in Australia sues Queensland police for racial targeting: False allegation of indecent act, cops called Indians perverts",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129634807.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:05:33.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-cab-driver-in-australia-sues-queensland-police-for-racial-targeting-false-allegation-of-indecent-act-cops-called-indians-perverts/articleshow/129634807.cms"
+    },
+    {
+      "id": "news-21",
+      "headline": "What to Know About Ali Larijani, Iran’s Top Security Official",
+      "summary": "One of Ayatollah Ali Khamenei’s closest confidants, Mr. Larijani emerged as the face of the government after Mr. Khamenei was killed.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:01:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html"
+    },
+    {
+      "id": "news-22",
+      "headline": "Australia’s environment minister wants to ban fishers and drillers from more ocean – and avoid a culture war",
+      "summary": "&lt;p&gt;Conservationists hope Murray Watt’s review of national marine parks will ‘right the wrongs’ of previous downgrade of protection&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-wi",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:00:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/environment/2026/mar/17/australia-environment-murray-watt-ocean-protection-fishers-drillers"
+    },
+    {
+      "id": "news-23",
+      "headline": "China, Russia discuss boosting transport links as Middle East conflict disrupts shipping",
+      "summary": "As heightened conflict in the Middle East disrupts global shipping, China and Russia are considering deeper cooperation on logistics – including use of the Arctic shipping route – to secure a more resilient supply chain.\nAt the inaugural China-Russia Logistics Business Forum held in Moscow on Monday",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:00:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/economy/china-economy/article/3346894/china-russia-discuss-boosting-transport-links-middle-east-conflict-disrupts-shipping?utm_source=rss_feed"
+    },
+    {
+      "id": "news-24",
+      "headline": "How Nvidia’s inference bet at GTC poses a challenge and opportunity for China",
+      "summary": "Nvidia’s latest language processing chip, unveiled at the company’s annual artificial intelligence conference, has opened a new frontier in the AI inference arms race, as the booming market for AI agents like OpenClaw presents a complex new reality for China’s semiconductor industry, according to an",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T14:00:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/tech/article/3346880/how-nvidias-inference-bet-gtc-poses-challenge-and-opportunity-china?utm_source=rss_feed"
+    },
+    {
+      "id": "news-25",
+      "headline": "Dune 3 first posters out ahead of trailer release: Everything we know",
+      "summary": "Dune 3 first posters out ahead of trailer release: Everything we know",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:58:57.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/entertainment/dune-3-first-posters-out-ahead-of-trailer-release-everything-we-know-1.500477563"
+    },
+    {
+      "id": "news-26",
+      "headline": "India diversifies LPG sourcing: Supply remains steady despite West Asia tensions",
+      "summary": "India diversifies LPG sourcing: Supply remains steady despite West Asia tensions",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:58:13.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/india/india-diversifies-lpg-sourcing-supply-remains-steady-despite-west-asia-tensions-1.500477639"
+    },
+    {
+      "id": "news-27",
+      "headline": "Govt calls off Pakistan Day parade, associated events amid austerity measures",
+      "summary": "&lt;p&gt;The government on Tuesday said it will not hold the Pakistan Day parade and other ceremonial events on March 23 in light of the ongoing Gulf oil crisis and the resulting austerity measures announced by the government.&lt;/p&gt;\n&lt;p&gt;Pakistan Day — observed on March 23 every year — comme",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:57:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1983051/govt-calls-off-pakistan-day-parade-associated-events-amid-austerity-measures"
+    },
+    {
+      "id": "news-28",
+      "headline": "‘Police refused to help’: Indian-origin Sikh restaurateur speaks out after release amid ‘no halal’ row",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129634188.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:55:38.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/uk/police-refused-to-help-indian-origin-sikh-restaurant-owner-harman-kapoor-speaks-out-after-release-amid-no-halal-row/articleshow/129634188.cms"
+    },
+    {
+      "id": "news-29",
+      "headline": "Unmanned aerial vehicle fell in Rawalpindi early Tuesday morning: security sources",
+      "summary": "&lt;p&gt;Security sources said that an unmanned aerial vehicle (UAV) fell on a house in Chaklala area of Rawalpindi early Tuesday morning.&lt;/p&gt;\n&lt;p&gt;They said that no loss of life was reported in the incident. However, they said that the house had sustained some damage.&lt;/p&gt;\n&lt;p&gt;L",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:55:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1982969/unmanned-aerial-vehicle-fell-in-rawalpindi-early-tuesday-morning-security-sources"
+    },
+    {
+      "id": "news-30",
+      "headline": "What to Know About the Clashes Between Pakistan and Afghanistan - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBSMDE0bFNJakE4YnRNemVhN0JBM1Y4S3gtbDFBaEkwVkFaQkpUVlpDRl9Yd3c1TzNOWWRmR0NNdndNaUlCU2tZVHVLNzhORktwbFJzRU1YQWJiaS1TRFhXMEIxT3dCRS1jUmNyTTZOQ1hNNFZvY0V0eEVCcUhmT3Nn?oc=5\" target=\"_blank\"&gt;What to Know About the Clashes Between Pakist",
+      "urgency": "info",
+      "topic": "taliban-pakistan",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:52:44.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWlBSMDE0bFNJakE4YnRNemVhN0JBM1Y4S3gtbDFBaEkwVkFaQkpUVlpDRl9Yd3c1TzNOWWRmR0NNdndNaUlCU2tZVHVLNzhORktwbFJzRU1YQWJiaS1TRFhXMEIxT3dCRS1jUmNyTTZOQ1hNNFZvY0V0eEVCcUhmT3Nn?oc=5"
+    },
+    {
+      "id": "news-31",
+      "headline": "Here Are the Top Iranian Leaders Killed in the War So Far",
+      "summary": "Israel said on Tuesday that it had killed two more high-ranking figures, including the man who had essentially been running Iran for weeks.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:48:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-leaders-killed-war-strikes.html"
+    },
+    {
+      "id": "news-32",
+      "headline": "The silent victims of war: When pets are left behind",
+      "summary": "The silent victims of war: When pets are left behind",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:44:20.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/opinion/op-eds/the-silent-victims-of-war-when-pets-are-left-behind-1.500477633"
+    },
+    {
+      "id": "news-33",
+      "headline": "Larijani's death would mean 'Iran's leadership very much infiltrated by Israeli intelligence'",
+      "summary": "Israel said Tuesday it had killed Iran's powerful national security chief, Ali Larijani, in what would be a huge blow to the Islamic republic more than two weeks into the war engulfing the Middle East. It would also suggest Iran's senior leadership has been infiltrated by Israeli intelligence, says ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:43:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-larijani-s-death-would-mean-iran-s-leadership-very-much-infiltrated-by-israeli-intelligence"
+    },
+    {
+      "id": "news-34",
+      "headline": "China suspends marathon official who blocked winner at finish line",
+      "summary": "China suspends marathon official who blocked winner at finish line",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:42:51.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/china-suspends-marathon-official-who-blocked-winner-at-finish-line-1.500477620"
+    },
+    {
+      "id": "news-35",
+      "headline": "Iran's Larijani - A pillar of power working from the shadows",
+      "summary": "Iran’s security chief Ali Larijani, whom Israel claimed Tuesday to have killed in a strike, was a Ayatollah Ali Khamenei's right hand man and, following the supreme leader’s death early in the war, was believed to be effectively running the country. France 24’s Delano D’Souza takes a look at a man w",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:42:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-iran-s-larijani-a-pillar-of-power-working-from-the-shadows"
+    },
+    {
+      "id": "news-36",
+      "headline": "Gavaskar links Sunrisers signing of Pakistan’s Abrar to Indian deaths",
+      "summary": "The signing of Pakistan bowler Abrar Ahmed by Hundred franchise Sunrisers bucked trend by Indian-owned teams.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:40:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/3/17/gavaskar-links-sunrisers-signing-of-pakistan-abrar-to-indian-deaths?traffic_source=rss"
+    },
+    {
+      "id": "news-37",
+      "headline": "Houthi rebels threaten to resume Red Sea attacks - Freightnews.co.za",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSTRlNmtKa1BtTkJ0Uk1kb1pGMmh5cmVVVkxjZmE1emR4RlhrelZiOWV0NkFlN21IWTY2ODBaZE8yckx5TzA0dVhScnlhTDlWRFp1eFFQaURfSUhXMlJhaFAzNTEzSEpfTW9WX3Z0OWtKLWdhWW9MeTdocWdSQkVGVEIzQ1pPcGxXRGhlZlhYYw?oc=5\" target=\"_blank\"&gt;Houthi rebels threaten to r",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:40:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSTRlNmtKa1BtTkJ0Uk1kb1pGMmh5cmVVVkxjZmE1emR4RlhrelZiOWV0NkFlN21IWTY2ODBaZE8yckx5TzA0dVhScnlhTDlWRFp1eFFQaURfSUhXMlJhaFAzNTEzSEpfTW9WX3Z0OWtKLWdhWW9MeTdocWdSQkVGVEIzQ1pPcGxXRGhlZlhYYw?oc=5"
+    },
+    {
+      "id": "news-38",
+      "headline": "Could a surprise alliance win Paris mayoral race for Dati?",
+      "summary": "The Paris mayoral race is set to be decided in a second round of voting on Sunday. The first round saw the candidate for the right, Rachida Dati, trailing behind left wing candidate Emmanuel Gregoire, but shifting alliances among the parties ahead of the runoff might prove pivotal.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:39:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-could-a-surprise-alliance-win-paris-mayoral-race-for-dati"
+    },
+    {
+      "id": "news-39",
+      "headline": "Even the dead in Thailand cannot escape Iran war fuel shortages",
+      "summary": "Worsening fuel shortages resulting from the war in the Middle East are threatening sacred funeral ceremonies in Thailand, where Buddhist temples are scrambling to obtain diesel for cremations.\nThe abbot of Wat Saman Rattanaram in Chachoengsao province, about 80km (50 miles) east of Bangkok, warned t",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:33:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3346921/even-dead-thailand-cannot-escape-iran-war-fuel-shortages?utm_source=rss_feed"
+    },
+    {
+      "id": "news-40",
+      "headline": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+      "summary": "It comes after the war in Iran caused mass disruption to flights across the Middle East and UAE.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Europe",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:33:44.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-41",
+      "headline": "Aspiring female Zambian politicians asked for sexual favours, official says",
+      "summary": "These reports harm attempts to close the wide gender representation gap in Zambia, activists say.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Africa",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:31:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-42",
+      "headline": "Afghan govt says 'around 400' killed in Pakistani strike on hospital",
+      "summary": "At least 400 people were killed and 250 injured in an air strike by Pakistan on a drug rehabilitation hospital in Kabul, a spokesman of the Afghan Taliban government said on Tuesday. Pakistan rejected the claim as false and misleading and said it \"precisely targeted military installations and terror",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:28:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-afghan-govt-says-around-400-killed-in-pakistani-strike-on-hospital"
+    },
+    {
+      "id": "news-43",
+      "headline": "US west coast prepares for 'dangerous' heatwave in early spring",
+      "summary": "Severe weather is plaguing the US from coast to coast, bringing a mix of extreme heat and bitter cold.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:26:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cwy80zk8d8xo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-44",
+      "headline": "Decades of deployment: America's extensive military presence in the Middle East",
+      "summary": "As yet another war rages in the Middle East, we take a closer look at the United States' military presence across the region. It's a presence that stretches back decades, but took on heightened visibility during the Iran-Iraq war of the 1980s, when both those nations began targeting oil tankers and ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:23:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/focus/20260317-decades-of-deployment-america-s-extensive-military-presence-in-the-middle-east"
+    },
+    {
+      "id": "news-45",
+      "headline": "Israel’s Killing of Ali Larijani Could Allow Military to Tighten Grip on Iran",
+      "summary": "As Iran’s top national security official, Mr. Larijani had a reputation for acting as a bridge between hard-line figures in the armed forces and more moderate political factions.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:22:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death-iran-military-control-israel.html"
+    },
+    {
+      "id": "news-46",
+      "headline": "What we know about deadly strike on Kabul medical centre",
+      "summary": "Afghan officials say a suspected Pakistani air strike hit a drug rehabilitation centre in Kabul, killing hundreds.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:15:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/what-we-know-about-deadly-strike-on-kabul-medical-centre?traffic_source=rss"
+    },
+    {
+      "id": "news-47",
+      "headline": "Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees",
+      "summary": "Barraged by Iranian attacks and questioning the value of security ties with the United States, nations in the Gulf have turned to Ukraine, Australia and Italy for help.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:12:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html"
+    },
+    {
+      "id": "news-48",
+      "headline": "Macron prepares France for ‘an age of nuclear weapons’ as Iran war rages",
+      "summary": "The French president described his plans for expansion as forward deterrence. What&#039;s behind his move?",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:10:25.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/3/17/macron-prepares-france-for-an-age-of-nuclear-weapons-as-iran-war-rages?traffic_source=rss"
+    },
+    {
+      "id": "news-49",
+      "headline": "China to provide humanitarian assistance to Iran, Mideast nations",
+      "summary": "&lt;p&gt;China said on Tuesday it will provide humanitarian assistance to Middle Eastern countries, including Iran and Lebanon, targeted in US and Israeli &lt;a href=\"https://www.dawn.com/live/iran-israel-war#1982988\"&gt;strikes &lt;/a&gt;in the conflict now in its third week.&lt;/p&gt;\n&lt;p&gt;Chi",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:08:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1983048/china-to-provide-humanitarian-assistance-to-iran-mideast-nations"
+    },
+    {
+      "id": "news-50",
+      "headline": "Len Deighton, best-selling novelist with wry take on espionage, dies at 97",
+      "summary": "His books of betrayal and deception, including “The Ipcress File,” skewered espionage services and sharply mocked English social strictures.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:04:59.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/obituaries/2026/03/17/len-deighton-dead-ipcress/"
+    },
+    {
+      "id": "news-51",
+      "headline": "The US-Israel war on Iran is shaped by religion as much as strategy",
+      "summary": "The conflict has mutated into a zero-sum collision of competing messianic frameworks.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:04:40.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/opinions/2026/3/17/the-us-israel-war-on-iran-is-shaped-by-religion-as-much-as-strategy?traffic_source=rss"
+    },
+    {
+      "id": "news-52",
+      "headline": "Iran blames US, Israel for Hormuz tensions as crisis risks energy supplies",
+      "summary": "Iran&#039;s Araghchi calls for global condemnation of ‘military aggression’ that disrupted transit through Strait of Hormuz.",
+      "urgency": "important",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:03:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/3/17/iran-blames-us-israel-for-hormuz-tensions-as-crisis-risks-energy-supplies?traffic_source=rss"
+    },
+    {
+      "id": "news-53",
+      "headline": "Chairperson says BISP not responsible for cash disbursement after deaths at payment point in Rahim Yar Khan",
+      "summary": "&lt;p&gt;Benazir Income Support Programme (BISP) Chairperson Rubina Khalid on Tuesday said that the programme was not responsible for the process of disbursement of cash, saying that it had been “outsourced” to banks.&lt;/p&gt;\n&lt;p&gt;The statement comes a day after at least seven women were &lt;a",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:03:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1983030/chairperson-says-bisp-not-responsible-for-cash-disbursement-after-deaths-at-payment-point-in-rahim-yar-khan"
+    },
+    {
+      "id": "news-54",
+      "headline": "With Trump’s China trip in limbo, further trade talks loom: analysts",
+      "summary": "With US President Donald Trump’s trip to China postponed and the countries’ recent trade negotiations in Paris ending with no apparent breakthroughs, analysts said the world’s two largest economies are likely to hold another round of talks before Trump touches down in Beijing.\n“We can see this as mo",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:00:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/economy/global-economy/article/3346908/trumps-china-trip-limbo-further-trade-talks-loom-analysts?utm_source=rss_feed"
+    },
+    {
+      "id": "news-55",
+      "headline": "China leads world in anti-drone patents with US and South Korea far behind, law firm finds",
+      "summary": "China leads the world in patent applications for anti-drone technology, which has drawn heightened attention during the wars in Ukraine and Iran and a spate of suspicious sightings in the West, according to intellectual property law firm Mathys &amp; Squire.\nPatent applications for anti-drone system",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T13:00:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/tech/article/3346874/china-leads-world-anti-drone-patents-us-and-south-korea-far-behind-law-firm-finds?utm_source=rss_feed"
+    },
+    {
+      "id": "news-56",
+      "headline": "Utah mom who wrote children's book on grief 'Are You With Me' found guilty of murdering husband",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129633462.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:58:52.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/utah-mom-who-wrote-childrens-book-on-grief-are-you-with-me-found-guilty-of-murdering-husband/articleshow/129633462.cms"
+    },
+    {
+      "id": "news-57",
+      "headline": "Peter Thiel Fears the Antichrist Is Coming. In Rome, Some Call His View Heresy.",
+      "summary": "The right-wing tech investor is giving lectures near the Catholic church’s administrative heart. Commentators there are rejecting his apocalyptic vision.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:58:52.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/17/world/europe/peter-thiel-rome-antichrist-catholics.html"
+    },
+    {
+      "id": "news-58",
+      "headline": "UN warns of record hunger, 45 million more at risk, if Iran war continues - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1JaZk9KQlRCQmMxSjJoNlpvR2p5ZERwa1pha0R2N3oxZ2RBYzgwVkZvREhSLTlESGtVZjZNVHNIQUdwSVR5TGJCQ0tTc1RUY2JUa3ZKQ2pHQUFoTGk2aUZHS254c1lUX3lhYUdjS0t3eUE5UjU0aHAza3BfLXQwODExenVPMDFDaEt3NUtZWnpYMVh3VTBjRzJPdG93OUxsb1BGbHNzZ05MUC1pVlZPN2l30gG3AUF",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:55:59.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1JaZk9KQlRCQmMxSjJoNlpvR2p5ZERwa1pha0R2N3oxZ2RBYzgwVkZvREhSLTlESGtVZjZNVHNIQUdwSVR5TGJCQ0tTc1RUY2JUa3ZKQ2pHQUFoTGk2aUZHS254c1lUX3lhYUdjS0t3eUE5UjU0aHAza3BfLXQwODExenVPMDFDaEt3NUtZWnpYMVh3VTBjRzJPdG93OUxsb1BGbHNzZ05MUC1pVlZPN2l30gG3AUFVX3lxTFBETmlsMXpocEdqY3VmNUNxNTk2LTI3R2YzNFF0Z0tsZDA0VE9UU2E0dFRvUjUtVHpMR3pmRV9jT0hpLWhVNm1TLTdTSUZNLTNkWVl4ZHdROVkycTc4MmJPbzNkRmQ3cGlkYzBIWnJfblZNa19uZlljcld0V0hlVnZqWHVJUV9sNWVNU25OVC00bG1TanNXUGJ1NWYwR0ZwazZGR3E1bk45cmZRUVAzb2t4c1dQVkFONA?oc=5"
+    },
+    {
+      "id": "news-59",
+      "headline": "Indian national Akash Tiwari charged with harassing air hostess on Singapore Airlines plane",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129633073.cms\" /&gt;<![CDATA[",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:55:49.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-national-akash-tiwari-charged-with-harassing-air-hostess-on-singapore-airlines-plane-faces-up-to-three-years-in-jail/articleshow/129633073.cms"
+    },
+    {
+      "id": "news-60",
+      "headline": "FIFA World Cup host countries reveal tournament jerseys",
+      "summary": "FIFA World Cup host countries reveal tournament jerseys",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:49:17.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/fifa-world-cup-host-countries-reveal-tournament-jerseys-1.500477541"
+    },
+    {
+      "id": "news-61",
+      "headline": "Thousands of Christians are being evicted in Pakistan’s capital",
+      "summary": "Thousands of Christians are being evicted in Pakistan’s capital",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:49:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/thousands-of-christians-are-being-evicted-in-pakistans-capital?traffic_source=rss"
+    },
+    {
+      "id": "news-62",
+      "headline": "Australia beat China to reach Women’s Asian Cup final as Kerr nets winner",
+      "summary": "Sam Kerr nets the winner as Australia beat China 2-1 to reach the final of the 2026 Women&#039;s AFC Asian Cup.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:45:56.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/3/17/australia-beat-china-to-reach-womens-asian-cup-final-as-kerr-scores-again?traffic_source=rss"
+    },
+    {
+      "id": "news-63",
+      "headline": "Afghan govt says &apos;around 400&apos; killed in Pakistani strike on Kabul rehab clinic",
+      "summary": "Kabul drug rehab clinic in ruins after Pakistan strikes on Afghanistan",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:39:55.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/pakistan/afghan-govt-says-around-400-killed-in-pakistani-strike-on-kabul-rehab-clinic-1.500477061"
+    },
+    {
+      "id": "news-64",
+      "headline": "94% of Hong Kong students are couch potatoes, 17.5% overweight, study shows",
+      "summary": "About 94 per cent of Hong Kong’s students do not get enough daily exercise and 17.5 per cent are overweight, authorities have warned, urging schools and parents to tackle the growing fitness crisis together.\nA government report released on Tuesday also flagged low fruit and vegetable intake, poor vi",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:39:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3346918/94-hong-kong-students-are-couch-potatoes-175-overweight-study-shows?utm_source=rss_feed"
+    },
+    {
+      "id": "news-65",
+      "headline": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
+      "summary": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:38:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-66",
+      "headline": "Lebanon: In the Bekaa Valley, a Christian village shelters displaced Shiite families",
+      "summary": "In eastern Lebanon, the Baalbek region – a stronghold of Hezbollah – has repeatedly been targeted by Israeli strikes since March 2. Fleeing the bombardment, residents from the predominantly Shiite area have sought refuge in the nearby Christian village of Deir al-Ahmar. FRANCE 24’s Laura Mousset tra",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:35:35.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260317-lebanon-in-the-bekaa-valley-a-christian-village-shelters-displaced-shiite-families"
+    },
+    {
+      "id": "news-67",
+      "headline": "Israel says it killed Ali Larijani, Iran’s top security official, in strike",
+      "summary": "Israel’s defense minister said Larijani and Basij commander Gholamreza Soleimani were “eliminated” in airstrikes. Tehran has not publicly commented on the strikes.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:34:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/03/17/us-iran-israel-war-ali-larijani/"
+    },
+    {
+      "id": "news-68",
+      "headline": "Dh6 billion in 72 hours: Manchester City Yas Residences by Ohana Development sets sales record in Abu Dhabi",
+      "summary": "Dh6 billion in 72 hours: Manchester City Yas Residences by Ohana Development sets sales record in Abu Dhabi",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:33:18.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/property/dh6-billion-in-72-hours-manchester-city-yas-residences-by-ohana-development-sets-sales-record-in-abu-dhabi-1.500477379"
+    },
+    {
+      "id": "news-69",
+      "headline": "Guy Poran urges international community to demand Israeli govt end settler violence in West Bank",
+      "summary": "Eve Irvine is pleased to welcome Guy Poran, former Israeli Air Force Pilot, human rights activist and volunteer for Israeli peace activist group Mistaclim. According to Poran, the situation in the West Bank has entered a dangerous phase, following wars in Gaza, Lebanon and Iran. He says the Israeli ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:32:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/guy-poran-urges-international-community-to-demand-israeli-govt-end-settler-violence-in-west-bank"
+    },
+    {
+      "id": "news-70",
+      "headline": "‘Leave immediately’: UK puts 14 countries on ‘do not travel’ list amid Middle East tensions",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129632824.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:31:12.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/uk/leave-immediately-uk-puts-14-countries-on-do-not-travel-list-amid-middle-east-tensions/articleshow/129632824.cms"
+    },
+    {
+      "id": "news-71",
+      "headline": "Trump’s Iran gamble won’t advance his prospects at home or with China",
+      "summary": "The eminent British military strategist Michael Howard famously said that the purpose of forecasting wars is not to get it right, but to avoid getting it terribly wrong. US President Donald Trump has already got it terribly wrong. No one knows why he launched a war with Israel against Iran.\nTrump ma",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:30:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3346764/trumps-iran-gamble-wont-advance-his-prospects-home-or-china?utm_source=rss_feed"
+    },
+    {
+      "id": "news-72",
+      "headline": "Israeli attacks hit Beirut, southern Lebanon, one million displaced - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU0wSlAxMlpySW83Z0xfanRrRjMzVGV4Z1R1Zy1JVG5mZGRVMERCd1JNc0lIaG9HT0I5TnBzR09FWEhyeEhNcHl6VkFwczhJWXFTVlJGX3JkYXhfSGNOMy1qQ19IT0ZudDAwdmFVY1NZWWRzY2lrX29Wak91aU5qaTJDZFdHdVZRbXVGQ3d2b0NSb09ZTWxQVU1acGhrQklqa0VzbW4xS2lZeG1aNXfSAbMBQVVfeXF",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:29:27.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU0wSlAxMlpySW83Z0xfanRrRjMzVGV4Z1R1Zy1JVG5mZGRVMERCd1JNc0lIaG9HT0I5TnBzR09FWEhyeEhNcHl6VkFwczhJWXFTVlJGX3JkYXhfSGNOMy1qQ19IT0ZudDAwdmFVY1NZWWRzY2lrX29Wak91aU5qaTJDZFdHdVZRbXVGQ3d2b0NSb09ZTWxQVU1acGhrQklqa0VzbW4xS2lZeG1aNXfSAbMBQVVfeXFMTWF6NnF1ZGNMV0IyUWVLRWtrUXNvZGJYQlZCN3k5UXVtNnJ4em9KMEhfQmdGU290blFQcU94US1kMlh6ZmE0NU0xSUJ0ejViOTZqZ1RUZklkbi13QzhSOVBxZTFYeHBqQ0FuMExpMXc4VWVxbEFsWkhsbEV6dXNqS0I5OEtYalZSNV9uNlpPMm1sTXh5aWxtNC1YZTFzRUQyWFl1T3lsLUZfUThfdkJKNk9uTzQ?oc=5"
+    },
+    {
+      "id": "news-73",
+      "headline": "What is Iran’s Basij force, the militia whose chief Israel says it killed in a strike?",
+      "summary": "What is Iran’s Basij force, the militia whose chief Israel says it killed in a strike?",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:28:29.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/what-is-irans-basij-force-the-militia-whose-chief-israel-says-it-killed-in-a-strike-1.500477540"
+    },
+    {
+      "id": "news-74",
+      "headline": "Dubai Municipality announces Eid Al Fitr working hours for abattoirs",
+      "summary": "Dubai Municipality announces Eid Al Fitr working hours for abattoirs",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:27:35.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/dubai-municipality-announces-eid-al-fitr-working-hours-for-abattoirs-1.500477459"
+    },
+    {
+      "id": "news-75",
+      "headline": "India detains 6 Ukrainians, 1 American suspected of training Myanmar rebels",
+      "summary": "Indian investigators have arrested seven foreigners – six Ukrainians and an American – on suspicion of illegally crossing into neighbouring Myanmar to train armed militia groups, the public radio broadcaster reported on Tuesday.\nMyanmar descended into civil war after a junta seized power in a 2021 c",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:27:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3346917/india-detains-6-ukrainians-1-american-suspected-training-myanmar-rebels?utm_source=rss_feed"
+    },
+    {
+      "id": "news-76",
+      "headline": "Dubai&apos;s free mental health hotline needs 100 volunteers: Who it&apos;s for and how to apply",
+      "summary": "Dubai&apos;s free mental health hotline needs 100 volunteers: Who it&apos;s for and how to apply",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:26:14.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/health/dubais-free-mental-health-hotline-needs-100-volunteers-who-its-for-and-how-to-apply-1.500477511"
+    },
+    {
+      "id": "news-77",
+      "headline": "Are the US and Israel waging war on Iran’s cultural heritage?",
+      "summary": "Iran says at least 56 of its heritage sites damaged or destroyed in war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:20:24.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/3/17/are-the-us-and-israel-waging-war-on-irans-cultural-heritage?traffic_source=rss"
+    },
+    {
+      "id": "news-78",
+      "headline": "7 free things to do in Dubai for Eid",
+      "summary": "7 free things to do in Dubai for Eid",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:19:43.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/lifestyle/7-free-things-to-do-in-dubai-for-eid-1.500477464"
+    },
+    {
+      "id": "news-79",
+      "headline": "Laporta already decided Hansi Flick’s future at Barcelona",
+      "summary": "Laporta already decided Hansi Flick’s future at Barcelona",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:17:37.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/football/laporta-already-decided-hansi-flicks-future-at-barcelona-1.500477510"
+    },
+    {
+      "id": "news-80",
+      "headline": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHVLa19JbWhHSDYtSW1ITFlueDJWQXdHb1dQd2hfaWxJbWhVdGdEWTZuNURva0JIcVZFSXF1VDNjZ281ZHUyQl91OGN5TGU1djJCRWRTM0lONjQwSW9sTFlRU1oyYVdVWm43OHNNM2FQb2VNNTlOMHNWUGlDbXR4azVMMVdtWDN3VmxfdW85dmFkWlI0U1JsVXFtU0x4QVZJYmp5VGJEb3FPRmRjSjBrMmZn0gG3AUF",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:17:14.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHVLa19JbWhHSDYtSW1ITFlueDJWQXdHb1dQd2hfaWxJbWhVdGdEWTZuNURva0JIcVZFSXF1VDNjZ281ZHUyQl91OGN5TGU1djJCRWRTM0lONjQwSW9sTFlRU1oyYVdVWm43OHNNM2FQb2VNNTlOMHNWUGlDbXR4azVMMVdtWDN3VmxfdW85dmFkWlI0U1JsVXFtU0x4QVZJYmp5VGJEb3FPRmRjSjBrMmZn0gG3AUFVX3lxTE4yc0RtUXU3RzZTeW95bjFSck5VTFA4Q1VRelVfc1ZmZVg0cnZLSDIwZ1JrMjRCNTJzcE1QMnBfV3hTT0FFQzhhcHVsUHZCOTg0WXZlb0luY2YzY294X3VNNlFCREVEVlNzb3lfTlpIYWh6bTEwRUF1cVJCNWlzSmZVQWg1bmV0eTRvb2JNUGhVQlltSUdua0xHQXBoSGJLOXAtTFJHd29keVZ4R1RTa1pxbEpwZmF3dw?oc=5"
+    },
+    {
+      "id": "news-81",
+      "headline": "German Chancellor says Iran war has no military solution",
+      "summary": "German Chancellor Friedrich Merz said the Iran conflict cannot be resolved militarily and must be resolved politically.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:16:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/german-chancellor-says-iran-war-has-no-military-solution?traffic_source=rss"
+    },
+    {
+      "id": "news-82",
+      "headline": "Mapping Israeli attacks and the displacement of one million in Lebanon",
+      "summary": "Nearly one in five people in Lebanon have been forced from their homes as Israel launches new &#039;ground operations&#039;.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:15:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/3/17/mapping-israeli-attacks-and-the-displacement-of-one-million-in-lebanon?traffic_source=rss"
+    },
+    {
+      "id": "news-83",
+      "headline": "Pakistan Association Dubai supports thousands during Ramadan",
+      "summary": "Pakistan Association Dubai supports thousands during Ramadan",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:05:20.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/pakistan-association-dubai-supports-thousands-during-ramadan-1.500477492"
+    },
+    {
+      "id": "news-84",
+      "headline": "Will delay in Trump-Xi summit affect US arms sales to Taiwan?",
+      "summary": "A possible delay in the planned summit between Donald Trump and Xi Jinping later this month has raised concerns about a pending record US arms sale to Taiwan, though officials in Taipei insist the deal remains on track.\nReuters reported on Friday that the US$14 billion arms package – possibly the la",
+      "urgency": "important",
+      "topic": "china-taiwan",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:01:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/politics/article/3346914/will-postponed-trump-xi-summit-affect-us-arms-sales-taiwan?utm_source=rss_feed"
+    },
+    {
+      "id": "news-85",
+      "headline": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
+      "summary": "Multiple blasts struck some of the Maiduguri's busiest locations on Monday evening.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:00:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-86",
+      "headline": "China sailor creates ‘radio station’ to connect families with seamen stranded in Strait of Hormuz",
+      "summary": "A Chinese man has used public maritime radio to create a “family’s voice station” on which sailors stranded in the Strait of Hormuz can relay safety messages to their families.\nLiu Yiwen, a native of Jilin province in northeastern China, is a second officer on a Singaporean commercial ship which is ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T12:00:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3346873/china-sailor-creates-radio-station-connect-families-seamen-stranded-strait-hormuz?utm_source=rss_feed"
+    },
+    {
+      "id": "news-87",
+      "headline": "MIDDLE EAST LIVE 17 March: Crisis impact ripples across region",
+      "summary": "The crisis in the Middle East continues, with strikes and counterstrikes reported across the region as the humanitarian toll rises. UN agencies warn that health systems are under growing strain, children are increasingly affected by violence and displacement, and hundreds of thousands have been forc",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "United Nations",
+          "logo": "https://www.google.com/s2/favicons?domain=un.org&sz=32",
+          "url": "https://news.un.org",
+          "category": "government"
+        }
+      ],
+      "timestamp": "2026-03-17T12:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.un.org/feed/view/en/story/2026/03/1167146"
+    },
+    {
+      "id": "news-88",
+      "headline": "Financial frauds cost global economy over $442 billion in 2025: INTERPOL",
+      "summary": "Financial frauds cost global economy over $442 billion in 2025: INTERPOL",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:58:28.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/financial-frauds-cost-global-economy-over-442-billion-in-2025-interpol-1.500477452"
+    },
+    {
+      "id": "news-89",
+      "headline": "Thailand to build fence along parts of Cambodian border for ‘peace of mind’",
+      "summary": "Thailand will start building fences along a portion of its border with Cambodia next month to boost security after deadly clashes between the countries erupted last year following long-standing tensions.\nThe first barrier will cover 1.3km (0.8 miles) in Chanthaburi province along Thailand’s eastern ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:55:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3346913/thailand-build-fence-along-parts-cambodian-border-peace-mind?utm_source=rss_feed"
+    },
+    {
+      "id": "news-90",
+      "headline": "With Sanju Samson in, will it be Dhoni’s last season at CSK?",
+      "summary": "With Sanju Samson in, will it be Dhoni’s last season at CSK?",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:52:07.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/cricket/ipl/with-sanju-samson-in-will-it-be-dhonis-last-season-at-csk-1.500477482"
+    },
+    {
+      "id": "news-91",
+      "headline": "UAE air defences intercept 10 ballistic missiles and 45 drones on Tuesday",
+      "summary": "UAE air defences intercept 10 ballistic missiles and 45 drones on Tuesday",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:51:09.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/uae-air-defences-intercept-10-ballistic-missiles-and-45-drones-on-tuesday-1.500477481"
+    },
+    {
+      "id": "news-92",
+      "headline": "US reshoring drive casts shadow over China’s contract drug makers: analyst",
+      "summary": "Chinese contract drug makers – including WuXi AppTec, WuXi Biologics and WuXi XDC – face a less certain long-term revenue outlook as US pharmaceutical companies bring production in-house and reconfigure supply chains amid rising US-China tensions.\nWhile near-term earnings remained largely locked in,",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:48:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/business/china-business/article/3346911/us-reshoring-drive-casts-shadow-over-chinas-contract-drug-makers-analyst?utm_source=rss_feed"
+    },
+    {
+      "id": "news-93",
+      "headline": "At Least 23 Killed in Nigeria as Insurgent Attacks Go On Despite U.S. Help",
+      "summary": "A teaching hospital and two markets in the city of Maiduguri were hit in what a military spokesman said were suicide bombings by Boko Haram.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:45:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/17/world/africa/nigeria-suicide-bombings-maiduguri.html"
+    },
+    {
+      "id": "news-94",
+      "headline": "PM Shehbaz congratulates Kazakhstan president on successful constitutional referendum",
+      "summary": "&lt;p&gt;Prime Minister Shehbaz Sharif on Tuesday congratulated Kazakhstan President Kassym-Jomart Tokayev on the success of a “historic constitutional referendum”, according to a statement by the Prime Minister’s Office (PMO).&lt;/p&gt;\n&lt;p&gt;On Monday, Kazakhstan voted 87.15 per cent in favour ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:44:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1983025/pm-shehbaz-congratulates-kazakhstan-president-on-successful-constitutional-referendum"
+    },
+    {
+      "id": "news-95",
+      "headline": "Live: Israel says it assassinated Iran’s national security chief Ali Larijani - Middle East Eye",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeXpPbkl0TndOTmdVREw1ZUF0MTE1MDd3SXFQWHpWbTBBWEtVWVhlZmZZX2pJZ3BDNERQay1pWW1jbElKNUNEVUFfTVdkTXdaZjB2eUlLblpySXdWN2JLOXUwWWlBRjI2azN0V1V0N1ZZRjg?oc=5\" target=\"_blank\"&gt;Live: Israel says it assassinated Iran’s national security chief A",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Middle East Eye",
+          "logo": "https://www.google.com/s2/favicons?domain=middleeasteye.net&sz=32",
+          "url": "https://middleeasteye.net",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:36:06.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeXpPbkl0TndOTmdVREw1ZUF0MTE1MDd3SXFQWHpWbTBBWEtVWVhlZmZZX2pJZ3BDNERQay1pWW1jbElKNUNEVUFfTVdkTXdaZjB2eUlLblpySXdWN2JLOXUwWWlBRjI2azN0V1V0N1ZZRjg?oc=5"
+    },
+    {
+      "id": "news-96",
+      "headline": "Fact check: Is IShowSpeed invited to Cristiano Ronaldo and Georgina Rodríguez’s wedding and planning a livestream? Truth revealed",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129626874.cms\" /&gt;<![CDATA[A viral post claimed IShowSpeed was invited to Cristiano Ronaldo and Georgina Rodríguez’s wedding and would livestream it. The quote spread",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:36:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/fact-check-is-ishowspeed-invited-to-cristiano-ronaldo-and-georgina-rodrguezs-wedding-and-planning-a-livestream-truth-revealed/articleshow/129626874.cms"
+    },
+    {
+      "id": "news-97",
+      "headline": "We Traced How U.S. Guns Get to Mexican Cartels",
+      "summary": "Gun traffickers have quietly moved what they say is an unprecedented number of weapons from the United States to Mexico. Our reporter Paulina Villegas followed the trail of these guns.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:35:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/video/world/americas/100000010763508/we-traced-how-us-guns-get-to-mexican-cartels.html"
+    },
+    {
+      "id": "news-98",
+      "headline": "How Eid al-Fitr is being celebrated under the shadow of war in the Middle East",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129630977.cms\" /&gt;<![CDATA[Eid al-Fitr 2026 is being observed with heightened security and subdued celebrations across the Middle East due to ongoing regional conflic",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:30:28.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/how-eid-al-fitr-is-being-celebrated-under-the-shadow-of-war-in-the-middle-east/articleshow/129630977.cms"
+    },
+    {
+      "id": "news-99",
+      "headline": "'Coalition of the unwilling': Allies refuse to clean up Trump's Strait of Hormuz mess",
+      "summary": "PRESS REVIEW – Tuesday, March 17: Donald Trump has called on US allies to help the US secure the Strait of Hormuz as the energy crisis intensifies. But after those allies refused to help, Trump promptly threatened NATO. In the midst of the EU's energy crisis, Belgium's prime minister has suggested \"",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-17T11:29:07.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20260317-coalition-of-the-unwilling-allies-refuse-to-clean-up-trump-s-strait-of-hormuz-mess"
+    }
+  ],
   "financials": {
     "exchangeRates": {
       "USD": 1,
-      "AED": 3.67,
+      "AED": 3.6725,
       "SAR": 3.75,
-      "GBP": 0.79,
-      "INR": 83.1,
-      "JPY": 150.2,
-      "EUR": 0.92
+      "GBP": 0.751717,
+      "INR": 92.401254,
+      "JPY": 159.17224,
+      "EUR": 0.870553,
+      "PKR": 279.425429,
+      "EGP": 52.382409,
+      "TRY": 44.184057,
+      "CAD": 1.368272,
+      "AUD": 1.416857,
+      "BRL": 5.262036,
+      "ZAR": 16.715575,
+      "NGN": 1364.241483,
+      "KES": 129.176203,
+      "JOD": 0.709,
+      "LBP": 89500,
+      "IQD": 1311.693288,
+      "QAR": 3.64,
+      "KWD": 0.306737,
+      "BHD": 0.376,
+      "OMR": 0.384497,
+      "ILS": 3.123582,
+      "KRW": 1491.163045
     },
     "gold": {
       "label": "Gold (USD/oz)",
