@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T22:00:05.728Z",
+  "lastUpdated": "2026-03-23T22:20:04.272Z",
   "news": [
     {
       "id": "news-0",
@@ -15,12 +15,66 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-03-23T21:56:32.000Z",
+      "timestamp": "2026-03-23T22:06:32.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump"
     },
     {
       "id": "news-1",
+      "headline": "Trump Says U.S. Is Negotiating With Iran, Which Publicly Denies His Claim",
+      "summary": "“Very, very strong talks,” President Trump claimed. Fake news, replied an Iranian parliamentary leader.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-23T22:02:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/03/23/world/middleeast/iran-war-trump.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "China’s Hainan wants more than beach tourism. Will new customs rules cause a sea change?",
+      "summary": "As China undergoes a sweeping economic transition, its regions are also in the process of embracing change. The powerhouses of yesteryear must adapt or risk falling behind, as traditional industries become less reliable growth drivers and new sectors take prominence. In this series, we explore three",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-23T22:00:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/economy/china-economy/article/3347581/chinas-hainan-wants-more-beach-tourism-will-new-customs-rules-cause-sea-change?utm_source=rss_feed"
+    },
+    {
+      "id": "news-3",
+      "headline": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; AI companies face fines over explicit chatbots",
+      "summary": "&lt;p&gt;Independent MP to introduce her own private member’s bill to legislate a gambling ad ban. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-23T21:56:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/mar/24/australia-politics-live-fuel-crisis-cost-of-living-petrol-diesel-rationing-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb"
+    },
+    {
+      "id": "news-4",
       "headline": "Colombian military plane with 125 people crashes",
       "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
       "urgency": "info",
@@ -38,7 +92,7 @@
       "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-2",
+      "id": "news-5",
       "headline": "US faces critical shortage of China expertise within a decade: report warns",
       "summary": "The United States will face a “critical shortage” of China expertise within a decade that threatens to leave policymakers struggling to manage Washington’s most consequential strategic relationship, a report said on Monday.\nAs China experts retire and the number of Americans studying in China sharpl",
       "urgency": "breaking",
@@ -56,7 +110,43 @@
       "link": "https://www.scmp.com/news/us/article/3347644/us-faces-critical-shortage-china-expertise-within-decade-report-warns?utm_source=rss_feed"
     },
     {
-      "id": "news-3",
+      "id": "news-6",
+      "headline": "UAE President receives French Minister of the Armed Forces",
+      "summary": "UAE President receives French Minister of the Armed Forces",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-23T21:52:40.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/uae-president-receives-french-minister-of-the-armed-forces-1.500484105"
+    },
+    {
+      "id": "news-7",
+      "headline": "UAE President, Nato Secretary General discuss regional developments",
+      "summary": "UAE President and NATO Secretary General discuss regional developments",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-03-23T21:49:18.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/uae-president-nato-secretary-general-discuss-regional-developments-1.500484096"
+    },
+    {
+      "id": "news-8",
       "headline": "US district judge blocks Trump administration from detaining thousands of refugees",
       "summary": "A federal judge on Monday blocked US President Donald Trump’s administration from enforcing a new policy that would subject thousands of refugees to arrest and detention if after a year in the United States they had yet to obtain green ‌cards.\nUS District Judge Richard Stearns in Boston acted at the",
       "urgency": "important",
@@ -74,9 +164,9 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3347643/us-district-judge-blocks-trump-administration-detaining-thousands-refugees?utm_source=rss_feed"
     },
     {
-      "id": "news-4",
+      "id": "news-9",
       "headline": "Iran War Live Updates: Trump and Iran Send Conflicting Signals on Talks - WSJ",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNOFZHRHlnaGdBUGdZajZNbThRZFFLTzdpb1J3SnZlTmg5c3AySXAzbVRKS3lUYVoxVk1BbF81RS1Qc25TUkhXdG1RSGIzelpWOTRFNXN3YjNOUTlVekRiTVhxbGJ0d1o4UGh2MW5vemxqdkxoRW5sZWkteXVwcGU5dFk3RXF3M01nb0tXeEhXSHlmX2JKdDk0M3hSQThSZ1ZlMVFLVkJ3SEF0WTdxZTNQRHhTcEpGUWx",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNcXJVendub0lNSFdyRzdKTFhxaTFjNnQwOHE2a2Jja0tSWGxDVHdzajdNZjhubVFFb3BPSnpDNVprMy1IY0F2c181cnRIaWROUFhtblphMEpOaWxzUkhnOUxaeURUaEhQYS0wMkluWFU0SlFCZjFWc3RzU0JIWU5lMEExc1diY0gwbTJtVFZaQWd4M0JyeUY0Y1hzclBOeUFBMmVUT2YybUIxeXFPNWptYzFXTVpkRTE",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
@@ -89,28 +179,10 @@
       ],
       "timestamp": "2026-03-23T21:39:13.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNOFZHRHlnaGdBUGdZajZNbThRZFFLTzdpb1J3SnZlTmg5c3AySXAzbVRKS3lUYVoxVk1BbF81RS1Qc25TUkhXdG1RSGIzelpWOTRFNXN3YjNOUTlVekRiTVhxbGJ0d1o4UGh2MW5vemxqdkxoRW5sZWkteXVwcGU5dFk3RXF3M01nb0tXeEhXSHlmX2JKdDk0M3hSQThSZ1ZlMVFLVkJ3SEF0WTdxZTNQRHhTcEpGUWxFdGFiUk9KalZsUEJTT1g2S3JDR2taMUQtMFMtVG1wTlRBcXNYS0NuYnpITFlDUWxRMGxnRXJRSUk3WFNHTmhkYXVBMDRMMmJJckZFaEFwQ0wxQ20wY3lZNGxjVTVRYm1DcXdyYVY5NTZ1OXh4bHBCc01yTmxENkxEaXJUR1FrVWpmeFJPTlZGdGUtSDU5a0dnV3E5eWc4dVNNd2RCTm1TYVpIMHJhNW1reUtXTkpPejFPOW5qOUN5ZlZXWk81bm54bjlIdU5R?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNcXJVendub0lNSFdyRzdKTFhxaTFjNnQwOHE2a2Jja0tSWGxDVHdzajdNZjhubVFFb3BPSnpDNVprMy1IY0F2c181cnRIaWROUFhtblphMEpOaWxzUkhnOUxaeURUaEhQYS0wMkluWFU0SlFCZjFWc3RzU0JIWU5lMEExc1diY0gwbTJtVFZaQWd4M0JyeUY0Y1hzclBOeUFBMmVUT2YybUIxeXFPNWptYzFXTVpkRTE0T1NORU5YNVltQUVRa1BYTUJlSlF4X3NMSGowRGtpNmFfVzJuY1I5Sm1hZ3lEdWJTTXBmSmRxai15cW81SFV0T3hjc05pUlU2dVpJdFJ2NHZlY043eEp1WFBQTjlkZlZPLUV2bmlvaEhVN1p0LXg1TU1PaVZaN2tLa1hNcU81OW0wWHpCV3Z4VENLd1ZjMExheW9UTFNDVTg3M2sxN2lpUS1SZEI5Y3JacndfU0VKeHQyUHJ3WEhENEpDMkNTaU1WSjAzRE1R?oc=5"
     },
     {
-      "id": "news-5",
-      "headline": "Australia politics live: Kate Chaney pushes for action 1,000 days after gambling ad ban report; classes cancelled as Victorian teachers strike",
-      "summary": "&lt;p&gt;Tens of thousands of Victorian teachers to down tools after last-ditch call to avoid strike chaos fell on deaf ears. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-03-23T21:35:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/live/2026/mar/24/australia-politics-live-fuel-crisis-cost-of-living-petrol-diesel-rationing-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb"
-    },
-    {
-      "id": "news-6",
+      "id": "news-10",
       "headline": "Have Israel, the US and Iran violated international law?",
       "summary": "Civilian targets have been struck by all three warring parties.",
       "urgency": "breaking",
@@ -128,7 +200,7 @@
       "link": "https://www.aljazeera.com/video/inside-story/2026/3/23/have-israel-the-us-and-iran-violated-international-law?traffic_source=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-11",
       "headline": "Why Middle East volatility presents an enhanced risk for South Asia",
       "summary": "When the late Japanese prime minister Shinzo Abe gave his landmark speech in the Indian parliament in August 2007 referring to the “confluence of the two seas”, he gave birth to the concept of the Indo-Pacific as a strategic space connecting East and South Asia. But the latest conflict in the Middle",
       "urgency": "info",
@@ -146,7 +218,7 @@
       "link": "https://www.scmp.com/opinion/asia-opinion/article/3346933/why-middle-east-volatility-presents-enhanced-risk-south-asia?utm_source=rss_feed"
     },
     {
-      "id": "news-8",
+      "id": "news-12",
       "headline": "Scientists finally uncover what’s hidden beneath the world’s oldest tree, and it’s alive",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129752445.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -164,7 +236,7 @@
       "link": "https://timesofindia.indiatimes.com/science/scientists-finally-uncover-whats-hidden-beneath-the-worlds-oldest-tree-and-its-alive/articleshow/129752445.cms"
     },
     {
-      "id": "news-9",
+      "id": "news-13",
       "headline": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
       "summary": "Israel&#039;s far-right finance minister says Litani River must be &#039;the new Israeli border&#039;, as attacks on Lebanon ramp up.",
       "urgency": "breaking",
@@ -182,7 +254,7 @@
       "link": "https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies?traffic_source=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-14",
       "headline": "ICE agents deploy to major US airports as security queues stretch for hours",
       "summary": "Hundreds of ICE agents have been deployed to 14 airports, in cities including New York, Atlanta and Houston.",
       "urgency": "info",
@@ -200,7 +272,7 @@
       "link": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-11",
+      "id": "news-15",
       "headline": "Iranian officials dismiss claims of US talks",
       "summary": "Senior Iranian officials deny that Iran held talks with the US",
       "urgency": "info",
@@ -218,7 +290,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/iranian-officials-dismiss-claims-of-us-talks?traffic_source=rss"
     },
     {
-      "id": "news-12",
+      "id": "news-16",
       "headline": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
       "summary": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
       "urgency": "breaking",
@@ -236,7 +308,7 @@
       "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-13",
+      "id": "news-17",
       "headline": "Colombian Military Plane Crash Kills One and Injures Dozens",
       "summary": "A military aircraft transporting 125 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
       "urgency": "info",
@@ -254,7 +326,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html"
     },
     {
-      "id": "news-14",
+      "id": "news-18",
       "headline": "Iran Negotiations — or Not?",
       "summary": "President Trump’s shifting statements don’t necessarily signal an end in sight to the war, but they do buy him some time.",
       "urgency": "breaking",
@@ -272,7 +344,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/us-iran-talks-denmark-election.html"
     },
     {
-      "id": "news-15",
+      "id": "news-19",
       "headline": "Who is Donna Motsinger? Woman awarded $19 million after jury finds Bill Cosby liable in 1972 sexual assault case",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129762175.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -290,7 +362,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/who-is-donna-motsinger-woman-awarded-19-million-after-jury-finds-bill-cosby-liable-in-1972-sexual-assault-case/articleshow/129762175.cms"
     },
     {
-      "id": "news-16",
+      "id": "news-20",
       "headline": "Former Biden official says Trump-Xi summit will go well amid ‘unusual’ circumstances",
       "summary": "US President Donald Trump’s focus on short-term deliverables and Chinese President Xi Jinping’s bid for bilateral stability is likely to see an exceptionally amicable summit when they finally sit down, despite “unusual” circumstances brought by the Iran conflict, former senior US diplomat Kurt Campb",
       "urgency": "important",
@@ -308,9 +380,9 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3347642/former-biden-official-says-trump-xi-summit-will-go-well-amid-unusual-circumstances?utm_source=rss_feed"
     },
     {
-      "id": "news-17",
-      "headline": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies - NPR",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBVX1ZUU2NpdjJacDR4NDdFVUhPWFBHVFVkMVVxX2kzWWNQLWFqYjdDY0ZjMjhEMHQ3YjFTTHFBMzNEZ0F0c3dwbEVzWjFfNDUxaXJZX2Z3dXZxN0ZxclI1M3VsZ1BtQ3pMbFlYSHlWLTctUEZGQXpUTXRR?oc=5\" target=\"_blank\"&gt;Trump says the U.S. is in talks with Iran to end the war,",
+      "id": "news-21",
+      "headline": "Iran War Maps: Tracking the Mideast Conflict - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUWpBOUw3b05zUlRrZFVqbThvSTc1elBsdzItdm4tR0M0eUYzSWN1Qm45RGp0R0pLbzJLekxiZ3JBODRlSjB5T2hIMThDVG12NG1zcnVKYzJNYnhqdFE0MVUtcU5VUWR1UkJ6dWthdVRvcW5t?oc=5\" target=\"_blank\"&gt;Iran War Maps: Tracking the Mideast Conflict&lt;/a&gt;&amp;nbsp;&",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
@@ -321,12 +393,12 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-03-23T20:56:42.000Z",
+      "timestamp": "2026-03-23T20:58:59.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVX1ZUU2NpdjJacDR4NDdFVUhPWFBHVFVkMVVxX2kzWWNQLWFqYjdDY0ZjMjhEMHQ3YjFTTHFBMzNEZ0F0c3dwbEVzWjFfNDUxaXJZX2Z3dXZxN0ZxclI1M3VsZ1BtQ3pMbFlYSHlWLTctUEZGQXpUTXRR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUWpBOUw3b05zUlRrZFVqbThvSTc1elBsdzItdm4tR0M0eUYzSWN1Qm45RGp0R0pLbzJLekxiZ3JBODRlSjB5T2hIMThDVG12NG1zcnVKYzJNYnhqdFE0MVUtcU5VUWR1UkJ6dWthdVRvcW5t?oc=5"
     },
     {
-      "id": "news-18",
+      "id": "news-22",
       "headline": "Moment missile strikes shortly after Israeli president’s visit",
       "summary": "Israel&#039;s president was forced to take cover as a missile struck nearby shortly after he gave a press conference.",
       "urgency": "breaking",
@@ -344,7 +416,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss"
     },
     {
-      "id": "news-19",
+      "id": "news-23",
       "headline": "Ukraine strikes key Russian oil port and refinery",
       "summary": "Ukraine said it hit a key Russian oil terminal at Primorsk and a refinery in Ufa on Monday.",
       "urgency": "breaking",
@@ -362,7 +434,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/ukraine-strikes-key-russian-oil-port-and-refinery?traffic_source=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-24",
       "headline": "What Trump said about Iran after postponing military strikes",
       "summary": "After announcing the US will postpone strikes on Iran’s power plants, Donald Trump said Iran called him to make a deal.",
       "urgency": "breaking",
@@ -380,25 +452,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss"
     },
     {
-      "id": "news-21",
-      "headline": "Lionel Jospin, Who Helped Set France on Socialist Path, Dies at 88",
-      "summary": "As prime minister beginning in 1997, he introduced a national 35-hour workweek and oversaw the replacement of the franc with the euro.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-03-23T20:32:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html"
-    },
-    {
-      "id": "news-22",
+      "id": "news-25",
       "headline": "Who was Antoine Forest? Pilot killed in Air Canada crash at New York’s LaGuardia Airport",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129762250.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -416,7 +470,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/who-was-antoine-forest-one-of-2-air-canada-pilots-killed-in-laguardia-plane-crash-identified/articleshow/129762250.cms"
     },
     {
-      "id": "news-23",
+      "id": "news-26",
       "headline": "Court orders Bill Cosby to pay US$19 million to 84-year-old woman over sex abuse claim",
       "summary": "A woman who said she was drugged and sexually assaulted by veteran US entertainer Bill Cosby was awarded more than US$19 million on Monday after a civil hearing in California.\nDonna Motsinger said she was working as a waitress more than 50 years ago when the performer began to target her.\nThe hearin",
       "urgency": "breaking",
@@ -434,7 +488,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3347641/court-orders-bill-cosby-pay-us19-million-84-year-old-woman-over-sex-abuse-claim?utm_source=rss_feed"
     },
     {
-      "id": "news-24",
+      "id": "news-27",
       "headline": "Give Green Cards to TPS holders: Florida Democrat introduces new bill. Is it possible?",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129762244.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -452,7 +506,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/give-green-cards-to-tps-holders-florida-democrat-introduces-new-bill-is-it-possible/articleshow/129762244.cms"
     },
     {
-      "id": "news-25",
+      "id": "news-28",
       "headline": "NASA reports Russian spacecraft antenna problem: Forced manual docking with ISS",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129753590.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -470,7 +524,7 @@
       "link": "https://timesofindia.indiatimes.com/science/nasa-reports-russian-spacecraft-antenna-problem-forced-manual-docking-with-iss/articleshow/129753590.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-29",
       "headline": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
       "summary": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
       "urgency": "info",
@@ -488,7 +542,7 @@
       "link": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-27",
+      "id": "news-30",
       "headline": "Trump Delays Energy Strikes, but Iran’s Infrastructure Is Already Battered",
       "summary": "U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.",
       "urgency": "breaking",
@@ -506,7 +560,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html"
     },
     {
-      "id": "news-28",
+      "id": "news-31",
       "headline": "Oil falls and shares rebound after Trump says talks have been held to end war",
       "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
       "urgency": "breaking",
@@ -524,7 +578,7 @@
       "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-29",
+      "id": "news-32",
       "headline": "Gold falls over Rs43,000 to Rs447,762 per tola",
       "summary": "&lt;p&gt;Gold prices in Pakistan slid by Rs43,600 per tola (24 karat) on Monday to Rs447,762 as international prices for the yellow metal fell by more than eight per cent to hit their lowest level in four months.&lt;/p&gt;\n&lt;p&gt;This was after gold logged its biggest weekly loss in about 43 years",
       "urgency": "breaking",
@@ -542,7 +596,7 @@
       "link": "https://www.dawn.com/news/1984591/gold-falls-over-rs43000-to-rs447762-per-tola"
     },
     {
-      "id": "news-30",
+      "id": "news-33",
       "headline": "Is LaGuardia airport open? Hundreds of flights disrupted after fatal runway collision in New York",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129762098.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -560,7 +614,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/is-laguardia-airport-open-hundreds-of-flights-disrupted-after-fatal-runway-collision-in-new-york/articleshow/129762098.cms"
     },
     {
-      "id": "news-31",
+      "id": "news-34",
       "headline": "Airfares to stay up globally as Iran war disrupts flights, drives up fuel costs",
       "summary": "Airfares to stay up globally as Iran war disrupts flights, drives up fuel costs",
       "urgency": "breaking",
@@ -578,7 +632,7 @@
       "link": "https://gulfnews.com/business/tourism/airfares-to-stay-up-globally-as-iran-war-disrupts-flights-drives-up-fuel-costs-1.500484004"
     },
     {
-      "id": "news-32",
+      "id": "news-35",
       "headline": "Trump approved Iran operation ‘after Netanyahu argued for joint killing of Khamenei’",
       "summary": "Less than 48 hours before the US-Israeli strike on Iran began, Prime Minister Benjamin ⁠Netanyahu spoke by phone to US President Donald Trump about the reasons for launching the kind of complex, far-off war the American leader once had campaigned against.\nBoth ⁠Trump and Netanyahu knew from intellig",
       "urgency": "breaking",
@@ -596,7 +650,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3347640/trump-approved-iran-operation-after-netanyahu-argued-joint-killing-khamenei?utm_source=rss_feed"
     },
     {
-      "id": "news-33",
+      "id": "news-36",
       "headline": "Did ICE arrest a 'US citizen' from San Francisco airport after Trump deployed them to fill TSA crisis?",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129762085.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -614,7 +668,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/did-ice-arrest-a-us-citizen-from-san-francisco-airport-after-trump-deployed-them-to-fill-tsa-crisis/articleshow/129762085.cms"
     },
     {
-      "id": "news-34",
+      "id": "news-37",
       "headline": "Trump says U.S. is postponing some strikes as it negotiates end to war with Iran",
       "summary": "The president’s announcement sent markets up and energy prices diving, as investors bet Iran’s blockade of a key shipping chokepoint could soon end.",
       "urgency": "breaking",
@@ -632,7 +686,7 @@
       "link": "https://www.washingtonpost.com/politics/2026/03/23/trump-iran-talks-strikes/"
     },
     {
-      "id": "news-35",
+      "id": "news-38",
       "headline": "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
       "summary": "The pilot and co-pilot were killed, and in total, 41 passengers were taken to hospital, along with two firefighters.",
       "urgency": "breaking",
@@ -650,7 +704,7 @@
       "link": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss"
     },
     {
-      "id": "news-36",
+      "id": "news-39",
       "headline": "Tehran residents express distrust over Trump’s war diplomacy",
       "summary": "“If we trust him, we lose.”",
       "urgency": "breaking",
@@ -668,7 +722,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss"
     },
     {
-      "id": "news-37",
+      "id": "news-40",
       "headline": "Energy Crisis Will Not Be Resolved Quickly if War Ends, I.E.A. Chief Warns",
       "summary": "Fatih Birol, the leader of the International Energy Agency, said the Iran war was a bigger crisis than the two oil shocks in the 1970s combined.",
       "urgency": "breaking",
@@ -686,7 +740,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html"
     },
     {
-      "id": "news-38",
+      "id": "news-41",
       "headline": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
       "summary": "Canadian soldiers transported M777 howitzers to the High Arctic to show their ability to fight in an increasingly contested part of the world. It did not go as planned.",
       "urgency": "info",
@@ -704,7 +758,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html"
     },
     {
-      "id": "news-39",
+      "id": "news-42",
       "headline": "Whose war is it? Trump eyes Iran talks as Israel hints at long campaign",
       "summary": "Another deadline day, another ultimatum, another surprise turn from the US president. The same Donald Trump who may or may not send ground troops to try and secure the Strait of Hormuz now affirming that his administration's talking with the Iranians and thus holding off on hitting critical infrastr",
       "urgency": "breaking",
@@ -722,25 +776,7 @@
       "link": "https://www.france24.com/en/tv-shows/the-debate/20260323-whose-war-is-it-trump-eyes-iran-talks-as-israel-hints-at-long-campaign"
     },
     {
-      "id": "news-40",
-      "headline": "Iran War Maps: Tracking the Mideast Conflict - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUWpBOUw3b05zUlRrZFVqbThvSTc1elBsdzItdm4tR0M0eUYzSWN1Qm45RGp0R0pLbzJLekxiZ3JBODRlSjB5T2hIMThDVG12NG1zcnVKYzJNYnhqdFE0MVUtcU5VUWR1UkJ6dWthdVRvcW5t?oc=5\" target=\"_blank\"&gt;Iran War Maps: Tracking the Mideast Conflict&lt;/a&gt;&amp;nbsp;&",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-03-23T19:28:58.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUWpBOUw3b05zUlRrZFVqbThvSTc1elBsdzItdm4tR0M0eUYzSWN1Qm45RGp0R0pLbzJLekxiZ3JBODRlSjB5T2hIMThDVG12NG1zcnVKYzJNYnhqdFE0MVUtcU5VUWR1UkJ6dWthdVRvcW5t?oc=5"
-    },
-    {
-      "id": "news-41",
+      "id": "news-43",
       "headline": "‘Dark moment’: Indian-origin MP Priti Patel condemns antisemitic arson attack on Jewish ambulances in London",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129761364.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -758,7 +794,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/dark-moment-indian-origin-mp-priti-patel-condemns-antisemitic-arson-attack-on-jewish-ambulances-in-london/articleshow/129761364.cms"
     },
     {
-      "id": "news-42",
+      "id": "news-44",
       "headline": "Pakistan, Egypt, Turkiye engaged in ‘back-channel diplomacy’ for US-Iran de-escalation: sources",
       "summary": "&lt;p&gt;Pakistan, along with Turkiye and Egypt, is engaged in “active back-channel diplomacy” to “bridge the gap between” the US and Iran, an official in the administration confirmed to &lt;em&gt;Dawn&lt;/em&gt; on Monday.&lt;/p&gt;\n&lt;p&gt;The official said that through “active back-channel diplo",
       "urgency": "breaking",
@@ -776,7 +812,7 @@
       "link": "https://www.dawn.com/news/1984640/pakistan-egypt-turkiye-engaged-in-back-channel-diplomacy-for-us-iran-de-escalation-sources"
     },
     {
-      "id": "news-43",
+      "id": "news-45",
       "headline": "Jordan Stephens questions Piers Morgan approach as Harrison Sullivan HSTikkyTokky interview turns into viral chaos",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129761784.cms\" /&gt;<![CDATA[Jordan Stephens criticized Piers Morgan’s interview with Harrison Sullivan, saying it lacked depth and preparation. He believes Sullivan in",
       "urgency": "info",
@@ -794,7 +830,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/jordan-stephens-questions-piers-morgan-approach-as-harrison-sullivan-hstikkytokky-interview-turns-into-viral-chaos/articleshow/129761784.cms"
     },
     {
-      "id": "news-44",
+      "id": "news-46",
       "headline": "Florida man arrested after fatal hit-and-run in New York: 'Didn’t do the moral thing'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129761407.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -812,7 +848,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/florida-man-arrested-after-fatal-hit-and-run-in-new-york-didnt-do-the-moral-thing/articleshow/129761407.cms"
     },
     {
-      "id": "news-45",
+      "id": "news-47",
       "headline": "YouTuber Stephen McCullagh found guilty in pregnant girlfriend murder after GTA livestream alibi exposed",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129761584.cms\" /&gt;<![CDATA[Northern Irish YouTuber Stephen McCullagh has been convicted of murdering his pregnant girlfriend, Natalie McNally.  McCullagh's alibi, cla",
       "urgency": "info",
@@ -830,7 +866,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/youtuber-stephen-mccullagh-found-guilty-in-pregnant-girlfriend-murder-after-gta-livestream-alibi-exposed/articleshow/129761584.cms"
     },
     {
-      "id": "news-46",
+      "id": "news-48",
       "headline": "Lionel Jospin (1937-2026): 'Highly-respected moral and intellectual figure among left wing'",
       "summary": "François Picard is pleased to welcome Damien Lecomte, Political Scientist and Researcher at CRPS-CESSP, Paris Pantheon Sorbonne University. According to Dr. Lecomte, there is a persistent tension between unity and fragmentation in French politics, and the legacy of Lionel Jospin illustrates this par",
       "urgency": "info",
@@ -848,7 +884,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260323-lionel-jospin-highly-respected-moral-and-intellectual-figure-among-left-wing"
     },
     {
-      "id": "news-47",
+      "id": "news-49",
       "headline": "Iranian regime sends text messages to civilians threatening they would be executed: Report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129760965.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -866,7 +902,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/iranian-regime-sends-text-messages-to-civilians-threatening-they-would-be-executed-report/articleshow/129760965.cms"
     },
     {
-      "id": "news-48",
+      "id": "news-50",
       "headline": "Dozens of soldiers feared dead after Colombian military plane crashes on take-off",
       "summary": "A Colombian Air Force plane carrying 125 people crashed just after takeoff deep in the country’s southern Amazon region on Monday, the air force said, and military sources said 71 people on board have been rescued.\nColombian Air Force Commander Fernando Silva said in ‌a video posted on social media ",
       "urgency": "breaking",
@@ -884,7 +920,25 @@
       "link": "https://www.scmp.com/news/world/americas/article/3347639/dozens-soldiers-feared-dead-after-colombian-military-plane-crashes-take?utm_source=rss_feed"
     },
     {
-      "id": "news-49",
+      "id": "news-51",
+      "headline": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
+      "summary": "&lt;p&gt;Solange Tremblay was ejected over 100 metres from the plane after collision at LaGuardia airport, her daughter says&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-23T18:58:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia"
+    },
+    {
+      "id": "news-52",
       "headline": "‘Stop, stop, stop’: Moment Air Canada plane crashes into truck",
       "summary": "CCTV video captured the moment an Air Canada plane collided with a fire truck at New York’s LaGuardia Airport.",
       "urgency": "info",
@@ -902,7 +956,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/stop-stop-stop-moment-air-canada-plane-crashes-into-truck?traffic_source=rss"
     },
     {
-      "id": "news-50",
+      "id": "news-53",
       "headline": "Swiatek splits with coach Fissette after early Miami exit",
       "summary": "Swiatek splits with coach Fissette after early Miami exit",
       "urgency": "info",
@@ -920,7 +974,7 @@
       "link": "https://gulfnews.com/sport/tennis/swiatek-splits-with-coach-fissette-after-early-miami-exit-1.500483927"
     },
     {
-      "id": "news-51",
+      "id": "news-54",
       "headline": "Trump backs down on strikes on Iran’s power network, claims US and Tehran holding talks",
       "summary": "&lt;p&gt;US President Donald Trump said on Monday he had given orders to postpone any military strikes against Iranian power plants for five days, hours ahead of a deadline that threatened further escalation in the conflict now in its fourth week.&lt;/p&gt;\n&lt;p&gt;Trump claimed in a post on his Tr",
       "urgency": "breaking",
@@ -938,7 +992,7 @@
       "link": "https://www.dawn.com/news/1984607/trump-backs-down-on-strikes-on-irans-power-network-claims-us-and-tehran-holding-talks"
     },
     {
-      "id": "news-52",
+      "id": "news-55",
       "headline": "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’",
       "summary": "Georgia Meloni concedes defeat in the high-stakes vote on a justice reform package but vows to continue as PM.",
       "urgency": "info",
@@ -956,25 +1010,25 @@
       "link": "https://www.aljazeera.com/news/2026/3/23/italys-meloni-concedes-referendum-defeat-calling-it-a-lost-opportunity?traffic_source=rss"
     },
     {
-      "id": "news-53",
-      "headline": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzZfclR6cmZ2TlVsNzlmQlhhU0IwbUNpNTVQM2xGd0hTYmxoNm1XWGFic0ZNS1pjaWVnaEhQMXdhYnBJVFQ2SDUyNUFydlNaQ1duTnIzb3M1SS1jQVV5N29xWEhGQnlTLThMWHBIWHNPQkJkak9yUDFoSENTa2pvSVBhd1Z1S05V?oc=5\" target=\"_blank\"&gt;Taiwan Debates Military Spending as C",
+      "id": "news-56",
+      "headline": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
+      "summary": "Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
       "urgency": "info",
       "topic": "china-taiwan",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
           "category": "global_media"
         }
       ],
       "timestamp": "2026-03-23T18:53:26.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzZfclR6cmZ2TlVsNzlmQlhhU0IwbUNpNTVQM2xGd0hTYmxoNm1XWGFic0ZNS1pjaWVnaEhQMXdhYnBJVFQ2SDUyNUFydlNaQ1duTnIzb3M1SS1jQVV5N29xWEhGQnlTLThMWHBIWHNPQkJkak9yUDFoSENTa2pvSVBhd1Z1S05V?oc=5"
+      "link": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html"
     },
     {
-      "id": "news-54",
+      "id": "news-57",
       "headline": "Caught Between Two Conflicts, Afghans Flee Iran",
       "summary": "The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.",
       "urgency": "breaking",
@@ -992,7 +1046,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html"
     },
     {
-      "id": "news-55",
+      "id": "news-58",
       "headline": "Imran undergoes third eye procedure at Pims",
       "summary": "&lt;p&gt;ISLAMABAD: Pakistan Tehreek-i-Insaf founder Imran Khan underwent a third eye procedure at the Pakistan Institute of Medical Sciences (Pims) on Monday.&lt;/p&gt;\n&lt;p&gt;In a statement issued by the hospital, the PTI founder was brought to Pims for a third dose of an anti-VEGF intra-vitreal",
       "urgency": "info",
@@ -1010,7 +1064,7 @@
       "link": "https://www.dawn.com/news/1984561/imran-undergoes-third-eye-procedure-at-pims"
     },
     {
-      "id": "news-56",
+      "id": "news-59",
       "headline": "‘You said Israel is in control?’: Row erupts over ex-counterterror chief ‘backtracking’ on Trump and Iran war",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129759059.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1028,7 +1082,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/you-said-israel-is-in-control-row-erupts-over-ex-counterterror-chief-backtracking-on-trump-and-iran-war/articleshow/129759059.cms"
     },
     {
-      "id": "news-57",
+      "id": "news-60",
       "headline": "UAE strongly condemns attack on hospital in Sudan&apos;s East Darfur",
       "summary": "UAE strongly condemns attack on hospital in Sudan&apos;s East Darfur",
       "urgency": "breaking",
@@ -1046,7 +1100,7 @@
       "link": "https://gulfnews.com/uae/uae-strongly-condemns-attack-on-hospital-in-sudans-east-darfur-1.500484073"
     },
     {
-      "id": "news-58",
+      "id": "news-61",
       "headline": "Italians Reject Judicial Overhaul, Undermining Meloni",
       "summary": "Some 54 percent of voters spurned a government plan to change how jurists are supervised. It presented Prime Minister Giorgia Meloni with her biggest domestic challenge since her election in 2022.",
       "urgency": "important",
@@ -1064,7 +1118,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/europe/italy-referendum-judiciary-meloni.html"
     },
     {
-      "id": "news-59",
+      "id": "news-62",
       "headline": "IndiGo gets former Air India Express CEO to lead strategy after Elbers&apos; exit",
       "summary": "IndiGo gets former Air India Express CEO to lead strategy after Elbers&apos; exit",
       "urgency": "info",
@@ -1082,7 +1136,7 @@
       "link": "https://gulfnews.com/business/aviation/indigo-gets-former-air-india-express-ceo-as-strategy-chief-after-elbers-exit-1.500484057"
     },
     {
-      "id": "news-60",
+      "id": "news-63",
       "headline": "Trump postpones military strikes on Iranian power plants for five days - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOT2FVUTgxYThtbjhJeFo5YlNmUzliLXhxbERJSUJmZjZyYkdVVUVzOG5CeWYxdWlTdGszb1p2c2NSaVF0Q09YRW5TOU5ZTVdFNlBRdFVpU2FYYkFWZFo0eU5FTW43SDBaYUdxd19WQ00ybVBlUXpRSzN6Z2MxeVpjSVhpMVpXMk9hU293czg2UGpDOVJaYV8xaWhYQ09ld9IBowFBVV95cUxNRlpCS0c2TExzLWQzUjZ",
       "urgency": "breaking",
@@ -1100,7 +1154,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2FVUTgxYThtbjhJeFo5YlNmUzliLXhxbERJSUJmZjZyYkdVVUVzOG5CeWYxdWlTdGszb1p2c2NSaVF0Q09YRW5TOU5ZTVdFNlBRdFVpU2FYYkFWZFo0eU5FTW43SDBaYUdxd19WQ00ybVBlUXpRSzN6Z2MxeVpjSVhpMVpXMk9hU293czg2UGpDOVJaYV8xaWhYQ09ld9IBowFBVV95cUxNRlpCS0c2TExzLWQzUjZPV28yZ1NzR3M0aGpySVc3RnBGTGxNUWpTWE5aRl8zNEFhenZiVFhyOEdjTHJmcllRdXYzUHduUEIyT2N5N0RUUHB3Z3F5OXpWQWNXbnFGcFgyR3k2UHVfWG5XTy1rWjltLWZVVmhHeGpqZUVqdUU1T1l4bE9jZEdhQWMzSmJhM3c1VWpyb3R1ZTAtbm1Z?oc=5"
     },
     {
-      "id": "news-61",
+      "id": "news-64",
       "headline": "EU calls for clarification after Hungary accused of leaking info to Russia",
       "summary": "Germany calls the allegations &#039;very serious&#039;, as Hungary&#039;s PM Viktor Orban orders probe into alleged &#039;wiretapping&#039;.",
       "urgency": "info",
@@ -1118,7 +1172,7 @@
       "link": "https://www.aljazeera.com/news/2026/3/23/eu-calls-for-clarification-after-hungary-accused-of-leaking-info-to-russia?traffic_source=rss"
     },
     {
-      "id": "news-62",
+      "id": "news-65",
       "headline": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
       "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
       "urgency": "breaking",
@@ -1136,7 +1190,7 @@
       "link": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-63",
+      "id": "news-66",
       "headline": "Stranger Things becomes real! Scientists create ‘living walls’ that grow and heal themselves",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129754675.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1154,7 +1208,7 @@
       "link": "https://timesofindia.indiatimes.com/science/stranger-things-becomes-real-scientists-create-living-walls-that-grow-and-heal-themselves/articleshow/129754675.cms"
     },
     {
-      "id": "news-64",
+      "id": "news-67",
       "headline": "Fact check: Did a former employee expose Candace Owens behavior? New allegations bring fresh attention to her workplace style",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129760659.cms\" /&gt;<![CDATA[A former employee has accused Candace Owens of “narcissistic” behavior, but the claims remain unverified. No evidence, official response, o",
       "urgency": "info",
@@ -1172,7 +1226,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/fact-check-did-a-former-employee-expose-candace-owens-behavior-as-allegations-bring-fresh-attention-to-her-workplace-style/articleshow/129760659.cms"
     },
     {
-      "id": "news-65",
+      "id": "news-68",
       "headline": "‘Raulito’ Castro, the Trump administration’s wild card in Cuba",
       "summary": "As Trump ratchets up the pressure on Cuba, Raul Rodriguez Castro – the grandson of Raul Castro – is said to be an emerging figure in dealings with the US administration on opening up the Cuban economy.",
       "urgency": "important",
@@ -1190,7 +1244,7 @@
       "link": "https://www.france24.com/en/americas/20260323-raulito-castro-the-trump-administration-s-wild-card-in-cuba"
     },
     {
-      "id": "news-66",
+      "id": "news-69",
       "headline": "Iran denies any talks with US after Trump claims ‘productive’ discussions - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZU92ckFMWHVOdGRRaWVjdmd3NFBvR3l4clpLNXBfRkdpbXQ1TW1Gd0dWbmhSbm00bVVSZTFSWHZmOE0yY1RIRkJPcW83QzFOY1lYOGF3MkdLZUFRVEZ6Y0Q2WFRQYWR4QUpic0xXc0FLLURVeTkxRFpmU3ZHcGE5d2t0TjMxdDgxSlB1YVZmNmNJbDR4cUQ5WTZoYzhNTERUUVBEbEtOLWNJQVZyQ0ljX0R30gG3AUF",
       "urgency": "info",
@@ -1208,7 +1262,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZU92ckFMWHVOdGRRaWVjdmd3NFBvR3l4clpLNXBfRkdpbXQ1TW1Gd0dWbmhSbm00bVVSZTFSWHZmOE0yY1RIRkJPcW83QzFOY1lYOGF3MkdLZUFRVEZ6Y0Q2WFRQYWR4QUpic0xXc0FLLURVeTkxRFpmU3ZHcGE5d2t0TjMxdDgxSlB1YVZmNmNJbDR4cUQ5WTZoYzhNTERUUVBEbEtOLWNJQVZyQ0ljX0R30gG3AUFVX3lxTFBXYzRxNE9EYW84dVpfYkR2REtlMXJHNlNyOGFqVFJUQlN4N2M4UEN3T0c5VW1Za3J1b1h4RkxzcjZPbjlfV2pLZDd4UUhFUlM5SVlhbUsyQzRKWFVxaDREUDZQRFRUV2pwVWlfUFBJcEFKcUhkREZfZy1XUDUzcGw2WEdQRTd2YXg1N3VsTm9IRlpETlpaN2VWb0Fla2NkTE1oSmZNdWxnVFA0S3daRTVpcDNfQUpLaw?oc=5"
     },
     {
-      "id": "news-67",
+      "id": "news-70",
       "headline": "Replay: Trump addresses war in Iran",
       "summary": "Rewatch as Trump addresses the war in Iran at a press conference in Memphis.",
       "urgency": "breaking",
@@ -1226,7 +1280,7 @@
       "link": "https://www.france24.com/en/replay-trump-addresses-war-in-iran"
     },
     {
-      "id": "news-68",
+      "id": "news-71",
       "headline": "Saudi Arabia suspends maritime licence requirements amid regional tensions",
       "summary": "Saudi Arabia suspends maritime licence requirements amid regional tensions",
       "urgency": "info",
@@ -1244,7 +1298,25 @@
       "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-suspends-maritime-licence-requirements-amid-regional-tensions-1.500484053"
     },
     {
-      "id": "news-69",
+      "id": "news-72",
+      "headline": "Iran war: What’s happening on day 24 of US-Israel attacks? - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlpGMWNsaXk4SXhjN3hFWUZDczFWelVTd3AwZ3cxbUFGSllVdHN4a0FLc21tbVJ6MUYwaG55STdWSTVodjUxRFdiVUpoUHNwM1FzdF9vSzNMSVVtVEJ3d1I4bkwxa216NTFBenliUVl1UGw5aU40MW1NMDhpWDFGcHFhWld4eVl6WENaY0RsNVNEVkw2bDIwNFZidFlmZ1hQ0gGmAUFVX3lxTE5vRS15d1dHVXVlR3F",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-23T18:13:07.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlpGMWNsaXk4SXhjN3hFWUZDczFWelVTd3AwZ3cxbUFGSllVdHN4a0FLc21tbVJ6MUYwaG55STdWSTVodjUxRFdiVUpoUHNwM1FzdF9vSzNMSVVtVEJ3d1I4bkwxa216NTFBenliUVl1UGw5aU40MW1NMDhpWDFGcHFhWld4eVl6WENaY0RsNVNEVkw2bDIwNFZidFlmZ1hQ0gGmAUFVX3lxTE5vRS15d1dHVXVlR3Fnejc5bnd5VFJXRXF4LWtfV2VaNV9qVHNYVW9GY2NaNy1oYkZOa3Y4bXp2NHgwWWM4WjZEN2J6akxXVHdQV3laQzdjWDhuNEFHdXpMOHFHa2VmLVAyRTNkOVN2OW5iMnZ1OS1IUmVWWURza3JtSnNpSmVleFlSXzFnLUx3c3F6Zk1qa1dHUnMwLS1HUnRiRkFqd3c?oc=5"
+    },
+    {
+      "id": "news-73",
       "headline": "Why the oil and gas price shock from the Iran war won’t just fade away",
       "summary": "Rerouting and diversification cannot help when a significant chunk of oil and gas have been taken off the market.",
       "urgency": "breaking",
@@ -1262,7 +1334,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away?traffic_source=rss"
     },
     {
-      "id": "news-70",
+      "id": "news-74",
       "headline": "Reclusive OnlyFans owner Leonid Radvinsky dead at 43",
       "summary": "Leonid Radvinsky, the reclusive billionaire who acquired adult content platform OnlyFans and transformed it into a multibillion-dollar empire, has died of cancer aged 43, the company announced on Monday.\n“We are deeply saddened to announce the death of Leo Radvinsky. Leo passed away peacefully after",
       "urgency": "breaking",
@@ -1280,7 +1352,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3347638/reclusive-onlyfans-owner-leonid-radvinsky-dead-43?utm_source=rss_feed"
     },
     {
-      "id": "news-71",
+      "id": "news-75",
       "headline": "Scores feared dead as Colombian military plane crashes",
       "summary": "&lt;p&gt;Transport plane carrying 125 soldiers and crew crashes shortly after takeoff in southern Amazon region&lt;/p&gt;&lt;p&gt;Scores of Colombian soldiers are feared dead after a military transport plane crashed on takeoff in the south of the country.&lt;/p&gt;&lt;p&gt;The defence minister, Pedr",
       "urgency": "breaking",
@@ -1298,7 +1370,7 @@
       "link": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash"
     },
     {
-      "id": "news-72",
+      "id": "news-76",
       "headline": "How the Iran war is about to hit your wallet",
       "summary": "Strikes on gas sites in the Iran war are driving up energy costs, pushing up prices for power, food and more worldwide.",
       "urgency": "breaking",
@@ -1316,25 +1388,7 @@
       "link": "https://www.aljazeera.com/video/the-take-2/2026/3/23/aje-onl-tt_irn_gasfields_av_v2-230326?traffic_source=rss"
     },
     {
-      "id": "news-73",
-      "headline": "Opinion | Don’t blame Trump’s stupid war on Israel - The Washington Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUpOTjhoRjhVQ1BKaVpiampucFc5TjZTZHdJX3lzQWdDc2VqUzZrbXRMMGpEZFNJVFJGWDZSSVRMR1FjcFd2YXZETzRXNVAtcERvRjQxRDBXZG9kWFd5YUp0LVVmUjE5MFBuWkxXY0ZkRkRMazFLYlgyZXR4R2hxTEduNDN2SlgycnRURFB5Szc?oc=5\" target=\"_blank\"&gt;Opinion | Don’t blame Trum",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-03-23T17:45:44.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUpOTjhoRjhVQ1BKaVpiampucFc5TjZTZHdJX3lzQWdDc2VqUzZrbXRMMGpEZFNJVFJGWDZSSVRMR1FjcFd2YXZETzRXNVAtcERvRjQxRDBXZG9kWFd5YUp0LVVmUjE5MFBuWkxXY0ZkRkRMazFLYlgyZXR4R2hxTEduNDN2SlgycnRURFB5Szc?oc=5"
-    },
-    {
-      "id": "news-74",
+      "id": "news-77",
       "headline": "Slovenia becomes first EU country to introduce fuel rationing",
       "summary": "Until further notice, motorists in Slovenia will be restricted to a maximum purchase of 50 litres of fuel per day.",
       "urgency": "info",
@@ -1352,7 +1406,7 @@
       "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-75",
+      "id": "news-78",
       "headline": "Trump can declare victory in Iran – and he should",
       "summary": "The US president has proven that hitting hard and fast rather than engaging in endless negotiations guarantees victory.",
       "urgency": "info",
@@ -1370,7 +1424,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss"
     },
     {
-      "id": "news-76",
+      "id": "news-79",
       "headline": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
       "summary": "Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
       "urgency": "breaking",
@@ -1388,7 +1442,25 @@
       "link": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html"
     },
     {
-      "id": "news-77",
+      "id": "news-80",
+      "headline": "The Iran Strikes, Explained: How We Got Here and What It Means - American Jewish Committee",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDVleG42dlJ6RVktQkxYdTYxYVFSNDU3UFFwZHJqQy1VeG5WV2oxc2gyaEhTYlBBNG9OTFFHVkp4aTdqRlFKNWtMLU5QdEllZVdNejNJLWhiTVBwUE9COVZrWUNiNFhCbmZyaEE2YVpVcV9rZzdMSERvWlhGMUg4VDZyb3AyRkhFd21nZGJB?oc=5\" target=\"_blank\"&gt;The Iran Strikes, Explained: ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-03-23T17:38:11.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDVleG42dlJ6RVktQkxYdTYxYVFSNDU3UFFwZHJqQy1VeG5WV2oxc2gyaEhTYlBBNG9OTFFHVkp4aTdqRlFKNWtMLU5QdEllZVdNejNJLWhiTVBwUE9COVZrWUNiNFhCbmZyaEE2YVpVcV9rZzdMSERvWlhGMUg4VDZyb3AyRkhFd21nZGJB?oc=5"
+    },
+    {
+      "id": "news-81",
       "headline": "UK sending air defence systems to Gulf to help counter Iranian missile attacks: Starmer",
       "summary": "Britain is sending short-range air defence systems to the Gulf to help counter Iranian missile attacks, Prime Minister Keir Starmer said on Monday.\n“We’re deploying short-range air defence systems to Bahrain at speed,” Starmer told a parliamentary committee, adding the UK was “doing the same with Ku",
       "urgency": "breaking",
@@ -1406,7 +1478,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3347637/uk-sending-air-defence-systems-gulf-help-counter-iranian-missile-attacks-starmer?utm_source=rss_feed"
     },
     {
-      "id": "news-78",
+      "id": "news-82",
       "headline": "'Honest mistake': Migrant convicted of child sex offence avoids deportation in UK, judge says 'not a serious threat'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129758368.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1424,7 +1496,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/honest-mistake-migrant-convicted-of-child-sex-offence-avoids-deportation-in-uk-judge-says-not-a-serious-threat/articleshow/129758368.cms"
     },
     {
-      "id": "news-79",
+      "id": "news-83",
       "headline": "Who is Matt Brittin? Ex-Google boss set to lead BBC as next director-general",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129758722.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1442,25 +1514,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/who-is-matt-brittin-ex-google-executive-set-to-become-bbcs-next-director-general/articleshow/129758722.cms"
     },
     {
-      "id": "news-80",
-      "headline": "PARCO: A pillar of Pakistan&apos;s energy security and economic growth",
-      "summary": "PARCO: A pillar of Pakistan&apos;s energy security and economic growth",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-03-23T17:27:42.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/gn-focus/parco-a-pillar-of-pakistans-energy-security-and-economic-growth-1.500484016"
-    },
-    {
-      "id": "news-81",
+      "id": "news-84",
       "headline": "Joint Force Comes Together for Special Operations Sniper Competition",
       "summary": "In a demanding test of precision, endurance and teamwork, 17 elite sniper teams participated in the U.S. Army Special Operations Command International Sniper Competition at Fort Bragg, N.C.",
       "urgency": "info",
@@ -1478,7 +1532,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4440852/joint-force-comes-together-for-special-operations-sniper-competition/"
     },
     {
-      "id": "news-82",
+      "id": "news-85",
       "headline": "Military plane crashes in southern Colombia; 80 feared dead",
       "summary": "Military plane crashes in southern Colombia; 80 feared dead",
       "urgency": "breaking",
@@ -1496,7 +1550,7 @@
       "link": "https://gulfnews.com/world/americas/military-plane-crashes-in-southern-colombia-80-feared-dead-1.500484003"
     },
     {
-      "id": "news-83",
+      "id": "news-86",
       "headline": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
       "summary": "There is expected to be pushback from Israel following President Donald Trump’s move towards de-escalation with Iran.",
       "urgency": "breaking",
@@ -1514,7 +1568,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss"
     },
     {
-      "id": "news-84",
+      "id": "news-87",
       "headline": "Italian voters reject Giorgia Meloni's judicial reform in referendum defeat",
       "summary": "Italian Prime Minister Giorgia Meloni conceded defeat on Monday in a referendum which sought to overhaul the country's judiciary. The vote is a major blow to Meloni's far-right leadership, and could weaken her re-election chances next year.",
       "urgency": "important",
@@ -1532,7 +1586,7 @@
       "link": "https://www.france24.com/en/europe/20260323-italian-voters-reject-giorgia-meloni-s-judicial-reform-in-referendum-defeat"
     },
     {
-      "id": "news-85",
+      "id": "news-88",
       "headline": "Seven stolen dogs escape moving truck in China, travel 17 km together to return to their owners",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/129758143.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1550,7 +1604,7 @@
       "link": "https://timesofindia.indiatimes.com/world/china/seven-stolen-dogs-escape-moving-truck-in-china-travel-17-km-together-to-return-to-their-owners/articleshow/129758143.cms"
     },
     {
-      "id": "news-86",
+      "id": "news-89",
       "headline": "Italian voters reject judicial reform in a setback for PM Giorgia Meloni",
       "summary": "Italian voters on Monday rejected a judicial reform backed by conservative Prime Minister Giorgia Meloni, delivering a stinging setback to the right-wing government one year ahead of national elections.\n“Italian voters have decided and we respect their decision,” Meloni said in a video posted on Ins",
       "urgency": "important",
@@ -1568,7 +1622,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3347636/italian-voters-reject-judicial-reform-setback-pm-giorgia-meloni?utm_source=rss_feed"
     },
     {
-      "id": "news-87",
+      "id": "news-90",
       "headline": "Ex-teacher accused of Scotland school abuse found guilty of sex attack in South Africa",
       "summary": "A court in Cape Town found Iain Wares guilty of indecently assaulting a former student who accused him of sexual abuse in the 1980s.",
       "urgency": "breaking",
@@ -1586,7 +1640,7 @@
       "link": "https://www.bbc.com/news/articles/c98kdp0z9gyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-88",
+      "id": "news-91",
       "headline": "Kenyan ex-foreign minister arrested and accused of staging his disappearance",
       "summary": "The reported disappearance of Raphael Tuju had led to claims he may have been abducted.",
       "urgency": "info",
@@ -1604,7 +1658,7 @@
       "link": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-89",
+      "id": "news-92",
       "headline": "Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket",
       "summary": "Ofer Moskovitz, 60, an avocado farmer in a kibbutz on Israel’s border with Lebanon, was killed Sunday when the car he was riding in was hit.",
       "urgency": "breaking",
@@ -1622,7 +1676,7 @@
       "link": "https://www.nytimes.com/2026/03/23/world/middleeast/israel-says-its-own-artillery-killed-a-farmer-not-a-hezbollah-rocket.html"
     },
     {
-      "id": "news-90",
+      "id": "news-93",
       "headline": "Lebanon : Israel strikes key bridge, stoking fears of ground invasion",
       "summary": "Israeli forces destroyed bridges they said were used by Hezbollah. The attack has sparked concern that a large-scale Israeli ground invasion could be in the works, with the Lebanese president calling the bombing 'collective punishment'. FRANCE 24's Claire Paccalin reports from the ground.",
       "urgency": "breaking",
@@ -1640,7 +1694,7 @@
       "link": "https://www.france24.com/en/video/20260323-lebanon-israel-strikes-key-bridge-stoking-fears-of-ground-invasion"
     },
     {
-      "id": "news-91",
+      "id": "news-94",
       "headline": "Who is Emmanuel Grégoire, Paris's next mayor?",
       "summary": "With more than 50% of the vote, Socialist Emmanuel Grégoire was elected as the next mayor of Paris.FRANCE 24 takes a closer look at the political career of the 48-year-old, who was seen as incumbent Mayor Anne Hidalgo's right hand man until a public falling out in 2022.",
       "urgency": "info",
@@ -1658,7 +1712,7 @@
       "link": "https://www.france24.com/en/video/20260323-who-is-emmanuel-gr%C3%A9goire-paris-s-next-mayor"
     },
     {
-      "id": "news-92",
+      "id": "news-95",
       "headline": "'Growing mistrust and disagreement' over Trump declaring war with Iran",
       "summary": "In a surprise U-turn, US President Donald Trump has extended a deadline he had given to Iran over the reopening of the Strait of Hormuz, adding five days to the initial 48-hour window. He had threatened to strike Iranian power plants were the Strait not to be reopened. For FRANCE 24's Philip Turle, ",
       "urgency": "breaking",
@@ -1676,7 +1730,7 @@
       "link": "https://www.france24.com/en/growing-mistrust-and-disagreement-over-trump-declaring-war-with-iran"
     },
     {
-      "id": "news-93",
+      "id": "news-96",
       "headline": "Dr. Andrew Smith: Elections are won by 'constructing a vision that articulates political values'",
       "summary": "Stuart Norval is pleased to welcome Dr. Andrew Smith, Historian of Modern France and Lecturer at Queen Mary University of London. What stands out to our guest is not just that the Socialists held Paris, but how they did so: by resisting opportunistic alliances and instead presenting a coherent, inde",
       "urgency": "important",
@@ -1694,7 +1748,7 @@
       "link": "https://www.france24.com/en/dr-andrew-smith-elections-are-won-by-constructing-a-vision-that-articulates-political-values"
     },
     {
-      "id": "news-94",
+      "id": "news-97",
       "headline": "UAE offers condolences to Canada, US over victims of aircraft, fire truck crash - Khaleej Times",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1ppMDNiMVJrWm10Q0NyNXhsdkZqNnU3Y2t2M0RaM2tjNTVhbHlvVmpibHVwZy1XNWZFWEdLMzBjcnVNMWZGUUdjTkg0MTU1cUpCZzdad19nbGZZeWVaUWJuZ20zMHlUXy1QT2gyMHhmLXJtX0R2SWlwRHJya2dKRHg3dzAzWXdpZ29Ma0pudnlMLUdkMWfSAZ4BQVVfeXFMUEd5ZVhKNFQxb3pDSTJScmZwSnF0bkx",
       "urgency": "info",
@@ -1712,7 +1766,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1ppMDNiMVJrWm10Q0NyNXhsdkZqNnU3Y2t2M0RaM2tjNTVhbHlvVmpibHVwZy1XNWZFWEdLMzBjcnVNMWZGUUdjTkg0MTU1cUpCZzdad19nbGZZeWVaUWJuZ20zMHlUXy1QT2gyMHhmLXJtX0R2SWlwRHJya2dKRHg3dzAzWXdpZ29Ma0pudnlMLUdkMWfSAZ4BQVVfeXFMUEd5ZVhKNFQxb3pDSTJScmZwSnF0bkxybmxvSXBFc01sbXRUWDdIYU5ocnJGbFZoZ1dtVGNLRmxnVFpxMXItZnFpMHJrZk16V1Z3VVFUV2V0YVQ2WXFleWN2X09KNV9hZmNvb1RrVmdCMEFlb0QzTUxXYWgyalNtMnRFOEJoWUZ6ZnNkQXBReThQNVp2ODNnSmJOV3lyQVE?oc=5"
     },
     {
-      "id": "news-95",
+      "id": "news-98",
       "headline": "War Diary Day 24: Trump’s tactical pause buys time, not resolution",
       "summary": "&lt;p&gt;On the 24th day of the US-Israeli war on Iran, President Donald Trump’s&lt;a href=\"https://www.dawn.com/news/1984607/trump-backs-down-on-strikes-on-irans-power-network-claims-us-and-tehran-holding-talks\"&gt; decision&lt;/a&gt; to defer planned strikes on Iran’s power plants and energy infra",
       "urgency": "breaking",
@@ -1730,7 +1784,7 @@
       "link": "https://www.dawn.com/news/1984632/war-diary-day-24-trumps-tactical-pause-buys-time-not-resolution"
     },
     {
-      "id": "news-96",
+      "id": "news-99",
       "headline": "US signs nearly $1 billion deal with France's TotalEnergies to end offshore wind projects",
       "summary": "The United States and TotalEnergies signed an agreement on Monday to end the French company's offshore US wind farm projects and redirect those funds towards fossil fuel production, with the US interior secretary saying the deal was worth nearly $1 billion.",
       "urgency": "breaking",
@@ -1746,60 +1800,6 @@
       "timestamp": "2026-03-23T16:15:14.000Z",
       "widgetType": "news",
       "link": "https://www.france24.com/en/americas/20260323-us-signs-nearly-1-billion-deal-with-france-s-totalenergies-to-end-offshore-wind-projects"
-    },
-    {
-      "id": "news-97",
-      "headline": "Former French rugby star Serge Blanco wins bid for Biarritz mayor",
-      "summary": "Legendary French rugby player Serge Blanco successfully entered politics in Biarritz, a seaside town in the southwest where he established his athletic career, by winning the municipal election on Sunday. Blanco said he won because voters wanted \"to be spoken to from the heart\" and \"respected\".",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-03-23T16:13:35.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/france/20260323-former-french-rugby-star-serge-blanco-wins-bid-for-biarritz-mayor"
-    },
-    {
-      "id": "news-98",
-      "headline": "After strong showing in France's major cities, will left even qualify for 2027 presidential runoff?",
-      "summary": "Carys Garland is pleased to welcome Renaud Foucart, Economist, Senior Lecturer at Lancaster University. He observes a political landscape shaped less by ideology alone and more by geography and fragmentation. What these municipal elections reveal is not a clear national trajectory, but a mosaic of l",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-03-23T16:05:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/after-strong-showing-in-france-s-major-cities-will-left-even-qualify-for-2027-presidential-runoff"
-    },
-    {
-      "id": "news-99",
-      "headline": "Israeli strike on Lebanon bridge raises fears of ground invasion",
-      "summary": "Lebanon fears that Israel’s attack on Qasmiyeh Bridge could be a “prelude to a ground invasion”.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-03-23T16:01:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/israeli-strike-on-lebanon-bridge-raises-fears-of-ground-invasion?traffic_source=rss"
     }
   ],
   "financials": {
