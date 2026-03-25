@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T02:37:23.741Z",
+  "lastUpdated": "2026-03-25T08:13:45.919Z",
   "source": "Flightradar24",
   "airports": {
     "united-arab-emirates": [
@@ -18532,37 +18532,6 @@
         "city": "Caracas",
         "departures": [
           {
-            "flight": "UX72",
-            "airline": "Air Europa",
-            "destination": "Madrid",
-            "destIata": "MAD",
-            "time": "03:20",
-            "status": "scheduled",
-            "statusText": "Estimated dep 23:20",
-            "type": "departure",
-            "gate": "14"
-          },
-          {
-            "flight": "G37211",
-            "airline": "GOL",
-            "destination": "Sao Paulo",
-            "destIata": "GRU",
-            "time": "03:40",
-            "status": "scheduled",
-            "statusText": "Estimated dep 23:40",
-            "type": "departure"
-          },
-          {
-            "flight": "TK224",
-            "airline": "Turkish Airlines",
-            "destination": "Istanbul",
-            "destIata": "IST",
-            "time": "03:55",
-            "status": "scheduled",
-            "statusText": "Estimated dep 23:55",
-            "type": "departure"
-          },
-          {
             "flight": "CM331",
             "airline": "Copa Airlines",
             "destination": "Panama City",
@@ -18570,7 +18539,8 @@
             "time": "10:35",
             "status": "scheduled",
             "statusText": "Estimated dep 06:35",
-            "type": "departure"
+            "type": "departure",
+            "gate": "14"
           },
           {
             "flight": "ES823",
@@ -18681,54 +18651,39 @@
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "departure"
+          },
+          {
+            "flight": "5R325",
+            "airline": "Rutaca Airlines",
+            "destination": "Santo Domingo",
+            "destIata": "STD",
+            "time": "13:00",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "P57007",
+            "airline": "Wingo",
+            "destination": "Bogota",
+            "destIata": "BOG",
+            "time": "13:22",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
+          },
+          {
+            "flight": "ES891",
+            "airline": "DHL Aviation EEMEA",
+            "destination": "Barinas",
+            "destIata": "BNS",
+            "time": "13:30",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "departure"
           }
         ],
         "arrivals": [
-          {
-            "flight": "TK223",
-            "airline": "Turkish Airlines",
-            "destination": "Istanbul",
-            "destIata": "IST",
-            "time": "00:20",
-            "status": "landed",
-            "statusText": "Landed 20:20",
-            "type": "arrival",
-            "gate": "G06-"
-          },
-          {
-            "flight": "G37210",
-            "airline": "GOL",
-            "destination": "Sao Paulo",
-            "destIata": "GRU",
-            "time": "01:49",
-            "status": "scheduled",
-            "statusText": "Estimated 21:49",
-            "type": "arrival",
-            "terminal": "3",
-            "gate": "B"
-          },
-          {
-            "flight": "V03727",
-            "airline": "Conviasa",
-            "destination": "Mexico City",
-            "destIata": "NLU",
-            "time": "02:31",
-            "status": "scheduled",
-            "statusText": "Estimated 22:31",
-            "type": "arrival"
-          },
-          {
-            "flight": "CM330",
-            "airline": "Copa Airlines",
-            "destination": "Panama City",
-            "destIata": "PTY",
-            "time": "05:59",
-            "status": "scheduled",
-            "statusText": "Scheduled",
-            "type": "arrival",
-            "terminal": "2",
-            "gate": "223"
-          },
           {
             "flight": "5R307",
             "airline": "Rutaca Airlines",
@@ -18839,6 +18794,48 @@
             "destination": "Puerto Ordaz",
             "destIata": "PZO",
             "time": "14:40",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "AV142",
+            "airline": "avianca",
+            "destination": "Bogota",
+            "destIata": "BOG",
+            "time": "14:40",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival",
+            "terminal": "1",
+            "gate": "A7A"
+          },
+          {
+            "flight": "QL943",
+            "airline": "Laser Airlines",
+            "destination": "Maracaibo",
+            "destIata": "MAR",
+            "time": "15:00",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "QL903",
+            "airline": "Laser Airlines",
+            "destination": "Porlamar",
+            "destIata": "PMV",
+            "time": "15:10",
+            "status": "scheduled",
+            "statusText": "Scheduled",
+            "type": "arrival"
+          },
+          {
+            "flight": "ES8352",
+            "airline": "DHL Aviation EEMEA",
+            "destination": "Maracaibo",
+            "destIata": "MAR",
+            "time": "15:15",
             "status": "scheduled",
             "statusText": "Scheduled",
             "type": "arrival"
