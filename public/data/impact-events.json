@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-04-05T05:00:06.816Z",
+  "lastUpdated": "2026-04-05T05:20:04.835Z",
   "globalRanking": [
     {
-      "id": "general",
-      "score": 525,
-      "count": 292,
-      "breaking": 108,
-      "latest": "2026-04-05T04:33:59.000Z"
+      "id": "middle-east",
+      "score": 532,
+      "count": 216,
+      "breaking": 154,
+      "latest": "2026-04-05T05:08:10.000Z"
     },
     {
-      "id": "middle-east",
-      "score": 523,
-      "count": 213,
-      "breaking": 151,
-      "latest": "2026-04-05T04:58:23.000Z"
+      "id": "general",
+      "score": 529,
+      "count": 294,
+      "breaking": 109,
+      "latest": "2026-04-05T05:06:02.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 134,
+      "score": 136,
       "count": 60,
-      "breaking": 37,
+      "breaking": 38,
       "latest": "2026-04-04T18:54:53.000Z"
     },
     {
@@ -30,18 +30,18 @@
       "latest": "2026-04-03T12:00:00.000Z"
     },
     {
+      "id": "korea",
+      "score": 51,
+      "count": 20,
+      "breaking": 15,
+      "latest": "2026-03-18T07:00:00.000Z"
+    },
+    {
       "id": "taliban-pakistan",
       "score": 47,
       "count": 20,
       "breaking": 13,
       "latest": "2026-04-05T00:51:53.000Z"
-    },
-    {
-      "id": "korea",
-      "score": 43,
-      "count": 20,
-      "breaking": 11,
-      "latest": "2026-03-16T07:00:00.000Z"
     },
     {
       "id": "venezuela",
@@ -51,18 +51,18 @@
       "latest": "2026-04-03T01:30:00.000Z"
     },
     {
-      "id": "sahel",
-      "score": 29,
-      "count": 22,
-      "breaking": 3,
-      "latest": "2026-04-04T05:13:07.000Z"
-    },
-    {
       "id": "china-taiwan",
       "score": 28,
       "count": 20,
       "breaking": 3,
       "latest": "2026-04-03T07:11:23.000Z"
+    },
+    {
+      "id": "sahel",
+      "score": 27,
+      "count": 22,
+      "breaking": 2,
+      "latest": "2026-04-04T05:13:07.000Z"
     }
   ],
   "countryEvents": {
@@ -190,8 +190,8 @@
     ],
     "ukraine": [
       "ukraine-russia",
-      "general",
-      "middle-east"
+      "middle-east",
+      "general"
     ],
     "russia": [
       "middle-east",
@@ -201,8 +201,8 @@
     "taiwan": [
       "korea",
       "china-taiwan",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "china": [
@@ -215,15 +215,15 @@
     "south-korea": [
       "korea",
       "china-taiwan",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "north-korea": [
       "korea",
       "china-taiwan",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "venezuela": [
@@ -242,15 +242,15 @@
     "nigeria": [
       "sudan",
       "sahel",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "kenya": [
       "sudan",
       "sahel",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "south-africa": [
@@ -293,8 +293,8 @@
     ],
     "colombia": [
       "venezuela",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "algeria": [
@@ -317,8 +317,8 @@
     ],
     "ethiopia": [
       "sudan",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "somalia": [
@@ -402,36 +402,36 @@
     "south-sudan": [
       "sudan",
       "sahel",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "mali": [
       "sudan",
       "sahel",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "niger": [
       "sudan",
       "sahel",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "burkina-faso": [
       "sudan",
       "sahel",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ],
     "democratic-republic-of-congo": [
       "sudan",
       "sahel",
-      "general",
       "middle-east",
+      "general",
       "ukraine-russia"
     ]
   }
