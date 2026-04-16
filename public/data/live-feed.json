@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2026-04-16T09:20:07.759Z",
+  "lastUpdated": "2026-04-16T09:40:16.795Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Trumps says Israeli, Lebanese leaders will meet amid push to extend ceasefire",
+      "summary": "The president did not specify which leaders. Meanwhile, Pakistani officials were working to extend the U.S.-Iran ceasefire and arrange new negotiations.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T09:34:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/"
+    },
+    {
+      "id": "news-1",
       "headline": "South African opposition figure Malema sentenced to five years in prison",
       "summary": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
       "urgency": "info",
@@ -15,12 +33,102 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-04-16T09:19:10.000Z",
+      "timestamp": "2026-04-16T09:32:38.000Z",
       "widgetType": "news",
       "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-1",
+      "id": "news-2",
+      "headline": "Europe lacks China strategy, needs new US approach, Biscop says",
+      "summary": "Sven Biscop is a Belgian political scientist and strategist specialising in the foreign affairs and security of the EU and its relations with great powers. He is a director at the Egmont Royal Institute for International Relations in Brussels and a professor at Ghent University. He is also a senior ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-04-16T09:23:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3350314/europe-lacks-china-strategy-needs-new-us-approach-biscop-says?utm_source=rss_feed"
+    },
+    {
+      "id": "news-3",
+      "headline": "Rise in mental illness cases among Hong Kong students ‘reflects growing openness’",
+      "summary": "Hong Kong’s education minister has said the surge in students diagnosed with mental illness partly reflects parents’ growing acceptance and openness about the issue, while academic pressures, social lives and physical health also play a role.\nThe remarks by Secretary for Education Christine Choi Yuk",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-04-16T09:23:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3350299/rise-mental-illness-cases-among-hong-kong-students-reflects-growing-openness?utm_source=rss_feed"
+    },
+    {
+      "id": "news-4",
+      "headline": "Iran War Live Updates: Pakistan’s Shuttle Diplomacy Unfolds in Tehran",
+      "summary": "The status of U.S.-Iran peace talks was not clear early Thursday, a day after a Pakistani delegation arrived in the Iranian capital. President Trump said Israeli and Lebanese leaders would speak later in the day.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T09:22:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news"
+    },
+    {
+      "id": "news-5",
+      "headline": "Turkish police order 83 arrests over online praise for school shootings",
+      "summary": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T09:20:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-6",
+      "headline": "Trump Says Leaders From Israel and Lebanon Will Speak Thursday",
+      "summary": "Neither side confirmed a meeting. Israeli and Lebanese officials have said a cease-fire in the war against Hezbollah is under consideration.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T09:20:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html"
+    },
+    {
+      "id": "news-7",
       "headline": "UAE tightens AML rules, banks face stricter checks",
       "summary": "UAE tightens AML rules, banks face stricter checks",
       "urgency": "info",
@@ -38,9 +146,9 @@
       "link": "https://gulfnews.com/business/banking/uae-tightens-aml-rules-banks-face-stricter-checks-1.500508802"
     },
     {
-      "id": "news-2",
+      "id": "news-8",
       "headline": "We failed to check if workers smoked at Wang Fuk Court, firms tell fire hearing",
-      "summary": "Two renovation subcontractors involved in a HK$336 million (US$42.9 million) project at a Hong Kong subsidised estate ravaged by the city’s deadliest fire in decades have conceded they did not regulate workers’ smoking behaviour before the inferno.\nThe two engineering firms on Thursday also told an ",
+      "summary": "Two renovation subcontractors involved in a HK$336 million (US$42.9 million) project at a subsidised estate ravaged by Hong Kong’s deadliest fire in decades have conceded they did not regulate workers’ smoking behaviour before the inferno.\nThe two engineering firms on Thursday also told an independe",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -56,25 +164,25 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3350318/we-failed-check-if-workers-smoked-wang-fuk-court-firms-tell-fire-hearing?utm_source=rss_feed"
     },
     {
-      "id": "news-3",
-      "headline": "Turkiye launches internet crackdown ahead of funerals for shooting victims",
-      "summary": "&lt;p&gt;Turkiye cracked down on Thursday on social media posts praising two school&lt;a href=\"https://www.dawn.com/news/1991984\"&gt; shootings&lt;/a&gt; in two days, which have left the country reeling, ordering dozens of arrests ahead of funerals for the victims, who were mostly children.&lt;/p&gt",
+      "id": "news-9",
+      "headline": "Albanese cuts fuel diplomacy mission short to rush to Geelong as Bowen calls oil refinery fire ‘a setback’",
+      "summary": "&lt;p&gt;Some petrol stations may see short-term outages and energy experts warn Victorian fuel prices could spike up to 20 cents a litre&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Full report: &lt;a href=\"https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victori",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
         {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
         }
       ],
-      "timestamp": "2026-04-16T09:15:32.000Z",
+      "timestamp": "2026-04-16T09:14:20.000Z",
       "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992280/turkiye-launches-internet-crackdown-ahead-of-funerals-for-shooting-victims"
+      "link": "https://www.theguardian.com/australia-news/2026/apr/16/victoria-fuel-prices-geelong-viva-oil-refinery-fire"
     },
     {
-      "id": "news-4",
+      "id": "news-10",
       "headline": "Vinod Kambli’s health battle continues as brain clot leaves him at high stroke risk",
       "summary": "Vinod Kambli’s health battle continues as brain clot leaves him at high stroke risk",
       "urgency": "info",
@@ -92,7 +200,7 @@
       "link": "https://gulfnews.com/sport/cricket/vinod-kamblis-health-battle-continues-as-brain-clot-leaves-him-at-high-stroke-risk-1.500508799"
     },
     {
-      "id": "news-5",
+      "id": "news-11",
       "headline": "Xi Courts Vietnam With His Authoritarian Vision of Security",
       "summary": "China used a visit by the Vietnamese leader to show a deepening of security ties that analysts say far outpaces U.S. defense ties in the region.",
       "urgency": "info",
@@ -110,7 +218,7 @@
       "link": "https://www.nytimes.com/2026/04/16/world/asia/xi-china-vietnam-security.html"
     },
     {
-      "id": "news-6",
+      "id": "news-12",
       "headline": "Orban’s Defeat Punctures Europe’s Far Right, but Also Offers It a Road Map",
       "summary": "Corruption and economic mismanagement brought down Hungary’s authoritarian leader. Will his political disciples avoid those pitfalls?",
       "urgency": "info",
@@ -128,7 +236,7 @@
       "link": "https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html"
     },
     {
-      "id": "news-7",
+      "id": "news-13",
       "headline": "Carbon Removal Industry Reels as Microsoft Retreats",
       "summary": "Once held up as a key solution to climate change, a field that aims to remove carbon from the atmosphere is struggling to catch on.",
       "urgency": "info",
@@ -146,7 +254,7 @@
       "link": "https://www.nytimes.com/2026/04/16/climate/microsoft-carbon-removal.html"
     },
     {
-      "id": "news-8",
+      "id": "news-14",
       "headline": "Got $100 Million? Ukraine Has Just the Fertilizer Plant for You.",
       "summary": "An effort to privatize the facility is a key test of whether Kyiv can overcome concerns about Russian attacks and corruption to attract foreign investment.",
       "urgency": "breaking",
@@ -164,7 +272,7 @@
       "link": "https://www.nytimes.com/2026/04/16/world/europe/ukraine-odesa-fertilizer-plant-privatization.html"
     },
     {
-      "id": "news-9",
+      "id": "news-15",
       "headline": "Car ploughs into e-bike riders and pedestrians in China",
       "summary": "Videos show the moment a driver in China rammed into e-bike riders and pedestrians.",
       "urgency": "info",
@@ -182,7 +290,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/car-ploughs-into-e-bike-riders-and-pedestrians-in-china?traffic_source=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-16",
       "headline": "Japan is a pacifist nation, and now a hint of change is drawing rare protests",
       "summary": "Prime Minister Sanae Takaichi has made revising the constitution’s “no-war” clause a priority amid rising threats in Asia, but any change is highly sensitive.",
       "urgency": "breaking",
@@ -200,7 +308,7 @@
       "link": "https://www.washingtonpost.com/world/2026/04/16/japan-pacifist-constitution-change-protests/"
     },
     {
-      "id": "news-11",
+      "id": "news-17",
       "headline": "PSG President Nasser Al-Khelaïfi pays tribute to Hillsborough disaster victims",
       "summary": "PSG President Nasser Al-Khelaïfi pays tribute to Hillsborough disaster victims",
       "urgency": "info",
@@ -218,7 +326,7 @@
       "link": "https://gulfnews.com/sport/psg-president-nasser-al-khela%C3%AFfi-pays-tribute-to-hillsborough-disaster-victims-1.500508773"
     },
     {
-      "id": "news-12",
+      "id": "news-18",
       "headline": "Ask Gulf News: Can employers reduce salaries and change roles during restructuring in the UAE?",
       "summary": "Ask Gulf News: Can employers reduce salaries and change roles during restructuring in the UAE?",
       "urgency": "info",
@@ -236,7 +344,7 @@
       "link": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-can-employers-reduce-salaries-and-change-roles-during-restructuring-in-the-uae-1.500508775"
     },
     {
-      "id": "news-13",
+      "id": "news-19",
       "headline": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
       "summary": "In a cloud forest village, a network of residents, foreigners and pacifist Quakers offered a precarious yet vital sanctuary for families expelled by the U.S. government.",
       "urgency": "info",
@@ -254,7 +362,7 @@
       "link": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html"
     },
     {
-      "id": "news-14",
+      "id": "news-20",
       "headline": "Bye-bye, US? Why China’s trade with Africa benefits from Trump’s policy volatility",
       "summary": "Africa was China’s fastest growing export market in the first quarter of 2026, up 32.1 per cent year on year to US$60.66 billion, according to customs data, reflecting a continuing shift away from American trade.\nThe growth outpaced other regions of the world, driven by high-value shipments such as ",
       "urgency": "info",
@@ -272,25 +380,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3350292/bye-bye-us-why-chinas-trade-africa-benefits-trumps-policy-volatility?utm_source=rss_feed"
     },
     {
-      "id": "news-15",
-      "headline": "No date set for second round of US-Iran talks, FO says",
-      "summary": "&lt;p&gt;No dates have been decided for the second round of talks between the United States and Iran, FO spokesperson Tahir Andrabi said on Thursday.&lt;/p&gt;\n&lt;p&gt;“Nuclear issues are among the subjects being discussed by the countries,” he said while responding to a question during his weekly ",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T08:56:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992276/no-date-set-for-second-round-of-us-iran-talks-fo-says"
-    },
-    {
-      "id": "news-16",
+      "id": "news-21",
       "headline": "Israeli air attack destroys buildings around south Lebanon hospital",
       "summary": "Israeli strikes in the vicinity of a hospital in southern Lebanon destroyed buildings and several emergency vehicles.",
       "urgency": "breaking",
@@ -308,7 +398,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-air-attack-destroys-buildings-around-south-lebanon-hospital?traffic_source=rss"
     },
     {
-      "id": "news-17",
+      "id": "news-22",
       "headline": "Russian Strikes Kill at Least 15 in Ukraine in Biggest Attack in Months",
       "summary": "Moscow is again ramping up missile and drone attacks on civilian targets, dispelling any notion that a temporary cease-fire for Orthodox Easter might become more lasting.",
       "urgency": "breaking",
@@ -326,25 +416,7 @@
       "link": "https://www.nytimes.com/2026/04/16/world/europe/russia-ukraine-missile-drone-attacks.html"
     },
     {
-      "id": "news-18",
-      "headline": "ECP directs MQM-P to hold intra-party elections by October 15",
-      "summary": "&lt;p&gt;The Election Commission of Pakistan (ECP) on Thursday directed the Muttahida Qaumi Movement-Pakistan (MQM-P) to hold intra-party elections by October 15.&lt;/p&gt;\n&lt;p&gt;According to a statement issued by the ECP, a three-member bench headed by Chief Election Commissioner Sikandar Sultan",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T08:53:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992273/ecp-directs-mqm-p-to-hold-intra-party-elections-by-october-15"
-    },
-    {
-      "id": "news-19",
+      "id": "news-23",
       "headline": "Afghan villagers turn to gold-panning to sustain livelihoods",
       "summary": "In rugged Hindu Kush mountains, Afghan men pan for gold dust, forging livelihoods amid scarce economic opportunities.",
       "urgency": "info",
@@ -362,7 +434,7 @@
       "link": "https://www.aljazeera.com/gallery/2026/4/16/afghan-villagers-turn-to-gold-panning-to-sustain-livelihoods?traffic_source=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-24",
       "headline": "Gary Lineker: “Said Messi is better and Cristiano Ronaldo unfollowed me on Instagram&quot;",
       "summary": "Gary Lineker: “Said Messi is better and Cristiano Ronaldo unfollowed me on Instagram&quot;",
       "urgency": "info",
@@ -380,7 +452,7 @@
       "link": "https://gulfnews.com/sport/football/gary-lineker-said-messi-is-better-and-cristiano-ronaldo-unfollowed-me-on-instagram-1.500508737"
     },
     {
-      "id": "news-21",
+      "id": "news-25",
       "headline": "Dubai unveils its own ‘Central Park’ - Here&apos;s where it is located",
       "summary": "Dubai unveils its own ‘Central Park’ - Here&apos;s where it is located",
       "urgency": "info",
@@ -398,7 +470,7 @@
       "link": "https://gulfnews.com/business/property/dubai-unveils-its-own-central-park-heres-where-it-is-located-1.500508762"
     },
     {
-      "id": "news-22",
+      "id": "news-26",
       "headline": "Pallichattambi gets mixed reviews, but Tovino Thomas in terrific form in new political drama, out in UAE cinemas",
       "summary": "Pallichattambi gets mixed reviews, but Tovino Thomas in terrific form in new political drama, out in UAE cinemas",
       "urgency": "info",
@@ -416,7 +488,7 @@
       "link": "https://gulfnews.com/entertainment/pallichattambi-gets-mixed-reviews-but-tovino-thomas-in-terrific-form-in-new-political-drama-out-in-uae-cinemas-1.500508685"
     },
     {
-      "id": "news-23",
+      "id": "news-27",
       "headline": "Dubai parents receive surveys from schools ahead of reopening - Khaleej Times",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzVaRmhtcHAtRTJxQ3dpREpCYkVYc2VIOGh4eXJlNEpEeTQxeEZZRUd0WTN4NU02RkRyMFV4cGZENnFTWGZzZEY3NDVoMkY4NmhDbzRjSW9EY1U1RkxxcWJuV1dmb1VSR1B0YVFRNVVhekVkanJDdF8tbl82Y0JTY0V3MkVOTXBNcnN2Qmx5bkw3Y0kwYzJKVnA3clZRVnRWTFdSUU1mONIBrwFBVV95cUxQTlo5cWI",
       "urgency": "info",
@@ -434,7 +506,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzVaRmhtcHAtRTJxQ3dpREpCYkVYc2VIOGh4eXJlNEpEeTQxeEZZRUd0WTN4NU02RkRyMFV4cGZENnFTWGZzZEY3NDVoMkY4NmhDbzRjSW9EY1U1RkxxcWJuV1dmb1VSR1B0YVFRNVVhekVkanJDdF8tbl82Y0JTY0V3MkVOTXBNcnN2Qmx5bkw3Y0kwYzJKVnA3clZRVnRWTFdSUU1mONIBrwFBVV95cUxQTlo5cWI0UExjRUdZT0w5ZmlHcHZLVWRLckJYQ3FfcEpqT2lZTWlpNkdsQlpYZ0JFNVo4VmNjaWJ4RFlCVnllMm9mYTZrS29qXzZfQ3g1UXkzb1VPTFR0NTNoS0hPTTlXWXlUWVR1eTVUR3dOQ2V5XzR6MWJkUEZnQ1FRUlVaTTRjaFVjM2Q5X2hmR0NHUFQ1dGJXRzZMQ3NDaTFsWjgtZXYwZnZuTFV3?oc=5"
     },
     {
-      "id": "news-24",
+      "id": "news-28",
       "headline": "Sawyer the saluki a UAE story about second chances",
       "summary": "Sawyer the saluki a UAE story about second chances",
       "urgency": "info",
@@ -452,7 +524,7 @@
       "link": "https://gulfnews.com/friday/krita-coelho-editor-friday-1.500508748"
     },
     {
-      "id": "news-25",
+      "id": "news-29",
       "headline": "Fire breaks out at crucial Australian refinery, raising fuel supply fears",
       "summary": "Gas leak ignites plant in Victoria that produces about 10 percent of Australia&#039;s fuel.",
       "urgency": "info",
@@ -470,7 +542,7 @@
       "link": "https://www.aljazeera.com/news/2026/4/16/fire-breaks-out-at-crucial-australian-refinery-raising-fuel-supply-fears?traffic_source=rss"
     },
     {
-      "id": "news-26",
+      "id": "news-30",
       "headline": "Chinese automaker patents voice-activated in-car toilet",
       "summary": "Chinese automaker patents voice-activated in-car toilet",
       "urgency": "info",
@@ -488,25 +560,7 @@
       "link": "https://gulfnews.com/world/asia/chinese-automaker-patents-voice-activated-in-car-toilet-2-1.500508757"
     },
     {
-      "id": "news-27",
-      "headline": "IMF managing director meets Aurangzeb, hails Pakistan’s reform progress, macroeconomic stability",
-      "summary": "&lt;p&gt;International Monetary Fund (IMF) Managing Director Kristalina Georgieva has commended Pakistan’s “continued progress on economic reforms” under the Fund’s programme and the resulting macroeconomic stability.&lt;/p&gt;\n&lt;p&gt;She met with Finance Minister Muhammad Aurangzeb on the sidelin",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T08:37:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992252/imf-managing-director-meets-aurangzeb-hails-pakistans-reform-progress-macroeconomic-stability"
-    },
-    {
-      "id": "news-28",
+      "id": "news-31",
       "headline": "Bullish narrative around India’s economy at odds with struggling rupee",
       "summary": "At first glance, the rupee is staging a recovery. India’s battered currency has gained around 1.5 per cent since March 27, making it the best-performing currency in Asia, according to Bloomberg data.\nHowever, the recent bounce belies vulnerabilities in India’s economy that have been exacerbated by t",
       "urgency": "breaking",
@@ -524,7 +578,7 @@
       "link": "https://www.scmp.com/opinion/asia-opinion/article/3350249/bullish-narrative-around-indias-economy-odds-struggling-rupee?utm_source=rss_feed"
     },
     {
-      "id": "news-29",
+      "id": "news-32",
       "headline": "Jurassic art: fossils transformed into artwork at Amsterdam museum",
       "summary": "Jurassic art: fossils transformed into artwork at Amsterdam museum",
       "urgency": "info",
@@ -542,7 +596,7 @@
       "link": "https://gulfnews.com/world/jurassic-art-fossils-transformed-into-artwork-at-amsterdam-museum-2-1.500508734"
     },
     {
-      "id": "news-30",
+      "id": "news-33",
       "headline": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
       "summary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
       "urgency": "info",
@@ -560,7 +614,7 @@
       "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-34",
       "headline": "Why Ranbir Kapoor was the only Indian actor chosen for Time 100 list 2026",
       "summary": "Why Ranbir Kapoor was the only Indian actor chosen for Time 100 list 2026",
       "urgency": "info",
@@ -578,7 +632,7 @@
       "link": "https://gulfnews.com/entertainment/why-ranbir-kapoor-was-the-only-indian-actor-chosen-for-time-100-list-2026-1.500508705"
     },
     {
-      "id": "news-32",
+      "id": "news-35",
       "headline": "UAE postpones school bus operations",
       "summary": "UAE postpones school bus operations",
       "urgency": "info",
@@ -596,7 +650,7 @@
       "link": "https://gulfnews.com/uae/education/uae-postpones-school-bus-operations-for-public-private-schools-1.500508735"
     },
     {
-      "id": "news-33",
+      "id": "news-36",
       "headline": "EasyJet says first-half loss to deepen on Mideast war",
       "summary": "EasyJet says first-half loss to deepen on Mideast war",
       "urgency": "breaking",
@@ -614,7 +668,7 @@
       "link": "https://gulfnews.com/business/aviation/uae-postpones-school-bus-operations-1.500508733"
     },
     {
-      "id": "news-34",
+      "id": "news-37",
       "headline": "Live Nation ruled an illegal monopoly: What the landmark verdict means for ticket prices",
       "summary": "Live Nation ruled an illegal monopoly: What the landmark verdict means for ticket prices",
       "urgency": "info",
@@ -632,7 +686,7 @@
       "link": "https://gulfnews.com/entertainment/live-nation-ruled-an-illegal-monopoly-what-the-landmark-verdict-means-for-ticket-prices-1.500508718"
     },
     {
-      "id": "news-35",
+      "id": "news-38",
       "headline": "Meghan says she was 'most trolled person in the world'",
       "summary": "Alongside her husband, the Duchess of Sussex was speaking to young people in Melbourne about the harms of social media.",
       "urgency": "info",
@@ -650,7 +704,7 @@
       "link": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-36",
+      "id": "news-39",
       "headline": "Real Madrid near rare trophyless season - Will Arbeloa pay the price?",
       "summary": "Real Madrid near rare trophyless season - Will Arbeloa pay the price?",
       "urgency": "info",
@@ -668,25 +722,7 @@
       "link": "https://gulfnews.com/sport/real-madrid-near-rare-trophyless-season-will-arbeloa-pay-the-price-1.500508717"
     },
     {
-      "id": "news-37",
-      "headline": "Australia more dependent on imports after Geelong refinery fire as Chris Bowen warns ‘this is a setback’",
-      "summary": "&lt;p&gt;Some petrol stations may see short-term outages and energy experts warn Victorian fuel prices could spike up to 20 cents a litre&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Full report: &lt;a href=\"https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victori",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-04-16T08:20:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/16/victoria-fuel-prices-geelong-viva-oil-refinery-fire"
-    },
-    {
-      "id": "news-38",
+      "id": "news-40",
       "headline": "Wave of Russian drone and missile attacks kill at least 15 in Ukraine",
       "summary": "Meanwhile, a Ukrainian drone attack killed two children in Russia, officials say.",
       "urgency": "breaking",
@@ -704,7 +740,7 @@
       "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-39",
+      "id": "news-41",
       "headline": "LuLu Money’s Innovation Hub to drive actionable AI in financial services",
       "summary": "LuLu Money’s Innovation Hub to drive actionable AI in financial services",
       "urgency": "info",
@@ -722,25 +758,7 @@
       "link": "https://gulfnews.com/gn-focus/company-news/lulu-moneys-innovation-hub-to-drive-actionable-ai-in-financial-services-1.500508713"
     },
     {
-      "id": "news-40",
-      "headline": "FINDING A FUEL WE CAN AFFORD",
-      "summary": "&lt;p&gt;On the morning of March 13, 2026, Ahmed, a delivery rider in Lahore, pulled into a petrol station on Multan Road and watched the attendant reset the pump.&lt;/p&gt;\n&lt;p&gt;The price had jumped again. Not by five or 10 rupees but by a significantly higher amount, which kept on changing, be",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T08:13:24.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1990873/finding-a-fuel-we-can-afford"
-    },
-    {
-      "id": "news-41",
+      "id": "news-42",
       "headline": "Bowen says Geelong fire appears to be accidental; Keating lashes Liberals on immigration – as it happened",
       "summary": "&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/2026/apr/16/victoria-fuel-prices-geelong-viva-oil-refinery-fire\"&gt;Australia more dependent on imports after Geelong refinery fire as Chris Bowen warns ‘this is a setback’&l",
       "urgency": "breaking",
@@ -758,7 +776,7 @@
       "link": "https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb"
     },
     {
-      "id": "news-42",
+      "id": "news-43",
       "headline": "Iran war live: Pakistan in push for new round of US-Iran peace negotiations - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFVwMUNnVWN0QWdEeUJCMWlEUnBUczFHOFFrZVYycUlzN1gyTEZWUkdXakNsM2ZPekhwSzRDUjZaRmJWd1BPd2ZxTlhFNUV5QzNqMUtPajIxSFRRZTdFSUR2eXFERUpXVE5qdDRrMFhTNGo2TFN3SHN2cUk4SUhjbGZhQXhxYTlQRHBwaS1SU3JJUm9pU3M0SUlNVWdMZVRVUXpLVktGb19YVE0wSmV4TzRpajhjZzF",
       "urgency": "breaking",
@@ -776,7 +794,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFVwMUNnVWN0QWdEeUJCMWlEUnBUczFHOFFrZVYycUlzN1gyTEZWUkdXakNsM2ZPekhwSzRDUjZaRmJWd1BPd2ZxTlhFNUV5QzNqMUtPajIxSFRRZTdFSUR2eXFERUpXVE5qdDRrMFhTNGo2TFN3SHN2cUk4SUhjbGZhQXhxYTlQRHBwaS1SU3JJUm9pU3M0SUlNVWdMZVRVUXpLVktGb19YVE0wSmV4TzRpajhjZzFScFFIbnVsT3BtZ9IBxwFBVV95cUxPenc5THpMMi1tWDFxYThELWVlRzk3LXZmT0NSa1QxRDVPZFJzSmhzNUJZcm43aEJlYWpLa2NyTDNIYmxYbXJKZlR0UHM1ckFWVkl1dVJLMFh3NXdXN1hDMk1hdi1qRzlrcTJZblp5UjFZQ2g3TEV1TXhOd0d6a2xtZFphZ2s4VUpxaTNWZnV1NEUySEY1SXByS3lCTjRqbzJCVU1yX2JEWnZPdDdGZ1hRVXVubXlQVjBlYXdVSDhwbWlpS0x3bDE4?oc=5"
     },
     {
-      "id": "news-43",
+      "id": "news-44",
       "headline": "Fire at key Australian refinery deepens fuel risks amid Iran war shortages",
       "summary": "A major fire at a key refinery in Australia refinery has disrupted fuel production, raising fears of fuel shortages.",
       "urgency": "breaking",
@@ -794,7 +812,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/fire-at-key-australian-refinery-deepens-fuel-risks-amid-iran-war-shortages?traffic_source=rss"
     },
     {
-      "id": "news-44",
+      "id": "news-45",
       "headline": "Why is France’s bill against ‘new forms of anti-Semitism’ sparking controversy?",
       "summary": "French lawmakers are on Thursday set to debate a controversial bill that proposes labeling any implicitly expressed \"hatred\" against the state of Israel as anti-Semitic, making it a crime under the country’s terrorism laws. Critics of the “Yadan law” warn the new legislation will not just muzzle leg",
       "urgency": "breaking",
@@ -812,7 +830,7 @@
       "link": "https://www.france24.com/en/france/20260416-why-is-france-s-bill-against-new-forms-of-anti-semitism-sparking-controversy"
     },
     {
-      "id": "news-45",
+      "id": "news-46",
       "headline": "Xi Jinping stresses ‘patience’ on Taiwan reunification in talks with opposition leader",
       "summary": "Communist Party chief Xi Jinping appears to be taking a patient approach to reunification with Taiwan, according to the island’s opposition leader and a member of her delegation who attended a rare meeting with Xi in Beijing.\nXi met Cheng Li-wun, who leads Taiwan’s main opposition Kuomintang, and he",
       "urgency": "info",
@@ -830,7 +848,25 @@
       "link": "https://www.scmp.com/news/china/politics/article/3350271/xi-jinping-stressed-patience-taiwan-reunification-talks-opposition-leader?utm_source=rss_feed"
     },
     {
-      "id": "news-46",
+      "id": "news-47",
+      "headline": "11,000-year-old Neolithic structure discovered at Atatürk Dam in Turkey, shedding new light on early civilisation",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130300145.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-04-16T08:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/11000-year-old-neolithic-structure-discovered-at-atatrk-dam-in-turkey-shedding-new-light-on-early-civilisation/articleshow/130300145.cms"
+    },
+    {
+      "id": "news-48",
       "headline": "Thumbay University Hospital launches Thumbay Institute of Neurosciences",
       "summary": "Thumbay University Hospital launches Thumbay Institute of Neurosciences",
       "urgency": "info",
@@ -848,7 +884,7 @@
       "link": "https://gulfnews.com/gn-focus/company-news/thumbay-university-hospital-launches-thumbay-institute-of-neurosciences-2-1.500508693"
     },
     {
-      "id": "news-47",
+      "id": "news-49",
       "headline": "Russian missiles and drones kill at least 16 across Ukraine in worst attack this year",
       "summary": "Russia unleashed its deadliest attack so far this year on the Ukrainian capital Kyiv and other cities overnight, killing 16 people, including a 12-year-old child, and wounding scores, in drone and missile strikes, officials said on Thursday.\nFires burned out of control in parts of the capital, sendi",
       "urgency": "breaking",
@@ -866,25 +902,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3350297/russian-missiles-and-drones-kill-least-16-across-ukraine-worst-attack-year?utm_source=rss_feed"
     },
     {
-      "id": "news-48",
-      "headline": "Pakistan Navy successfully test fires locally developed anti-ship ballistic missile: ISPR",
-      "summary": "&lt;p&gt;The Pakistan Navy has successfully fired a locally developed anti-ship ballistic missile to engage targets at an extended range, the Inter-Services Public Relations (ISPR) said in a statement on Thursday.&lt;/p&gt;\n&lt;p&gt;“In a resolute display of preparedness and precision-strike capabil",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T07:54:38.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992261/pakistan-navy-successfully-test-fires-locally-developed-anti-ship-ballistic-missile-ispr"
-    },
-    {
-      "id": "news-49",
+      "id": "news-50",
       "headline": "Khabib Nurmagomedov enters UAE real estate market",
       "summary": "Khabib Nurmagomedov enters UAE real estate market",
       "urgency": "info",
@@ -902,7 +920,7 @@
       "link": "https://gulfnews.com/business/property/khabib-nurmagomedov-enters-uae-real-estate-market-1.500508690"
     },
     {
-      "id": "news-50",
+      "id": "news-51",
       "headline": "Muslims the target? Fury as millions lose voting rights in India’s Bengal",
       "summary": "Key eastern state heads to polls under the shadow of controversial voter list revision, which many say excludes Muslims.",
       "urgency": "info",
@@ -918,24 +936,6 @@
       "timestamp": "2026-04-16T07:51:30.000Z",
       "widgetType": "news",
       "link": "https://www.aljazeera.com/news/2026/4/16/muslims-the-target-fury-as-millions-lose-voting-rights-in-indias-bengal?traffic_source=rss"
-    },
-    {
-      "id": "news-51",
-      "headline": "Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive",
-      "summary": "The diplomacy came as the White House dismissed reports that President Trump wanted to extend the cease-fire, while still expressing optimism that talks could yield an agreement.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-04-16T07:42:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel"
     },
     {
       "id": "news-52",
@@ -993,6 +993,24 @@
     },
     {
       "id": "news-55",
+      "headline": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T07:23:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest"
+    },
+    {
+      "id": "news-56",
       "headline": "UK doctor struck off for working while suspended after asking Muslim patient to remove niqab three times",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130299566.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1010,7 +1028,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/uk-doctor-struck-off-for-working-while-suspended-after-asking-muslim-patient-to-remove-niqab-three-times/articleshow/130299566.cms"
     },
     {
-      "id": "news-56",
+      "id": "news-57",
       "headline": "7 French tourists arrested after viral Songkran spray clash with van driver in Phuket",
       "summary": "Thai police arrested seven French tourists after a viral Songkran confrontation in Phuket in which revellers surrounded a van, sprayed its driver with water and later ignored police orders to disperse.\nThe incident came during Thailand’s annual new year festival, whose street water fights draw huge ",
       "urgency": "info",
@@ -1028,7 +1046,7 @@
       "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3350285/7-french-tourists-arrested-after-viral-songkran-spray-clash-van-driver-phuket?utm_source=rss_feed"
     },
     {
-      "id": "news-57",
+      "id": "news-58",
       "headline": "This video of ‘Iran capturing US pilot’ was filmed in Pakistan",
       "summary": "With the rise of social media and generative AI, how much of what we see online is true? In this series, SCMP Fact-Check, the South China Morning Post investigates claims circulating online and debunks viral misinformation impacting the daily lives of Hongkongers.\nA video circulating online amid the",
       "urgency": "breaking",
@@ -1046,7 +1064,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3350286/video-iran-capturing-us-pilot-was-filmed-pakistan?utm_source=rss_feed"
     },
     {
-      "id": "news-58",
+      "id": "news-59",
       "headline": "China's economy grows faster than expected despite Iran war",
       "summary": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
       "urgency": "breaking",
@@ -1064,7 +1082,7 @@
       "link": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-59",
+      "id": "news-60",
       "headline": "Japan remains most trusted power in Southeast Asia despite military build-up: survey",
       "summary": "Japan is expected to remain the most trusted power among Southeast Asian countries, even as it seeks to amend its pacifist constitution and continues its military build-up.\nHowever, Tokyo would need to be transparent on its motives and assure others that its military-related actions would contribute",
       "urgency": "info",
@@ -1082,7 +1100,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3350284/japan-remains-most-trusted-power-southeast-asia-despite-military-build-survey?utm_source=rss_feed"
     },
     {
-      "id": "news-60",
+      "id": "news-61",
       "headline": "University of Indonesia suspends 16 law students for sexually explicit group chat",
       "summary": "A leading Indonesian university suspended 16 law students on Thursday after a sexually explicit group chat about their female peers went viral, sparking a debate about gender violence in the Muslim-majority country.\nScreenshots of a conversation among 16 male students at the University of Indonesia ",
       "urgency": "info",
@@ -1100,7 +1118,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3350283/university-indonesia-suspends-16-law-students-sexually-explicit-group-chat?utm_source=rss_feed"
     },
     {
-      "id": "news-61",
+      "id": "news-62",
       "headline": "Geelong fire: blaze at one of Australia’s two oil refineries extinguished after 13 hours as fuel supply fears remain",
       "summary": "&lt;p&gt;Petrol production hit and full extent of damage unknown after ‘unprecedented’ fire at Viva plant in Corio&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-im",
       "urgency": "breaking",
@@ -1118,7 +1136,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices"
     },
     {
-      "id": "news-62",
+      "id": "news-63",
       "headline": "Chinese investors cheer Tesla’s AI chip progress, pushing up shares of local suppliers",
       "summary": "Chinese suppliers of parts for Tesla’s electric vehicles (EVs) and robots saw their stock prices gain on Thursday morning as the US tech giant announced that its AI5 artificial intelligence inference chip was 45 days ahead of schedule.\nAfter a nearly 7.7 per cent jump in Tesla’s Nasdaq-listed stock ",
       "urgency": "info",
@@ -1136,7 +1154,7 @@
       "link": "https://www.scmp.com/tech/article/3350279/chinese-investors-cheer-teslas-ai-chip-progress-pushing-shares-local-suppliers?utm_source=rss_feed"
     },
     {
-      "id": "news-63",
+      "id": "news-64",
       "headline": "New home prices in China’s biggest cities record first rise in 10 months",
       "summary": "Mainland China’s first-tier home prices edged up 0.2 per cent in March, rising after nine months of losses and no change in February, but it is too soon to declare the property market stable without sustained improvement in homebuying demand, according to analysts.\nCompared with a month earlier, Mar",
       "urgency": "info",
@@ -1154,7 +1172,7 @@
       "link": "https://www.scmp.com/business/article/3350276/new-home-prices-chinas-biggest-cities-record-first-rise-10-months?utm_source=rss_feed"
     },
     {
-      "id": "news-64",
+      "id": "news-65",
       "headline": "China trims US Treasury holdings amid rising debt supply as global ownership hits record",
       "summary": "China continued to diversify its foreign exchange reserves in February, trimming its US Treasury stockpile even as overall overseas holdings of sovereign American debt rose to a record high.\nChina’s stockpile of United States Treasuries fell to US$693.3 billion in February, down from US$694.4 billio",
       "urgency": "breaking",
@@ -1172,7 +1190,7 @@
       "link": "https://www.scmp.com/economy/global-economy/article/3350275/china-trims-us-treasury-holdings-amid-rising-debt-supply-global-ownership-hits-record?utm_source=rss_feed"
     },
     {
-      "id": "news-65",
+      "id": "news-66",
       "headline": "From auction block to loving home: China netizens remember celebrity dog’s heartwarming journey",
       "summary": "China’s first abandoned dog, Deng Deng, who was famously sold at judicial auction, recently died after spending five joyous years in his new home. He is fondly remembered on social media.\nThe owner of the 13-year-old Shiba Inu, identified as Shu, announced Deng Deng’s death on April 7 via a heartfel",
       "urgency": "breaking",
@@ -1190,7 +1208,7 @@
       "link": "https://www.scmp.com/news/people-culture/trending-china/article/3350280/auction-block-loving-home-china-netizens-remember-celebrity-dogs-heartwarming-journey?utm_source=rss_feed"
     },
     {
-      "id": "news-66",
+      "id": "news-67",
       "headline": "Why many Kashmiris are donating gold, breaking piggy banks for Iran",
       "summary": "A centuries-old historical bond has come alive again amid the war on Iran, with Kashmiris sharing whatever they can.",
       "urgency": "breaking",
@@ -1208,61 +1226,7 @@
       "link": "https://www.aljazeera.com/news/2026/4/16/why-many-kashmiris-are-donating-gold-breaking-piggy-banks-for-iran?traffic_source=rss"
     },
     {
-      "id": "news-67",
-      "headline": "Fuel supply fears after blaze tears through crucial Australian refinery",
-      "summary": "&lt;p&gt;Columns of fire engulfed a crucial Australian oil refinery after a chain of explosions, authorities said on Thursday, as they warned of disruptions to domestic fuel supply.&lt;/p&gt;\n&lt;p&gt;Flames as high as 60 metres erupted late on Wednesday after a gas leak ignited at the Viva fuel pla",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T06:46:35.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992249/fuel-supply-fears-after-blaze-tears-through-crucial-australian-refinery"
-    },
-    {
       "id": "news-68",
-      "headline": "PM Shehbaz concludes visit to Saudi Arabia, departs for Doha: PMO",
-      "summary": "&lt;p&gt;Prime Minister Shehbaz Sharif has concluded his official visit to Saudi Arabia and departed for Qatar’s capital Doha, the Prime Minister’s Office (PMO) said on Thursday.&lt;/p&gt;\n&lt;p&gt;In a statement posted to social media, the PMO said that PM Shehbaz will hold a bilateral meeting in D",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T06:38:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992240/pm-shehbaz-concludes-visit-to-saudi-arabia-departs-for-doha-pmo"
-    },
-    {
-      "id": "news-69",
-      "headline": "Can Iran legally impose tolls on the Strait of Hormuz?",
-      "summary": "&lt;p&gt;Tehran has sought to tighten its grip over the Strait of Hormuz by charging tolls on vessels to ensure safe passage, in conjunction with Iran’s Islamic Revolutionary Guard Corps.&lt;/p&gt;\n&lt;p&gt;The following explains law governing toll collections and actions that countries opposed to t",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T06:36:49.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992248/can-iran-legally-impose-tolls-on-the-strait-of-hormuz"
-    },
-    {
-      "id": "news-70",
       "headline": "US military kills three in new Eastern Pacific boat strike",
       "summary": "The attack is the latest in a string of killings by the United States that rights groups say are &#039;unlawful&#039;.",
       "urgency": "breaking",
@@ -1280,9 +1244,9 @@
       "link": "https://www.aljazeera.com/news/2026/4/16/us-military-kills-three-in-new-eastern-pacific-boat-strike?traffic_source=rss"
     },
     {
-      "id": "news-71",
-      "headline": "Hong Kong police bust beautician-led syndicate behind HK$410,000 credit card theft",
-      "summary": "Hong Kong police have arrested a syndicate led by a beautician that allegedly stole credit cards from patrons of a beauty salon in Mong Kok, causing losses of more than HK$410,000 (US$52,347).\nThe force said on Thursday that four men and two women, aged between 39 and 52, had been arrested over the ",
+      "id": "news-69",
+      "headline": "Hong Kong police smash beautician-led syndicate behind HK$410,000 credit card fraud",
+      "summary": "Hong Kong police have broken up a syndicate led by a beautician that allegedly stole credit cards from patrons of a beauty salon in Mong Kok, causing losses of more than HK$410,000 (US$52,347).\nThe force said on Thursday that four men and two women, aged between 39 and 52, had been arrested over the",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -1298,7 +1262,25 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350273/hong-kong-police-bust-beautician-led-syndicate-behind-hk410000-credit-card-scam?utm_source=rss_feed"
     },
     {
-      "id": "news-72",
+      "id": "news-70",
+      "headline": "Iran war: What is happening on day 48 of the US-Iran conflict? - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1o5cktjMEp4WHFUeWJGbU5zbms2UzRUQ01MRTUweEMzTEYtSTluXzFabnNJTDVEaE5OT1lNeVlkWVRnRFBfeE4zck5ZdnpmdllRUHpzdzRmeU9QbzJibUpBQkVWX3BZdE5lQzNLYXkzdHJIR3NLdnNMVHBCSHJ1RFBwY1Mzd1BHQ2lnLWh1Mkh5S1VFTWlibmhfT3ItM1BpZnZr0gGoAUFVX3lxTE1NeFkwZFZYU0l",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T06:17:54.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1o5cktjMEp4WHFUeWJGbU5zbms2UzRUQ01MRTUweEMzTEYtSTluXzFabnNJTDVEaE5OT1lNeVlkWVRnRFBfeE4zck5ZdnpmdllRUHpzdzRmeU9QbzJibUpBQkVWX3BZdE5lQzNLYXkzdHJIR3NLdnNMVHBCSHJ1RFBwY1Mzd1BHQ2lnLWh1Mkh5S1VFTWlibmhfT3ItM1BpZnZr0gGoAUFVX3lxTE1NeFkwZFZYU0lrSE53cUh4S0F5UXktcDVUY05pNnY3WVY3aU1LZVhLcTktZTVtc2sxdkFrajhLQjIxVzZhc1pRdXloTjdsRXNlejNsYU9MYUZEMW8wOHBndFZiWXVWeE9udzJsNlBZdEpjYWVjU0s2MHJjNWs4a3lDbDhxRjJ3ak5mUzZwLThtWWdLbW95bVVCYUlvMjFpaEw5b0xRbmVxLQ?oc=5"
+    },
+    {
+      "id": "news-71",
       "headline": "Stepfather tells Japanese investigators ‘there’s no doubt’ he killed missing boy",
       "summary": "A Japanese man arrested for abandoning the body of his stepson who had been missing for weeks has admitted to killing the boy and allegedly hiding the corpse in different locations amid an extensive search by police in Kyoto prefecture.\nThe arrest on Thursday morning marked a dramatic turn of events",
       "urgency": "breaking",
@@ -1316,25 +1298,25 @@
       "link": "https://www.scmp.com/news/asia/east-asia/article/3350272/stepfather-tells-japanese-investigators-theres-no-doubt-he-killed-missing-boy?utm_source=rss_feed"
     },
     {
-      "id": "news-73",
-      "headline": "Iran war: What is happening on day 48 of the US-Iran conflict?",
-      "summary": "US–Iran talks gain pace as Pakistan mediates, optimism for a new round of talks in Islamabad.",
-      "urgency": "breaking",
-      "topic": "middle-east",
+      "id": "news-72",
+      "headline": "China’s G.D.P. Stronger Than Expected, Led by Infrastructure Spending",
+      "summary": "A steep slide in housing prices has left consumers less prosperous and less willing to spend, but the government is pouring money into new rail lines and other projects.",
+      "urgency": "info",
+      "topic": "general",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-04-16T06:13:28.000Z",
+      "timestamp": "2026-04-16T06:10:03.000Z",
       "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict?traffic_source=rss"
+      "link": "https://www.nytimes.com/2026/04/15/business/china-economy-growth.html"
     },
     {
-      "id": "news-74",
+      "id": "news-73",
       "headline": "Greater Bay Airlines suspends Bangkok flights for over 4 months amid fuel price surge",
       "summary": "Greater Bay Airlines has suspended its flights between Hong Kong and Bangkok for more than four months amid surging fuel prices driven by the conflict in the Middle East.\nThe airline’s website on Thursday showed no flights from Hong Kong to Bangkok between May 11 and September 22, and none from Bang",
       "urgency": "info",
@@ -1352,7 +1334,7 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3350268/greater-bay-airlines-suspends-bangkok-flights-over-4-months-amid-fuel-price-surge?utm_source=rss_feed"
     },
     {
-      "id": "news-75",
+      "id": "news-74",
       "headline": "Curry scores 35 as Warriors upset Clippers to extend playoff run",
       "summary": "Stephen Curry&#039;s Golden State Warriors keep their NBA playoff hopes alive, eliminating LA Clippers from the play-in.",
       "urgency": "breaking",
@@ -1370,7 +1352,7 @@
       "link": "https://www.aljazeera.com/sports/2026/4/16/warriors-upset-clippers-in-nba-west-play-in-extend-playoff-run?traffic_source=rss"
     },
     {
-      "id": "news-76",
+      "id": "news-75",
       "headline": "Israel’s military kills four Lebanese paramedics in consecutive strikes",
       "summary": "An Israeli triple-tap attack on rescue workers in southern Lebanon has killed four and left several others injured.",
       "urgency": "breaking",
@@ -1388,25 +1370,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israels-military-kills-four-lebanese-paramedics-in-consecutive-strikes?traffic_source=rss"
     },
     {
-      "id": "news-77",
-      "headline": "3 abducted polio workers recovered in Bannu after joint efforts of police, jirga",
-      "summary": "&lt;p&gt;BANNU: Three polio workers &lt;a href=\"https://www.dawn.com/news/1992131/cop-escorting-polio-team-killed-in-dera-murad-jamali\"&gt;abducted&lt;/a&gt; by militants on Wednesday have been safely recovered through coordinated efforts by the police and local jirga elders, police said.&lt;/p&gt;\n",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T05:55:49.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992236/3-abducted-polio-workers-recovered-in-bannu-after-joint-efforts-of-police-jirga"
-    },
-    {
-      "id": "news-78",
+      "id": "news-76",
       "headline": "Cool Hand Luke actress Joy Harmon dies aged 87",
       "summary": "Harmon was best known for a car-washing scene in the Paul Newman prison drama.",
       "urgency": "info",
@@ -1424,7 +1388,7 @@
       "link": "https://www.bbc.com/news/articles/cvgkzpqnvd0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-79",
+      "id": "news-77",
       "headline": "Hong Kong reports 99% participation of young 2019 protest convicts in rehab project",
       "summary": "Nearly 1,800 young Hongkongers convicted of protest and national security-related offences have taken part in a rehabilitation programme, authorities have said, including 99 per cent of those found guilty over the 2019 unrest, up from 63 per cent in 2021.\nResponding to a question from lawmaker Chan ",
       "urgency": "important",
@@ -1442,25 +1406,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3350265/hong-kong-reports-99-participation-young-2019-protest-convicts-rehab-project?utm_source=rss_feed"
     },
     {
-      "id": "news-80",
-      "headline": "Pakistan receives $2bn from Saudi Arabia: State Bank",
-      "summary": "&lt;p&gt;The State Bank of Pakistan (SBP) confirmed on Thursday that Pakistan has received $2 billion from the Kingdom of Saudi Arabia.&lt;/p&gt;\n&lt;p&gt;The central bank said the funds were received “in the value date of 15April2026”.&lt;/p&gt;\n    &lt;figure class='media  w-full  w-full  media-- ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T05:41:27.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992225/pakistan-receives-2bn-from-saudi-arabia-state-bank"
-    },
-    {
-      "id": "news-81",
+      "id": "news-78",
       "headline": "UK cracks down on fake asylum claims as Home Secretary warns of deportation and action against ‘sham lawyers’",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130298611.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1478,7 +1424,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/uk-cracks-down-on-fake-asylum-claims-as-home-secretary-warns-of-deportation-and-action-against-sham-lawyers/articleshow/130298611.cms"
     },
     {
-      "id": "news-82",
+      "id": "news-79",
       "headline": "The pope has shown the world how to stand up to Trump",
       "summary": "Far too many world leaders have chosen to mollify the bullying US president. Pope Leo has shown there&#039;s another way.",
       "urgency": "info",
@@ -1496,25 +1442,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/4/16/the-pope-has-shown-the-world-how-to-stand-up-to-trump?traffic_source=rss"
     },
     {
-      "id": "news-83",
-      "headline": "Macau finance minister steps down for ‘personal reasons’",
-      "summary": "Macau’s finance minister has resigned over “personal reasons,” prompting the city’s chief executive to temporarily assume his duties until a new candidate is appointed.\nThe cabinet change took effect on Thursday after China’s State Council approved the removal of Tai Kin-ip from the post of secretar",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T05:33:40.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3350262/macau-finance-minister-steps-down-personal-reasons?utm_source=rss_feed"
-    },
-    {
-      "id": "news-84",
+      "id": "news-80",
       "headline": "Shattered windows, cars on fire: 14 dead as Russia rains 31 missiles, 636 drones on Ukraine",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130298467.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1532,7 +1460,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/shattered-windows-buildings-cars-on-fire-russia-rains-31-missiles-636-drones-on-ukraine-killing-14/articleshow/130298467.cms"
     },
     {
-      "id": "news-85",
+      "id": "news-81",
       "headline": "Discovery of unopened ballots prompts recount in SA seat One Nation won by just 58 votes",
       "summary": "&lt;p&gt;Electoral commission to recount votes in electorate of Narungga after Chantelle Thomas won the seat at the March state election&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richa",
       "urgency": "breaking",
@@ -1550,25 +1478,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/apr/16/sa-election-uncounted-ballots-votes-one-nation-seat-narungga-ntwnfb"
     },
     {
-      "id": "news-86",
-      "headline": "China’s Wang Yi calls on Iran to ensure freedom and safe passage through Strait of Hormuz",
-      "summary": "China’s top diplomat Wang Yi sought guarantees of freedom and safety of international navigation through the Strait of Hormuz, in a phone call with his Iranian counterpart, Abbas Araghchi, on Wednesday.\nThe call is Beijing’s latest diplomacy effort on the Iran war as a US naval blockade of Iranian p",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T05:18:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3350259/chinas-wang-yi-calls-iran-ensure-freedom-and-safe-passage-through-strait-hormuz?utm_source=rss_feed"
-    },
-    {
-      "id": "news-87",
+      "id": "news-82",
       "headline": "More than a dozen killed in Russian attacks on Kyiv, other Ukrainian cities",
       "summary": "More than a dozen people, including at least one child, have been killed in Russian missile and drone attacks on infrastructure and residential buildings in Kyiv and in other Ukrainian cities like Odesa and Dnipro overnight to Thursday. Several dozens of civilians were also injured in the assaults.",
       "urgency": "breaking",
@@ -1586,7 +1496,7 @@
       "link": "https://www.france24.com/en/europe/20260416-more-than-a-dozen-killed-in-russian-attacks-on-kyiv-other-ukrainian-cities"
     },
     {
-      "id": "news-88",
+      "id": "news-83",
       "headline": "Shakespeare's 'missing' home mapped with discovery",
       "summary": "A Shakespeare expert identifies the location and size of the property the playwright bought in1613.",
       "urgency": "info",
@@ -1604,7 +1514,7 @@
       "link": "https://www.bbc.com/news/articles/cedeenvdwgxo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-89",
+      "id": "news-84",
       "headline": "UAE schools to resume in-person learning from April 20 with hybrid option for private institutions",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130297741.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1622,7 +1532,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-schools-to-resume-in-person-learning-from-april-20-with-hybrid-option-for-private-institutions/articleshow/130297741.cms"
     },
     {
-      "id": "news-90",
+      "id": "news-85",
       "headline": "US blockade: No Iranian ship allowed to cross Strait of Hormuz last three days, 10 sent back",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130297397.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1640,7 +1550,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/us-blockade-no-iranian-ship-allowed-to-cross-strait-of-hormuz-last-three-days-10-sent-back/articleshow/130297397.cms"
     },
     {
-      "id": "news-91",
+      "id": "news-86",
       "headline": "Trump plans 250-foot ‘Triumphal Arch’ to mark 250 years of US independence",
       "summary": "The Trump administration has unveiled plans for a huge structure to mark 250 years since the US declared independence.",
       "urgency": "info",
@@ -1658,25 +1568,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-plans-250-foot-triumphal-arch-to-mark-250-years-of-us-independence?traffic_source=rss"
     },
     {
-      "id": "news-92",
-      "headline": "Capital Development Authority razes nearly 200 Noorpur Shahan houses during massive operation in Islamabad",
-      "summary": "&lt;p&gt;• Police book 350 individuals under Anti-Terrorism Act, other charges over Tuesday’s violent clash&lt;br&gt;• FIR alleges use of petrol bombs, firearms&lt;br&gt;• Residents dispute CDA’s claim, civic body defends action&lt;/p&gt;\n&lt;p&gt;ISLAMABAD: After the police registered a case agains",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-04-16T04:31:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992097/capital-development-authority-razes-nearly-200-noorpur-shahan-houses-during-massive-operation-in-islamabad"
-    },
-    {
-      "id": "news-93",
+      "id": "news-87",
       "headline": "Japan pledges $10bn to help Asian countries deal with oil crisis",
       "summary": "The aid is roughly equivalent to a year's worth of crude oil imports by Asean countries.",
       "urgency": "important",
@@ -1694,7 +1586,7 @@
       "link": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-94",
+      "id": "news-88",
       "headline": "10 Deepest rivers in the world ranked: From the Congo’s 250m depths to the Mississippi river",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130297536.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1712,9 +1604,9 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/10-deepest-rivers-in-the-world-ranked-from-the-congos-250m-depths-to-the-mississippi-river/articleshow/130297536.cms"
     },
     {
-      "id": "news-95",
-      "headline": "At Least 4 Dead in Second School Shooting in Turkey in 2 Days",
-      "summary": "An armed eighth grader opened fire in his middle school. One of those killed was a teacher.",
+      "id": "news-89",
+      "headline": "3 Killed in Boat Strike in the Pacific, Pentagon Says",
+      "summary": "It was the third such attack by the U.S. military in three days, and the 51st attack in a campaign against people who the United States has accused of smuggling drugs.",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -1725,12 +1617,12 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-04-16T04:13:06.000Z",
+      "timestamp": "2026-04-16T04:15:06.000Z",
       "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html"
+      "link": "https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html"
     },
     {
-      "id": "news-96",
+      "id": "news-90",
       "headline": "White House optimistic about Iran deal as key Pakistani negotiator visits Tehran - CNN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5PRWlLT0Q4MnJ4OGlCMGk5R3JfbGlKVUo3RjE4Z3NPcWluZHdqZFVaaFB6cmJCUG9RSFhUZEx5TkdXNmdsaFVXb0RaR0I2b1N5R3VkY3pVQnBKYnY5TllVcGc4N1BzR1prTmI5UkIzQm83SFNqQWxPdUw3X2kxdw?oc=5\" target=\"_blank\"&gt;White House optimistic about Iran deal as key Pakis",
       "urgency": "info",
@@ -1748,25 +1640,25 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PRWlLT0Q4MnJ4OGlCMGk5R3JfbGlKVUo3RjE4Z3NPcWluZHdqZFVaaFB6cmJCUG9RSFhUZEx5TkdXNmdsaFVXb0RaR0I2b1N5R3VkY3pVQnBKYnY5TllVcGc4N1BzR1prTmI5UkIzQm83SFNqQWxPdUw3X2kxdw?oc=5"
     },
     {
-      "id": "news-97",
-      "headline": "Irked by JI banners on civic woes, Karachi mayor warns printing presses of shutdown",
-      "summary": "&lt;figure class='media  w-full sm:w-full  media--center    media--uneven  media--stretch' data-original-src='https://i.dawn.com/large/2026/04/160207268342322.webp'&gt;\n        &lt;div class='media__item  '&gt;&lt;picture&gt;&lt;img src='https://i.dawn.com/large/2026/04/160207268342322.webp'  alt=' ",
-      "urgency": "breaking",
-      "topic": "general",
+      "id": "news-91",
+      "headline": "Israel-Lebanon Peace Talks, Strait of Hormuz Blockade and More - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9Dd3pCVzNWNkNLbUtmNnlGSGdlYmhXNXpGMnBDSVFqVmdickxVZDNPVFNDd1ZtSjdlaGNWWDZlUFQzRFdZOGYwMXUtMm80TXlfZVk0YnBtOFQyT1JCV0tNQUJZaVhuNE1Fc0ZxMmx5WnE0Ylk?oc=5\" target=\"_blank\"&gt;Israel-Lebanon Peace Talks, Strait of Hormuz Blockade and More&lt;",
+      "urgency": "info",
+      "topic": "middle-east",
       "sources": [
         {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
         }
       ],
-      "timestamp": "2026-04-16T04:01:02.000Z",
+      "timestamp": "2026-04-16T04:11:00.000Z",
       "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992067/irked-by-ji-banners-on-civic-woes-karachi-mayor-warns-printing-presses-of-shutdown"
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Dd3pCVzNWNkNLbUtmNnlGSGdlYmhXNXpGMnBDSVFqVmdickxVZDNPVFNDd1ZtSjdlaGNWWDZlUFQzRFdZOGYwMXUtMm80TXlfZVk0YnBtOFQyT1JCV0tNQUJZaVhuNE1Fc0ZxMmx5WnE0Ylk?oc=5"
     },
     {
-      "id": "news-98",
+      "id": "news-92",
       "headline": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
       "summary": "&lt;p&gt;Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177&lt;/p&gt;&lt;p&gt;Three people were killed in a US strike on another alleged drug-trafficking boat, the fifth such deadly attack in as many days, military officials have announce",
       "urgency": "breaking",
@@ -1784,51 +1676,141 @@
       "link": "https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three"
     },
     {
-      "id": "news-99",
-      "headline": "Pakistan ramps up shuttle diplomacy with PM in Saudi Arabia, CDF in Tehran",
-      "summary": "&lt;figure class='media  w-full sm:w-full  media--center    media--uneven  media--stretch' data-original-src='https://i.dawn.com/large/2026/04/160358479b204db.webp'&gt;\n        &lt;div class='media__item  '&gt;&lt;picture&gt;&lt;img src='https://i.dawn.com/large/2026/04/160358479b204db.webp'  alt=' ",
+      "id": "news-93",
+      "headline": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
+      "summary": "No official response from Israel or Lebanon to US statement, which comes after Netanyahu ordered expansion of invasion.",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T03:51:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss"
+    },
+    {
+      "id": "news-94",
+      "headline": "'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies",
+      "summary": "The fire has deepened fears over the nation's petrol supplies amid a global crunch.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T03:45:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-95",
+      "headline": "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1RFWFFPRUJxLVZGeEZUb2FqWVBXVUZYMl9scjVRNDA0Z0ROOXhRdHNwUGEwVWhNMnV3RW9SX3M1ZGhXNUNVY1ZtX1FpZEl3Qzh5WDdJclVsblZyRlFSSjJNeVQzc2gxalltOGRpWUtxcmoyUDlhdktnNHhpYkpkMHdLYkcyZE5qclh1QnlBR2pYZ3ZOWU9ZS1JVWmdpaXBjdm02a1R1VVpzVGNR0gGyAUFVX3lxTE5",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T03:42:41.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1RFWFFPRUJxLVZGeEZUb2FqWVBXVUZYMl9scjVRNDA0Z0ROOXhRdHNwUGEwVWhNMnV3RW9SX3M1ZGhXNUNVY1ZtX1FpZEl3Qzh5WDdJclVsblZyRlFSSjJNeVQzc2gxalltOGRpWUtxcmoyUDlhdktnNHhpYkpkMHdLYkcyZE5qclh1QnlBR2pYZ3ZOWU9ZS1JVWmdpaXBjdm02a1R1VVpzVGNR0gGyAUFVX3lxTE5VU3FGOGhaY0FxSFphTnc3X1V5YUpiOWxWXzJLUVdIdkVIYlR1VlRMSHFmMy1nZmVYX3dYSWhuTDBiMkdhWkJUWWdHVHEyVEJqeVZoQlNLRjNUa0dueXl4Qk5sM2kxdjgtdkNKdlgxUXlUOUJVY1FwSUx1T1g4VTY2dnhGczRRTHRoQWtqQ0Eyd2hGOHg3ZFduUDhQWUlxX083Ql8tRS1FZV8xUnd1LWlNUlE?oc=5"
+    },
+    {
+      "id": "news-96",
+      "headline": "South Korea’s ‘solar trees’ are generating power without cutting down forests",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130288280.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
           "category": "local_media"
         }
       ],
-      "timestamp": "2026-04-16T03:52:52.000Z",
+      "timestamp": "2026-04-16T03:30:00.000Z",
       "widgetType": "news",
-      "link": "https://www.dawn.com/news/1992135/pakistan-ramps-up-shuttle-diplomacy-with-pm-in-saudi-arabia-cdf-in-tehran"
+      "link": "https://timesofindia.indiatimes.com/science/south-koreas-solar-trees-are-generating-power-without-cutting-down-forests/articleshow/130288280.cms"
+    },
+    {
+      "id": "news-97",
+      "headline": "Democrats clash with US Energy Secretary over Iran war and gas prices - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNT196TTM3OVN2am5pYU1Ua0EyMmZrQzZEUVhSUTQ1NU1aRkNpc2hOUjRZQkMxY3k2UF82S3N2S0loVDlRX2RLN0taNEtHcl9PTG9PWlZ0RHZVQWRtamw1azh6ZS1KS052UXZfOXJ6SXhGODlyS3BsZzAwZEZIcUZ3U3ZjRER0U2U1dkRUcUUxcnRLd0R5by1ZX24wUGpWXzdQSGk2bFNUVjBrQkdZN2kwSUlUdXRrbzd",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T03:26:30.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT196TTM3OVN2am5pYU1Ua0EyMmZrQzZEUVhSUTQ1NU1aRkNpc2hOUjRZQkMxY3k2UF82S3N2S0loVDlRX2RLN0taNEtHcl9PTG9PWlZ0RHZVQWRtamw1azh6ZS1KS052UXZfOXJ6SXhGODlyS3BsZzAwZEZIcUZ3U3ZjRER0U2U1dkRUcUUxcnRLd0R5by1ZX24wUGpWXzdQSGk2bFNUVjBrQkdZN2kwSUlUdXRrbzdMajFTZtIBwgFBVV95cUxPTnZXZzlLN2VIZFdYcTFOTFlSSUxwUU0xeGIxNEpTc2hDREFnSlQ4UVZ0dkVCM1U4RHhxNEhrOXNvSjRBXy10S05CUlcwUlZudFRQU1c0SFMzUERnRGxSREJMR19GMHlaNHlSUGRZQmR4LVdRZE1qd2F4ZXd0ak11WG01OGdCV0NzWHp2eU1QY2M1TUFqQlYyVlI4am84ZTlxX2tseHJRekNXZ0M2WVBBaXIxT1ozUDdhZXlBMXNwZk5aQQ?oc=5"
+    },
+    {
+      "id": "news-98",
+      "headline": "Russian strikes kill three, including child, as drones and missiles hit Kyiv",
+      "summary": "Russia launched overnight drone and missile attacks on Ukraine, killing three people, including a child, and triggering air alerts in Kyiv, officials said Thursday. Kyiv Mayor Vitali Klitschko said a 12-year-old boy and a 35-year-old woman were among the dead as strikes intensified after months of n",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T03:26:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260416-russia-strikes-ukraine-kyiv-drones-missiles-kill-three-child"
+    },
+    {
+      "id": "news-99",
+      "headline": "PM says Israel ready for Iran war resumption, while US gears for another round of talks - The Times of Israel",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHpSTjlBOFZyYUZXaEdfNGNaM2NkZ0VvRktZT2paVnpJbkdWbk5PdVRkU1VUREJRbFRPVlNNRnlObEJ6Y2phV1dxVkZ3aVZ6TlRvUl9mZmQwT2haYXo2Q3UtTng1WHBBTnh6SS05UDJFVEZqdDgxOWtScWRDZENQYVBTYWxYMTVUWmZHV0FPNUVBbWczVnpTdWhfRHJmWHNLMkJGUTQ0QnRLeFpHREh4cFh2ZmUwRWR",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-16T03:22:07.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHpSTjlBOFZyYUZXaEdfNGNaM2NkZ0VvRktZT2paVnpJbkdWbk5PdVRkU1VUREJRbFRPVlNNRnlObEJ6Y2phV1dxVkZ3aVZ6TlRvUl9mZmQwT2haYXo2Q3UtTng1WHBBTnh6SS05UDJFVEZqdDgxOWtScWRDZENQYVBTYWxYMTVUWmZHV0FPNUVBbWczVnpTdWhfRHJmWHNLMkJGUTQ0QnRLeFpHREh4cFh2ZmUwRWR50gG-AUFVX3lxTE4ybmRKM0txaHgtcmEyZmhCZVdHcjEtTXM2bnBMdHBXSmZZY2hrLUxlaGw4bXYzbTNsTWVRRnNyeVZDYmhVZ0tnSUxTZGxPMFRTZlU3SUNkNGthUEs1UkhjbXhGWS1iMmlfUzRRNlA0YzZZN1NhSjJNdkRjd0h1RDRQd2pSNjVNZ1JmRXI0NjBuTHZ4VF9BSENBeDUwZDR2dHJ3ek53ZFBjd1ZBSTBqdFhra3duTVYxTjZ4QVdZMWc?oc=5"
     }
   ],
   "financials": {
     "exchangeRates": {
       "USD": 1,
-      "AED": 3.6725,
+      "AED": 3.67,
       "SAR": 3.75,
-      "GBP": 0.737078,
-      "INR": 93.441485,
-      "JPY": 158.896502,
-      "EUR": 0.847508,
-      "PKR": 279.17227,
-      "EGP": 52.028264,
-      "TRY": 44.744062,
-      "CAD": 1.374085,
-      "AUD": 1.39736,
-      "BRL": 4.993824,
-      "ZAR": 16.369354,
-      "NGN": 1345.910957,
-      "KES": 129.242464,
-      "JOD": 0.709,
-      "LBP": 89500,
-      "IQD": 1309.952698,
-      "QAR": 3.64,
-      "KWD": 0.308369,
-      "BHD": 0.376,
-      "OMR": 0.384497,
-      "ILS": 3.000954,
-      "KRW": 1475.268082
+      "GBP": 0.79,
+      "INR": 83.1,
+      "JPY": 150.2,
+      "EUR": 0.92
     },
     "gold": {
       "label": "Gold (USD/oz)",
