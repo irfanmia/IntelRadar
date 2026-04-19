@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-19T09:40:06.003Z",
+  "lastUpdated": "2026-04-19T09:40:09.420Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 517,
+      "score": 519,
       "count": 317,
-      "breaking": 87,
+      "breaking": 88,
       "latest": "2026-04-19T09:37:21.000Z"
     },
     {
@@ -28,13 +28,6 @@
       "count": 38,
       "breaking": 25,
       "latest": "2026-04-18T23:09:49.000Z"
-    },
-    {
-      "id": "korea",
-      "score": 61,
-      "count": 22,
-      "breaking": 19,
-      "latest": "2026-04-19T08:44:26.000Z"
     },
     {
       "id": "taliban-pakistan",
@@ -63,6 +56,13 @@
       "count": 20,
       "breaking": 4,
       "latest": "2026-04-02T07:00:00.000Z"
+    },
+    {
+      "id": "korea",
+      "score": 12,
+      "count": 4,
+      "breaking": 4,
+      "latest": "2026-04-19T06:31:28.000Z"
     }
   ],
   "countryEvents": {
@@ -167,9 +167,9 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
-      "korea",
       "venezuela",
       "china-taiwan",
+      "korea",
       "general"
     ],
     "united-kingdom": [
@@ -199,29 +199,29 @@
       "general"
     ],
     "taiwan": [
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "china": [
       "middle-east",
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "ukraine-russia"
     ],
     "south-korea": [
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "north-korea": [
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "middle-east",
       "ukraine-russia"
@@ -273,15 +273,15 @@
     ],
     "australia": [
       "middle-east",
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "ukraine-russia"
     ],
     "japan": [
       "middle-east",
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "ukraine-russia"
     ],
