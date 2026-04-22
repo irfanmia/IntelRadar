@@ -1,8 +1,80 @@
 {
-  "lastUpdated": "2026-04-22T18:00:16.267Z",
+  "lastUpdated": "2026-04-22T18:20:07.564Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Iran War Live Updates: Battle Over Strait Intensifies as Iranian Forces Say They Seized 2 Ships",
+      "summary": "The Revolutionary Guards said they had seized two cargo ships near the Strait of Hormuz, state media reported. The United States and Iran have been seeking to exert control over the strategic waterway.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-22T18:11:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks"
+    },
+    {
+      "id": "news-1",
+      "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+      "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-22T18:10:42.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-2",
+      "headline": "Whether for or Against the War, Iranians Say They’re Feeling Economic Pain",
+      "summary": "At a border crossing in Turkey, one Iranian woman said her friends struggled to afford food because there was no work to be found and strikes had forced factories to close.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-22T18:07:24.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-turkey-border.html"
+    },
+    {
+      "id": "news-3",
+      "headline": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
+      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-22T18:04:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-4",
       "headline": "Iran appreciates Pakistan’s efforts to mediate between Tehran and Washington",
       "summary": "&lt;p&gt;Iran’s foreign ministry spokesman Esmaeil Baqaei said on Wednesday that the Islamic republic appreciated Pakistan’s efforts to end the Middle East war, without commenting on a ceasefire extension announced by the United States.&lt;/p&gt;\n&lt;p&gt;He expressed these views while answering rep",
       "urgency": "breaking",
@@ -20,43 +92,7 @@
       "link": "https://www.dawn.com/news/1994127/iran-appreciates-pakistans-efforts-to-mediate-between-tehran-and-washington"
     },
     {
-      "id": "news-1",
-      "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-      "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-04-22T17:53:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-2",
-      "headline": "Iran War Live Updates: Battle Over Strait Intensifies as Iranian Forces Say They Seized 2 Ships",
-      "summary": "The Revolutionary Guards said they had seized two cargo ships near the Strait of Hormuz, state media reported. The United States and Iran have been seeking to exert control over the strategic waterway.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-04-22T17:49:04.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks"
-    },
-    {
-      "id": "news-3",
+      "id": "news-5",
       "headline": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
       "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
       "urgency": "breaking",
@@ -74,7 +110,7 @@
       "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-4",
+      "id": "news-6",
       "headline": "'Very suspicious': Two Bangladeshi students missing for days in Florida, phones switched off, not in ICE custody",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130448790.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -92,7 +128,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/very-suspicious-two-bangladeshi-students-missing-for-days-in-florida-phones-switched-off-not-in-ice-custody/articleshow/130448790.cms"
     },
     {
-      "id": "news-5",
+      "id": "news-7",
       "headline": "Dh30m UAE Lottery: Winning numbers out – did you get lucky this time?",
       "summary": "Dh30m UAE Lottery: Winning numbers out – did you get lucky this time?",
       "urgency": "info",
@@ -110,7 +146,7 @@
       "link": "https://gulfnews.com/uae/dh30m-uae-lottery-winning-numbers-out-did-you-get-lucky-this-time-1.500515907"
     },
     {
-      "id": "news-6",
+      "id": "news-8",
       "headline": "UAE and Syrian Presidents discuss bilateral relations and regional developments",
       "summary": "UAE and Syrian Presidents discuss bilateral relations and regional developments",
       "urgency": "info",
@@ -128,7 +164,7 @@
       "link": "https://gulfnews.com/uae/uae-and-syrian-presidents-discuss-bilateral-relations-and-regional-developments-1.500515925"
     },
     {
-      "id": "news-7",
+      "id": "news-9",
       "headline": "Nigeria's suspected coup plotters deny treason charges",
       "summary": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled.",
       "urgency": "info",
@@ -146,7 +182,7 @@
       "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-10",
       "headline": "Gibraltar’s monkeys may be eating soil to cope with junk food from tourists",
       "summary": "On the tourist-packed ⁠Rock of Gibraltar, one of the most common sights is monkeys ⁠begging for food – and sometimes stealing sweet and salty snacks from unsuspecting visitors.\nScientists now have documented an unusual behaviour among these macaques that may help them ward off a bellyache from all t",
       "urgency": "breaking",
@@ -164,7 +200,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3351054/gibraltars-monkeys-may-be-eating-soil-cope-junk-food-tourists?utm_source=rss_feed"
     },
     {
-      "id": "news-9",
+      "id": "news-11",
       "headline": "Will Iran play at the 2026 World Cup? Government responds after FIFA president says team will attend",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130446585.cms\" /&gt;<![CDATA[Iran have qualified for the 2026 FIFA World Cup, but their participation remains uncertain due to security concerns over playing in the Uni",
       "urgency": "info",
@@ -182,25 +218,7 @@
       "link": "https://timesofindia.indiatimes.com/sports/international-sports/will-iran-play-at-the-2026-world-cup-government-responds-after-fifa-president-says-team-will-attend/articleshow/130446585.cms"
     },
     {
-      "id": "news-10",
-      "headline": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
-      "summary": "One of the cargo ships was 'heavily damaged' by Iranian forces, a British maritime agency reported on Wednesday.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "BBC",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-04-22T17:14:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-11",
+      "id": "news-12",
       "headline": "Braker Breakthrough: Drone-Delivered Bunker-Busting Warhead Passes Test",
       "summary": "Army infantry drone operators successfully tested a new warhead designed for delivery by an unmanned aerial system, a significant leap forward for battlefield technology only weeks after the initial design and rapid prototyping of the system.",
       "urgency": "breaking",
@@ -218,7 +236,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4466875/braker-breakthrough-drone-delivered-bunker-busting-warhead-passes-test/"
     },
     {
-      "id": "news-12",
+      "id": "news-13",
       "headline": "Equatorial Guinea: Pope denounces detention conditions",
       "summary": "In Equatorial Guinea, Pope Leo XIV called for greater freedoms during a mass attended by nearly 100,000 worshippers.",
       "urgency": "info",
@@ -236,7 +254,7 @@
       "link": "https://www.france24.com/en/video/20260422-equatorial-guinea-pope-denounces-detention-conditions"
     },
     {
-      "id": "news-13",
+      "id": "news-14",
       "headline": "Pakistani Officials Remain Hopeful About U.S.-Iran Talks",
       "summary": "The seizure of two cargo vessels by Iran in the Strait of Hormuz on Wednesday cast doubt on plans for a second round of talks in Pakistan’s capital.",
       "urgency": "info",
@@ -254,7 +272,7 @@
       "link": "https://www.nytimes.com/2026/04/22/world/asia/pakistan-iran-us-talks-islamabad.html"
     },
     {
-      "id": "news-14",
+      "id": "news-15",
       "headline": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
       "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
       "urgency": "info",
@@ -272,7 +290,7 @@
       "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-15",
+      "id": "news-16",
       "headline": "Islamabad’s Red Zone remains off-limits; other routes in twin cities reopen to public after days-long closure",
       "summary": "&lt;p&gt;Islamabad’s Red Zone remained sealed to the general public on Wednesday, but other routes in the twin cities, sealed earlier for the security of foreign delegations visiting the capital, were opened to the public, easing some hardship faced by the residents.&lt;/p&gt;\n&lt;p&gt;US Vice Presi",
       "urgency": "breaking",
@@ -290,7 +308,7 @@
       "link": "https://www.dawn.com/news/1994078/islamabads-red-zone-remains-off-limits-other-routes-in-twin-cities-reopen-to-public-after-days-long-closure"
     },
     {
-      "id": "news-16",
+      "id": "news-17",
       "headline": "All-rounder Mohammad Nawaz under scrutiny for alleged recreational drug use",
       "summary": "&lt;p&gt;LAHORE: The Pakistan Cricket Board (PCB) on Wednesday investigated Mohammad Nawaz for the alleged use of recreational drugs.&lt;/p&gt;\n&lt;p&gt;The development came after &lt;em&gt;ESPNcricinfo&lt;/em&gt; &lt;a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://w",
       "urgency": "info",
@@ -308,7 +326,7 @@
       "link": "https://www.dawn.com/news/1994087/all-rounder-mohammad-nawaz-under-scrutiny-for-alleged-recreational-drug-use"
     },
     {
-      "id": "news-17",
+      "id": "news-18",
       "headline": "Iran fires on 3 ships in the Strait of Hormuz as US maintains blockade and diplomacy stalls - AP News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlpoZy1GNFVwRWhTQng2aHctOWVETDJpa2VPSlJ5bWNoVTRFLTYtNFYxMjFUU1hMQVlqZHNGQ3NfbVh4VXRwMW5jODFaT0FJeVB1UGotVEFfT3Y3bm10SzFYMlppcGc1aGhsMHRKdDRrNmx5QS0yVmw0dng5RVMxZU5mSkdCUjZ5V216aGZmZFkyRk84dklGMkt2Y2xMNHFlWm5MeV9xdVV1UUM4OS02OGVOX1kwaU1",
       "urgency": "info",
@@ -326,7 +344,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlpoZy1GNFVwRWhTQng2aHctOWVETDJpa2VPSlJ5bWNoVTRFLTYtNFYxMjFUU1hMQVlqZHNGQ3NfbVh4VXRwMW5jODFaT0FJeVB1UGotVEFfT3Y3bm10SzFYMlppcGc1aGhsMHRKdDRrNmx5QS0yVmw0dng5RVMxZU5mSkdCUjZ5V216aGZmZFkyRk84dklGMkt2Y2xMNHFlWm5MeV9xdVV1UUM4OS02OGVOX1kwaU1xY2c?oc=5"
     },
     {
-      "id": "news-18",
+      "id": "news-19",
       "headline": "Clearing Strait of Hormuz of mines could take 6 months, Pentagon tells Congress",
       "summary": "The Pentagon assessment, shared in a classified briefing for lawmakers, suggests gasoline and oil prices could remain elevated through the midterm elections.",
       "urgency": "important",
@@ -344,7 +362,7 @@
       "link": "https://www.washingtonpost.com/national-security/2026/04/22/iran-hormuz-mines/"
     },
     {
-      "id": "news-19",
+      "id": "news-20",
       "headline": "Moldovan oligarch jailed in $1bn 'theft of the century' case",
       "summary": "Vlad Plahotniuc, once Moldova's richest man, was found guilty of partaking in a fraud which involved around 12% of the country's GDP.",
       "urgency": "info",
@@ -362,7 +380,7 @@
       "link": "https://www.bbc.com/news/articles/cwykz04e4ndo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-21",
       "headline": "Chelsea sack Rosenior after only three months at Premier League club",
       "summary": "Chelsea only appointed Liam Rosenior in January, but the FIFA Club World Cup holders have lost their last five games.",
       "urgency": "info",
@@ -380,7 +398,7 @@
       "link": "https://www.aljazeera.com/sports/2026/4/22/chelsea-sack-rosenior-after-only-3-months-at-premier-league-club?traffic_source=rss"
     },
     {
-      "id": "news-21",
+      "id": "news-22",
       "headline": "FBI’s rare Cuba mission: Agents fly to Cuba to recover a child from a transgender parent who wanted transition surgery for child",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130447100.cms\" /&gt;<![CDATA[An unusual FBI operation saw a US government aircraft fly to Cuba to recover a 10-year-old child from Utah in an international parental kid",
       "urgency": "info",
@@ -398,7 +416,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/fbis-rare-cuba-mission-agents-fly-to-cuba-to-recover-a-child-from-a-transgender-parent-who-wanted-transition-surgery-for-child/articleshow/130447100.cms"
     },
     {
-      "id": "news-22",
+      "id": "news-23",
       "headline": "Iran says ‘fully prepared’ for football team’s World Cup participation",
       "summary": "Tehran says all necessary arrangements have been made for participation in the tournament cohosted by the US.",
       "urgency": "info",
@@ -416,7 +434,7 @@
       "link": "https://www.aljazeera.com/news/2026/4/22/iran-says-fully-prepared-for-football-teams-world-cup-participation?traffic_source=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-24",
       "headline": "Chelsea sack Rosenior after worst run since 1912",
       "summary": "Chelsea sack Rosenior after worst run since 1912",
       "urgency": "info",
@@ -434,7 +452,7 @@
       "link": "https://gulfnews.com/sport/football/chelsea-sack-rosenior-after-worst-run-since-1912-1.500515871"
     },
     {
-      "id": "news-24",
+      "id": "news-25",
       "headline": "Hoarding Is Driving Energy Prices Higher Everywhere",
       "summary": "As wealthy nations scramble to secure stocks of oil, the result is higher prices for all and shortages in vulnerable countries.",
       "urgency": "info",
@@ -452,7 +470,7 @@
       "link": "https://www.nytimes.com/2026/04/22/business/iran-war-oil-hoarding.html"
     },
     {
-      "id": "news-25",
+      "id": "news-26",
       "headline": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
       "summary": "Trade, history, internal rifts: Inside European deadlock over suspending lucrative association agreement with Israel.",
       "urgency": "breaking",
@@ -470,7 +488,7 @@
       "link": "https://www.aljazeera.com/economy/2026/4/22/a-42bn-euro-dilemma-what-is-stopping-eu-from-holding-israel-to-account?traffic_source=rss"
     },
     {
-      "id": "news-26",
+      "id": "news-27",
       "headline": "Sheikh Hamdan visits KHDA, commends education community",
       "summary": "Sheikh Hamdan visits KHDA, commends education community",
       "urgency": "info",
@@ -488,7 +506,7 @@
       "link": "https://gulfnews.com/uae/hamdan-bin-mohammed-visits-khda-commends-education-community-1.500515856"
     },
     {
-      "id": "news-27",
+      "id": "news-28",
       "headline": "Families seek review of coroner’s findings in Lamma ferry disaster inquest",
       "summary": "Families of victims who died in Hong Kong’s Lamma ferry disaster 13 years ago have filed an application for a judicial review against a coroner’s findings in an inquest, saying the conclusions showed irrationality and failed to weigh contradictory evidence.\nFour individuals lodged the application in",
       "urgency": "info",
@@ -506,7 +524,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3351053/families-seek-review-coroners-findings-lamma-ferry-disaster-inquest?utm_source=rss_feed"
     },
     {
-      "id": "news-28",
+      "id": "news-29",
       "headline": "Arti Varma, Meera Varma: Indian-origin mother-daughter duo stabbed in US, new details emerge about accused",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130446735.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -524,7 +542,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/arti-varma-meera-varma-indian-origin-mother-daughter-duo-stabbed-in-us-new-details-emerge-about-accused/articleshow/130446735.cms"
     },
     {
-      "id": "news-29",
+      "id": "news-30",
       "headline": "Strait of Hormuz Dangers Escalate as Iran Says It Seized 2 Cargo Ships",
       "summary": "Hours after President Trump extended a cease-fire, Tehran appeared to be exerting its authority in the contested waters near the strait.",
       "urgency": "info",
@@ -542,7 +560,7 @@
       "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-attacked-strait-hormuz.html"
     },
     {
-      "id": "news-30",
+      "id": "news-31",
       "headline": "To Iran, Trump Blinked First by Extending the Cease-Fire",
       "summary": "Iran’s leaders believe that they can withstand an enduring standoff longer than President Trump. The strategy could be economically devastating for average Iranians.",
       "urgency": "info",
@@ -560,7 +578,7 @@
       "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html"
     },
     {
-      "id": "news-31",
+      "id": "news-32",
       "headline": "US and Iran in blockade standoff as Pakistan pushes for talks",
       "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
       "urgency": "breaking",
@@ -578,7 +596,7 @@
       "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-33",
       "headline": "Iran seizes ships in Strait of Hormuz after Trump halts attacks",
       "summary": "Iran seized two ships in the Strait of Hormuz on Wednesday, April 22, tightening its grip on the strategic route.",
       "urgency": "breaking",
@@ -596,7 +614,7 @@
       "link": "https://www.france24.com/en/video/20260422-iran-seizes-ships-in-strait-of-hormuz-after-trump-halts-attacks"
     },
     {
-      "id": "news-33",
+      "id": "news-34",
       "headline": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
       "summary": "Avraham Zarbiv became known on Israel’s right for demolishing buildings in Gaza. He lit a torch at a national ceremony on Tuesday evening.",
       "urgency": "info",
@@ -614,7 +632,7 @@
       "link": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html"
     },
     {
-      "id": "news-34",
+      "id": "news-35",
       "headline": "British woman died in Ghana trying to recoup money from scammers, inquest told",
       "summary": "&lt;p&gt;Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams&lt;/p&gt;&lt;p&gt;A British woman who was scammed out of up to £1m in a string of so-called romance frauds died in a road crash after travelling to west Africa to try to rec",
       "urgency": "info",
@@ -632,7 +650,7 @@
       "link": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told"
     },
     {
-      "id": "news-35",
+      "id": "news-36",
       "headline": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
       "summary": "Resumption of oil deliveries enables Hungary to lift veto, with EU&#039;s 27 members now on track to formally approve loan.",
       "urgency": "info",
@@ -650,7 +668,7 @@
       "link": "https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan?traffic_source=rss"
     },
     {
-      "id": "news-36",
+      "id": "news-37",
       "headline": "Iran’s leaders debate war and peace after Trump ceasefire extension - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQm5nVGRtZHR3azVtMWhybDctQlhaTXVROWFHUHFENXlndnE0OVFqZE5NSXpsUlNYV2RRQU95c3d5T3VmYXlOX2NoZkFOTm8tN1FqZlROdjlfTjFpZGNTTzlieXNwLVRndlE3UmVvSTNhcjI0eTFLMkREREdCeGx1Rm9rNlAzcHFycWJZTVdHVS1zeE9RWVdON2Fuc05QRlpkUm10YVJfd0VwYVHSAbABQVVfeXFMTXQ",
       "urgency": "breaking",
@@ -668,7 +686,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQm5nVGRtZHR3azVtMWhybDctQlhaTXVROWFHUHFENXlndnE0OVFqZE5NSXpsUlNYV2RRQU95c3d5T3VmYXlOX2NoZkFOTm8tN1FqZlROdjlfTjFpZGNTTzlieXNwLVRndlE3UmVvSTNhcjI0eTFLMkREREdCeGx1Rm9rNlAzcHFycWJZTVdHVS1zeE9RWVdON2Fuc05QRlpkUm10YVJfd0VwYVHSAbABQVVfeXFMTXQwUzN0Z05ZUlJnZ2R0WjFiX3VLTEdicG55TFl4bjhGc3UtMFU3TktwNlh4cHFDcFM5RHlydXdyMzFCcFpGalYwTDRvamhPTm5UcnNUdEZMMVRiQzNDUWs2WjlaVDFuMHRVSGlKMEpQTlhhX1NjRkE2QndLeThKWE9HT0kyX2ZmY3NVNVNubi1QRVZqaTdCY1U2dFQxM3NYOXJhT2xSQllOZ1dVajI2cHA?oc=5"
     },
     {
-      "id": "news-37",
+      "id": "news-38",
       "headline": "Pilot Was Taking Pictures Before South Korean Fighter Jets Collided",
       "summary": "A member of the other plane’s crew was making a video to commemorate the mission, the government said in a report on the 2021 crash. No one was hurt.",
       "urgency": "info",
@@ -686,7 +704,7 @@
       "link": "https://www.nytimes.com/2026/04/22/world/asia/south-korean-fighter-jets-photos-phones.html"
     },
     {
-      "id": "news-38",
+      "id": "news-39",
       "headline": "How Israel is destroying Lebanon’s water infrastructure",
       "summary": "Israel is &#039;deliberately&#039; attacking Lebanon&#039;s water, experts say, aiming to displace or kill south Lebanon&#039;s population.",
       "urgency": "breaking",
@@ -704,7 +722,7 @@
       "link": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure?traffic_source=rss"
     },
     {
-      "id": "news-39",
+      "id": "news-40",
       "headline": "LIVE: Burnley vs Manchester City – Premier League",
       "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream as City target EPL top spot.",
       "urgency": "info",
@@ -722,7 +740,7 @@
       "link": "https://www.aljazeera.com/sports/liveblog/2026/4/22/live-burnley-vs-manchester-city-premier-league?traffic_source=rss"
     },
     {
-      "id": "news-40",
+      "id": "news-41",
       "headline": "Mapping the environmental toll of the Middle East war",
       "summary": "Oil refineries set ablaze, missiles hitting pesticide factories, an oil slick in the Strait of Hormuz... In under two months, the US and Israel’s war on Iran has inflicted a heavy toll on the environment, fuelling concerns over the public health impact on local populations.",
       "urgency": "breaking",
@@ -740,7 +758,7 @@
       "link": "https://www.france24.com/en/tv-shows/the-observers/20260422-mapping-environmental-toll-middle-east-war"
     },
     {
-      "id": "news-41",
+      "id": "news-42",
       "headline": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
       "summary": "After months of impasse because of objections from Hungary’s prime minister, Viktor Orban, E.U. ambassadors took a critical step on the way to disbursing the much-needed money.",
       "urgency": "info",
@@ -756,24 +774,6 @@
       "timestamp": "2026-04-22T15:57:17.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html"
-    },
-    {
-      "id": "news-42",
-      "headline": "Whether for or against the war, Iranians say they’re feeling economic pain.",
-      "summary": "Whether for or against the war, Iranians say they’re feeling economic pain.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-04-22T15:56:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/iran-turkey-border"
     },
     {
       "id": "news-43",
@@ -1065,24 +1065,6 @@
     },
     {
       "id": "news-59",
-      "headline": "Podcast interviews of NSW couple jailed for abusing their daughter in the spotlight",
-      "summary": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Corrective Services investigates how Richard Guilliatt of The Australian was able to interview Rob and Karen Gilfillan for Shadow of Doubt&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/apr/22/au",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-04-22T15:00:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/2026/apr/22/australian-shadow-doubt-podcast-jailed-abusers-interviews-ntwnfb"
-    },
-    {
-      "id": "news-60",
       "headline": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
       "summary": "&lt;p&gt;NSW and Queensland governments ‘severely underdelivered’ on promised infrastructure to improve water flows, independent review finds&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a ",
       "urgency": "breaking",
@@ -1098,6 +1080,24 @@
       "timestamp": "2026-04-22T15:00:31.000Z",
       "widgetType": "news",
       "link": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds"
+    },
+    {
+      "id": "news-60",
+      "headline": "Podcast interviews of NSW couple jailed for abusing their daughter in the spotlight",
+      "summary": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Corrective Services investigates how Richard Guilliatt of The Australian was able to interview Rob and Karen Gilfillan for Shadow of Doubt&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/apr/22/au",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-04-22T15:00:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/22/australian-shadow-doubt-podcast-jailed-abusers-interviews-ntwnfb"
     },
     {
       "id": "news-61",
