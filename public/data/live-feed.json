@@ -1,9 +1,639 @@
 {
-  "lastUpdated": "2026-05-04T12:11:03.257Z",
+  "lastUpdated": "2026-05-04T13:46:37.733Z",
   "news": [
     {
       "id": "news-0",
-      "headline": "Green group warns of disturbance to uninhabited island known for breeding seabird",
+      "headline": "New alliances shakes up Nigerian political landscape",
+      "summary": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:41:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
+      "summary": "Three passengers of the MV Hondius died after showing symptoms of the rare disease. Health authorities confirmed one case and are investigating five others.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:39:19.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:29:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-3",
+      "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+      "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:28:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
+    },
+    {
+      "id": "news-4",
+      "headline": "Rubio to meet with Pope Leo amid Trump’s clash with pontiff on Iran",
+      "summary": "The secretary of state will travel to Italy this week, the State Department said. Observers view the trip as an attempt to patch up ties with the Vatican and Italy.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:22:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/05/03/rubio-pope-trump-vatican/"
+    },
+    {
+      "id": "news-5",
+      "headline": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
+      "summary": "The health ministry says 77 people have been killed in Israeli strikes on southern Lebanon since Thursday.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:22:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-6",
+      "headline": "Arsenal vs Atletico Madrid: Champions League – team news, start, lineups",
+      "summary": "The two sides, who have never lifted the trophy, renew their rivalry after the first leg of the semifinal finished 1-1.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:15:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/5/4/arsenal-vs-atletico-madrid-champions-league-preview-team-news-start-lineups?traffic_source=rss"
+    },
+    {
+      "id": "news-7",
+      "headline": "Musk vs. Altman: Battle of the tech bros underway in California courthouse",
+      "summary": "It's being called the most consequential courtroom drama Silicon Valley has ever produced. Elon Musk, the world's richest man, is squaring off against Sam Altman, the man who put artificial intelligence in everyone's pocket, in a federal courthouse in Oakland, California.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:15:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/tech-24/20260504-musk-vs-altman-battle-of-the-tech-bros-underway-in-california-courthouse"
+    },
+    {
+      "id": "news-8",
+      "headline": "Fish farming in Qassim enjoying rapid growth - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zanRSVGc3WmlQdWFERjkyQnNuUm5tcEhZeGhROEprQlFlQ2s0WjVIUFIxRmVkaXZ4Q09qV1Fqa2Y4UVBQUWlYRXc5dzJ5WV8yOWVqb3c5bkd0MWtKX2VN?oc=5\" target=\"_blank\"&gt;Fish farming in Qassim enjoying rapid growth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:14:22.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zanRSVGc3WmlQdWFERjkyQnNuUm5tcEhZeGhROEprQlFlQ2s0WjVIUFIxRmVkaXZ4Q09qV1Fqa2Y4UVBQUWlYRXc5dzJ5WV8yOWVqb3c5bkd0MWtKX2VN?oc=5"
+    },
+    {
+      "id": "news-9",
+      "headline": "War preparations under way in Iran as Hormuz tensions with US escalate",
+      "summary": "Amid stalled talks and sparring over key waterway, Iranian media say US warship struck, but Washington denies incident.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:12:52.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate?traffic_source=rss"
+    },
+    {
+      "id": "news-10",
+      "headline": "Trump’s ‘Project Freedom’: Can US navy ‘guide’ stuck ships out of Hormuz?",
+      "summary": "Trump says US navy will free up ships stranded in the Gulf, but it remains unclear how the campaign will be implemented.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:10:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/4/trumps-project-freedom-can-us-navy-guide-stuck-ships-out-of-hormuz?traffic_source=rss"
+    },
+    {
+      "id": "news-11",
+      "headline": "Jeff Bezos secretly selling $500 million superyacht that has sculpture of Lauren Sanchez as mermaid because...",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130800778.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:09:45.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/jeff-bezos-secretly-selling-500-million-superyacht-that-has-sculpture-of-lauren-sanchez-as-mermaid-because-/articleshow/130800778.cms"
+    },
+    {
+      "id": "news-12",
+      "headline": "Israeli authorities ban Jewish pilgrimage near Lebanese border - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UN3loUDh5VWRKYVZ3bGdWTWkxLWIteHNvcGdqSlBPSEpHel93MlotRDJKNEhPeGRyWHVTalMwd0s5QVpGYXhtRGUtVEVKUQ?oc=5\" target=\"_blank\"&gt;Israeli authorities ban Jewish pilgrimage near Lebanese border&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:09:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UN3loUDh5VWRKYVZ3bGdWTWkxLWIteHNvcGdqSlBPSEpHel93MlotRDJKNEhPeGRyWHVTalMwd0s5QVpGYXhtRGUtVEVKUQ?oc=5"
+    },
+    {
+      "id": "news-13",
+      "headline": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
+      "summary": "A senior Iranian military official warned that any vessel that tried to cross the Strait of Hormuz without permission would be “at risk.”",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:07:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html"
+    },
+    {
+      "id": "news-14",
+      "headline": "NATO chief says Europeans have 'gotten message' from Trump on defence",
+      "summary": "Europeans have \"heard\" US President Donald Trump's message of frustration over the Iran war and are \"stepping up\", NATO chief Mark Rutte said on Monday after Washington announced it would withdraw 5,000 troops from Germany. \"European leaders have gotten the message,\" Rutte said before talks with Eur",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:06:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260504-nato-chief-says-europeans-have-gotten-message-from-trump-on-defence"
+    },
+    {
+      "id": "news-15",
+      "headline": "Shares of eBay take off on a $56 billion buyout bid from GameStop's Ryan Cohen",
+      "summary": "Shares of eBay are soaring before the opening bell Monday as Ryan Cohen's GameStop pursues an approximately $56 billion takeover of company, seeing it as a vehicle to compete with online retail giant Amazon. The national gaming retailer said that its approximately 1,600 U.S. stores could become drop",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:05:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260504-shares-of-ebay-take-off-on-a-56-billion-buyout-bid-from-gamestop-s-ryan-cohen"
+    },
+    {
+      "id": "news-16",
+      "headline": "The loyal, lonely keepers of Sudan's pyramids",
+      "summary": "The 2,400-year-old burial site of Bajrawiya, on the Sudanese Island of Meroe, holds 140 pyramids built during the Kingdom of Kush's Meroitic period. Some pyramids were decapitated, others reduced to rubble, first in the 1800s by dynamite at the hands of treasure-hunting Europeans, and then by two ce",
+      "urgency": "breaking",
+      "topic": "sudan",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:04:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260504-the-loyal-lonely-keepers-of-sudan-s-pyramids"
+    },
+    {
+      "id": "news-17",
+      "headline": "Former New York Mayor Giuliani hospitalised in critical condition",
+      "summary": "Former New York City Mayor Rudy Giuliani ​has been hospitalised and is in \"critical but stable condition,\" his spokesperson said on Sunday. The spokesperson, Ted Goodman, did ​not ‌immediately provide more details about Giuliani's ⁠condition or how long he has been hospitalised.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:03:16.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260504-former-new-york-mayor-giuliani-hospitalised-in-critical-condition"
+    },
+    {
+      "id": "news-18",
+      "headline": "US tech can use China as ‘listening post’ for global edge, Washington think tank explains",
+      "summary": "US technology companies should stay in China, despite persistent political pressure for their exit, to capitalise on revenue potential and stifle local competition while monitoring consumer trends, according to a Washington-based policy think tank.\nSales generated by American firms within China can ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T13:00:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/economy/global-economy/article/3352371/us-tech-can-use-china-listening-post-global-edge-washington-think-tank-explains?utm_source=rss_feed"
+    },
+    {
+      "id": "news-19",
+      "headline": "IHC rules buyers of apartments at One Constitution Avenue have no ownership rights",
+      "summary": "&lt;p&gt;ISLAMABAD: The Islamabad High Court (IHC) on Monday issued a detailed judgment in the &lt;a href=\"https://www.dawn.com/news/1996752/pm-halts-operation-to-vacate-one-constitution-avenue-forms-committee-to-sort-out-issue\"&gt;One Constitution Avenue&lt;/a&gt; case, upholding the cancellation o",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:57:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1997452/ihc-rules-buyers-of-apartments-at-one-constitution-avenue-have-no-ownership-rights"
+    },
+    {
+      "id": "news-20",
+      "headline": "‘Far beyond’ EU and NATO: Armenia hosts EPC summit cast as ‘gateway’ in shifting diplomatic order",
+      "summary": "As 50 world leaders from Europe & Canada gather for Armenia's first-ever EU summit, Genie Godula is pleased to welcome Dr Gesine Weber, Senior Researcher at the Center for Security Studies. She describes the European Political Community summit as symbolically significant yet structurally limited. Am",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:57:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260504-far-beyond-eu-and-nato-armenia-hosts-epc-summit-cast-as-gateway-in-shifting-diplomatic-order-1"
+    },
+    {
+      "id": "news-21",
+      "headline": "Built for future: Florida town that runs entirely on sunlight and produces more power than it uses",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130798886.cms\" /&gt;<![CDATA[Babcock Ranch, a Florida town, is redefining modern living by integrating clean energy into its core design. Planned from scratch with exte",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:56:02.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/built-for-future-florida-town-that-runs-entirely-on-sunlight-and-produces-more-power-than-it-uses/articleshow/130798886.cms"
+    },
+    {
+      "id": "news-22",
+      "headline": "Missile strike on Ukraine's Kharkiv region kills five, destroys infrastructure",
+      "summary": "A Russian missile strike on the town of Merefa in Ukraine’s Kharkiv region has killed five people and wounded at least 18, damaging homes, businesses and public buildings in an area far from the front lines, officials said Monday. Regional prosecutors said Russian forces ​appeared to have used an Is",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:53:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260504-missile-strike-ukraine-kharkiv-region-kills-five-destroys-infrastructure"
+    },
+    {
+      "id": "news-23",
+      "headline": "‘Golden week’: Hong Kong draws more mainland Chinese visitors but spending uneven",
+      "summary": "Hong Kong recorded a 4.8 per cent increase in mainland Chinese visitors in the first three days of the Labour Day “Golden Week” holiday, but industry players warned that uneven spending and more flexible travel patterns could weigh on business despite hotel occupancy rates potentially reaching 90 pe",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:51:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352395/golden-week-hong-kong-draws-more-mainland-chinese-visitors-spending-uneven?utm_source=rss_feed"
+    },
+    {
+      "id": "news-24",
+      "headline": "HRCP highlights severe contraction of civic space, erosion of judicial independence in 2025",
+      "summary": "&lt;p&gt;ISLAMABAD: The Human Rights Commission of Pakistan’s (HRCP) on Monday launched its &lt;a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://hrcp-web.org/hrcpweb/wp-content/uploads/2020/09/2026-State-of-human-rights-in-2025-EN.pdf\"&gt;annual report&lt;/a&gt; for 2",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:51:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1997461/hrcp-highlights-severe-contraction-of-civic-space-erosion-of-judicial-independence-in-2025"
+    },
+    {
+      "id": "news-25",
+      "headline": "Wall Street dips, oil prices rise on reports of strike on US Navy vessel near Iran",
+      "summary": "Wall Street dipped and oil prices jumped early on Monday on conflicting reports of a strike by Iran on a US Navy vessel outside the Strait of Hormuz.\nFutures for the S&amp;P 500 were down 0.2 per cent before the opening bell, while futures for the Dow Jones Industrial Average lost 0.5 per cent. Nasd",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:44:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3352398/wall-street-dips-oil-prices-rise-reports-strike-us-navy-vessel-near-iran?utm_source=rss_feed"
+    },
+    {
+      "id": "news-26",
+      "headline": "Hong Kong police launch investigation after elderly couple found dead in flat",
+      "summary": "A couple in their late eighties have been found dead in a To Kwa Wan flat, prompting Hong Kong police to launch an investigation.\nA security guard at Lok Seen Lau, a residential block in Lok Man Sun Chuen estate on Kau Pui Lung Road, reported a strange smell coming from the flat at around 4.15pm.\nFi",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:41:54.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3352397/hong-kong-police-launch-investigation-after-elderly-couple-found-dead-flat?utm_source=rss_feed"
+    },
+    {
+      "id": "news-27",
+      "headline": "Italy probes detention by Israel of Gaza flotilla activists aboard Italian-flagged vessel",
+      "summary": "&lt;p&gt;Italian prosecutors have opened an unlawful detention investigation following a&lt;a href=\"https://www.dawn.com/news/1996697\"&gt; raid &lt;/a&gt;by Israeli forces on a Gaza-bound aid flotilla, Italian media reported on Monday.&lt;/p&gt;\n&lt;p&gt;The probe was opened following complaints rec",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:33:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/1997460/italy-probes-detention-by-israel-of-gaza-flotilla-activists-aboard-italian-flagged-vessel"
+    },
+    {
+      "id": "news-28",
+      "headline": "Labor extends EV tax break to encourage cheaper vehicles amid soaring fuel prices",
+      "summary": "&lt;p&gt;As the cost of the scheme blows out, the government has announced the full discount will be retained for another year, after which it will only apply to EVs costing less than $75,000&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:30:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/environment/2026/may/04/labor-extends-ev-tax-break-cheaper-vehicles-soaring-fuel-prices"
+    },
+    {
+      "id": "news-29",
+      "headline": "‘Made in Europe’ law sets stage for an economic showdown with China",
+      "summary": "Amid the trade war with the United States, the last thing China needs is an economic confrontation with the European Union – Beijing’s major export destination. But with the EU seemingly determined to protect its market by introducing measures that many see as controversial, an economic stand-off ap",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:30:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3352160/made-europe-law-sets-stage-economic-showdown-china?utm_source=rss_feed"
+    },
+    {
+      "id": "news-30",
+      "headline": "‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time",
+      "summary": "Walking the path of religious polarisation and leveraging underlying anti-incumbency, Modi&#039;s party sweeps key state.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:20:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/features/2026/5/4/hegemonic-power-how-modis-bjp-won-indias-bengal-for-the-first-time?traffic_source=rss"
+    },
+    {
+      "id": "news-31",
+      "headline": "A diary of America's wars with photographer Peter van Agtmael",
+      "summary": "He's spent more than two decades documenting the realities of war, including years working alongside US soldiers in Iraq and Afghanistan. But photographer Peter van Agtmael's work goes beyond the battlefield. He's equally interested in how those wars echo back home, and that's the focus of his photo",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:12:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20260504-a-diary-of-america-s-wars-with-photographer-peter-van-agtmael"
+    },
+    {
+      "id": "news-32",
+      "headline": "No US Navy ships have been struck in Strait of Hormuz, US Central Command says - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TdGxsWVJsUTdHNFJSU3JBZ0JBc1FlZXhidEhHckJuMXhSTmU4RzAyZXIyMDE0dXpHLXZWUml5TEdFa3Z4a3hlQVBVNDh0RGsyMkRQbzVpYV9TNWpLOHc?oc=5\" target=\"_blank\"&gt;No US Navy ships have been struck in Strait of Hormuz, US Central Command says&lt;/a&gt;&amp;n",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:09:51.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TdGxsWVJsUTdHNFJSU3JBZ0JBc1FlZXhidEhHckJuMXhSTmU4RzAyZXIyMDE0dXpHLXZWUml5TEdFa3Z4a3hlQVBVNDh0RGsyMkRQbzVpYV9TNWpLOHc?oc=5"
+    },
+    {
+      "id": "news-33",
+      "headline": "Plane hits truck while landing at Newark airport, chilling dashcam video shows driver was singing seconds before",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130794427.cms\" /&gt;<![CDATA[",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:08:04.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/plane-hits-truck-while-landing-at-newark-airport-chilling-dashcam-video-shows-driver-was-singing-moments-before/articleshow/130794427.cms"
+    },
+    {
+      "id": "news-34",
+      "headline": "Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde",
+      "summary": "&lt;p&gt;Officials say they will not authorise docking ‘to protect public health’ after deaths of three passengers &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/science/2026/may/04/what-is-hantavirus-the-infection-that-has-killed-three-people-on-a-cruise-ship\"&gt;Wha",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T12:06:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde"
+    },
+    {
+      "id": "news-35",
+      "headline": "Green group warns of disturbance to uninhabited island known for breeding seabirds",
       "summary": "A green group has spotted people landing on an uninhabited island in the southern Hong Kong waters known to be a regular breeding site for a seabird species during mainland China’s Labour Day “golden week” holiday, which coincides with its breeding season.\nTerns, known as “sea swallows”, are seabird",
       "urgency": "breaking",
       "topic": "general",
@@ -20,43 +650,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352388/green-group-warns-disturbance-uninhabited-island-known-breeding-seabird?utm_source=rss_feed"
     },
     {
-      "id": "news-1",
-      "headline": "IHC rules buyers of luxury apartments at One Constitution Avenue have no ownership rights",
-      "summary": "&lt;p&gt;ISLAMABAD: The Islamabad High Court (IHC) on Monday issued a detailed judgment in the &lt;a href=\"https://www.dawn.com/news/1996752/pm-halts-operation-to-vacate-one-constitution-avenue-forms-committee-to-sort-out-issue\"&gt;One Constitution Avenue&lt;/a&gt; case, upholding the cancellation o",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T12:04:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1997452/ihc-rules-buyers-of-luxury-apartments-at-one-constitution-avenue-have-no-ownership-rights"
-    },
-    {
-      "id": "news-2",
-      "headline": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
-      "summary": "Three passengers of the MV Hondius died after showing symptoms of the rare disease. Health authorities confirmed one case and are investigating five others.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T12:04:19.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html"
-    },
-    {
-      "id": "news-3",
+      "id": "news-36",
       "headline": "Lift technician dies after 10-metre fall down shaft at Hong Kong luxury estate",
       "summary": "A worker died after falling 10 metres (33 feet) down a lift shaft he was repairing at a luxury estate in Hong Kong on Monday.\nA security guard at Block 4 of Pacific View on Tai Tam Road in Stanley reported the accident to police at 2.40pm.\nRescue personnel pulled the 26-year-old worker from the shaf",
       "urgency": "breaking",
@@ -74,7 +668,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352392/lift-technician-dies-after-10-metre-fall-down-shaft-hong-kong-luxury-estate?utm_source=rss_feed"
     },
     {
-      "id": "news-4",
+      "id": "news-37",
       "headline": "Opinion: 'How Pakistan became the ultimate peacemaker between the US and Iran'",
       "summary": "&lt;p&gt;The US and Israel launched strikes on Iran in late February without the United Nations Security Council’s authorisation. The strikes were in violation of international law, the United Nations Charter, and the principles of “Just War” — a theory that provides a framework for determining whet",
       "urgency": "breaking",
@@ -92,7 +686,7 @@
       "link": "https://www.dawn.com/news/1997445/opinion-how-pakistan-became-the-ultimate-peacemaker-between-the-us-and-iran"
     },
     {
-      "id": "news-5",
+      "id": "news-38",
       "headline": "Austria expels 3 Russian diplomats over signals spying",
       "summary": "Austria declared three Russian diplomats personae ⁠non gratae over ⁠an “antenna forest” on the roofs of ⁠diplomatic buildings that could be used for spying, the government said on Monday.\nNumerous satellite dishes placed on buildings used by the Russian state in Vienna, particularly a residential co",
       "urgency": "breaking",
@@ -110,7 +704,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3352390/austria-expels-3-russian-diplomats-over-signals-spying?utm_source=rss_feed"
     },
     {
-      "id": "news-6",
+      "id": "news-39",
       "headline": "India's Modi eyes important win in opposition-held West Bengal",
       "summary": "&lt;p&gt;Supporters of Indian Prime Minister Narendra Modi celebrated in West Bengal on Monday, taking to the streets as his Hindu-nationalist party appeared poised for victory in keenly fought &lt;a href=\"https://www.dawn.com/news/1994330\"&gt;state elections&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Votes were",
       "urgency": "important",
@@ -128,7 +722,7 @@
       "link": "https://www.dawn.com/news/1997401/indias-modi-eyes-important-win-in-opposition-held-west-bengal"
     },
     {
-      "id": "news-7",
+      "id": "news-40",
       "headline": "Hezbollah deploys hard-to-jam fibre optic drones, shifting battlefield tactics",
       "summary": "Back in March, Lebanon was pulled back into conflict amid escalating regional tensions linked to Iran, as Hezbollah fired rockets into Israel. Israel responded with waves of airstrikes and later ground operations in the south, displacing hundreds of thousands. While early exchanges relied on rockets",
       "urgency": "breaking",
@@ -146,7 +740,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260504-hezbollah-deploys-hard-to-jam-fibre-optic-drones-shifting-battlefield-tactics"
     },
     {
-      "id": "news-8",
+      "id": "news-41",
       "headline": "What’s behind the KMT’s internal splits over Taiwanese defence spending?",
       "summary": "Internal splits over defence spending are widening within Taiwan’s main opposition party, the Kuomintang, ahead of this year’s local elections.\nThe party is facing growing pressure from the United States over its response to a proposed NT$1.25 trillion (US$40 billion) special defence budget put forw",
       "urgency": "breaking",
@@ -164,7 +758,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3352385/whats-behind-kmts-internal-splits-over-taiwanese-defence-spending?utm_source=rss_feed"
     },
     {
-      "id": "news-9",
+      "id": "news-42",
       "headline": "LIVE: 2026 World Press Freedom Day",
       "summary": "Media freedom is not a given and its absence frequently leaves communities and vulnerable individuals in danger. To mark World Press Freedom Day, we’ll be hearing from UN agencies, along with war correspondents and reporters who face major obstacles trying to do their job. The aim is to get a better",
       "urgency": "breaking",
@@ -182,7 +776,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167417"
     },
     {
-      "id": "news-10",
+      "id": "news-43",
       "headline": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
       "summary": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
       "urgency": "info",
@@ -200,7 +794,7 @@
       "link": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-11",
+      "id": "news-44",
       "headline": "Here is how you can protect yourself from extreme heat",
       "summary": "&lt;p&gt;On Monday, citizens in Sindh’s provincial capital, Karachi, experienced sweltering temperatures as the mercury touched 44°C.&lt;/p&gt;\n&lt;p&gt;The Pakistan Meteorological Department (PMD), in its daily advisory on Monday, said that very hot and dry weather is expected to persist in the sou",
       "urgency": "info",
@@ -218,7 +812,25 @@
       "link": "https://www.dawn.com/news/1997436/here-is-how-you-can-protect-yourself-from-extreme-heat"
     },
     {
-      "id": "news-12",
+      "id": "news-45",
+      "headline": "flydubai scales up flights as UAE resumes full air traffic operations",
+      "summary": "flydubai scales up flights as UAE resumes full air traffic operations",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T11:55:06.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/flydubai-scales-up-flights-as-uae-resumes-full-air-traffic-operations-1.500528492"
+    },
+    {
+      "id": "news-46",
       "headline": "What an Inquiry into Hong Kong’s Deadly Apartment Fire Has Revealed",
       "summary": "Evidence shared at hearings show how disabled alarms, flammable materials and ignored warnings contributed to the deaths of 168 people in the complex.",
       "urgency": "breaking",
@@ -236,7 +848,7 @@
       "link": "https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-investigation.html"
     },
     {
-      "id": "news-13",
+      "id": "news-47",
       "headline": "The scourge of online gambling in Indonesia: Young people hooked on addictive sites",
       "summary": "In Indonesia, almost 1 million minors are thought to have an online gambling habit. Worse, authorities say more than 80,000 online players are aged below 10. For these youngsters, gambling is not a pastime they can control, but a dangerous obsession, driven by a desperate desire for a quick and easy",
       "urgency": "info",
@@ -254,25 +866,7 @@
       "link": "https://www.france24.com/en/tv-shows/focus/20260504-the-scourge-of-online-gambling-in-indonesia-young-people-hooked-to-addictive-sites"
     },
     {
-      "id": "news-14",
-      "headline": "Iran Threatens Ships Over Trump Plan to Break Iran’s Blockade",
-      "summary": "A senior Iranian military official warned that any vessel that tries to cross the Strait of Hormuz without permission would be “at risk.”",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T11:46:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html"
-    },
-    {
-      "id": "news-15",
+      "id": "news-48",
       "headline": "Car show turns to tragedy as monster truck drives into crowd in Colombia",
       "summary": "Distraught onlookers caught the moment a monster truck lost control at a car show and plowed into spectators in Colombia",
       "urgency": "info",
@@ -290,7 +884,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/car-show-turns-to-tragedy-as-monster-truck-drives-into-crowd-in-colombia?traffic_source=rss"
     },
     {
-      "id": "news-16",
+      "id": "news-49",
       "headline": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
       "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
       "urgency": "breaking",
@@ -308,7 +902,7 @@
       "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-17",
+      "id": "news-50",
       "headline": "‘Israel is not implementing the ceasefire agreement in Gaza’",
       "summary": "‘Israel is not implementing the ceasefire agreement in Gaza’",
       "urgency": "breaking",
@@ -326,7 +920,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/israel-is-not-implementing-the-ceasefire-agreement-in?traffic_source=rss"
     },
     {
-      "id": "news-18",
+      "id": "news-51",
       "headline": "Tennis stars Sinner, Sabalenka and Gauff criticise Roland Garros prize money",
       "summary": "Players keep up the pressure on the Grand Slam tournaments by asking organisers to increase prize money.",
       "urgency": "info",
@@ -344,7 +938,25 @@
       "link": "https://www.aljazeera.com/sports/2026/5/4/tennis-stars-sinner-sabalenka-and-gauff-criticise-roland-garros-prize-money?traffic_source=rss"
     },
     {
-      "id": "news-19",
+      "id": "news-52",
+      "headline": "UAE sets August 31 start for 2026–2027 academic year",
+      "summary": "UAE sets August 31 start for 2026–2027 academic year",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T11:41:04.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/education/uae-sets-august-31-start-for-20262027-academic-year-1.500528465"
+    },
+    {
+      "id": "news-53",
       "headline": "Rubio to Visit Rome, Vatican Says, After Trump’s Feud With Pope and Meloni",
       "summary": "Secretary of State Marco Rubio’s trip will come after President Trump criticized Pope Leo XIV and then turned on Prime Minister Giorgia Meloni of Italy for defending the pontiff.",
       "urgency": "info",
@@ -362,7 +974,7 @@
       "link": "https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html"
     },
     {
-      "id": "news-20",
+      "id": "news-54",
       "headline": "US to 'guide' stranded ships from Hormuz: What we know about 'Project Freedom'",
       "summary": "The United States said Monday it is ready to “guide” commercial ships through the Strait of Hormuz in a new effort to end the blockade wreaking havoc on the global economy. The U.S.-led Joint Maritime Information Center advised ships to cross the strait in Oman’s waters, saying it had set up an “enh",
       "urgency": "breaking",
@@ -380,25 +992,43 @@
       "link": "https://www.france24.com/en/video/20260504-us-to-guide-stranded-ships-from-hormuz-what-we-know-about-project-freedom"
     },
     {
-      "id": "news-21",
-      "headline": "New alliances shakes up Nigerian political landscape",
-      "summary": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
-      "urgency": "important",
+      "id": "news-55",
+      "headline": "Princess Eugenie expecting third child with husband Jack Brooksbank, Buckingham Palace confirms",
+      "summary": "Princess Eugenie expecting third child with husband Jack Brooksbank, Buckingham Palace confirms",
+      "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-04T11:32:53.000Z",
+      "timestamp": "2026-05-04T11:36:19.000Z",
       "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&amp;at_campaign=rss"
+      "link": "https://gulfnews.com/world/princess-eugenie-expecting-third-child-with-husband-jack-brooksbank-buckingham-palace-confirms-1.500528469"
     },
     {
-      "id": "news-22",
+      "id": "news-56",
+      "headline": "From MGR to Vijay: How South Indian cinema icons turn stardom into political power",
+      "summary": "From MGR to Vijay: How South Indian cinema icons turn stardom into political power",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T11:34:36.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/entertainment/from-mgr-to-vijay-how-south-indian-cinema-icons-turn-stardom-into-political-power-1.500528446"
+    },
+    {
+      "id": "news-57",
       "headline": "Bulls help PSX rebound by 900 points",
       "summary": "&lt;p&gt;Bulls took control of the Pakistan Stock Exchange (PSX) on Monday as the benchmark index recovered over 900 points.&lt;/p&gt;\n&lt;p&gt;The KSE-100 index gained 954.77 points (0.59 per cent) to close at 163,948.94 points from the previous close of 162,994.17 points.&lt;/p&gt;\n&lt;p&gt;The in",
       "urgency": "breaking",
@@ -416,7 +1046,7 @@
       "link": "https://www.dawn.com/news/1997405/bulls-help-psx-rebound-by-900-points"
     },
     {
-      "id": "news-23",
+      "id": "news-58",
       "headline": "Hong Kong puts its own spin on DeepSeek with China-chip AI push abroad",
       "summary": "A Hong Kong government-backed artificial intelligence lab is preparing to launch a new model built on DeepSeek that can run entirely on Chinese-made chips.\nThe Hong Kong Generative AI Research and Development Centre (HKGAI) plans to unveil its HKGAI-V3 model in the first half of this year as it look",
       "urgency": "info",
@@ -434,7 +1064,7 @@
       "link": "https://www.scmp.com/tech/tech-trends/article/3352364/hong-kong-puts-its-own-spin-deepseek-china-chip-ai-push-abroad?utm_source=rss_feed"
     },
     {
-      "id": "news-24",
+      "id": "news-59",
       "headline": "Lost wonder found underwater? 80-ton stones reveal secrets of the Lighthouse of Alexandria",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130779952.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -452,7 +1082,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/lost-wonder-found-underwater-80-ton-stones-reveal-secrets-of-the-lighthouse-of-alexandria/articleshow/130779952.cms"
     },
     {
-      "id": "news-25",
+      "id": "news-60",
       "headline": "What is the Ukrainian anti-drone system Sky Map being used in the Gulf?",
       "summary": "Ukraine’s battle-tested system uses thousands of acoustic sensors and interceptors to find and destroy incoming drones.",
       "urgency": "info",
@@ -470,7 +1100,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/4/what-is-the-ukrainian-anti-drone-system-sky-map-being-used-in-the-gulf?traffic_source=rss"
     },
     {
-      "id": "news-26",
+      "id": "news-61",
       "headline": "Iranian drones attack ADNOC tanker in Strait of Hormuz",
       "summary": "Iranian drones attack ADNOC tanker in Strait of Hormuz",
       "urgency": "breaking",
@@ -488,7 +1118,7 @@
       "link": "https://gulfnews.com/uae/iranian-drones-attack-adnoc-tanker-in-strait-of-hormuz-1.500528456"
     },
     {
-      "id": "news-27",
+      "id": "news-62",
       "headline": "Sweden jails Syrian man for life over 2012-2013 war crimes - Arab News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuWlV4RkpyeG1vcDUzWWhUNzZtSlJMNVd5THh0TTZacE13Q2dpdlhrclkzWlctQkZuUFUyOGxBdE1nR3JIWF9RcFowRldPeFg1dnRUa2RFcjc3cklMdHc?oc=5\" target=\"_blank\"&gt;Sweden jails Syrian man for life over 2012-2013 war crimes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fo",
       "urgency": "breaking",
@@ -506,7 +1136,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuWlV4RkpyeG1vcDUzWWhUNzZtSlJMNVd5THh0TTZacE13Q2dpdlhrclkzWlctQkZuUFUyOGxBdE1nR3JIWF9RcFowRldPeFg1dnRUa2RFcjc3cklMdHc?oc=5"
     },
     {
-      "id": "news-28",
+      "id": "news-63",
       "headline": "Asana names Washmen, a Cloudfresh Customer, the AI Breakthrough in EMEA at the 2026 Work Innovation Awards",
       "summary": "Asana names Washmen, a Cloudfresh Customer, the AI Breakthrough in EMEA at the 2026 Work Innovation Awards",
       "urgency": "breaking",
@@ -524,7 +1154,7 @@
       "link": "https://gulfnews.com/business/corporate-news/asana-names-washmen-a-cloudfresh-customer-the-ai-breakthrough-in-emea-at-the-2026-work-innovation-awards-1.500528445"
     },
     {
-      "id": "news-29",
+      "id": "news-64",
       "headline": "Winning peace in Lebanon is harder than winning war",
       "summary": "Resolving the conflict in Lebanon necessitates taking into account its long history and new geopolitical realities.",
       "urgency": "breaking",
@@ -542,7 +1172,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss"
     },
     {
-      "id": "news-30",
+      "id": "news-65",
       "headline": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1BCSEdHUWlVb1dZZksxRm9RT2FnSzZ0NjRBSFYtNWpuZXY5dzZfaU5DbFBfQ3NyNmpwR2JrNVM2RUhZWFdBYTRhMzl5eHJzam41RXZtWDhlTDdHNUpBNzluNkh5dndncjNfcUZSbnRnUUpHUmlOa2kybE1Db19STmJCWGhaY2EwcGc2cU5aanpqWVBVVGtyZTNobWxfOEJSTWdEd3NBdUFZUjNpUDBQTTZn0gG3AUF",
       "urgency": "breaking",
@@ -560,7 +1190,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1BCSEdHUWlVb1dZZksxRm9RT2FnSzZ0NjRBSFYtNWpuZXY5dzZfaU5DbFBfQ3NyNmpwR2JrNVM2RUhZWFdBYTRhMzl5eHJzam41RXZtWDhlTDdHNUpBNzluNkh5dndncjNfcUZSbnRnUUpHUmlOa2kybE1Db19STmJCWGhaY2EwcGc2cU5aanpqWVBVVGtyZTNobWxfOEJSTWdEd3NBdUFZUjNpUDBQTTZn0gG3AUFVX3lxTE1qV19mNkR4UlBWcjl3SDhuTTFXV0R5NW02RWlHT1V4eG1wQmNUR3NuQU9IcUtnNGpqRF9LRGVKVmh0MjJUWUhIbjJqMXhxNTBHTmNtYkU4djhmdkpuUHRMb3NpaS1CZTVIZE92MEw4Z1hqTlRjd0NwUGk1dDI0TTFiRlYzZjBmY21YbVNtLVBha2xsTmpUUDJYSVRqODdWYnVqUkktcFJmWWl3eFBWekVKeFhGck5zVQ?oc=5"
     },
     {
-      "id": "news-31",
+      "id": "news-66",
       "headline": "‘All British people should die’: Irish woman convicted after ‘anti-english’ rant at UK hotel",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130788049.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -578,7 +1208,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/all-british-people-should-die-irish-woman-convicted-after-anti-english-rant-at-uk-hotel/articleshow/130788049.cms"
     },
     {
-      "id": "news-32",
+      "id": "news-67",
       "headline": "Art Jameel to present dual exhibition in UAE, Saudi Arabia - Arab News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00UXFtc05teldSOTJ5ODJnMkdOakZHLTFhQ0hRdW1LSWFZQ2JjNXFYLWsyVWMwTl84RHFqdW02ZWlKWGZoZEk0djVUT1UyR0YxWndua2hyU0UyVms?oc=5\" target=\"_blank\"&gt;Art Jameel to present dual exhibition in UAE, Saudi Arabia&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font c",
       "urgency": "info",
@@ -596,7 +1226,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00UXFtc05teldSOTJ5ODJnMkdOakZHLTFhQ0hRdW1LSWFZQ2JjNXFYLWsyVWMwTl84RHFqdW02ZWlKWGZoZEk0djVUT1UyR0YxWndua2hyU0UyVms?oc=5"
     },
     {
-      "id": "news-33",
+      "id": "news-68",
       "headline": "Dubai’s Emirates airline restores 96% of its global network",
       "summary": "Dubai’s Emirates airline restores 96% of its global network",
       "urgency": "info",
@@ -614,7 +1244,25 @@
       "link": "https://gulfnews.com/business/aviation/dubais-emirates-airline-restores-96-of-its-global-network-1.500528433"
     },
     {
-      "id": "news-34",
+      "id": "news-69",
+      "headline": "Iran says it fired missiles at US warship to prevent it entering Hormuz - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHM1eXhMTkdia0w1Smpia21neWNxcFJqOTM4UVV0aUhaQkc3N0JFTzJHTTRjSW9SOHo0VEx5dWlXU0Ezd0MteGRUa1E4S2ppQ3pOakNmMlpyQldmRWNCN2xNZGFabmVHd0xpSUxNNEl4RzN5dzYxbnlqN1NRTk96eHA3a085Rk9qY0VzcFRJUDBPWDdoMU8ySWhINEN5VC04RUJqMC1tMy1jYW1XN0tMNGVXeW1Ca1l",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-04T11:11:10.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHM1eXhMTkdia0w1Smpia21neWNxcFJqOTM4UVV0aUhaQkc3N0JFTzJHTTRjSW9SOHo0VEx5dWlXU0Ezd0MteGRUa1E4S2ppQ3pOakNmMlpyQldmRWNCN2xNZGFabmVHd0xpSUxNNEl4RzN5dzYxbnlqN1NRTk96eHA3a085Rk9qY0VzcFRJUDBPWDdoMU8ySWhINEN5VC04RUJqMC1tMy1jYW1XN0tMNGVXeW1Ca1ltYUZnX0hn0gHDAUFVX3lxTE5XWUJ2d0VaY0JhVUpRU2VPdW1oUWJNcDRHYWNQdWw4dnlubHRMcC1PbkxYNzdOUkk4TUZzUDdWWG5oSmlYTE5JM2t3WWtSWGFkNDVibGhDUEVzZlpBcUI3d19JTk9ISGlvQ1BseHNNUFc5WVFNUjU4ZDFoLUxWNXdUY25OcUVZR3RtZFV5Yy1fS2hZWFdFTkpyUGFWX0ZfaC1RazJvLXM3dENuMFZZQm45ei16QlpESUlSUzFQejVVZ0JhUQ?oc=5"
+    },
+    {
+      "id": "news-70",
       "headline": "Yan Huichang to step down as head of Hong Kong Chinese Orchestra after 30-year run",
       "summary": "Yan Huichang will step down as the artistic director of the Hong Kong Chinese Orchestra in July 2027 after three decades at the helm, the group has announced.\nBut the 70-year-old Shanxi province native would stay on as the orchestra’s honorary artistic director and conductor for life, as well as cha",
       "urgency": "info",
@@ -632,7 +1280,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352386/yan-huichang-step-down-head-hong-kong-chinese-orchestra-after-30-year-run?utm_source=rss_feed"
     },
     {
-      "id": "news-35",
+      "id": "news-71",
       "headline": "Monster Truck Drives Into Crowd in Colombia, Killing 3",
       "summary": "The driver of the truck appeared to lose control of the vehicle after performing a stunt at an outdoor rally in Popayán.",
       "urgency": "info",
@@ -650,7 +1298,7 @@
       "link": "https://www.nytimes.com/2026/05/04/world/americas/monster-truck-colombia-crash.html"
     },
     {
-      "id": "news-36",
+      "id": "news-72",
       "headline": "Iran’s defining choice: The future of regional stability - Al Arabiya English",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXhNNjVnQ2M1S2d3ZDlmQTNPelh3bWkxVGhCMXpTNk8yaVk4aU9kd1J6Q1h4TW5WMmtCOHpaR2x0RUVCdUQxVjd6WWs5T1Frd1ByYURiU2Voa0FyeGdra1EzZUl2TUdJS2doaFcwRXBzZHBzeHB1VVU0Y2tUdzJscjQtNGtUc0x4VjJGOFVTODBiSlJLMVZFaDFZN2tzOEc1aXRxSNIBqgFBVV95cUxNaG8yM0ZFQ2R",
       "urgency": "info",
@@ -668,7 +1316,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXhNNjVnQ2M1S2d3ZDlmQTNPelh3bWkxVGhCMXpTNk8yaVk4aU9kd1J6Q1h4TW5WMmtCOHpaR2x0RUVCdUQxVjd6WWs5T1Frd1ByYURiU2Voa0FyeGdra1EzZUl2TUdJS2doaFcwRXBzZHBzeHB1VVU0Y2tUdzJscjQtNGtUc0x4VjJGOFVTODBiSlJLMVZFaDFZN2tzOEc1aXRxSNIBqgFBVV95cUxNaG8yM0ZFQ2R5WkNFdHZhUzB2VDVIQ3NoaWRJa2NqdGZHcU82blk1ZW5sRU9URHVGUWdBTi1oRGFfcmZxVDBwT0VDSFBDTGh5WWh6SVdzakdMYlFGclI3dEJTRlJNQ1Zhei10S0s2NkNMOThyd2JNZS01bi11WFdxcUo3eGRlUVNRUDBqSUNpYzZFOTNfUEZqS1QxQnYyUU53T0MxWEtON1lWZw?oc=5"
     },
     {
-      "id": "news-37",
+      "id": "news-73",
       "headline": "\"Easily killed an innocent person\": Candace Owens and Laura Loomer feud turns ugly as feud spirals out of control",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130758473.cms\" /&gt;<![CDATA[Candace Owens and Laura Loomer are engaged in an escalating online feud involving personal accusations and political claims. Owens question",
       "urgency": "breaking",
@@ -686,7 +1334,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/easily-killed-an-innocent-person-candace-owens-and-laura-loomer-feud-turns-ugly-as-feud-spirals-out-of-control/articleshow/130758473.cms"
     },
     {
-      "id": "news-38",
+      "id": "news-74",
       "headline": "Hantavirus: Three cruise ship passengers die in suspected outbreak",
       "summary": "Three passengers on a cruise ship in the Atlantic have died and another three are ill after a suspected outbreak of the rare hantavirus infection. Usually spread to humans by rodents, especially through contact with their urine, droppings and saliva, hantavirus results in dead in around 40 percent o",
       "urgency": "breaking",
@@ -704,7 +1352,7 @@
       "link": "https://www.france24.com/en/video/20260504-hantavirus-three-cruise-ship-passengers-die-in-suspected-outbreak"
     },
     {
-      "id": "news-39",
+      "id": "news-75",
       "headline": "FO says 22 crew members on Iranian ship seized by US have been evacuated to Pakistan",
       "summary": "&lt;p&gt;The Foreign Office (FO) said on Monday that as a “confidence-building measure” by the United States, 22 crew members on an Iranian ship that was seized by US forces had been evacuated to Pakistan.&lt;/p&gt;\n&lt;p&gt;The statement came hours after American outlet &lt;em&gt;ABC News&lt;/em&gt",
       "urgency": "breaking",
@@ -722,7 +1370,7 @@
       "link": "https://www.dawn.com/news/1997392/fo-says-22-crew-members-on-iranian-ship-seized-by-us-have-been-evacuated-to-pakistan"
     },
     {
-      "id": "news-40",
+      "id": "news-76",
       "headline": "Best Amazon deals today: Air purifier, hair serum and treadmill offers from top brands",
       "summary": "Best Amazon deals today: Air purifier, hair serum and treadmill offers from top brands",
       "urgency": "info",
@@ -740,7 +1388,7 @@
       "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/best-amazon-deals-today-air-purifier-hair-serum-and-treadmill-offers-from-top-brands-1.500528377"
     },
     {
-      "id": "news-41",
+      "id": "news-77",
       "headline": "Woman plunges to death from Hong Kong hotel pool deck, injuring 7 others",
       "summary": "An American woman has died after plunging from a Hong Kong hotel’s 29th-floor pool deck, injuring seven people on the ground floor, one seriously.\nThe 69-year-old, a US passport holder who had reportedly suffered from depression and stopped taking medication in March, was staying at Hotel Indigo on ",
       "urgency": "info",
@@ -758,25 +1406,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3352382/woman-plunges-death-hong-kong-hotel-pool-deck-injuring-7-others?utm_source=rss_feed"
     },
     {
-      "id": "news-42",
-      "headline": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
-      "summary": "Iranian state media says two missiles have struck a US navy destroyer to prevent it entering the Strait of Hormuz.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T10:55:19.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss"
-    },
-    {
-      "id": "news-43",
+      "id": "news-78",
       "headline": "UAE to unveil major domestic investment projects, says Al Zeyoudi",
       "summary": "UAE to unveil major domestic investment projects, says Al Zeyoudi",
       "urgency": "info",
@@ -794,7 +1424,7 @@
       "link": "https://gulfnews.com/business/economy/uae-to-unveil-major-domestic-investment-projects-says-al-zeyoudi-1.500528398"
     },
     {
-      "id": "news-44",
+      "id": "news-79",
       "headline": "Shooting at US party sends at least 13 to hospital",
       "summary": "A shooting on Sunday night at a party at a lake near Oklahoma City sent least 13 people to hospitals, according to police and hospital officials.\nEdmond police spokesperson Emily Ward said authorities received reports of shots being fired at about 9pm at a gathering of young people near Arcadia Lake",
       "urgency": "breaking",
@@ -812,7 +1442,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3352381/shooting-us-party-sends-least-12-hospital?utm_source=rss_feed"
     },
     {
-      "id": "news-45",
+      "id": "news-80",
       "headline": "Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized",
       "summary": "Describing the transfer of the crew from the MV Touska cargo ship back to Iran as a ‘confidence-building measure’ between U.S. and Iranian officials, Pakistan again plays a mediating role.",
       "urgency": "info",
@@ -830,7 +1460,7 @@
       "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html"
     },
     {
-      "id": "news-46",
+      "id": "news-81",
       "headline": "'Only part of the solution': Are Electric Vehicles truly sustainable?",
       "summary": "&lt;p&gt;As Electric Vehicles (EVs) have become increasingly central to global climate policy, &lt;em&gt;DawnNews&lt;/em&gt; explores whether they really are the straightforward climate solution they appear to be.&lt;/p&gt;\n&lt;p&gt;As economist Ammar Habib Khan says, EVs are “part of the solution, ",
       "urgency": "breaking",
@@ -848,7 +1478,7 @@
       "link": "https://www.dawn.com/news/1997444/only-part-of-the-solution-are-electric-vehicles-truly-sustainable"
     },
     {
-      "id": "news-47",
+      "id": "news-82",
       "headline": "LHC conditionally suspends verdict ordering Meesha Shafi to pay Rs5m in damages to Ali Zafar",
       "summary": "&lt;p&gt;LAHORE: The Lahore High Court (LHC) on Monday conditionally suspended a trial court’s &lt;a href=\"https://www.dawn.com/news/1987171\"&gt;verdict &lt;/a&gt;ordering singer Meesha Shafi to pay Rs5 million in damages to fellow singer-cum-actor Ali Zafar in a defamation case, while maintaining r",
       "urgency": "info",
@@ -866,7 +1496,7 @@
       "link": "https://www.dawn.com/news/1997442/lhc-conditionally-suspends-verdict-ordering-meesha-shafi-to-pay-rs5m-in-damages-to-ali-zafar"
     },
     {
-      "id": "news-48",
+      "id": "news-83",
       "headline": "Dubai driver wins Dh25 million Big Ticket jackpot — but says he will keep working",
       "summary": "Dubai driver wins Dh25 million Big Ticket jackpot — but says he will keep working",
       "urgency": "info",
@@ -884,7 +1514,7 @@
       "link": "https://gulfnews.com/uae/dubai-driver-wins-dh25-million-big-ticket-jackpot-but-says-he-will-keep-working-1.500528345"
     },
     {
-      "id": "news-49",
+      "id": "news-84",
       "headline": "Iran says US Demands Complicate War Talks - Al Arabiya English",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQng1aXN3TFpYXzZLMVhsZHRBd09KQkRJb2tuZmozUmpuYzhYZTZDcHJaNzQ1bVhRN3B0am1zNW54aml4ZVVUS0tuM1JtbkFxeHVVMk9ST3E3OUp3RjNyVDhhXzJRa0ZIT0JJd2tjdXpRYnh6eV83bXNHZHU0WF9wVmZGcGJ5dDdIUzBxRTg3UXhxMkw3eGZpM0xR0gGfAUFVX3lxTE8yS1FYZEY0aGpTVG9qdXVaT3J",
       "urgency": "breaking",
@@ -902,7 +1532,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQng1aXN3TFpYXzZLMVhsZHRBd09KQkRJb2tuZmozUmpuYzhYZTZDcHJaNzQ1bVhRN3B0am1zNW54aml4ZVVUS0tuM1JtbkFxeHVVMk9ST3E3OUp3RjNyVDhhXzJRa0ZIT0JJd2tjdXpRYnh6eV83bXNHZHU0WF9wVmZGcGJ5dDdIUzBxRTg3UXhxMkw3eGZpM0xR0gGfAUFVX3lxTE8yS1FYZEY0aGpTVG9qdXVaT3JYaE9PRWVwVFVFWmJBTjhfMnRhdk5YS09aRzREX2xSc1JFMkRTRlF3UHV4X0tjVzJxdmJWY3FJSlNxVjUxLXloR04zNmczNUxVQi1RcDNSNEpkNURJZFJLYkQ1XzlQTk9mb19sLThlZ240S1JJUUIxbVdVV3VNMEdOeUx3VE15X2xxMnJIOA?oc=5"
     },
     {
-      "id": "news-50",
+      "id": "news-85",
       "headline": "India’s Left parties face political wipeout as Kerala slips away",
       "summary": "India’s Left parties face political wipeout as Kerala slips away",
       "urgency": "info",
@@ -920,9 +1550,9 @@
       "link": "https://gulfnews.com/world/asia/india/indias-left-parties-face-political-wipeout-as-kerala-slips-away-1.500528350"
     },
     {
-      "id": "news-51",
+      "id": "news-86",
       "headline": "Hong Kong to tighten grip on claw machines under new licensing proposal",
-      "summary": "Hong Kong authorities have proposed amending gambling laws to tighten oversight of claw machines and other amusement games with prizes by issuing individual licences for each device to prevent addiction.\nIn a document released by the Home and Youth Affairs Bureau on Monday, officials called for a ma",
+      "summary": "Hong Kong authorities have proposed amending gambling laws to tighten oversight of claw machines and other amusement games with prizes by issuing individual licences for each device, in a bid to prevent addiction.\nIn a document released by the Home and Youth Affairs Bureau on Monday, officials calle",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -938,7 +1568,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3352374/hong-kong-tighten-grip-claw-machines-under-new-licensing-proposal?utm_source=rss_feed"
     },
     {
-      "id": "news-52",
+      "id": "news-87",
       "headline": "Viral video of Bangladeshi father saving baby under moving train raises safety concerns",
       "summary": "A Bangladeshi man who jumped onto the train tracks to shield his baby with his body as a train ran over them has gained kudos but also criticism from social media users after a video went viral.\nThe family had been travelling on the Dhaka-bound Titas commuter train at Bhairab Railway Station, accord",
       "urgency": "info",
@@ -956,7 +1586,7 @@
       "link": "https://www.scmp.com/week-asia/people/article/3352377/viral-video-bangladeshi-father-saving-baby-under-moving-train-raises-safety-concerns?utm_source=rss_feed"
     },
     {
-      "id": "news-53",
+      "id": "news-88",
       "headline": "How a UAE mountain guide carried a collapsed hiker on his back for three hours to save her life",
       "summary": "How a UAE mountain guide carried a collapsed hiker on his back for three hours to save her life",
       "urgency": "important",
@@ -974,7 +1604,25 @@
       "link": "https://gulfnews.com/uae/people/how-uae-mountain-guide-carried-a-collapsed-hiker-on-his-back-for-3-hours-to-save-her-life-1.500528328"
     },
     {
-      "id": "news-54",
+      "id": "news-89",
+      "headline": "Four migrants found dead near Croatia-Slovenia border - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XdEg0aTVuYVR1RVZtVmZPeFNlVUFuaWRVOW5memI0SWpMUS1zY3lTZHlnMm1GcWdtRlFvOC03TlRvUFlPeU84UUZrM0h0RjdQQWNzeGtR?oc=5\" target=\"_blank\"&gt;Four migrants found dead near Croatia-Slovenia border&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T10:17:41.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XdEg0aTVuYVR1RVZtVmZPeFNlVUFuaWRVOW5memI0SWpMUS1zY3lTZHlnMm1GcWdtRlFvOC03TlRvUFlPeU84UUZrM0h0RjdQQWNzeGtR?oc=5"
+    },
+    {
+      "id": "news-90",
       "headline": "UAE-made jammers tackled 85% of drones launched from Iran, says EDGE Chairman",
       "summary": "UAE-made jammers tackled 85% of drones launched from Iran, says EDGE Chairman",
       "urgency": "info",
@@ -992,7 +1640,7 @@
       "link": "https://gulfnews.com/uae/uae-made-jammers-tackled-85-of-drones-launched-from-iran-says-edge-chairman-1.500528335"
     },
     {
-      "id": "news-55",
+      "id": "news-91",
       "headline": "Pitch perfect diplomacy? North Korean footballers head to South Korea",
       "summary": "North Korean athletes are set to step onto South Korean soil for the first time in eight years, raising hopes that sports could again help ease bilateral tensions even as Pyongyang continues to define Seoul as a hostile state.\nNaegohyang Women’s FC of North Korea have confirmed their participation i",
       "urgency": "info",
@@ -1010,7 +1658,7 @@
       "link": "https://www.scmp.com/week-asia/people/article/3352375/why-north-korean-women-footballers-rare-match-south-keenly-watched?utm_source=rss_feed"
     },
     {
-      "id": "news-56",
+      "id": "news-92",
       "headline": "Iran’s Fars News agency reports incident with US warship in Strait of Hormuz - Al Arabiya English",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzNYazF3bFR4eXZlbnpNX0RMQjE4Z3dIREZ3bjcwNTZRbVBPSUsxb0p6ZkJtT2VWaWpIZDZaU2lvQmcyM1hsakxCV0NQbU4wZzdwaGg4dzFHTFE2b3RTcmhOT2RfbEV5cE5aQ0FQcmQxbHlNMlJCU3dKSEtnY05YckhYQUxaelY1d2lXYmNCcEl4Y0djS2lybWpOSGpVb3RqcG8tMEswWUg0REd6T0VrSjh2RnRiaHc",
       "urgency": "breaking",
@@ -1028,7 +1676,7 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzNYazF3bFR4eXZlbnpNX0RMQjE4Z3dIREZ3bjcwNTZRbVBPSUsxb0p6ZkJtT2VWaWpIZDZaU2lvQmcyM1hsakxCV0NQbU4wZzdwaGg4dzFHTFE2b3RTcmhOT2RfbEV5cE5aQ0FQcmQxbHlNMlJCU3dKSEtnY05YckhYQUxaelY1d2lXYmNCcEl4Y0djS2lybWpOSGpVb3RqcG8tMEswWUg0REd6T0VrSjh2RnRiaHc4aW9UWkQzUjhXUEpuWTVKX3dvb0dPLTDSAdQBQVVfeXFMTXZuNkJyT1pnb19FcjRRXzBFMXpMNjRNU1dBQ3JKeTlmQWZ2MENSeG9yNGdwSzB6bG9kNVJrNWVIemtQZHFXU2RkSkhTeFZFRjZLZmxEVUNQN2JGU2FUT3l1TW52NXhyUnRZU1hhRk5ZbE80X25mTTl0M21XQzdmdEFXVWhCbkpzN3FYblZyaUZWWUpmSDV6MGduXzRTNGlvbFFkM1VRRjlYc0JPZnRIR0R5d2ItMmhFSU5ibE51REcyc25HNmpGY1V0ZmxmaFdHTE5lOUI?oc=5"
     },
     {
-      "id": "news-57",
+      "id": "news-93",
       "headline": "WHO says hantavirus’ risk to wider public remains low after cruise ship outbreak - Arab News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DZHFHLUhWSlpxdXBLZllUTjg2QkRvRk1GS0hiTmFBUklkcTFmU1BwRDU3SWlTWkRXbE9hY1VhbnRXUWJZeWtVY3RYVllvVjJ5NHRDVHh3?oc=5\" target=\"_blank\"&gt;WHO says hantavirus’ risk to wider public remains low after cruise ship outbreak&lt;/a&gt;&amp;nbsp;&amp;",
       "urgency": "info",
@@ -1046,7 +1694,7 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DZHFHLUhWSlpxdXBLZllUTjg2QkRvRk1GS0hiTmFBUklkcTFmU1BwRDU3SWlTWkRXbE9hY1VhbnRXUWJZeWtVY3RYVllvVjJ5NHRDVHh3?oc=5"
     },
     {
-      "id": "news-58",
+      "id": "news-94",
       "headline": "Pakistan passport services halted globally, expats left in limbo",
       "summary": "Pakistan passport services halted globally, expats left in limbo",
       "urgency": "info",
@@ -1064,25 +1712,7 @@
       "link": "https://gulfnews.com/world/asia/pakistan/pakistan-passport-services-halted-globally-expats-left-in-limbo-1.500528321"
     },
     {
-      "id": "news-59",
-      "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
-      "summary": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T10:08:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
-    },
-    {
-      "id": "news-60",
+      "id": "news-95",
       "headline": "Zelensky arrives in Yerevan for European Political Community Summit, his first visit to Armenia - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmZUaEw5OGx0YXlkYzhfWFlvd3A4NWpBOHJxZGYxVFZSek5Nb3UtLVJfUU9aZFdmcmNha1RDWjhLSHJNTHBQaEtWTmdPVHBpVlZmMFdhUG4wdzVLbThTTHVVbk1OS3ZTQkJqUDBSeUZuSTR0VWNibEpVZmlSU2tnTkkyZDMwTkM5bXpKcHgyTThWcndnTXpPOUNDY1ZZaXAwWnJJMHljYVlLUQ?oc=5\" target=\"_b",
       "urgency": "important",
@@ -1100,7 +1730,25 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmZUaEw5OGx0YXlkYzhfWFlvd3A4NWpBOHJxZGYxVFZSek5Nb3UtLVJfUU9aZFdmcmNha1RDWjhLSHJNTHBQaEtWTmdPVHBpVlZmMFdhUG4wdzVLbThTTHVVbk1OS3ZTQkJqUDBSeUZuSTR0VWNibEpVZmlSU2tnTkkyZDMwTkM5bXpKcHgyTThWcndnTXpPOUNDY1ZZaXAwWnJJMHljYVlLUQ?oc=5"
     },
     {
-      "id": "news-61",
+      "id": "news-96",
+      "headline": "Inside Dubai Metro Blue Line: How tunnels are taking shape beneath the emirate - Khaleej Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUhFUHY5RWt2Q18yMGRGeHVyRmQ0ZEc3RG5BY0ZGMWI0ZFN2TTZNeWxRSF9Ga3pudzBBSDJNa1hXMU8xMUQ1TlE0SG1Nam5Jb3RSRnhHZWVfeWpueFFhZjZoQkhJeHhRYXN2MWsyWkpTVkVYRmdmVVJsS25veUZoT09obWRodTJrb3dzeWVyYkpKUFdOXzduM28yd9IBowFBVV95cUxQblVxRHBLZTV2V1d6NS1oMi0",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
+          "url": "https://khaleejtimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-04T10:05:49.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUhFUHY5RWt2Q18yMGRGeHVyRmQ0ZEc3RG5BY0ZGMWI0ZFN2TTZNeWxRSF9Ga3pudzBBSDJNa1hXMU8xMUQ1TlE0SG1Nam5Jb3RSRnhHZWVfeWpueFFhZjZoQkhJeHhRYXN2MWsyWkpTVkVYRmdmVVJsS25veUZoT09obWRodTJrb3dzeWVyYkpKUFdOXzduM28yd9IBowFBVV95cUxQblVxRHBLZTV2V1d6NS1oMi04S1pha0hpVnpmY3BzQ2hnMzF5d3h5MGduc0h3LW53V0hHQW9BTGV6ZkxWSWkxZV8yc01PcjZWYng5R25DVk1lcWlCS0QzZ0U1MGl2Y2VkZjY0cW5GVHdCakF1TkQ5d21ObEprX3lnV2xTQTRhYUxORldudmVnQU55SFR3UWRuM1hicmdfMG04V1hn?oc=5"
+    },
+    {
+      "id": "news-97",
       "headline": "Transgender student sues Hong Kong school over ‘discriminatory’ hair policy",
       "summary": "A transgender student has taken a Hong Kong school to court, alleging “discriminatory” policies requiring short hair in line with her sex assigned at birth.\nLawyers for Oscar Fung King-ho on Thursday sought unspecified damages from the incorporated management committee of Lung Kong World Federation ",
       "urgency": "info",
@@ -1118,7 +1766,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352370/transgender-student-sues-hong-kong-school-over-discriminatory-hair-policy?utm_source=rss_feed"
     },
     {
-      "id": "news-62",
+      "id": "news-98",
       "headline": "Two worlds collide: the regulatory battlefield hanging over the EU’s ties with China",
       "summary": "In an abandoned Norwegian mine last year, an unusual experiment produced results that drew scrutiny in boardrooms and government offices across Europe and helped to spark new regulations pouring fuel on already fiery EU-China relations.\nRuter, the public transport authority for greater Oslo, drove n",
       "urgency": "info",
@@ -1136,7 +1784,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3352351/two-worlds-collide-regulatory-battlefield-hanging-over-eus-ties-china?utm_source=rss_feed"
     },
     {
-      "id": "news-63",
+      "id": "news-99",
       "headline": "China ‘Madman of Science’ believes budget space travel is viable after low-cost rocket launch",
       "summary": "An innovator in China has successfully launched a self-developed low-cost rocket, proving the feasibility of budget space exploration to the world.\nIn February, the 12m Shenzhen Pioneer rocket made local history in China’s remote northeastern Qinghai province, reaching a record altitude of 3,700m an",
       "urgency": "info",
@@ -1152,654 +1800,6 @@
       "timestamp": "2026-05-04T10:00:22.000Z",
       "widgetType": "news",
       "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3351730/china-madman-science-believes-budget-space-travel-viable-after-low-cost-rocket-launch?utm_source=rss_feed"
-    },
-    {
-      "id": "news-64",
-      "headline": "Iraqi court sentences 4 to prison for promoting banned Baath Party - Arab News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mNHgtS012VVdXRk5Ydm5pVDlRTEVMNUlLYmo2Z3N1ZHlHX0JzX2ZTTnRRUmtVOFZKMHlLb0xPU0VKc05iamtkMXAwbkg0b19KQmg5Qk4xaVBPbEtPMkE?oc=5\" target=\"_blank\"&gt;Iraqi court sentences 4 to prison for promoting banned Baath Party&lt;/a&gt;&amp;nbsp;&amp;nbs",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Arab News",
-          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
-          "url": "https://arabnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T10:00:07.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mNHgtS012VVdXRk5Ydm5pVDlRTEVMNUlLYmo2Z3N1ZHlHX0JzX2ZTTnRRUmtVOFZKMHlLb0xPU0VKc05iamtkMXAwbkg0b19KQmg5Qk4xaVBPbEtPMkE?oc=5"
-    },
-    {
-      "id": "news-65",
-      "headline": "12,000-year-old Karahantepe discovery reveals massive statues and an unexpected prehistoric diet",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130779289.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T10:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/12000-year-old-karahantepe-discovery-reveals-massive-statues-and-an-unexpected-prehistoric-diet/articleshow/130779289.cms"
-    },
-    {
-      "id": "news-66",
-      "headline": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
-      "summary": "The US president has accused some NATO countries of not doing enough to support the US-Israel war on Iran.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:57:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss"
-    },
-    {
-      "id": "news-67",
-      "headline": "Italian duo Antonelli and Sinner’s timelines to greatness converge",
-      "summary": "Italian duo Antonelli and Sinner’s timelines to greatness converge",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:53:48.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/tennis/italian-duo-antonelli-and-sinners-timelines-to-greatness-converge-1.500528322"
-    },
-    {
-      "id": "news-68",
-      "headline": "Trump’s Hormuz plan: How the US will guide ships and why it risks escalation with Iran",
-      "summary": "Why Trump’s Hormuz move risks escalation with Iran",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:53:13.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/trump-s-hormuz-plan-how-the-us-will-guide-ships-and-why-it-risks-escalation-with-iran-1.500528293"
-    },
-    {
-      "id": "news-69",
-      "headline": "Israeli minister's 'disgusting noose cake' draws widespread criticism",
-      "summary": "PRESS REVIEW – Monday, May 4, 2026: Israeli minister Itamar Ben-Gvir's birthday cake sparks widespread condemnation. But first, The Washington Post tells the story of a Ukrainian soldier trapped in the \"kill zone\". Also, Amsterdam becomes the first capital city to ban meat and fossil fuel advertisin",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:50:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20260504-israeli-minister-s-disgusting-noose-cake-draws-widespread-criticism"
-    },
-    {
-      "id": "news-70",
-      "headline": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:49:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-71",
-      "headline": "Abu Dhabi, Dubai see April rebound as UAE property markets defy headwinds",
-      "summary": "Abu Dhabi, Dubai see April rebound as UAE property markets defy headwinds",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:46:50.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/business/property/abu-dhabi-dubai-see-april-rebound-as-uae-property-markets-defy-headwinds-1.500528298"
-    },
-    {
-      "id": "news-72",
-      "headline": "Iran foreign ministry says US must ‘abandon its excessive demands’ - Arab News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TdGxsWVJsUTdHNFJSU3JBZ0JBc1FlZXhidEhHckJuMXhSTmU4RzAyZXIyMDE0dXpHLXZWUml5TEdFa3Z4a3hlQVBVNDh0RGsyMkRQbzVpYV9TNWpLOHc?oc=5\" target=\"_blank\"&gt;Iran foreign ministry says US must ‘abandon its excessive demands’&lt;/a&gt;&amp;nbsp;&amp;nbs",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Arab News",
-          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
-          "url": "https://arabnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:45:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TdGxsWVJsUTdHNFJSU3JBZ0JBc1FlZXhidEhHckJuMXhSTmU4RzAyZXIyMDE0dXpHLXZWUml5TEdFa3Z4a3hlQVBVNDh0RGsyMkRQbzVpYV9TNWpLOHc?oc=5"
-    },
-    {
-      "id": "news-73",
-      "headline": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
-      "summary": "Al Jazeera visits refugee camp in the occupied West Bank where Israeli soldiers have killed or maimed many young people.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:44:41.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss"
-    },
-    {
-      "id": "news-74",
-      "headline": "'Not a nation that bows': Bilawal hails Pakistan's victory against India during Marka-i-Haq",
-      "summary": "&lt;p&gt;PPP Chairman Bilawal Bhutto-Zardari on Monday hailed Pakistan’s “victory” against India during last year’s military conflict, affirming that the country was “not a nation that bows”.&lt;/p&gt;\n&lt;p&gt;He was addressing an event in Karachi organised by the Sindh government to commemorate Ma",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:41:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/1997435/not-a-nation-that-bows-bilawal-hails-pakistans-victory-against-india-during-marka-i-haq"
-    },
-    {
-      "id": "news-75",
-      "headline": "Iran confirms it is reviewing US proposal to end war - Anadolu Ajansı",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUxWSzJRa3VQb3dpVDdBMWRqRHUwNTEtN3JoSUdtM2t2ZGhVU2FJUXFwMWlkMUVEczlNSHpkMHd5dU5jNzNJb3FHV1dpVjcwbE5MLVM3V3FFc1dhQnYxWDNMMWk3VEFzOVJObGRHa1VtaFhkQWh0SWhNaG5mbHc5eHBwR2tvcFdMZzZjRkVMNURVNWt6YnJ1aDZDcHRPMFM2UE1uQ3Q5RQ?oc=5\" target=\"_blank",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:41:25.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUxWSzJRa3VQb3dpVDdBMWRqRHUwNTEtN3JoSUdtM2t2ZGhVU2FJUXFwMWlkMUVEczlNSHpkMHd5dU5jNzNJb3FHV1dpVjcwbE5MLVM3V3FFc1dhQnYxWDNMMWk3VEFzOVJObGRHa1VtaFhkQWh0SWhNaG5mbHc5eHBwR2tvcFdMZzZjRkVMNURVNWt6YnJ1aDZDcHRPMFM2UE1uQ3Q5RQ?oc=5"
-    },
-    {
-      "id": "news-76",
-      "headline": "Hantavirus explained: What we know after cruise ship deaths",
-      "summary": "Hantavirus explained: What we know after cruise ship deaths",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:40:57.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/africa/hantavirus-explained-what-we-know-after-cruise-ship-deaths-1.500528302"
-    },
-    {
-      "id": "news-77",
-      "headline": "Earth’s origin mystery cracked? Meteorites may hold the secret to life’s ingredients",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/130778848.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:30:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/science/earths-origin-mystery-cracked-meteorites-may-hold-the-secret-to-lifes-ingredients/articleshow/130778848.cms"
-    },
-    {
-      "id": "news-78",
-      "headline": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:29:37.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-79",
-      "headline": "Egypt refers 12 medical staff to disciplinary trial over patient death",
-      "summary": "Egypt refers 12 medical staff to disciplinary trial over patient death",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:19:47.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/egypt-refers-12-medical-staff-to-disciplinary-trial-over-patient-death-1.500528225"
-    },
-    {
-      "id": "news-80",
-      "headline": "Barcelona close in on historic title win in El Clasico",
-      "summary": "Barcelona close in on historic title win in El Clasico",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:19:45.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/barcelona-close-in-on-historic-title-win-in-el-clasico-1.500528040"
-    },
-    {
-      "id": "news-81",
-      "headline": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission? - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPczVVMmphaHhYZkhrckF4ZV9iaGRkWW83NHJLZy1uZkQxMHhiMG5ZeHFjUzVzWm9TWHptMl9McjFHMmVOcmpDX0JFVXczWnpZWUNobFBjRjhJOXZtaC1DNDhLcXFTSU1oeGJZVlpESVBWUWhqYWhGU1V6cUxZV21RUk9NSVpjblNnUFhPeW84amt1N3NtSG40U056dXZ0RDhGbGhmN0VKRjRMVEl50gGyAUFVX3lxTE9",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:17:45.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczVVMmphaHhYZkhrckF4ZV9iaGRkWW83NHJLZy1uZkQxMHhiMG5ZeHFjUzVzWm9TWHptMl9McjFHMmVOcmpDX0JFVXczWnpZWUNobFBjRjhJOXZtaC1DNDhLcXFTSU1oeGJZVlpESVBWUWhqYWhGU1V6cUxZV21RUk9NSVpjblNnUFhPeW84amt1N3NtSG40U056dXZ0RDhGbGhmN0VKRjRMVEl50gGyAUFVX3lxTE9PdlMyWExxUFprTXd3R3FRM0xJcmQybzRBa0JjUjRrMndsVnNmd2tydFZ2bS1nSl95MEU3QUpJb1FHd2NFNk1HWGVIZk5hODh0UDFFY0V3UmNVOWlkOThaeUlZclA0bDdJeDJXakNISlBSNV9ZTEdPYU0xbXhOZHJ4MkJaaC1fNVgtczFiZTdiSV9xeFJxSEZYLUpwMk9LVmg5TE85OW54eDQ3V0VwaGQxeUE?oc=5"
-    },
-    {
-      "id": "news-82",
-      "headline": "Tragic &apos;kitchen joke&apos; turns deadly as Egyptian teen kills her brother",
-      "summary": "Tragic &apos;kitchen joke&apos; turns deadly as Egyptian teen kills her brother",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:16:58.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/tragic-kitchen-joke-turns-deadly-as-egyptian-teen-kills-her-brother-1.500528251"
-    },
-    {
-      "id": "news-83",
-      "headline": "Iran executes three men over involvement in anti-govt protests - Al Arabiya English",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkE4R2hQY1l4N2hpSWtCQnYwXzdQRUJuZWh3YllfcXNfczdQTlF0aHFSWTNzYk5Ca0tBTnlnY1c4dEFJNV96V0w5VXhqU1pic2lzaGlFTjY1S1R1NEdRNi1pX2ZyQnRDNkV5SHVrbU5oYWFQRU5ETmtCY2w1VUZiTXBQbERPUGlsaW94Y3N4RzZ4YllVQWZmaTRiY0w2RDlKS0ROa2hKOEw5X3hCT250VGU0VDlmbVh",
-      "urgency": "important",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Arabiya",
-          "logo": "https://www.google.com/s2/favicons?domain=alarabiya.net&sz=32",
-          "url": "https://english.alarabiya.net",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:16:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkE4R2hQY1l4N2hpSWtCQnYwXzdQRUJuZWh3YllfcXNfczdQTlF0aHFSWTNzYk5Ca0tBTnlnY1c4dEFJNV96V0w5VXhqU1pic2lzaGlFTjY1S1R1NEdRNi1pX2ZyQnRDNkV5SHVrbU5oYWFQRU5ETmtCY2w1VUZiTXBQbERPUGlsaW94Y3N4RzZ4YllVQWZmaTRiY0w2RDlKS0ROa2hKOEw5X3hCT250VGU0VDlmbVhlQjdV0gHAAUFVX3lxTE1XUFZzRm9rb3liZGREaDR5bGlRLWRsWnN6NEVYSmplU3cwZjdkRW04Y3UzM196OUtwVHItVENOTFNQUkxncEZkNmdBcDZUR0xoc1RwTVFQVXY0cTB6UXc1amhhbnRGM3pOWFVHbjhUaWxFVk1oa09GNGFWQ1pCWjNDQmNhYm8wdXl2LWpaS1NFbC1DZHZ4Q1U5ZUZtLVFaWUxsV0xRcEJpcVdmZnE2bnNjUUxZSTBGbFQ4RzdfaDEwLQ?oc=5"
-    },
-    {
-      "id": "news-84",
-      "headline": "Hong Kong residential property upturn drives recovery in office, retail: Morgan Stanley",
-      "summary": "Hong Kong’s property market is poised for a broad-based recovery as a strong upturn in the residential segment spills over to the struggling office and retail sectors, according to analysts.\nMorgan Stanley upgraded its forecast for the city’s home prices to a 12 per cent increase this year from 10 p",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:15:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/business/article/3352357/hong-kong-residential-property-upturn-drives-recovery-office-retail-morgan-stanley?utm_source=rss_feed"
-    },
-    {
-      "id": "news-85",
-      "headline": "French teen prodigy Paul Seixas to make Tour de France debut this year",
-      "summary": "Cycling prodigy ⁠Paul Seixas said Monday he will ride the Tour de France for the first time this July, fuelling hopes that France’s decades-long wait for a home winner could finally be nearing an end.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:12:48.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/sport/20260504-french-teen-prodigy-paul-seixas-to-make-tour-de-france-debut-this-year"
-    },
-    {
-      "id": "news-86",
-      "headline": "UAE gains freedom to produce what industries need after OPEC exit, says Al Mazrouei",
-      "summary": "UAE gains freedom to produce what industries need after OPEC exit, says Al Mazrouei",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:11:18.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/business/energy/uae-gains-freedom-to-produce-what-industries-need-after-opec-exit-says-al-mazrouei-1.500528264"
-    },
-    {
-      "id": "news-87",
-      "headline": "Sweden arrests Chinese captain of suspected ‘shadow fleet’ ship - Arab News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MUWZ0YTF0cjZUOGw3OFZGTXdIdmdBZno5S1REVGVxRmRLUlk2RzlCd3hYNU85d00zMWlSV1gzYXFpcFM3R2ppaUVzMjFEcTJvUG1uZ1Vn?oc=5\" target=\"_blank\"&gt;Sweden arrests Chinese captain of suspected ‘shadow fleet’ ship&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Arab News",
-          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
-          "url": "https://arabnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:10:39.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MUWZ0YTF0cjZUOGw3OFZGTXdIdmdBZno5S1REVGVxRmRLUlk2RzlCd3hYNU85d00zMWlSV1gzYXFpcFM3R2ppaUVzMjFEcTJvUG1uZ1Vn?oc=5"
-    },
-    {
-      "id": "news-88",
-      "headline": "Top tennis players slam Roland Garros prize money, citing a shrinking share of tournament revenue - Arab News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVHZxazh4OExnN1dmMFhET2N1U1lWdWNVYTh4Wml6V3dvdWoydGw1OTYxeHQxR0NkNDNIUThBX1RDQTM5SFA0S2J4QkhMSTc3bVVhektB?oc=5\" target=\"_blank\"&gt;Top tennis players slam Roland Garros prize money, citing a shrinking share of tournament revenue&lt;/a&g",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Arab News",
-          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
-          "url": "https://arabnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:10:17.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MVHZxazh4OExnN1dmMFhET2N1U1lWdWNVYTh4Wml6V3dvdWoydGw1OTYxeHQxR0NkNDNIUThBX1RDQTM5SFA0S2J4QkhMSTc3bVVhektB?oc=5"
-    },
-    {
-      "id": "news-89",
-      "headline": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
-      "summary": "Israel has failed to arrest a wave of violence against Palestinians, prompting military officials to urge the government to intervene.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:08:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html"
-    },
-    {
-      "id": "news-90",
-      "headline": "India elections: Celebration scenes across key states",
-      "summary": "India elections: Celebration scenes across key states",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:07:23.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/asia/india/india-elections-celebration-scenes-across-key-states-1.500528245"
-    },
-    {
-      "id": "news-91",
-      "headline": "Trump says US operation will aid ships stranded in Strait of Hormuz",
-      "summary": "President Donald Trump said on Sunday the U.S. would start an effort on Monday morning to free ships stranded in the Strait ​of Hormuz as a \"humanitarian gesture\" to aid neutral countries in the U.S.-Israeli war with Iran. Trump provided few details about the plan, which he said would aid ships and ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:05:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260504-trump-says-us-operation-will-aid-ships-stranded-in-strait-of-hormuz"
-    },
-    {
-      "id": "news-92",
-      "headline": "Europe, Canada leaders hold Yerevan talks in Trump's shadow",
-      "summary": "European leaders and Canadian Prime Minister Mark Carney gather in Armenia Monday as they seek to navigate a fraught geopolitical environment under an unpredictable White House. US President Donald Trump will loom large over the meeting of the European Political Community (EPC). It takes place in Ye",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:04:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260504-europe-canada-leaders-hold-yerevan-talks-in-trump-s-shadow"
-    },
-    {
-      "id": "news-93",
-      "headline": "Australian inquiry opens public hearings into Bondi Beach shooting",
-      "summary": "An inquiry into a shooting that killed 15 people at a Hanukkah festival near Australia's Bondi Beach heard Monday that Sydney's Jewish community feared \"catastrophe\" was coming as antisemitic attacks rose. The federal royal commission -- the highest level of government inquiry -- was called to probe",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:03:18.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260504-australian-inquiry-opens-public-hearings-into-bondi-beach-shooting"
-    },
-    {
-      "id": "news-94",
-      "headline": "Asia View: Taiwan’s President reaches Eswatini after China-linked travel hurdles",
-      "summary": "In our Asia View segment, FRANCE 24 correspondent Yena Lee takes a look at the latest stories behind the headlines from China and beyond. This week, Taiwan’s President Lai Ching-te arrived in the African nation of Eswatini, days after his government was forced to postpone the trip when several count",
-      "urgency": "info",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:01:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260504-asia-view-taiwan-s-president-reaches-eswatini-after-china-linked-travel-hurdles"
-    },
-    {
-      "id": "news-95",
-      "headline": "Chasing Stardom in Korea Nearly Destroyed Ejae. Then Came ‘KPop Demon Hunters.’",
-      "summary": "Ejae, the movie’s breakout star, was the face of K-pop in 2025. Facing questions of art, national belonging and authenticity, she wants to be much more.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:01:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html"
-    },
-    {
-      "id": "news-96",
-      "headline": "China says to ignore US sanctions even as Trump visit nears",
-      "summary": "China ordered companies to ignore US sanctions against five oil refiners accused of buying Iranian crude, an unprecedented pushback against American financial measures less than two weeks before a presidential summit.\nThe US action “violates international law and the basic norms of international rel",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:01:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3352361/china-says-ignore-us-sanctions-even-trump-visit-nears?utm_source=rss_feed"
-    },
-    {
-      "id": "news-97",
-      "headline": "Inside The Old Skydiving Plane Hunting Drones in Ukraine",
-      "summary": "As Russian drones overwhelm Ukraine’s vast air defenses, civilian volunteers are stepping in to take them down. The New York Times takes flight with a crew that’s turned an old skydiving plane into a drone hunter.",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:01:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/video/world/europe/100000010837657/inside-the-old-skydiving-plane-hunting-drones-in-ukraine.html"
-    },
-    {
-      "id": "news-98",
-      "headline": "Can Malaysia’s Umno reclaim role as pillar of Malay political power with solo election bid?",
-      "summary": "Malaysia’s Umno is making a heady gamble by planning to strike out on its own, experts say, as the former ruling party looks to rally support from among the country’s Malay-Muslim majority in preparation for national polls that must be called in less than two years from now.\nUmno President Ahmad Zah",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:00:45.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/week-asia/politics/article/3352362/can-malaysias-umno-reclaim-role-pillar-malay-political-power-solo-election-bid?utm_source=rss_feed"
-    },
-    {
-      "id": "news-99",
-      "headline": "Should kitesurf be banned? French mayor wants to ban sport to keep sea swimmers safe",
-      "summary": "Should kitesurfing be banned for the sake of keeping sea swimmers safe? That is certainly what one mayor in France wants. In Saint-Pierre-Quiberon, several accidents have already occurred, but the question of whether or not the water sport should be banned is making ripples.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-04T09:00:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260504-should-kitesurf-be-banned-french-mayor-wants-to-ban-sport-to-keep-sea-swimmers-safe"
     }
   ],
   "financials": {
