@@ -1,8 +1,116 @@
 {
-  "lastUpdated": "2026-05-15T02:36:45.801Z",
+  "lastUpdated": "2026-05-15T02:50:11.928Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "New Zealand's Māori Queen meets King Charles at Buckingham Palace",
+      "summary": "The meeting with the British monarch was Te Arikinui's first since she became Maori Queen in 2024.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Asia",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:43:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/ckgp2vpp70yo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "Australia news live: defection speculation as ex-Liberal senator Hollie Hughes prepares to host Pauline Hanson at her NSW pub",
+      "summary": "&lt;p&gt;Hughes quit the Liberal Party in November, and was strongly critical of her former colleagues for undermining then-leader Sussan Ley. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking ne",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:43:40.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb"
+    },
+    {
+      "id": "news-2",
+      "headline": "CIA chief visits Havana as energy crisis worsens",
+      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:40:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-3",
+      "headline": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:38:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing/heres-the-latest"
+    },
+    {
+      "id": "news-4",
+      "headline": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
+      "summary": "Al Jazeera&#039;s Manuel Rapalo reports from Washington, where the first of two days of Lebanon-Israel talks concluded.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:35:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss"
+    },
+    {
+      "id": "news-5",
+      "headline": "Trump China visit live: Beijing being ‘very pragmatic’ on Iran, says top US official",
+      "summary": "&lt;p&gt;US official says it is important for Xi Jinping to have the strait of Hormuz open and is confident China will try to limit material support for Iran&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/2026/may/14/trump-xi-jinping-meet-beijing-ahead-of-summit-",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:28:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+    },
+    {
+      "id": "news-6",
       "headline": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
       "summary": "In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader.",
       "urgency": "info",
@@ -20,43 +128,43 @@
       "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html"
     },
     {
-      "id": "news-1",
-      "headline": "Australia news live: Victorian premier says Angus Taylor’s budget reply out of Trump playbook; Hanson’s Senate speech cut short",
-      "summary": "&lt;p&gt;Jacinta Allan says plan to cut off welfare payments to non-citizens would target older Australians from multicultural communities. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news ",
+      "id": "news-7",
+      "headline": "Iraq&apos;s new PM sworn in with partial Cabinet after deadlock over key posts",
+      "summary": "Iraq&apos;s new PM sworn in with partial cabinet after deadlock over key posts",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
         {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-15T02:07:55.000Z",
+      "timestamp": "2026-05-15T02:14:27.000Z",
       "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live-delta-goodrem-eurovision-budget-reply-angus-taylor-immigration-income-tax-bracket-creep-jim-chalmers-inflation-ntwnfb"
+      "link": "https://gulfnews.com/world/mena/iraqs-new-pm-sworn-in-with-partial-cabinet-after-deadlock-over-key-posts-1.500541123"
     },
     {
-      "id": "news-2",
-      "headline": "Trump China visit live: Rubio hoping for ‘positive response’ to appeal for release of Hong Kong activist Jimmy Lai",
-      "summary": "&lt;p&gt;Secretary of state says US made clear America’s position on Taiwan, as Trump-Xi talks continue for second day&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/2026/may/14/trump-xi-jinping-meet-beijing-ahead-of-summit-trade-iran-war-ai-talks\"&gt;Xi warns Tr",
-      "urgency": "breaking",
+      "id": "news-8",
+      "headline": "PM Modi to visit UAE — talks to focus on energy, strategic ties",
+      "summary": "PM Modi to visit UAE today; talks to focus on energy, strategic ties",
+      "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-15T02:07:29.000Z",
+      "timestamp": "2026-05-15T02:08:37.000Z",
       "widgetType": "news",
-      "link": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
+      "link": "https://gulfnews.com/uae/pm-modi-to-visit-uae-talks-to-focus-on-energy-strategic-ties-1.500541114"
     },
     {
-      "id": "news-3",
+      "id": "news-9",
       "headline": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk - AP News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnJadUp3aVhpSTJORmhWczF0ZmYydURqbkE3WnlTcmlFd1g1bkdReVh2aUxVRUxLd1hnQmpLcmpwN2Y2NGJhbXdBa1RRUWpOcHdQYXJGMVZLeGIwby1WV09XT3RVbHlHODMyT1RmLXpQWjczbnYzTXBhcEo4bWxYMVpuQWhqeDNtVk5lcWlXdnd4MHZBZTV5aGp5d2RGcHpiZjlF?oc=5\" target=\"_blank\"&gt;T",
       "urgency": "info",
@@ -74,7 +182,61 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnJadUp3aVhpSTJORmhWczF0ZmYydURqbkE3WnlTcmlFd1g1bkdReVh2aUxVRUxLd1hnQmpLcmpwN2Y2NGJhbXdBa1RRUWpOcHdQYXJGMVZLeGIwby1WV09XT3RVbHlHODMyT1RmLXpQWjczbnYzTXBhcEo4bWxYMVpuQWhqeDNtVk5lcWlXdnd4MHZBZTV5aGp5d2RGcHpiZjlF?oc=5"
     },
     {
-      "id": "news-4",
+      "id": "news-10",
+      "headline": "UAE education leaders back Gulf News Edufair Dubai",
+      "summary": "UAE education leaders back Gulf News Edufair Dubai",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:00:24.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/education/uae-education-leaders-back-gulf-news-edufair-dubai-1.500541098"
+    },
+    {
+      "id": "news-11",
+      "headline": "Friday Sermon, May 15, 2026: &apos;The Father: The pillar of the family&apos;",
+      "summary": "Friday Sermon, May 15, 2026: &apos;The Father: The pillar of the family&apos;",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/people/friday-sermon-may-15-2026-the-father-the-pillar-of-the-family-1.500540694"
+    },
+    {
+      "id": "news-12",
+      "headline": "Is your air conditioner making you sick? What doctors say during UAE summers and how to maintain your system",
+      "summary": "Is your air conditioner making you sick? What doctors say during UAE summers and how to maintain your system",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-15T02:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/lifestyle/is-your-air-conditioner-making-you-sick-what-doctors-say-during-uae-summers-and-how-to-maintain-your-system-1.500540575"
+    },
+    {
+      "id": "news-13",
       "headline": "Taiwan Tensions: US Pledges Support Amidst China's Aggressive Moves - Devdiscourse",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEZMd3RPSXFaSnM4X3E0S0FpSC1VVXlkZVdQRW4zT3Y4Qm44bHNGYnhmZ0UwMVAxQ1VIeEo4MW5pTTZobGJJczhsb1MzYzBSRlVWOUlYOHllYTFQVmJRZUMyY1AzOTZpRnB5UEhhNWNYdm1TRmhOSXNaZUJJcGdXaEpsNW9xTzZ5R0diWHkxV1QtUUcwbTNCRDRic0hZWDdnYU95REpjXzlGZjBab3ZmUXBWc1RlNVp",
       "urgency": "info",
@@ -92,7 +254,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEZMd3RPSXFaSnM4X3E0S0FpSC1VVXlkZVdQRW4zT3Y4Qm44bHNGYnhmZ0UwMVAxQ1VIeEo4MW5pTTZobGJJczhsb1MzYzBSRlVWOUlYOHllYTFQVmJRZUMyY1AzOTZpRnB5UEhhNWNYdm1TRmhOSXNaZUJJcGdXaEpsNW9xTzZ5R0diWHkxV1QtUUcwbTNCRDRic0hZWDdnYU95REpjXzlGZjBab3ZmUXBWc1RlNVpUakItNdIBwgFBVV95cUxNOWhYOGpCSUNId0kzcWlrVmpiVWtrU3Ixa3VjM1BxQzdIaC1sbjZrZ0txY090MU5memNQRkRCMUNvYWdlelRTUjJ0b1R4dDZUVGpaWEVhc0tZaVFtSS1uUXUwSWNDYmd2MzRLeXBYSXFTcjFuSUY3aS1tQXZLaXlUMnVqYWNpclo1dlROQ0c2S2xoYUhwRmM4UF9yVGN0YUFVNDVRaHpTVDVfOVVjQmNuRDEtUUNUSHF5czNCSVl2NW8ydw?oc=5"
     },
     {
-      "id": "news-5",
+      "id": "news-14",
       "headline": "Angus Taylor accused of ‘dog-whistling’ and marginalising immigrants over plan to cut benefits to non-citizens",
       "summary": "&lt;p&gt;Prime minister claims Coalition imitating One Nation’s policies as refugee advocacy group warns migrants ‘should not be used as scapegoats’ for economic problems&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/may/15/australia-news-live",
       "urgency": "breaking",
@@ -110,7 +272,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/may/15/angus-taylor-opposition-plan-cut-benefits-ndis-non-citizens-visa-holders-dog-whistling-marginalising-immigrants"
     },
     {
-      "id": "news-6",
+      "id": "news-15",
       "headline": "Harry Styles: from teen heart-throb to music icon",
       "summary": "Harry Styles: from teen heart-throb to music icon",
       "urgency": "info",
@@ -128,7 +290,7 @@
       "link": "https://gulfnews.com/entertainment/music/harry-styles-from-teen-heart-throb-to-music-icon-1.500541117"
     },
     {
-      "id": "news-7",
+      "id": "news-16",
       "headline": "Marquinhos has more French league titles than every club except PSG",
       "summary": "Marquinhos has more French league titles than every club except PSG",
       "urgency": "info",
@@ -146,7 +308,7 @@
       "link": "https://gulfnews.com/sport/football/marquinhos-has-more-french-league-titles-than-every-club-except-psg-1.500541029"
     },
     {
-      "id": "news-8",
+      "id": "news-17",
       "headline": "Is Trump behind Japan’s push for radical military spending hike?",
       "summary": "Japan’s ruling Liberal Democratic Party (LDP) is weighing a sharp rise in defence spending as pressure from US President Donald Trump and worsening security conditions in the Indo-Pacific force Tokyo to reconsider how much it must do to protect itself.\nThe party is expected to debate raising outlays",
       "urgency": "info",
@@ -164,7 +326,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3353577/trump-behind-japans-push-radical-military-spending-hike?utm_source=rss_feed"
     },
     {
-      "id": "news-9",
+      "id": "news-18",
       "headline": "3 ways to build Hong Kong’s yacht economy beyond infrastructure",
       "summary": "Hong Kong is in a unique position to capitalise on yacht tourism – with over 1,000km of coastline and more than 200 islands, this natural advantage is something few international cities can match.\nRecent policy initiatives, ranging from new mooring developments to cross-boundary integration within t",
       "urgency": "important",
@@ -182,7 +344,7 @@
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3353168/3-ways-build-hong-kongs-yacht-economy-beyond-infrastructure?utm_source=rss_feed"
     },
     {
-      "id": "news-10",
+      "id": "news-19",
       "headline": "Elderly woman dies in fire sparked by faulty air-conditioner in Hong Kong flat",
       "summary": "A 70-year-old woman has died in a fire at a Hong Kong flat, with police suspecting it was caused by a malfunctioning air-conditioner.\nThe blaze broke out at Yu Tung Court’s Hei Tung House in Tung Chung on Friday, with police saying they received reports from several residents at around 4.42am.\n“A wo",
       "urgency": "breaking",
@@ -200,25 +362,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3353624/elderly-woman-dies-fire-sparked-faulty-air-conditioner-hong-kong-flat?utm_source=rss_feed"
     },
     {
-      "id": "news-11",
-      "headline": "Here’s the latest.",
-      "summary": "Here’s the latest.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-15T01:19:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing/heres-the-latest"
-    },
-    {
-      "id": "news-12",
+      "id": "news-20",
       "headline": "UK PM Starmer warns of party chaos amid speculation over leadership change",
       "summary": "UK PM Starmer warns of party chaos amid speculation over leadership change",
       "urgency": "breaking",
@@ -236,7 +380,7 @@
       "link": "https://gulfnews.com/world/europe/uk-pm-starmer-warns-of-party-chaos-amid-speculation-over-leadership-change-1.500539864"
     },
     {
-      "id": "news-13",
+      "id": "news-21",
       "headline": "Singapore doctor jailed over woman’s death during beauty treatment",
       "summary": "A doctor was sentenced to 18 months’ jail on Thursday for administering a substance to a woman as part of an aesthetic treatment that killed her.\nThe ethylenediaminetetraacetic acid (EDTA) was administered too quickly and at too high a concentration, causing 31-year-old Lau Li Ting to develop EDTA t",
       "urgency": "breaking",
@@ -254,25 +398,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3353623/singapore-doctor-jailed-over-womans-death-during-beauty-treatment?utm_source=rss_feed"
     },
     {
-      "id": "news-14",
-      "headline": "Cuba says CIA chief visited Havana as energy crisis worsens",
-      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-15T01:04:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-15",
+      "id": "news-22",
       "headline": "Does China’s Jiuzhang 4.0 computer herald the age of quantum supremacy?",
       "summary": "China has unveiled its latest photonic quantum computer, Jiuzhang 4.0, with researchers saying it can outperform the world’s fastest classical supercomputer by a vast margin, further strengthening Beijing’s push towards quantum supremacy.\nThe results, published on May 13 in the peer-reviewed journal",
       "urgency": "breaking",
@@ -290,7 +416,7 @@
       "link": "https://www.scmp.com/news/china/science/article/3353602/does-chinas-jiuzhang-40-computer-herald-age-quantum-supremacy?utm_source=rss_feed"
     },
     {
-      "id": "news-16",
+      "id": "news-23",
       "headline": "Chinese man earns US$7,400 monthly selling fried rice at night market while dressed in a suit",
       "summary": "A young Chinese man has gone viral for making and selling fried rice wearing a suit at a night market, making 50,000 yuan (US$7,400) a month.\nThe man, surnamed Lu, began running the stall in Yantai in eastern China’s Shandong province when he was 17 and has now become the “backbone” of his family.\nT",
       "urgency": "breaking",
@@ -308,7 +434,7 @@
       "link": "https://www.scmp.com/news/people-culture/trending-china/article/3353392/chinese-man-earns-us7400-monthly-selling-fried-rice-night-market-while-dressed-suit?utm_source=rss_feed"
     },
     {
-      "id": "news-17",
+      "id": "news-24",
       "headline": "Romanian metal, Australian star Delta Goodrem qualify for Eurovision grand final",
       "summary": "Romanian metal, a Danish club anthem and Australian singer Delta Goodrem advanced to the Eurovision Song Contest 2026 grand final after Thursday’s second semi-final in Vienna. Albania, Bulgaria, Cyprus, the Czech Republic, Malta, Norway and Ukraine also secured places in Saturday’s final at the Wien",
       "urgency": "info",
@@ -326,7 +452,7 @@
       "link": "https://www.france24.com/en/culture/20260515-romanian-metal-australian-delta-goodrem-qualify-eurovision-final"
     },
     {
-      "id": "news-18",
+      "id": "news-25",
       "headline": "&apos;Floating armoury&apos; seized by Iranian military in Gulf of Oman",
       "summary": "&apos;Floating armoury&apos; seized by Iranian military in Gulf of Oman",
       "urgency": "info",
@@ -344,7 +470,7 @@
       "link": "https://gulfnews.com/world/mena/floating-armouryseized-by-iranian-military-in-gulf-1.500541100"
     },
     {
-      "id": "news-19",
+      "id": "news-26",
       "headline": "Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry",
       "summary": "As part of a public inquiry into the massacre at Bondi Beach, dozens have described being targeted for their Jewish identity in their daily lives.",
       "urgency": "breaking",
@@ -362,11 +488,11 @@
       "link": "https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html"
     },
     {
-      "id": "news-20",
-      "headline": "Xi-Trump summit live: Trump says Xi wants to assist US on Iran",
+      "id": "news-27",
+      "headline": "Xi-Trump summit live: Trump talks student exchange, G2 and deals with China",
       "summary": "This live article is freely available to our registered users. Please log in or create an account below.\nUnrivalled Xi-Trump summit analysis: get real-time updates and exclusive boots-on-the-ground reporting from our Beijing and Washington bureaus. Subscribe now with great savings to stay ahead.\nOn ",
       "urgency": "important",
-      "topic": "middle-east",
+      "topic": "general",
       "sources": [
         {
           "name": "SCMP",
@@ -380,7 +506,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3353622/xi-trump-talks-live-leaders-set-meet-again-over-tea-and-working-lunch?utm_source=rss_feed"
     },
     {
-      "id": "news-21",
+      "id": "news-28",
       "headline": "CIA director has met officials in Havana for talks, Cuba claims",
       "summary": "&lt;p&gt;Visit comes after US-Cuba relations deteriorated significantly, and as the island nation declared it had ‘absolutely no fuel’ because of US blockade&lt;/p&gt;&lt;p&gt;CIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improve dialogue between the US and the co",
       "urgency": "info",
@@ -398,7 +524,7 @@
       "link": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims"
     },
     {
-      "id": "news-22",
+      "id": "news-29",
       "headline": "\"Why did the military prioritize Erika\": Candace Owens claims Erika Kirk’s emotional WHCD shooting clip was strategically amplified",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131105498.cms\" /&gt;<![CDATA[Candace Owens claimed the White House Military Office helped amplify a viral video of Erika Kirk emotionally leaving the White House Corres",
       "urgency": "info",
@@ -416,7 +542,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/why-did-the-military-prioritize-erika-candace-owens-claims-erika-kirks-emotional-whcd-shooting-clip-was-strategically-amplified/articleshow/131105498.cms"
     },
     {
-      "id": "news-23",
+      "id": "news-30",
       "headline": "Eurovision braces for new protests over Israel’s participation",
       "summary": "Eurovision is heading towards its grand final, but organisers are bracing for more demonstrations against Israel.",
       "urgency": "breaking",
@@ -434,7 +560,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
     },
     {
-      "id": "news-24",
+      "id": "news-31",
       "headline": "Who is Chud the Builder? Controversial creator Dalton Eatherly linked to viral chaos and Tennessee shooting investigation",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131105600.cms\" /&gt;<![CDATA[Dalton Eatherly, known online as “Chud the Builder,” became famous for controversial livestreams, rage-bait videos, and disruptive public b",
       "urgency": "info",
@@ -452,7 +578,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-chud-the-builder-controversial-creator-dalton-eatherly-linked-to-viral-chaos-and-tennessee-shooting-investigation/articleshow/131105600.cms"
     },
     {
-      "id": "news-25",
+      "id": "news-32",
       "headline": "UK in 'political turmoil: Labour MPs openly question whether Labour will survive as political force'",
       "summary": "At a moment of profound instability in British politics, with the Labour Party engulfed by internal revolt, François Picard welcomes Owen Jones, British author, Guardian columnist and political commentator. He offers an unsparing diagnosis of a political movement at a crossroads. “The country is in ",
       "urgency": "info",
@@ -470,7 +596,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260515-uk-in-political-turmoil-labour-mps-openly-question-whether-labour-will-survive-as-political-force"
     },
     {
-      "id": "news-26",
+      "id": "news-33",
       "headline": "Russian scientists patent AI solution for rock mechanics",
       "summary": "Russian scientists patent AI solution for rock mechanics",
       "urgency": "info",
@@ -488,7 +614,7 @@
       "link": "https://gulfnews.com/world/europe/russian-scientists-patent-ai-solution-for-rock-mechanics-1.500540929"
     },
     {
-      "id": "news-27",
+      "id": "news-34",
       "headline": "Justice Dept alleges Yale bias against white, Asian applicants",
       "summary": "Justice Dept alleges Yale bias against white, Asian applicants",
       "urgency": "info",
@@ -506,7 +632,7 @@
       "link": "https://gulfnews.com/world/americas/justice-dept-alleges-yale-bias-against-white-asian-applicants-1.500541032"
     },
     {
-      "id": "news-28",
+      "id": "news-35",
       "headline": "Iranian Foreign Minister urges BRICS unity against &apos;US bullying&apos;",
       "summary": "Iranian Foreign Minister Seyed Abbas Araghchi, on Thursday at the BRICS Foreign Ministers&apos; Meeting, called for countries to unite against American bullying, arguing that such practices must be consigned to the &quot;dustbin of history.&quot;",
       "urgency": "info",
@@ -524,7 +650,7 @@
       "link": "https://gulfnews.com/world/asia/iranian-foreign-minister-urges-brics-unity-against-us-bullying-1.500541079"
     },
     {
-      "id": "news-29",
+      "id": "news-36",
       "headline": "Who is Empath Chan? Controversial streamer shuts down viral death rumors with blunt response",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131105466.cms\" /&gt;<![CDATA[Empath Chan responded after fake rumors about her death spread across X following a parody post claiming she died from a drug overdose. She",
       "urgency": "info",
@@ -542,7 +668,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-empath-chan-controversial-streamer-shuts-down-viral-death-rumors-with-blunt-response/articleshow/131105466.cms"
     },
     {
-      "id": "news-30",
+      "id": "news-37",
       "headline": "Australia’s housing affordability expected to worsen and homelessness soar under fossil-fuelled future",
       "summary": "&lt;p&gt;Rents will rise and homelessness quadruple in a decade unless serious steps to cut emissions are taken, University of Sydney researchers find&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-alban",
       "urgency": "breaking",
@@ -560,7 +686,7 @@
       "link": "https://www.theguardian.com/environment/2026/may/15/australia-housing-affordability-homelessness-fossil-fuel-future-research"
     },
     {
-      "id": "news-31",
+      "id": "news-38",
       "headline": "With proposed FTA, Asean set to be ‘central’ in Canada’s trade diversification",
       "summary": "Canada’s proposed free-trade agreement with Asean could help the region expand its sectors ranging from mining to manufacturing and boost Ottawa’s aim to lessen its dependence on the US as both sides seek to accelerate economic diversification, according to analysts.\nCanadian International Trade Min",
       "urgency": "info",
@@ -578,7 +704,7 @@
       "link": "https://www.scmp.com/week-asia/economics/article/3353598/proposed-fta-asean-set-be-central-canadas-trade-diversification?utm_source=rss_feed"
     },
     {
-      "id": "news-32",
+      "id": "news-39",
       "headline": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
       "summary": "Iran&#039;s foreign minister said Iranians &#039;never bow to pressure&#039;, and there is no military solution to issues with Tehran.",
       "urgency": "breaking",
@@ -596,7 +722,7 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
     },
     {
-      "id": "news-33",
+      "id": "news-40",
       "headline": "Canada is welcome to join Eurovision, says song contest director",
       "summary": "&lt;p&gt;‘We know that Mark Carney wants to sort of embrace Europe,’ says competition director Martin Green&lt;/p&gt;&lt;p&gt;Canada is welcome to join Eurovision if it wishes, its director has said, months after the country revealed it wanted to “explore” joining the song contest in its federal bud",
       "urgency": "info",
@@ -614,7 +740,7 @@
       "link": "https://www.theguardian.com/tv-and-radio/2026/may/15/canada-eurovision-song-contest"
     },
     {
-      "id": "news-34",
+      "id": "news-41",
       "headline": "Haiti gang clashes kill at least 78 in Port-au-Prince suburbs, UN says",
       "summary": "Clashes between rival gangs in the suburbs of Haiti’s capital have killed at least 78 people and wounded 66 since Saturday, the United Nations office in Haiti said on Thursday. The toll included 10 civilians. Haiti, the Caribbean’s poorest country, has faced spiralling gang violence and worsening in",
       "urgency": "breaking",
@@ -632,7 +758,7 @@
       "link": "https://www.france24.com/en/americas/20260514-haiti-gang-clashes-port-au-prince-suburbs-78-dead-un"
     },
     {
-      "id": "news-35",
+      "id": "news-42",
       "headline": "Saif bin Zayed leads UAE delegation at GCC Interior Ministers’ emergency meeting in Riyadh",
       "summary": "Saif bin Zayed leads UAE delegation at GCC Interior Ministers’ emergency meeting in Riyadh",
       "urgency": "info",
@@ -650,7 +776,7 @@
       "link": "https://gulfnews.com/world/gulf/saif-bin-zayed-leads-uae-delegation-at-gcc-interior-ministers-emergency-meeting-in-riyadh-1.500540840"
     },
     {
-      "id": "news-36",
+      "id": "news-43",
       "headline": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
       "summary": "Protesters have demanded the resignation of President Rodrigo Paz, who was elected on a platform of economic reform.",
       "urgency": "breaking",
@@ -668,7 +794,7 @@
       "link": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss"
     },
     {
-      "id": "news-37",
+      "id": "news-44",
       "headline": "‘Stone-cold racism’: Newsom condemns GOP redistricting efforts; Louisiana approves plan to erase majority-Black district – as it happened",
       "summary": "&lt;p&gt;This live blog is now closed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;amp;utm_campaign=BN22326&amp;amp;utm_conte",
       "urgency": "breaking",
@@ -686,7 +812,7 @@
       "link": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news"
     },
     {
-      "id": "news-38",
+      "id": "news-45",
       "headline": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
       "summary": "A UN humanitarian convoy delivering aid to the city of Kherson was hit twice by drones.",
       "urgency": "breaking",
@@ -704,7 +830,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss"
     },
     {
-      "id": "news-39",
+      "id": "news-46",
       "headline": "Could Hormuz make Iran rich? Military says &apos;Yes&apos; — Here&apos;s what experts say",
       "summary": "Could Hormuz make Iran rich? Military says &apos;Yes&apos; — Here&apos;s what experts say",
       "urgency": "info",
@@ -722,7 +848,7 @@
       "link": "https://gulfnews.com/world/mena/could-hormuz-make-iran-rich-military-says-yes-heres-what-experts-say-1.500539630"
     },
     {
-      "id": "news-40",
+      "id": "news-47",
       "headline": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdS1VLUlObWhlMHR4U2FOQjIyckJsT0h2MDc2REtxUUlxZGhiV3JZZGdYWGI2X0ttbUJheThuSGJqeVM4SzdBeUItYXpMWjFXVVZJYXlsQjdITEdmeFk0eWVyT280SmdIR2lxNVhJdVNGWlpsWjBrTGhRU3Vacjg?oc=5\" target=\"_blank\"&gt;Live Updates: Latest from Israel, Iran, and Middle",
       "urgency": "info",
@@ -740,7 +866,7 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdS1VLUlObWhlMHR4U2FOQjIyckJsT0h2MDc2REtxUUlxZGhiV3JZZGdYWGI2X0ttbUJheThuSGJqeVM4SzdBeUItYXpMWjFXVVZJYXlsQjdITEdmeFk0eWVyT280SmdIR2lxNVhJdVNGWlpsWjBrTGhRU3Vacjg?oc=5"
     },
     {
-      "id": "news-41",
+      "id": "news-48",
       "headline": "Why did Hongkongers queue round the clock for a new watch?",
       "summary": "Long lines stretching across several blocks have formed in Hong Kong as shoppers turned up days ahead of the launch of the “Royal Pop” pocket watches – a collaboration between luxury watchmaker Audemars Piguet and Swatch.\nA South China Morning Post reporter observed about 50 people queuing in Causew",
       "urgency": "info",
@@ -758,10 +884,10 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353607/hongkongers-queue-round-clock-new-swatch-audemars-piguet-collection?utm_source=rss_feed"
     },
     {
-      "id": "news-42",
-      "headline": "First day of Lebanon-Israel ceasefire talks ‘positive’, US official says",
-      "summary": "The US hailed “positive talks” on Thursday, as it sought to extend a shaky ceasefire between Israel and Lebanon.\nThe truce – considered to still be in place despite hundreds of deaths in Israeli strikes – ends on Sunday and violence again flared as the two governments met in Washington.\nIsrael has p",
-      "urgency": "breaking",
+      "id": "news-49",
+      "headline": "US casts first day of Israel-Lebanon talks as ‘positive’",
+      "summary": "The United States cast Israel-Lebanon talks held in Washington ⁠on Thursday as “productive and positive” and a State Department official said more discussions aimed at ending their conflict will continue on Friday.\nA senior Lebanese official said earlier that Lebanon will demand that US ally Israel ",
+      "urgency": "info",
       "topic": "middle-east",
       "sources": [
         {
@@ -776,7 +902,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3353618/first-day-lebanon-israel-ceasefire-talks-positive-us-official-says?utm_source=rss_feed"
     },
     {
-      "id": "news-43",
+      "id": "news-50",
       "headline": "Masdar, RWE receive planning permission for 3GW Dogger Bank South offshore wind farm projects",
       "summary": "Masdar, RWE receive planning permission for 3GW Dogger Bank South offshore wind farm projects",
       "urgency": "info",
@@ -794,7 +920,7 @@
       "link": "https://gulfnews.com/business/energy/masdar-rwe-receive-planning-permission-for-3gw-dogger-bank-south-offshore-wind-farm-projects-1.500540771"
     },
     {
-      "id": "news-44",
+      "id": "news-51",
       "headline": "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
       "summary": "The comments came as a US delegation led by CIA Director John Ratcliffe met Cuban officials in Havana on Thursday.",
       "urgency": "important",
@@ -812,7 +938,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss"
     },
     {
-      "id": "news-45",
+      "id": "news-52",
       "headline": "“We no longer have free speech”: Sneako compares Chud the Builder backlash to Charlie Kirk debate after shocking Tennessee arrest case",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131105307.cms\" /&gt;<![CDATA[Sneako reacted strongly after Chud the Builder’s Tennessee arrest, calling it a dangerous moment for free speech rights. Meanwhile, authori",
       "urgency": "info",
@@ -830,7 +956,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/we-no-longer-have-free-speech-sneako-compares-chud-the-builder-backlash-to-charlie-kirk-debate-after-shocking-tennessee-arrest-case/articleshow/131105307.cms"
     },
     {
-      "id": "news-46",
+      "id": "news-53",
       "headline": "UAE expresses solidarity with India, conveys condolences over storm victims",
       "summary": "UAE expresses solidarity with India, conveys condolences over storm victims",
       "urgency": "info",
@@ -848,7 +974,7 @@
       "link": "https://gulfnews.com/world/asia/india/uae-expresses-solidarity-with-india-conveys-condolences-over-storm-victims-1.500540921"
     },
     {
-      "id": "news-47",
+      "id": "news-54",
       "headline": "Closing arguments begin in Elon Musk’s landmark lawsuit against OpenAI",
       "summary": "Elon Musk accuses OpenAI of breaching charitable trust and prioritising profit over AI safety and nonprofit values.",
       "urgency": "info",
@@ -866,7 +992,7 @@
       "link": "https://www.aljazeera.com/economy/2026/5/14/closing-arguments-begin-in-elon-musks-landmark-lawsuit-against-openai?traffic_source=rss"
     },
     {
-      "id": "news-48",
+      "id": "news-55",
       "headline": "The US-China trade war is entering a worrying new phase: a legal arms race",
       "summary": "US President Donald Trump’s landmark visit to China comes as the US-Iran war disrupts global energy supplies, fuels economic uncertainty and adds fresh strain to Washington-Beijing ties. In the latest instalment of a series examining how rivalry, interdependence and geopolitical crises are reshaping",
       "urgency": "breaking",
@@ -884,7 +1010,7 @@
       "link": "https://www.scmp.com/economy/china-economy/article/3353567/us-china-trade-war-entering-worrying-new-phase-legal-arms-race?utm_source=rss_feed"
     },
     {
-      "id": "news-49",
+      "id": "news-56",
       "headline": "CIA director visits Cuba, as island runs out of oil",
       "summary": "CIA Director John Ratcliffe met with Cuban officials in Havana on Thursday, the communist government said, as the island endures record energy shortages.\nThe visit comes at a low moment in US-Cuba relations, after Washington imposed a fuel blockade on its neighbour in January and US President Donald",
       "urgency": "important",
@@ -902,7 +1028,7 @@
       "link": "https://www.scmp.com/news/world/americas/article/3353617/cuba-calls-us-lift-blockade-rather-offer-aid?utm_source=rss_feed"
     },
     {
-      "id": "news-50",
+      "id": "news-57",
       "headline": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
       "summary": "&lt;p&gt;Revelation seen as serious blow to candidacy of Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful&lt;/p&gt;&lt;p&gt;Flávio Bolsonaro, Brazil’s leading rightwing presidential hopeful, has been caught on tape asking a banker accused of corruption for $26.8m (£20m) to fund a fi",
       "urgency": "important",
@@ -920,7 +1046,7 @@
       "link": "https://www.theguardian.com/world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro"
     },
     {
-      "id": "news-51",
+      "id": "news-58",
       "headline": "Cuban government says CIA chief John Ratcliffe met with officials in Havana",
       "summary": "CIA Director John Ratcliffe met Cuban officials in Havana on Thursday in a bid to improve dialogue between Washington and the communist-run island, the Cuban government said. The meeting took place “in a context marked by the complexity of bilateral relations,” Havana said.",
       "urgency": "info",
@@ -938,7 +1064,7 @@
       "link": "https://www.france24.com/en/americas/20260514-cuba-cia-john-ratcliffe-officials-havana"
     },
     {
-      "id": "news-52",
+      "id": "news-59",
       "headline": "Cuba Says It Has Run Out of Oil",
       "summary": "A long-running energy crisis in the island nation reached a breaking point this week, when government officials said they had run out of reserves.",
       "urgency": "breaking",
@@ -956,7 +1082,7 @@
       "link": "https://www.nytimes.com/2026/05/14/world/americas/cuba-oil-energy-crisis.html"
     },
     {
-      "id": "news-53",
+      "id": "news-60",
       "headline": "Eurovision 2026: Delta Goodrem sends Australia to the grand final with note-perfect performance",
       "summary": "&lt;p&gt;There was wind, there was fire, there was Goodrem’s remarkable upper-range – resulting in a refreshingly self-assured offering from Australia&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/tv-and-radio/2026/may/13/best-eurovision-songs-2026-sarah-engels-delta-",
       "urgency": "breaking",
@@ -974,7 +1100,7 @@
       "link": "https://www.theguardian.com/tv-and-radio/2026/may/15/delta-goodrem-eurovision-2026-performance-watch-australia-grand-final-eclipse"
     },
     {
-      "id": "news-54",
+      "id": "news-61",
       "headline": "President Xi warns President Trump that Taiwan tensions could lead to conflict - WISN",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbENlWm80QmhHRkpvZWpScFRuSXdCNUIyRzJkLXc2cVo0eGdMNDNUbTFxSGNnRW5kZ3dmS1Yzd0FVbFN6YzFZWjZ3cl95OGRGWjFUOHJrd1lOUTdZUElWbmE0Zi1PdElzTnZremxvY1QxcnhGNHhWckQ5bFFpQWVObGhkN21OVUxubElpaExfVmZIUQ?oc=5\" target=\"_blank\"&gt;President Xi warns Pres",
       "urgency": "breaking",
@@ -992,7 +1118,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbENlWm80QmhHRkpvZWpScFRuSXdCNUIyRzJkLXc2cVo0eGdMNDNUbTFxSGNnRW5kZ3dmS1Yzd0FVbFN6YzFZWjZ3cl95OGRGWjFUOHJrd1lOUTdZUElWbmE0Zi1PdElzTnZremxvY1QxcnhGNHhWckQ5bFFpQWVObGhkN21OVUxubElpaExfVmZIUQ?oc=5"
     },
     {
-      "id": "news-55",
+      "id": "news-62",
       "headline": "What Brics lacks in unity, it makes up for in flexibility",
       "summary": "In recent years, the Brics grouping has attracted attention as it adds members and positions itself as the voice of the Global South. At a Brics forum held in Beijing last month, officials discussed expanding trade within the grouping. Such initiatives reflect both an impulse to reduce exposure to e",
       "urgency": "info",
@@ -1010,7 +1136,7 @@
       "link": "https://www.scmp.com/opinion/china-opinion/article/3353220/what-brics-lacks-unity-it-makes-flexibility?utm_source=rss_feed"
     },
     {
-      "id": "news-56",
+      "id": "news-63",
       "headline": "From searching for stars to finding Wi-Fi: The failed radar experiment that changed the world",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131097510.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1028,25 +1154,7 @@
       "link": "https://timesofindia.indiatimes.com/science/from-searching-for-stars-to-finding-wi-fi-the-failed-radar-experiment-that-changed-the-world/articleshow/131097510.cms"
     },
     {
-      "id": "news-57",
-      "headline": "Air Arabia reports Dh278 million net profit for Q1 2026",
-      "summary": "Air Arabia reports AED 278 million net profit for Q1 2026",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-14T21:22:23.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/business/aviation/air-arabia-reports-dh278-million-net-profit-for-q1-2026-1.500540893"
-    },
-    {
-      "id": "news-58",
+      "id": "news-64",
       "headline": "Photo of US-China delegation criticized over absence of women: ‘masculine, militarized and exclusionary’",
       "summary": "&lt;p&gt;‘Backward’ photo panned for display of patriarchy, signaling that ‘women’s voices don’t matter in shaping global order’&lt;/p&gt;&lt;p&gt;By the time Donald Trump and Xi Jinping met at Beijing’s Great Hall of the People on Thursday, the bilateral had featured all the expected pomp and pagea",
       "urgency": "breaking",
@@ -1064,7 +1172,7 @@
       "link": "https://www.theguardian.com/world/2026/may/14/us-china-delegation-photo-no-women"
     },
     {
-      "id": "news-59",
+      "id": "news-65",
       "headline": "Africom Commander Says Continent at 'Crossroads' of Global Commerce, Security",
       "summary": "Air Force Gen. Dagvin R.M. Anderson, commander of U.S. Africa Command, told Congress that as Africa ascends on the world stage, it faces a precarious situation due to bad actors operating throughout the region.",
       "urgency": "info",
@@ -1082,7 +1190,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4487504/africom-commander-says-continent-at-crossroads-of-global-commerce-security/"
     },
     {
-      "id": "news-60",
+      "id": "news-66",
       "headline": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says",
       "summary": "They were passengers on a plane to Johannesburg with an infected Dutch woman who later died.",
       "urgency": "info",
@@ -1100,7 +1208,7 @@
       "link": "https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html"
     },
     {
-      "id": "news-61",
+      "id": "news-67",
       "headline": "Brazilian influencer on the run after fleeing sentencing in fatal road crash case",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131103034.cms\" /&gt;<![CDATA[A Brazilian influencer, Rosa Iberê Tavares Dantas, has become a fugitive after fleeing the country before beginning a three-year prison sen",
       "urgency": "breaking",
@@ -1118,7 +1226,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/brazilian-influencer-on-the-run-after-fleeing-sentencing-in-fatal-road-crash-case/articleshow/131103034.cms"
     },
     {
-      "id": "news-62",
+      "id": "news-68",
       "headline": "Why a Bill Gates-backed insect factory releases 30 million mosquitoes every week",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131103011.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1136,7 +1244,7 @@
       "link": "https://timesofindia.indiatimes.com/science/why-a-bill-gates-backed-insect-factory-releases-30-million-mosquitoes-every-week/articleshow/131103011.cms"
     },
     {
-      "id": "news-63",
+      "id": "news-69",
       "headline": "“He’s texting some hot actress”: Candace Owens reacts after Brigitte Macron slap claims shock France again",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131103036.cms\" /&gt;<![CDATA[Candace Owens reacted after a new book claimed Brigitte Macron slapped Emmanuel Macron over alleged messages to actress Golshifteh Farahani",
       "urgency": "info",
@@ -1154,7 +1262,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/hes-texting-some-hot-actress-candace-owens-reacts-after-brigitte-macron-slap-claims-shock-france-again/articleshow/131103036.cms"
     },
     {
-      "id": "news-64",
+      "id": "news-70",
       "headline": "Glitz and Boycotts at Eurovision",
       "summary": "The song contest has camp, glitter and pyrotechnics. And, this year, protests over Israel’s participation.",
       "urgency": "important",
@@ -1172,7 +1280,7 @@
       "link": "https://www.nytimes.com/2026/05/14/world/eurovision-israel-boycotts-china.html"
     },
     {
-      "id": "news-65",
+      "id": "news-71",
       "headline": "Abu Dhabi 'doesn't want to appear too much in cooperation with Israel', analyst says",
       "summary": "A renewed escalation in the Strait of Hormuz saw the seizure on Thursday of a ship anchored off the Unites Arab Emirates coast. Earlier Prime Minister Benjamin Netanyahu had announced he had quietly visited the UAE during the Israeli-U.S. war with Iran, though the UAE swiftly denied that any secret ",
       "urgency": "breaking",
@@ -1190,7 +1298,7 @@
       "link": "https://www.france24.com/en/tv-shows/a-propos/20260514-abu-dhabi-doesn-t-want-to-appear-too-much-in-cooperation-with-israel-analyst-says"
     },
     {
-      "id": "news-66",
+      "id": "news-72",
       "headline": "Could Iran war trigger a hunger crisis?",
       "summary": "The UN warns disruptions in the Strait of Hormuz could drive up food and fertiliser costs, and worsen global hunger.",
       "urgency": "breaking",
@@ -1208,7 +1316,7 @@
       "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss"
     },
     {
-      "id": "news-67",
+      "id": "news-73",
       "headline": "Centcom Commander Says Epic Fury Crippled Iran, Enhanced Military Partnerships in Region",
       "summary": "Since the launch of Operation Epic Fury, American forces in the U.S. Central Command area of operations crippled Iran's military and its ability to project power, according to War Department leaders.",
       "urgency": "breaking",
@@ -1226,7 +1334,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4487365/centcom-commander-says-epic-fury-crippled-iran-enhanced-military-partnerships-i/"
     },
     {
-      "id": "news-68",
+      "id": "news-74",
       "headline": "‘China is gaining from what the US is doing in Iran’",
       "summary": "Geopolitical analyst Steve Okun says says China is benefiting from the war on Iran.",
       "urgency": "breaking",
@@ -1244,7 +1352,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss"
     },
     {
-      "id": "news-69",
+      "id": "news-75",
       "headline": "Border Patrol chief Mike Banks resigns in latest Trump immigration shakeup",
       "summary": "The US Department of Homeland Security has seen several high-profile departures, including Todd Lyons and Kristi Noem.",
       "urgency": "info",
@@ -1262,7 +1370,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/14/border-patrol-chief-mike-banks-resigns-in-latest-trump-immigration-shakeup?traffic_source=rss"
     },
     {
-      "id": "news-70",
+      "id": "news-76",
       "headline": "Five Italians die during cave dive in Maldives",
       "summary": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
       "urgency": "info",
@@ -1280,7 +1388,7 @@
       "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-71",
+      "id": "news-77",
       "headline": "China restores US beef trade amid Trump-Xi summit, alarming Brazilian exporters",
       "summary": "Brazil’s government expressed concern over China’s renewal of US beef import licences, warning the move could reshape competition in the country’s largest meat export market.\nA senior Brazilian government official told the South China Morning Post that the renewal brought “anxiety” to the sector and",
       "urgency": "breaking",
@@ -1298,7 +1406,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3353616/china-restores-us-beef-trade-amid-trump-xi-summit-alarming-brazilian-exporters?utm_source=rss_feed"
     },
     {
-      "id": "news-72",
+      "id": "news-78",
       "headline": "5 massive pyramids still standing today: Why the largest one is not in Egypt",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131084431.cms\" /&gt;<![CDATA[Ancient pyramids are often associated with Egypt. However, the largest pyramid ever built is in Mexico. The Great Pyramid of Cholula, known",
       "urgency": "breaking",
@@ -1316,7 +1424,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/5-massive-pyramids-still-standing-today-why-the-largest-one-is-not-in-egypt/articleshow/131084431.cms"
     },
     {
-      "id": "news-73",
+      "id": "news-79",
       "headline": "Cuba runs out of fuel, diesel amid US blockade",
       "summary": "Cuba has run out of fuel and diesel, as the US blockade plunges the island deeper into an energy crisis. The government is now considering a renewed offer of aid from the Trump administration - but that financing would come with conditions. Also in the show - US President Donald Trump announces Chin",
       "urgency": "important",
@@ -1334,7 +1442,7 @@
       "link": "https://www.france24.com/en/cuba-runs-out-of-fuel-diesel-amid-us-blockade"
     },
     {
-      "id": "news-74",
+      "id": "news-80",
       "headline": "Yale medical school discriminated against Asian and White applicants, claims Trump administration",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131102904.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1352,7 +1460,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/yale-medical-school-discriminated-against-asian-and-white-applicants-claims-trump-administration/articleshow/131102904.cms"
     },
     {
-      "id": "news-75",
+      "id": "news-81",
       "headline": "Trump’s and Xi’s Body Language at the Summit Mirrored Their Styles",
       "summary": "Although at odds over issues like trade and Taiwan, the U.S. and Chinese leaders met in Beijing with a show of friendly gestures.",
       "urgency": "important",
@@ -1370,7 +1478,7 @@
       "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html"
     },
     {
-      "id": "news-76",
+      "id": "news-82",
       "headline": "Cautious optimism in Lebanon as direct talks with Israel progress",
       "summary": "Lebanese officials are hoping that two-day ambassador-level negotiations in the US will yield a new ceasefire deal.",
       "urgency": "breaking",
@@ -1388,7 +1496,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss"
     },
     {
-      "id": "news-77",
+      "id": "news-83",
       "headline": "Iran’s FM urges BRICS states to condemn US-Israeli aggression",
       "summary": "Iran’s Foreign Minister, Abbas Araghchi, spoke at a gathering of foreign ministers in New Delhi on Thursday.",
       "urgency": "info",
@@ -1406,7 +1514,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss"
     },
     {
-      "id": "news-78",
+      "id": "news-84",
       "headline": "Nobel winner Mukwege warns of predatory US deal for DR Congo",
       "summary": "In tonight's edition, Congolese Nobel laureate Denis Mukwege slams the US-brokered peace deal in eastern DRC as predatory. Also, once dominant in Senegal’s economy, France is now being overtaken  as China and Turkey emerge as the country’s leading investors. And we take a squint at the stellar caree",
       "urgency": "breaking",
@@ -1424,7 +1532,7 @@
       "link": "https://www.france24.com/en/nobel-winner-mukwege-warns-of-predatory-us-deal-for-dr-congo"
     },
     {
-      "id": "news-79",
+      "id": "news-85",
       "headline": "Indian-origin doctor under probe for 'birth tourism' in San Jose: 'Foreign expectant mothers get extra service'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131102782.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1442,7 +1550,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-doctor-under-probe-for-birth-tourism-in-san-jose-foreign-expectant-mothers-get-extra-service/articleshow/131102782.cms"
     },
     {
-      "id": "news-80",
+      "id": "news-86",
       "headline": "Mbappé heads up France squad in Deschamps' final World Cup bid",
       "summary": "Kylian Mbappé will lead France’s bid for World Cup glory after coach Didier Deschamps named a largely unchanged 26-man squad Thursday for this summer’s tournament in the United States, Canada and Mexico. Mbappé, recovering from a thigh injury suffered during Real Madrid’s title run-in, is still expe",
       "urgency": "info",
@@ -1460,7 +1568,7 @@
       "link": "https://www.france24.com/en/sport/20260514-mbapp%C3%A9-heads-france-squad-in-deschamps-final-world-cup-bid"
     },
     {
-      "id": "news-81",
+      "id": "news-87",
       "headline": "Palestinian President Abbas pledges elections, reform at Fatah conference",
       "summary": "Palestinian Authority President Mahmoud Abbas has been unanimously re-elected leader of the Fatah movement.",
       "urgency": "important",
@@ -1478,7 +1586,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss"
     },
     {
-      "id": "news-82",
+      "id": "news-88",
       "headline": "Macron ‘slap’ was sparked by texts with Iranian actress, book claims",
       "summary": "An AI-generated tabloid magazine cover online claimed to show President Emmanuel Macron and Iranian-French actress Golshifteh Farahani together. The fake cover builds on claims from a new book about the Macrons by a French journalist, who alleges the pair had a “platonic” relationship, of which the ",
       "urgency": "info",
@@ -1496,7 +1604,7 @@
       "link": "https://www.france24.com/en/macron-s-alleged-slap-was-sparked-by-texts-with-iranian-actress-book-claims"
     },
     {
-      "id": "news-83",
+      "id": "news-89",
       "headline": "Streamer ChudTheBuilder charged with attempted murder after Tennessee courthouse shooting",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131102727.cms\" /&gt;<![CDATA[Clarksville streamer Dalton Eatherly, also known as ChudTheBuilder, faces attempted murder charges after a violent confrontation outside a ",
       "urgency": "info",
@@ -1514,7 +1622,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/streamer-chudthebuilder-charged-with-attempted-murder-after-tennessee-courthouse-shooting/articleshow/131102727.cms"
     },
     {
-      "id": "news-84",
+      "id": "news-90",
       "headline": "US tourist arrested for allegedly throwing rock at endangered Hawaiian monk seal",
       "summary": "A tourist from Washington state is facing federal charges after a witness recorded what prosecutors say was a video of him hurling a coconut-sized rock at an endangered Hawaiian monk seal just off a Maui beach last week.\nIgor Mykhaylovych Lytvynchuk, 38, made arrangements to surrender in the Seattle",
       "urgency": "info",
@@ -1532,7 +1640,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3353615/us-tourist-arrested-allegedly-throwing-rock-endangered-hawaiian-monk-seal?utm_source=rss_feed"
     },
     {
-      "id": "news-85",
+      "id": "news-91",
       "headline": "Air Force Reserve Wing Assists in Downed Aircraft Rescue off Florida Coast",
       "summary": "Air Force Reserve airmen assigned to the 920th Rescue Wing assisted in the rescue of 11 survivors from a downed civilian aircraft in the Atlantic Ocean about 80 miles east of Melbourne, Fla.",
       "urgency": "info",
@@ -1550,7 +1658,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4486918/air-force-reserve-wing-assists-in-downed-aircraft-rescue-off-florida-coast/"
     },
     {
-      "id": "news-86",
+      "id": "news-92",
       "headline": "Mbappe and Dembele head up star-studded France World Cup squad",
       "summary": "Kylian Mbappe will spearhead France at the World Cup as national team coach Didier Deschamps announces his 26-man squad.",
       "urgency": "info",
@@ -1568,7 +1676,7 @@
       "link": "https://www.aljazeera.com/sports/2026/5/14/mbappe-and-dembele-head-up-star-studded-france-world-cup-squad?traffic_source=rss"
     },
     {
-      "id": "news-87",
+      "id": "news-93",
       "headline": "Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say",
       "summary": "The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.",
       "urgency": "breaking",
@@ -1586,7 +1694,7 @@
       "link": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
     },
     {
-      "id": "news-88",
+      "id": "news-94",
       "headline": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
       "summary": "As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained?",
       "urgency": "breaking",
@@ -1604,7 +1712,7 @@
       "link": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss"
     },
     {
-      "id": "news-89",
+      "id": "news-95",
       "headline": "Huppert, Cassel and Sandra Hüller light up Cannes 2026 as Farhadi and Pawlikowski premiere new films",
       "summary": "The stars are out in force on the Croisette tonight as Asghar Farhadi unveils 'Parallel Tales', bringing together an extraordinary French cast including Virginie Efira, Pierre Niney, Isabelle Huppert, Vincent Cassel and a special appearance from Catherine Deneuve. Meanwhile, Paweł Pawlikowski return",
       "urgency": "info",
@@ -1622,7 +1730,7 @@
       "link": "https://www.france24.com/en/video/20260514-huppert-cassel-and-sandra-h%C3%BCller-light-up-cannes-2026-as-farhadi-and-pawlikowski-premiere-new-films"
     },
     {
-      "id": "news-90",
+      "id": "news-96",
       "headline": "The trillion-dollar asteroid: NASA is chasing an asteroid that contains more gold than exists on Earth",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131102249.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1640,7 +1748,7 @@
       "link": "https://timesofindia.indiatimes.com/science/the-trillion-dollar-asteroid-nasa-is-chasing-an-asteroid-that-contains-more-gold-than-exists-on-earth/articleshow/131102249.cms"
     },
     {
-      "id": "news-91",
+      "id": "news-97",
       "headline": "Russia pummels Kyiv, killing at least 10 as advance in the east slows",
       "summary": "Russia pummelled Kyiv for hours early on Thursday, firing hundreds of drones and dozens of missiles in an attack that killed at least 10 people and further shredded hopes of a halt to Moscow's grinding invasion. FRANCE 24's August Hakansson reports.",
       "urgency": "breaking",
@@ -1658,7 +1766,7 @@
       "link": "https://www.france24.com/en/russia-pummels-kyiv-killing-at-least-10-as-advance-in-the-east-slows"
     },
     {
-      "id": "news-92",
+      "id": "news-98",
       "headline": "'A desire to lower the temperature on both sides', expert says as Trump meets Xi",
       "summary": "Presidents Xi Jinping and Donald Trump started a crucial series of meetings in Beijing on Thursday in the U.S.-China summit. Speaking with FRANCE 24's Mark Owen, Garret Martin, Lecturer and Co-Director Transatlantic Policy Center at the American University School of International Service, says that ",
       "urgency": "important",
@@ -1676,7 +1784,7 @@
       "link": "https://www.france24.com/en/a-desire-to-lower-the-temperature-on-both-sides-expert-says-as-trump-meets-xi"
     },
     {
-      "id": "news-93",
+      "id": "news-99",
       "headline": "US Air Force rescues 11 after plane crashes into waters off Florida coast",
       "summary": "US Air Force footage showed the rescue of 11 people after a private plane crashed into the Atlantic Ocean",
       "urgency": "info",
@@ -1692,114 +1800,6 @@
       "timestamp": "2026-05-14T19:16:59.000Z",
       "widgetType": "news",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss"
-    },
-    {
-      "id": "news-94",
-      "headline": "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’",
-      "summary": "China’s leader made clear his top priority is the fate of the contested island and its U.S. military support, a striking move given President Donald Trump’s effort to mend ties and deliver trade deals.",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Washington Post",
-          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
-          "url": "https://washingtonpost.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-14T19:07:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.washingtonpost.com/politics/2026/05/14/trump-chinas-xi-hold-opening-session-two-day-summit/"
-    },
-    {
-      "id": "news-95",
-      "headline": "What does the US hope to achieve from Lebanon-Israel talks?",
-      "summary": "As Israeli attacks on Lebanon continue, Hezbollah opposes ceasefire talks in Washington.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-14T19:00:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss"
-    },
-    {
-      "id": "news-96",
-      "headline": "Iran expands tiered internet access amid continued online blackout",
-      "summary": "Iranians have had limited internet access during the war, with the government now looking at tiered services.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-14T19:00:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
-    },
-    {
-      "id": "news-97",
-      "headline": "US Border Patrol chief resigns, in latest Trump team shake-up",
-      "summary": "The head of US Border Patrol, the agency tasked with securing the nation’s frontiers and increasingly tapped by the Trump administration for immigration operations in American cities, announced his resignation Thursday.\nMichael Banks’ decision, announced in a Fox News interview and later confirmed b",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-14T18:56:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3353613/us-border-patrol-chief-resigns-latest-trump-team-shake?utm_source=rss_feed"
-    },
-    {
-      "id": "news-98",
-      "headline": "Nigel Farage, Leader of Reform UK, Says £5 Million Gift Was ‘Reward’ for Brexit",
-      "summary": "Nigel Farage, the leader of the populist right-wing party, had previously said the money was for personal security.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-14T18:50:41.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/14/world/europe/nigel-farage-reform-uk-gift-brexit.html"
-    },
-    {
-      "id": "news-99",
-      "headline": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-      "summary": "&lt;p&gt;Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’&lt;/p&gt;&lt;p&gt;A federal judge has ordered the &lt;a href=\"https://www.theguardian.com/us-news/trump-administration\"&gt;Trump administration&lt;/a&gt; to bring a Colombian woman ba",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-14T18:49:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc"
     }
   ],
   "financials": {
