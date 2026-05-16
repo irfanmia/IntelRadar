@@ -1,26 +1,206 @@
 {
-  "lastUpdated": "2026-05-16T09:50:06.041Z",
+  "lastUpdated": "2026-05-16T10:10:07.369Z",
   "news": [
     {
       "id": "news-0",
-      "headline": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
-      "summary": "An armed Israeli settler blindfolded and detained a Palestinian man in the occupied West Bank.",
+      "headline": "Senior ISIS commander killed by U.S. and Nigerian forces, Trump says",
+      "summary": "Trump said the strike killed Abu-Bilal al-Minuki, whom he described as \"second in command of ISIS globally.\" Nigeria's president said the raid took place at a compound in the Lake Chad basin.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-16T10:06:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/05/16/senior-isis-commander-killed-by-us-nigerian-forces-trump-says/"
+    },
+    {
+      "id": "news-1",
+      "headline": "Man infected with rat hepatitis E, Hong Kong’s first case this year",
+      "summary": "Health authorities are investigating a human case of rat hepatitis E - the first recorded in Hong Kong this year - and have urged the public to observe good hygiene practices and use effective rodent control measures.\nA spokesman for the Centre for Health Protection (CHP) said on Saturday that the c",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T10:03:35.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3353818/man-infected-rat-hepatitis-e-hong-kongs-first-case-year?utm_source=rss_feed"
+    },
+    {
+      "id": "news-2",
+      "headline": "How Taiwan’s Apec attendance could test Beijing’s cross-strait pragmatism",
+      "summary": "Taiwan will send its top trade negotiator to next week’s Asia-Pacific Economic Cooperation (Apec) ministerial meeting in mainland China – a rare occurrence since the two sides cut off official communication in 2016.\nAnalysts said the move suggested both sides were still trying to preserve a workable",
+      "urgency": "info",
+      "topic": "china-taiwan",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T10:00:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/politics/article/3353762/how-taiwans-apec-attendance-could-test-beijings-cross-strait-pragmatism?utm_source=rss_feed"
+    },
+    {
+      "id": "news-3",
+      "headline": "How a Times Reporter Found Cartel Gold at the Royal Canadian Mint",
+      "summary": "A conversation with Justin Scheck, who found that illegal Colombian gold transformed into legal North American gold through bureaucratic sleights of hand, and ended up in Canada.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-16T10:00:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/16/world/canada/cartel-gold-royal-canadian-mint.html"
+    },
+    {
+      "id": "news-4",
+      "headline": "Trump’s China summit shows toll of a difficult year for the president",
+      "summary": "A year ago, the president promised a new era in the first major foreign trip of his second term. Now in Beijing, the war with Iran and economic strain have clouded his diplomacy.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-16T10:00:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/politics/2026/05/16/china-summit-showed-how-trump-problems-hobble-his-diplomacy/"
+    },
+    {
+      "id": "news-5",
+      "headline": "After China-US reset, Putin heads to Beijing for Sino-Russian strategic refresh",
+      "summary": "Russian President Vladimir Putin will travel to the Chinese capital next week to reinforce the Sino-Russian “comprehensive strategic partnership”, just days after a tentative US-China reset.\nBeijing and Moscow announced on Saturday that Putin would visit from May 19 to 20, confirming an earlier repo",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:58:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3353816/after-china-us-reset-putin-heads-beijing-sino-russian-strategic-refresh?utm_source=rss_feed"
+    },
+    {
+      "id": "news-6",
+      "headline": "Rival pro-Palestine, far-right protests in London as 4,000 police deployed",
+      "summary": "Two major protests are taking place on Saturday in London, with the Metropolitan Police warning it may be one of its busiest days in recent years.\nTens of thousands of people are expected to march for Unite the Kingdom, an event arranged by far-right activist Stephen Yaxley-Lennon, better known as T",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:50:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/europe/article/3353815/rival-pro-palestine-far-right-protests-london-4000-police-deployed?utm_source=rss_feed"
+    },
+    {
+      "id": "news-7",
+      "headline": "UAE traffic report: Sudden swerving caused over 1,000 crashes in 2025",
+      "summary": "UAE traffic report: Sudden swerving caused over 1,000 crashes in 2025",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:49:46.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/transport/uae-traffic-report-sudden-swerving-caused-over-1000-crashes-in-2025-1.500542696"
+    },
+    {
+      "id": "news-8",
+      "headline": "Gaza flotilla sails for a third time despite threats: 500 activists depart",
+      "summary": "Ships from the Global Sumud Flotilla set sail for a third time on Thursday from southern Turkey, after earlier attempts to deliver aid to Gaza were intercepted by Israel in international waters.",
       "urgency": "info",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-16T09:37:13.000Z",
+      "timestamp": "2026-05-16T09:41:48.000Z",
       "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss"
+      "link": "https://www.france24.com/en/gaza-flotilla-sails-for-a-third-time-despite-threats-500-activists-depart"
     },
     {
-      "id": "news-1",
+      "id": "news-9",
+      "headline": "UAE says OPEC exit driven by national interests",
+      "summary": "UAE says OPEC exit driven by national interests",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:40:39.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/uae-says-opec-exit-driven-by-national-interests-1.500542698"
+    },
+    {
+      "id": "news-10",
+      "headline": "Ebola outbreak in DR Congo: Over 80 dead, 246 cases reported in Ituri province; health emergency declared",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131134865.cms\" /&gt;<![CDATA[",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:40:01.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/ebola-outbreak-in-dr-congo-over-80-dead-246-cases-reported-in-ituri-province-health-emergency-declared/articleshow/131134865.cms"
+    },
+    {
+      "id": "news-11",
       "headline": "Putin to hold taks with Xi in China days after Trump’s trip to Beijing",
       "summary": "Russian President Vladimir Putin will meet with Chinese leader Xi Jinping during a two-day trip to Beijing next week, the Kremlin said Saturday. The meeting comes days after US President Donald Trump's state visit to China, which ended with warm diplomatic optics but few resolutions to key trade and",
       "urgency": "breaking",
@@ -38,7 +218,25 @@
       "link": "https://www.france24.com/en/asia-pacific/20260516-putin-to-hold-taks-with-xi-in-china-days-after-trump-s-trip-to-beijing"
     },
     {
-      "id": "news-2",
+      "id": "news-12",
+      "headline": "Putin to visit China May 19-20, days after Trump trip",
+      "summary": "Putin to visit China May 19-20, days after Trump trip",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:30:30.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/putin-to-visit-china-may-19-20-days-after-trump-trip-2-1.500542688"
+    },
+    {
+      "id": "news-13",
       "headline": "What do travellers need to know when Hong Kong airport’s Terminal 2 opens?",
       "summary": "The Hong Kong airport’s long-awaited reopening of Terminal 2 will begin later this month, with several airlines set to relocate their check-in operations from Terminal 1 as part of expansion plans linked to the three-runway system.\nThe phased move, starting on May 27, will mainly involve regional an",
       "urgency": "info",
@@ -56,7 +254,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353809/what-do-travellers-need-know-when-hong-kong-airports-terminal-2-opens?utm_source=rss_feed"
     },
     {
-      "id": "news-3",
+      "id": "news-14",
       "headline": "Senior IS leader killed by US and Nigerian forces",
       "summary": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
       "urgency": "breaking",
@@ -74,7 +272,43 @@
       "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-4",
+      "id": "news-15",
+      "headline": "When success isn’t enough: Why this Filipino expat chose Dubai for a second beginning",
+      "summary": "When success isn’t enough: Why this Filipino expat chose Dubai for a second beginning",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:21:31.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/people/when-success-isnt-enough-why-this-filipino-expat-chose-dubai-for-a-second-beginning-1.500542665"
+    },
+    {
+      "id": "news-16",
+      "headline": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5yakE4QmM0TmVrc2VOUE1aQ2VTandrSUl6NVJ5WlpSbC1tOVRWTUpuY25tRVQ5RHNoUU51WV9fS3U5ZWVZMkZtSnRwUzhNbUliaDhlcVNLLS1WNG0tMGNqVzNCZ3U3MlpvSHJkeTk4MjI5S0tha3NuVHN6cEdScjg?oc=5\" target=\"_blank\"&gt;Live Updates: Latest from Israel, Iran, and Middle",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-16T09:19:33.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yakE4QmM0TmVrc2VOUE1aQ2VTandrSUl6NVJ5WlpSbC1tOVRWTUpuY25tRVQ5RHNoUU51WV9fS3U5ZWVZMkZtSnRwUzhNbUliaDhlcVNLLS1WNG0tMGNqVzNCZ3U3MlpvSHJkeTk4MjI5S0tha3NuVHN6cEdScjg?oc=5"
+    },
+    {
+      "id": "news-17",
       "headline": "Meningitis outbreak sparks alarm after student dies and 2 others fall ill in Reading Area",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131134503.cms\" /&gt;<![CDATA[Health authorities are investigating a meningitis outbreak in the Reading and Oxfordshire area after one student died and two others were h",
       "urgency": "info",
@@ -92,25 +326,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/meningitis-outbreak-sparks-alarm-after-student-dies-and-2-others-fall-ill-in-reading-area/articleshow/131134503.cms"
     },
     {
-      "id": "news-5",
-      "headline": "Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5yakE4QmM0TmVrc2VOUE1aQ2VTandrSUl6NVJ5WlpSbC1tOVRWTUpuY25tRVQ5RHNoUU51WV9fS3U5ZWVZMkZtSnRwUzhNbUliaDhlcVNLLS1WNG0tMGNqVzNCZ3U3MlpvSHJkeTk4MjI5S0tha3NuVHN6cEdScjg?oc=5\" target=\"_blank\"&gt;Live Updates: Latest from Israel, Iran, and Middle",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-16T09:13:45.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yakE4QmM0TmVrc2VOUE1aQ2VTandrSUl6NVJ5WlpSbC1tOVRWTUpuY25tRVQ5RHNoUU51WV9fS3U5ZWVZMkZtSnRwUzhNbUliaDhlcVNLLS1WNG0tMGNqVzNCZ3U3MlpvSHJkeTk4MjI5S0tha3NuVHN6cEdScjg?oc=5"
-    },
-    {
-      "id": "news-6",
+      "id": "news-18",
       "headline": "French judge to probe complaint against Saudi’s MBS over journalist Jamal Khashoggi’s killing",
       "summary": "A French investigative magistrate is set to investigate a complaint filed by rights groups against the Kingdom of Saudi Arabia and its crown prince, Mohammed Bin Salman, also known as MBS, over the 2018 assassination of journalist Jamal Khashoggi in the Saudi consulate in Istanbul, according to a so",
       "urgency": "info",
@@ -128,7 +344,7 @@
       "link": "https://www.france24.com/en/france/20260516-french-judge-to-probe-complaint-against-saudi-s-mbs-over-journalist-jamal-khashoggi-s-killing"
     },
     {
-      "id": "news-7",
+      "id": "news-19",
       "headline": "They Fled to Safety in Palestinian Territory, Then Settlers Attacked Again",
       "summary": "Violent settlers are not merely clearing Palestinians from land under Israel’s control. They are attacking areas where Israel agreed to Palestinian self-governance.",
       "urgency": "breaking",
@@ -146,7 +362,7 @@
       "link": "https://www.nytimes.com/2026/05/16/world/middleeast/settler-attacks-palestinians-west-bank.html"
     },
     {
-      "id": "news-8",
+      "id": "news-20",
       "headline": "Britain is losing the ability to tell anti-Semitism from dissent",
       "summary": "The collapse of that distinction protects no one — least of all the Jewish communities it claims to defend.",
       "urgency": "important",
@@ -164,7 +380,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss"
     },
     {
-      "id": "news-9",
+      "id": "news-21",
       "headline": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
       "summary": "Nakba survivor in Gaza recounts displacement after 1948 and 2023 and his unwavering attachment to his homeland.",
       "urgency": "info",
@@ -182,7 +398,7 @@
       "link": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-22",
       "headline": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
       "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.",
       "urgency": "breaking",
@@ -200,7 +416,7 @@
       "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html"
     },
     {
-      "id": "news-11",
+      "id": "news-23",
       "headline": "London Prepares for Rival Protests, With a Major Security Effort",
       "summary": "The police will deploy thousands of officers, partly to keep far-right and pro-Palestinian marchers separated. The opposing events are expected to draw tens of thousands of people to London.",
       "urgency": "important",
@@ -218,7 +434,7 @@
       "link": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html"
     },
     {
-      "id": "news-12",
+      "id": "news-24",
       "headline": "Iran suspected in US gas station cyber breach: Reports",
       "summary": "Iran suspected in US gas station cyber breach: Reports",
       "urgency": "info",
@@ -236,7 +452,7 @@
       "link": "https://gulfnews.com/world/americas/iran-suspected-in-us-gas-station-cyber-breach-reports-1.500542666"
     },
     {
-      "id": "news-13",
+      "id": "news-25",
       "headline": "Which Countries Are Profiting From the Iran War Oil Shock",
       "summary": "An analysis of oil export data offers clues about which nations have benefited from higher prices, and which have lost a lot of revenue.",
       "urgency": "breaking",
@@ -254,7 +470,7 @@
       "link": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html"
     },
     {
-      "id": "news-14",
+      "id": "news-26",
       "headline": "How a Nature Cruise Turned Into a Nightmare",
       "summary": "The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer.",
       "urgency": "info",
@@ -272,7 +488,7 @@
       "link": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html"
     },
     {
-      "id": "news-15",
+      "id": "news-27",
       "headline": "Anurag Kashyap says Cannes is more than celebrity fashion moments: Sparks reactions from Alia Bhatt fans",
       "summary": "Anurag Kashyap says Cannes is more than celebrity fashion moments: Sparks reactions from Alia Bhatt fans",
       "urgency": "info",
@@ -290,7 +506,7 @@
       "link": "https://gulfnews.com/entertainment/anurag-kashyap-says-cannes-is-more-than-celebrity-fashion-moments-sparks-reactions-from-alia-bhatt-fans-1.500542644"
     },
     {
-      "id": "news-16",
+      "id": "news-28",
       "headline": "'No sign' of China's willingness to pressure Iran after Trump's visit",
       "summary": "Reza Sayah has more.",
       "urgency": "info",
@@ -308,7 +524,7 @@
       "link": "https://www.france24.com/en/no-sign-of-china-s-willingness-to-pressure-iran-after-trump-s-visit"
     },
     {
-      "id": "news-17",
+      "id": "news-29",
       "headline": "Ukraine vows retribution after Russian strike on housing block kills 24",
       "summary": "President Volodymyr Zelenskiy promised retribution against Russia on Friday after laying red roses at the rubble of a Kyiv apartment building where a Russian missile strike killed 24 people, including three children.",
       "urgency": "breaking",
@@ -326,9 +542,9 @@
       "link": "https://www.france24.com/en/ukraine-vows-retribution-after-russian-strike-on-housing-block-kills-24"
     },
     {
-      "id": "news-18",
+      "id": "news-30",
       "headline": "Buyers flock to SHKP project in New Territories as confidence grows in home market outlook",
-      "summary": "Hundreds of prospective buyers gravitated to a Sun Hung Kai Properties’ (SHKP’s) project in the New Territories on Saturday, keen to view the 121 flats on offer in a fresh sign that Hong Kong’s home market is on a sustained upwards cycle despite risk caution.\nAs of 2pm, more than 80 per cent of the ",
+      "summary": "Hundreds of prospective buyers gravitated to a Sun Hung Kai Properties’ (SHKP’s) project in the New Territories on Saturday, keen to view the 121 flats on offer in a fresh sign that Hong Kong’s home market is on a sustained upwards cycle despite risk caution.\nBy 5.30pm, all of the homes at Lime Spar",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -344,7 +560,7 @@
       "link": "https://www.scmp.com/business/china-business/article/3353813/buyers-flock-shkp-project-new-territories-confidence-grows-home-market-outlook?utm_source=rss_feed"
     },
     {
-      "id": "news-19",
+      "id": "news-31",
       "headline": "UK leadership crisis deepens: Starmer faces growing calls to step down",
       "summary": "Martin Farr, Senior Lecturer in Contempory British History at Newcastle University, is our guest.",
       "urgency": "important",
@@ -362,7 +578,7 @@
       "link": "https://www.france24.com/en/uk-leadership-crisis-deepens-starmer-faces-growing-calls-to-step-down"
     },
     {
-      "id": "news-20",
+      "id": "news-32",
       "headline": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
       "summary": "The leader, whom the State Department designated a terrorist in 2023, had been hiding in Africa, President Trump said.",
       "urgency": "breaking",
@@ -380,7 +596,7 @@
       "link": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html"
     },
     {
-      "id": "news-21",
+      "id": "news-33",
       "headline": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started - Reuters",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVh",
       "urgency": "breaking",
@@ -398,7 +614,7 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E?oc=5"
     },
     {
-      "id": "news-22",
+      "id": "news-34",
       "headline": "US ramps up pressure on Cuba and plans to indict Raúl Castro",
       "summary": "The Justice Department is preparing to seek an indictment against former Cuban President Raúl Castro as President Donald Trump threatens possible military action against the communist-run island.",
       "urgency": "info",
@@ -416,7 +632,7 @@
       "link": "https://www.france24.com/en/video/20260516-us-ramps-up-pressure-on-cuba-and-plans-to-indict-ra%C3%BAl-castro"
     },
     {
-      "id": "news-23",
+      "id": "news-35",
       "headline": "Fatima Sana to lead women’s side as PCB announces squad for T20 World Cup, Ireland tri-series",
       "summary": "&lt;p&gt;Fatima Sana will lead Pakistan in the upcoming ICC Women’s T20 World Cup 2026 as the Pakistan Cricket Board (PCB) on Saturday announced a 15-member squad for the tournament, as well as a tri-series featuring Ireland and the West Indies.&lt;/p&gt;\n&lt;p&gt;According to a &lt;a rel=\"noopener ",
       "urgency": "breaking",
@@ -434,7 +650,7 @@
       "link": "https://www.dawn.com/news/2000687/fatima-sana-to-lead-womens-side-as-pcb-announces-squad-for-t20-world-cup-ireland-tri-series"
     },
     {
-      "id": "news-24",
+      "id": "news-36",
       "headline": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
       "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the steadfastness of U.S. support.",
       "urgency": "info",
@@ -452,7 +668,7 @@
       "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html"
     },
     {
-      "id": "news-25",
+      "id": "news-37",
       "headline": "Russia’s Putin to visit China following Trump’s trip",
       "summary": "Putin and Chinese President Xi Jinping plan to &#039;further strengthen the comprehensive partnership&#039;, the Kremlin says.",
       "urgency": "info",
@@ -470,7 +686,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss"
     },
     {
-      "id": "news-26",
+      "id": "news-38",
       "headline": "War in the Middle East: Israel targets top Hamas leader in Gaza",
       "summary": "An Israeli airstrike in Gaza on Friday targeted the leader of Hamas ’ military wing, Israeli officials said, but it wasn't immediately clear if Izz al-Din al-Haddad was killed or injured.",
       "urgency": "breaking",
@@ -488,7 +704,7 @@
       "link": "https://www.france24.com/en/war-in-the-middle-east-israel-targets-top-hamas-leader-in-gaza"
     },
     {
-      "id": "news-27",
+      "id": "news-39",
       "headline": "Dubai paid parking: Parkin launches gateless parking system at Mirdif Avenue Mall",
       "summary": "Dubai paid parking: Parkin launches gateless parking system at Mirdif Avenue Mall",
       "urgency": "info",
@@ -506,7 +722,7 @@
       "link": "https://gulfnews.com/uae/transport/dubai-paid-parking-parkin-launches-gateless-parking-system-at-mirdif-avenue-mall-1.500542629"
     },
     {
-      "id": "news-28",
+      "id": "news-40",
       "headline": "It’s Been a Wild Week in British Politics. What Happens Next?",
       "summary": "Nobody has yet challenged Prime Minister Keir Starmer for the leadership, but his leading rival, Andy Burnham, finally has a route to Downing Street.",
       "urgency": "info",
@@ -524,7 +740,7 @@
       "link": "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html"
     },
     {
-      "id": "news-29",
+      "id": "news-41",
       "headline": "Putin to visit China on May 19-20 to further strengthen 'comprehensive partnership'",
       "summary": "&lt;p&gt;Russian President Vladimir Putin will travel to China on May 19 for a two-day visit, hot on the heels of United States President Donald Trump’s &lt;a href=\"https://www.dawn.com/news/2000415\"&gt;trip to Beijing&lt;/a&gt;, the Kremlin said on Saturday.&lt;/p&gt;\n&lt;p&gt;During the trip, the ",
       "urgency": "breaking",
@@ -542,7 +758,7 @@
       "link": "https://www.dawn.com/news/2000686/putin-to-visit-china-on-may-19-20-to-further-strengthen-comprehensive-partnership"
     },
     {
-      "id": "news-30",
+      "id": "news-42",
       "headline": "Kuwait cuts government working hours to six hours during summer",
       "summary": "Kuwait cuts government working hours to six hours during summer",
       "urgency": "info",
@@ -560,7 +776,7 @@
       "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-cuts-government-working-hours-to-six-hours-during-summer-1.500542618"
     },
     {
-      "id": "news-31",
+      "id": "news-43",
       "headline": "UAE world&apos;s 3rd country to approve MIEBO, innovative treatment for dry eye",
       "summary": "UAE world&apos;s 3rd country to approve MIEBO, innovative treatment for dry eye",
       "urgency": "info",
@@ -578,7 +794,7 @@
       "link": "https://gulfnews.com/uae/health/uae-worlds-3rd-country-to-approve-miebo-innovative-treatment-for-dry-eye-1.500542604"
     },
     {
-      "id": "news-32",
+      "id": "news-44",
       "headline": "BBC’s 72-year Commonwealth Games era ends as Channel 5 secures Glasgow 2026 highlights deal",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131133822.cms\" /&gt;<![CDATA[For the first time in 72 years, the BBC will not broadcast the Commonwealth Games. Channel 5 will air daily highlights of the Glasgow 2026 ",
       "urgency": "breaking",
@@ -596,7 +812,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/bbcs-72-year-commonwealth-games-era-ends-as-channel-5-secures-glasgow-2026-highlights-deal/articleshow/131133822.cms"
     },
     {
-      "id": "news-33",
+      "id": "news-45",
       "headline": "UAE to restore Umayyad Mosque in Damascus",
       "summary": "UAE to restore Umayyad Mosque in Damascus",
       "urgency": "info",
@@ -614,7 +830,7 @@
       "link": "https://gulfnews.com/uae/uae-to-restore-umayyad-mosque-in-damascus-1.500542609"
     },
     {
-      "id": "news-34",
+      "id": "news-46",
       "headline": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
       "summary": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
       "urgency": "breaking",
@@ -632,7 +848,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss"
     },
     {
-      "id": "news-35",
+      "id": "news-47",
       "headline": "China school slammed for invading privacy with pupil survey asking if parents’ work is ‘smelly’ or ‘noisy’",
       "summary": "A primary school in China sparked controversy for letting its pupils fill in a detailed questionnaire about their parents’ work.\nThe survey, titled Observation List of Parents’ Occupation, was distributed to pupils at the beginning of May at Huatai Primary School in Tianmen, central Hubei province, ",
       "urgency": "info",
@@ -650,7 +866,7 @@
       "link": "https://www.scmp.com/news/people-culture/trending-china/article/3353412/china-school-slammed-invading-privacy-pupil-survey-asking-if-parents-work-smelly-or-noisy?utm_source=rss_feed"
     },
     {
-      "id": "news-36",
+      "id": "news-48",
       "headline": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
       "summary": "No group ​claimed responsibility for the raid, which bore the hallmark of the ​Boko Haram group.",
       "urgency": "info",
@@ -668,7 +884,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss"
     },
     {
-      "id": "news-37",
+      "id": "news-49",
       "headline": "China couple hosts wrestling match at wedding, loser does housework",
       "summary": "China couple hosts wrestling match at wedding, loser does housework",
       "urgency": "info",
@@ -686,7 +902,7 @@
       "link": "https://gulfnews.com/world/offbeat/china-couple-hosts-wrestling-match-at-wedding-loser-does-housework-1.500542605"
     },
     {
-      "id": "news-38",
+      "id": "news-50",
       "headline": "Karachi roads paved with good intentions but potholed with reality",
       "summary": "&lt;p&gt;For at least two decades, Hijri Road has been a nuisance for the people who live in Gulshan Town’s Metroville Colony.&lt;/p&gt;\n&lt;p&gt;So when UC 6 chairman Nasir Ashfaq managed to get the Karachi Development Authority to fix the inner neighbourhood service lane, they insisted on paver bl",
       "urgency": "breaking",
@@ -704,7 +920,7 @@
       "link": "https://www.dawn.com/news/1997406/karachi-roads-paved-with-good-intentions-but-potholed-with-reality"
     },
     {
-      "id": "news-39",
+      "id": "news-51",
       "headline": "After Donald Trump, Putin to visit China's Xi Jinping on May 19 for two days",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131133475.cms\" /&gt;<![CDATA[Russian President Putin is set for a significant two-day visit to China, commencing May 19, to deepen strategic ties with President Xi Jinp",
       "urgency": "info",
@@ -722,7 +938,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/after-donald-trump-putin-to-visit-chinas-xi-jinping-on-may-19-for-two-days/articleshow/131133475.cms"
     },
     {
-      "id": "news-40",
+      "id": "news-52",
       "headline": "Lulu Santos concert in Dubai: Brazilian music icon to headline Dubai Opera show",
       "summary": "Lulu Santos concert in Dubai: Brazilian music icon to headline Dubai Opera show",
       "urgency": "info",
@@ -740,7 +956,7 @@
       "link": "https://gulfnews.com/entertainment/lulu-santos-concert-in-dubai-brazilian-music-icon-to-headline-dubai-opera-show-1.500542598"
     },
     {
-      "id": "news-41",
+      "id": "news-53",
       "headline": "Hong Kong police officer fires service pistol by mistake at Kai Tak headquarters",
       "summary": "A Hong Kong police officer accidentally fired a single round from her service firearm on Saturday morning, with no injuries reported.\nThe force said the incident occurred at the Kai Tak police headquarters at around 7.10am, when the officer was loading her semi-automatic pistol in a designated loadi",
       "urgency": "info",
@@ -758,7 +974,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3353810/hong-kong-police-officer-fires-service-pistol-mistake-kai-tak-headquarters?utm_source=rss_feed"
     },
     {
-      "id": "news-42",
+      "id": "news-54",
       "headline": "Sri Lanka raises tax on imported cars as Middle East crisis bites",
       "summary": "Sri Lanka raises tax on imported cars as Middle East crisis bites",
       "urgency": "important",
@@ -776,7 +992,7 @@
       "link": "https://gulfnews.com/world/asia/sri-lanka-raises-tax-on-imported-cars-as-middle-east-crisis-bites-2-1.500542610"
     },
     {
-      "id": "news-43",
+      "id": "news-55",
       "headline": "Trump says ISIS second-in-command Abu Bilal al-Minuki eliminated",
       "summary": "&lt;p&gt;US President Donald Trump said on Friday that Abu Bilal al-Minuki, second in command of ISIS globally, had been eliminated in an operation conducted by US and Nigerian forces.&lt;/p&gt;\n&lt;p&gt;“Tonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly exec",
       "urgency": "info",
@@ -794,7 +1010,7 @@
       "link": "https://www.dawn.com/news/2000662/trump-says-isis-second-in-command-abu-bilal-al-minuki-eliminated"
     },
     {
-      "id": "news-44",
+      "id": "news-56",
       "headline": "Sindh lifts curbs on market timings; minister says step taken to facilitate businesses, citizens",
       "summary": "&lt;p&gt;Sindh Senior Minister Sharjeel Memon on Saturday said that the provincial government had exempted shops, markets, malls, hotels, restaurants, wedding halls and marquees from fixed closing timings to “facilitate businesses and citizens”.&lt;/p&gt;\n&lt;p&gt;According to the notification, whic",
       "urgency": "breaking",
@@ -812,7 +1028,7 @@
       "link": "https://www.dawn.com/news/2000676/sindh-lifts-curbs-on-market-timings-minister-says-step-taken-to-facilitate-businesses-citizens"
     },
     {
-      "id": "news-45",
+      "id": "news-57",
       "headline": "UAE motorist alert: Dubai Police alert drivers after Sheikh Zayed Road accident",
       "summary": "UAE motorist alert: Dubai Police alert drivers after Sheikh Zayed Road accident",
       "urgency": "info",
@@ -830,7 +1046,7 @@
       "link": "https://gulfnews.com/uae/emergencies/uae-motorist-alert-dubai-police-alert-drivers-after-sheikh-zayed-road-accident-1.500542603"
     },
     {
-      "id": "news-46",
+      "id": "news-58",
       "headline": "Spain PM defends Eurovision boycott over Israel",
       "summary": "Spanish PM Pedro Sanchez has defended Spain’s boycott of the Eurovision Song Contest over Israel’s participation.",
       "urgency": "info",
@@ -848,7 +1064,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss"
     },
     {
-      "id": "news-47",
+      "id": "news-59",
       "headline": "UAE skilled private-sector workforce grows 1.5%",
       "summary": "UAE skilled private-sector workforce grows 1.5%",
       "urgency": "breaking",
@@ -866,7 +1082,7 @@
       "link": "https://gulfnews.com/business/uae-skilled-private-sector-workforce-grows-15-1.500542587"
     },
     {
-      "id": "news-48",
+      "id": "news-60",
       "headline": "Strong start for Edufair Abu Dhabi as students explore study pathways",
       "summary": "Strong start for Edufair Abu Dhabi as students explore study pathways",
       "urgency": "info",
@@ -884,7 +1100,7 @@
       "link": "https://gulfnews.com/uae/education/strong-start-for-edufair-abu-dhabi-as-students-explore-study-pathways-1.500542569"
     },
     {
-      "id": "news-49",
+      "id": "news-61",
       "headline": "Seven killed in deadly Yemen-Saudi highway crash",
       "summary": "Seven killed in deadly Yemen-Saudi highway crash",
       "urgency": "breaking",
@@ -902,7 +1118,7 @@
       "link": "https://gulfnews.com/world/gulf/saudi/seven-killed-in-deadly-yemen-saudi-highway-crash-1.500542580"
     },
     {
-      "id": "news-50",
+      "id": "news-62",
       "headline": "US and Nigerian forces 'eliminate' IS group senior leader in joint mission",
       "summary": "Nigeria's President Bola Tinubu on Saturday confirmed President Donald Trump's announcement that US and Nigerian forces killed a senior Islamic State (IS) group senior leader in a joint mission in the West African nation.",
       "urgency": "breaking",
@@ -920,7 +1136,7 @@
       "link": "https://www.france24.com/en/africa/20260516-us-and-nigerian-forces-eliminate-is-group-senior-leader-in-joint-mission"
     },
     {
-      "id": "news-51",
+      "id": "news-63",
       "headline": "How Trump’s China visit may hint the ‘2 eyes of the world’ are learning to live together",
       "summary": "It is hard not to be impressed by the sheer energy Donald Trump displayed during his whirlwind visit to Beijing.\nWithin just 43 hours, the 79-year-old president held two meetings with Chinese President Xi Jinping, inspected troops, attended a state banquet and walked around the Temple of Heaven in s",
       "urgency": "info",
@@ -938,7 +1154,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3353808/how-trumps-china-visit-may-hint-2-eyes-world-are-learning-live-together?utm_source=rss_feed"
     },
     {
-      "id": "news-52",
+      "id": "news-64",
       "headline": "Naqvi discusses cooperation in counter-terrorism, cybercrime with delegation from Egypt",
       "summary": "&lt;p&gt;Interior Minister Mohsin Naqvi on Saturday met a delegation from Egypt during which the two sides discussed promoting cooperation in the fields of security, counter-terrorism, combatting narcotics, cybercrime, and safe city initiatives, the interior ministry said.&lt;/p&gt;\n&lt;p&gt;Both si",
       "urgency": "info",
@@ -956,7 +1172,7 @@
       "link": "https://www.dawn.com/news/2000678/naqvi-discusses-cooperation-in-counter-terrorism-cybercrime-with-delegation-from-egypt"
     },
     {
-      "id": "news-53",
+      "id": "news-65",
       "headline": "Man killed in great white shark attack in western Australia",
       "summary": "The 38-year-old was bitten at a popular diving and fishing spot near the city of Perth, police say.",
       "urgency": "breaking",
@@ -974,7 +1190,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss"
     },
     {
-      "id": "news-54",
+      "id": "news-66",
       "headline": "Man killed by 13ft great white shark in Western Australia",
       "summary": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
       "urgency": "breaking",
@@ -992,7 +1208,7 @@
       "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-55",
+      "id": "news-67",
       "headline": "Singapore minister reveals why human touch still important in AI era",
       "summary": "Even as Singapore positions itself at the frontier of AI technology, human intelligence still remains critical, according to the city state’s foreign minister Vivian Balakrishnan.\n“We should beware of just trying to throw every problem, and every step in a solution, at a large-language model (LLM),”",
       "urgency": "breaking",
@@ -1010,7 +1226,7 @@
       "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3353807/singapore-minister-reveals-why-human-touch-still-important-ai-era?utm_source=rss_feed"
     },
     {
-      "id": "news-56",
+      "id": "news-68",
       "headline": "James Bond casting rumours explode as Amazon begins auditions: Here&apos;s everything we know",
       "summary": "James Bond casting rumours explode as Amazon begins auditions: Here&apos;s everything we know",
       "urgency": "info",
@@ -1028,7 +1244,7 @@
       "link": "https://gulfnews.com/entertainment/james-bond-casting-rumours-explode-as-amazon-begins-auditions-heres-everything-we-know-1.500541414"
     },
     {
-      "id": "news-57",
+      "id": "news-69",
       "headline": "Trump's geopolitical brinkmanship has hit a wall with Iran",
       "summary": "&lt;p&gt;During his first year back in office, United States President Donald Trump’s blustery negotiating style won him concessions from countries on issues ranging from tariffs to armed conflict.&lt;/p&gt;\n&lt;p&gt;But with Iran, that same brand of coercive diplomacy, marked by public threats, ins",
       "urgency": "breaking",
@@ -1046,7 +1262,7 @@
       "link": "https://www.dawn.com/news/2000673/trumps-geopolitical-brinkmanship-has-hit-a-wall-with-iran"
     },
     {
-      "id": "news-58",
+      "id": "news-70",
       "headline": "Google’s free 15GB Gmail storage may not apply to everyone anymore",
       "summary": "Google’s free 15GB Gmail storage may not apply to everyone anymore",
       "urgency": "info",
@@ -1064,7 +1280,7 @@
       "link": "https://gulfnews.com/technology/media/googles-free-15gb-gmail-storage-may-not-apply-to-everyone-anymore-1.500542565"
     },
     {
-      "id": "news-59",
+      "id": "news-71",
       "headline": "Philippine Leroy-Beaulieu: The art of self-confidence",
       "summary": "🎙️ « Self-confidence is a journey built over time, through hardships that teach you not to be afraid of going through storms. »\n \n👉 Star of one of the world’s most celebrated television series, Philippine Leroy-Beaulieu returns to the Cannes Film Festival as an ambassador for L’Oréal Paris, repres",
       "urgency": "info",
@@ -1082,7 +1298,7 @@
       "link": "https://www.france24.com/en/video/20260516-philippine-leroy-beaulieu-the-art-of-self-confidence"
     },
     {
-      "id": "news-60",
+      "id": "news-72",
       "headline": "Tech features at Hong Kong’s Terminal 2 to enable efficient departures: transport chief",
       "summary": "Hong Kong is counting down to the “milestone” launch of the reconfigured second terminal at the airport on May 27, which will feature technology-led services to ease bottlenecks, the city’s transport minister has said.\nSecretary for Transport and Logistics Mable Chan said on Saturday that Terminal 2",
       "urgency": "breaking",
@@ -1100,7 +1316,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353804/tech-features-hong-kongs-terminal-2-enable-efficient-departures-transport-chief?utm_source=rss_feed"
     },
     {
-      "id": "news-61",
+      "id": "news-73",
       "headline": "Aston Villa trounce Liverpool 4-2 to seal Champions League place",
       "summary": "Liverpool&#039;s woes deepen as Ollie Watkins scores a brace to help his side to a dominant win at Villa Park.",
       "urgency": "info",
@@ -1118,7 +1334,7 @@
       "link": "https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss"
     },
     {
-      "id": "news-62",
+      "id": "news-74",
       "headline": "Where did Eurovision go wrong?",
       "summary": "Eurovision has long claimed to be apolitical. This year, that claim may be its most contested performance yet.",
       "urgency": "info",
@@ -1136,7 +1352,7 @@
       "link": "https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong?traffic_source=rss"
     },
     {
-      "id": "news-63",
+      "id": "news-75",
       "headline": "US-Israel Iran attacks could resume next week - NYT - The Jerusalem Post",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUmFIN245cjFWeTh6Y0NUTExSTkQ3aUMzV3lwVUdHNjJXaVhjam16RU1MV19hM1ZzWm15NVhqR0xoaUVkT2JhUS0wNkNxY01oNm1uZjBDdHlzR2RFNzBWRTJJNGMySERubkE?oc=5\" target=\"_blank\"&gt;US-Israel Iran attacks could resume next week - NYT&lt;/a&gt;&amp;nbsp;&amp;nb",
       "urgency": "breaking",
@@ -1154,25 +1370,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUmFIN245cjFWeTh6Y0NUTExSTkQ3aUMzV3lwVUdHNjJXaVhjam16RU1MV19hM1ZzWm15NVhqR0xoaUVkT2JhUS0wNkNxY01oNm1uZjBDdHlzR2RFNzBWRTJJNGMySERubkE?oc=5"
     },
     {
-      "id": "news-64",
-      "headline": "OpenAI wants ChatGPT to manage your money and bank accounts",
-      "summary": "OpenAI wants ChatGPT to manage your money and bank accounts",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T06:29:45.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/technology/media/openai-wants-chatgpt-to-manage-your-money-and-bank-accounts-1.500542538"
-    },
-    {
-      "id": "news-65",
+      "id": "news-76",
       "headline": "Israel, Lebanon extending ceasefire, US says, despite new Israeli strikes",
       "summary": "Israel and Lebanon agreed to extend a ceasefire and hold expanded talks on a political settlement, the US announced days before the April 17 ceasefire was set to expire. The announcement came even as Israel carried out new strikes in southern Lebanon that it insists are not subject to the truce. Isr",
       "urgency": "breaking",
@@ -1190,7 +1388,7 @@
       "link": "https://www.france24.com/en/israel-lebanon-extending-ceasefire-us-says-despite-new-israeli-strikes"
     },
     {
-      "id": "news-66",
+      "id": "news-77",
       "headline": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
       "summary": "The US Justice Department has arrested and charged an Iraqi national and senior commander of an Iran-backed armed group",
       "urgency": "info",
@@ -1208,7 +1406,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss"
     },
     {
-      "id": "news-67",
+      "id": "news-78",
       "headline": "U.S. Arms Sales: A Taiwanese Deterrent Amid Rising Tensions with China - Devdiscourse",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3dvWTZ3NTktQjJZcWs5X0xuZ2tmbVppeldadWZULWt6SS1aREtxaWdyM25YTmdCSHY3NXAwQTZGbXMwbXRXVnhSampPMUd4RzFoSTJGbmxLRzkxUWxfV0VPZF92S0xvc2M3QllZSFdRMDZlamRVcE9oS0RQSk43MUZESmVWbkVYaFA4QXJaaE9BNWxreVhESTJZSlhtNEZ1RGJLcFp4d1FXMjlMV1FhTnl6THJqajA",
       "urgency": "info",
@@ -1226,7 +1424,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3dvWTZ3NTktQjJZcWs5X0xuZ2tmbVppeldadWZULWt6SS1aREtxaWdyM25YTmdCSHY3NXAwQTZGbXMwbXRXVnhSampPMUd4RzFoSTJGbmxLRzkxUWxfV0VPZF92S0xvc2M3QllZSFdRMDZlamRVcE9oS0RQSk43MUZESmVWbkVYaFA4QXJaaE9BNWxreVhESTJZSlhtNEZ1RGJLcFp4d1FXMjlMV1FhTnl6THJqajA5OHpudjRxTdIBxAFBVV95cUxNaTZlUWpQVER6d1Brai1iWlF4bG9oQnpXZkdzdlNTUktaa2dYQVRYR09mMTZ3ZW1lUTFPdWlabXpSbkprRVBBYk1pNnBZanJrS2lLTmtJNmlSVzlkVGlRci1qaDl3blZpSzhjWE05X01oT2xGd1NJWGFHckRUMWRiNmtJclZSQnBYWWRJZm1kSHEyQ1RpY0hFbWQ4Nnk5aXlfZ3IydHhiemxlRzdLN2w1VTQ0Z0JKSW11SS16X0lHS0hENDhV?oc=5"
     },
     {
-      "id": "news-68",
+      "id": "news-79",
       "headline": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
       "summary": "US and Nigerian forces carry out a joint operation against the commander, who was deemed a &#039;global terrorist&#039; in 2023.",
       "urgency": "breaking",
@@ -1244,7 +1442,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss"
     },
     {
-      "id": "news-69",
+      "id": "news-80",
       "headline": "Indian cricketer Kohli to play 2027 World Cup only if he can add value",
       "summary": "&lt;p&gt;Indian veteran Virat Kohli said he has nothing left to prove and would consider playing the 2027 One-Day International (ODI) World Cup only if he can still contribute meaningfully.&lt;/p&gt;\n&lt;p&gt;The 37-year-old, who &lt;a href=\"https://www.dawn.com/news/1842839\"&gt;retired&lt;/a&gt; fr",
       "urgency": "important",
@@ -1262,7 +1460,7 @@
       "link": "https://www.dawn.com/news/2000671/indian-cricketer-kohli-to-play-2027-world-cup-only-if-he-can-add-value"
     },
     {
-      "id": "news-70",
+      "id": "news-81",
       "headline": "Wembanyama’s Spurs reach Western finals, Pistons stay alive in NBA playoffs",
       "summary": "San Antonio beat Timberwolves to book Western Conference Finals spot, while Detroit down Cleveland to level series.",
       "urgency": "info",
@@ -1280,43 +1478,7 @@
       "link": "https://www.aljazeera.com/sports/2026/5/16/wembanyamas-spurs-reach-western-finals-pistons-stay-alive-in-nba-playoffs?traffic_source=rss"
     },
     {
-      "id": "news-71",
-      "headline": "Dubai Opera to stage Chanel-inspired ballet MODANSE: Date, time and tickets",
-      "summary": "Dubai Opera to stage Chanel-inspired ballet MODANSE: Date, time and tickets",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T06:10:58.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/lifestyle/dubai-opera-to-stage-chanel-inspired-ballet-modanse-date-time-and-tickets-1.500542532"
-    },
-    {
-      "id": "news-72",
-      "headline": "Philippine Embassy in Abu Dhabi closes for Eid Al Adha: All you need to know",
-      "summary": "Philippine Embassy in Abu Dhabi closes for Eid Al Adha: All you need to know",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T06:08:34.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/philippine-embassy-in-abu-dhabi-closes-for-eid-al-adha-all-you-need-to-know-1.500542521"
-    },
-    {
-      "id": "news-73",
+      "id": "news-82",
       "headline": "Teenager Isla Bell’s body was found in a Melbourne tip 18 months ago. Today friends and family demanded ‘justice’",
       "summary": "&lt;p&gt;Supporters at the Victorian state library protested against prosecutors dropping a manslaughter charge against the man accused of killing her&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt",
       "urgency": "breaking",
@@ -1334,7 +1496,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/may/16/teenager-isla-bells-body-was-found-in-a-melbourne-tip-18-months-ago-today-friends-and-family-demanded-justice-ntwnfb"
     },
     {
-      "id": "news-74",
+      "id": "news-83",
       "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
       "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
       "urgency": "breaking",
@@ -1352,25 +1514,7 @@
       "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-75",
-      "headline": "UK Rich List 2026: David Beckham becomes first British billionaire sportsman",
-      "summary": "UK Rich List 2026: David Beckham becomes first British billionaire sportsman",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T05:45:36.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/football/uk-rich-list-2026-david-beckham-becomes-first-british-billionaire-sportsman-1.500542513"
-    },
-    {
-      "id": "news-76",
+      "id": "news-84",
       "headline": "Taiwan says it is a ‘sovereign’ nation with US ‘security commitment’ after Trump’s warning",
       "summary": "Taiwan on Saturday maintained it is a \"sovereign and independent\" nation and that US arms sales were part of Washington's security commitment to the island. The foreign ministry statement came a day after President Donald Trump warned Taiwan against declaring formal independence following his meetin",
       "urgency": "breaking",
@@ -1388,7 +1532,7 @@
       "link": "https://www.france24.com/en/asia-pacific/20260516-taiwan-says-it-is-a-sovereign-nation-with-us-security-commitment-after-trump-s-warning"
     },
     {
-      "id": "news-77",
+      "id": "news-85",
       "headline": "2 Hong Kong tourists killed, 2 injured in New Zealand car crash",
       "summary": "Two Hong Kong tourists have been killed and two others injured in a car crash in New Zealand.\nThe Chinese consulate in Christchurch revealed the fatal crash on Saturday, saying it occurred a day earlier.\n“According to a New Zealand police report, a serious traffic accident occurred on the afternoon ",
       "urgency": "breaking",
@@ -1406,7 +1550,7 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3353800/2-hong-kong-tourists-killed-2-injured-new-zealand-car-crash?utm_source=rss_feed"
     },
     {
-      "id": "news-78",
+      "id": "news-86",
       "headline": "Bangladesh tests its India ties by seeking China’s aid for Teesta River",
       "summary": "Every dry season, the Teesta River shrinks a little more – and with it, the livelihoods of millions of Bangladeshis who depend on its waters to survive.\nDhaka has been asking India to help for years. Now, it is asking Beijing instead.\nBangladesh’s Prime Minister Tarique Rahman, who took office in Fe",
       "urgency": "info",
@@ -1424,7 +1568,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3353738/bangladesh-tests-its-india-ties-seeking-chinas-aid-teesta-river?utm_source=rss_feed"
     },
     {
-      "id": "news-79",
+      "id": "news-87",
       "headline": "Hong Kong parents warned of injury and choking risks from catapult and tangram toys",
       "summary": "A catapult toy and a tangram set could pose injury and choking risks to children, Hong Kong customs has warned, urging retailers to pull the products from shelves.\nThe Customs and Excise Department said on Saturday that it had seized 700 units of the toys during an operation and issued a prohibition",
       "urgency": "breaking",
@@ -1442,7 +1586,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353799/hong-kong-parents-warned-choking-injury-risks-catapult-and-tangram-toys?utm_source=rss_feed"
     },
     {
-      "id": "news-80",
+      "id": "news-88",
       "headline": "Trump–Xi summit highlights limits of transactional diplomacy",
       "summary": "&lt;p&gt;WASHINGTON: US President Donald Trump’s visit to Beijing ended without the major breakthrough many had expected from his talks with Chinese President Xi Jinping. The &lt;a href=\"https://www.dawn.com/news/2000415\"&gt;summit&lt;/a&gt; instead highlighted the widening strategic gap between the",
       "urgency": "breaking",
@@ -1460,7 +1604,7 @@
       "link": "https://www.dawn.com/news/2000664/trump-xi-summit-highlights-limits-of-transactional-diplomacy"
     },
     {
-      "id": "news-81",
+      "id": "news-89",
       "headline": "Audemars Piguet X Swatch launch cancelled at 2 malls in Dubai over 'safety considerations' - Khaleej Times",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmJLaGNGMDJIMmpjTHp2V1Z3SnVQSFM2RlEtcmVHeHFRYkdvWHRubExzWGNMc2RVT2d0RWlYVzUzRjBUV2xUOGtGazBHcm1ER0tLU3hJbzBrWTRWX1dIb0lXM2Ffa3RsR3hpa0VWb2FncHlRRlFLYkdpUUZZM0xOWUh0RmZ6amM4Zmt0OdIBlAFBVV95cUxQSTBBeHFhRldORkxTS215UGphYmNEbTc5VXBMWXl6Qnh",
       "urgency": "info",
@@ -1478,7 +1622,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmJLaGNGMDJIMmpjTHp2V1Z3SnVQSFM2RlEtcmVHeHFRYkdvWHRubExzWGNMc2RVT2d0RWlYVzUzRjBUV2xUOGtGazBHcm1ER0tLU3hJbzBrWTRWX1dIb0lXM2Ffa3RsR3hpa0VWb2FncHlRRlFLYkdpUUZZM0xOWUh0RmZ6amM4Zmt0OdIBlAFBVV95cUxQSTBBeHFhRldORkxTS215UGphYmNEbTc5VXBMWXl6Qnh0WFZqbU9XUWQxMDVwbzR2WTh1X2hGdDl2WUJGMnpTb1BwbC1laThXa1F1eWZMQjdWM1pEcWdCLWhLSE5VNVFITEg4S01Sd3lXZVVvV3k5Rk0zNkJQeVNOcW1qS0p2VHRENXhGMFZ3djV3Rk81?oc=5"
     },
     {
-      "id": "news-82",
+      "id": "news-90",
       "headline": "Middle East war live: Israel strikes southern Lebanon hours after ceasefire extension",
       "summary": "Israel launched new air strikes against Hezbollah in southern Lebanon on Saturday, hours after the two countries agreed to extend a truce following talks in the US. The April 17 ceasefire, which did not end Israeli strikes in Lebanese territory, will be extended for 45 days, said the US. Follow our ",
       "urgency": "breaking",
@@ -1496,7 +1640,7 @@
       "link": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire"
     },
     {
-      "id": "news-83",
+      "id": "news-91",
       "headline": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
       "summary": "Sixty-five people have died in a new Ebola outbreak in DR Congo&#039;s Ituri province with 246 suspected cases.",
       "urgency": "info",
@@ -1514,7 +1658,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss"
     },
     {
-      "id": "news-84",
+      "id": "news-92",
       "headline": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
       "summary": "&lt;p&gt;US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’&lt;/p&gt;&lt;p&gt;Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic State.&lt;/p&gt;&lt;p&gt;“Tonight, at m",
       "urgency": "breaking",
@@ -1532,7 +1676,7 @@
       "link": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says"
     },
     {
-      "id": "news-85",
+      "id": "news-93",
       "headline": "IMF sets Rs17.1tr federal revenue target for 2026-27",
       "summary": "&lt;p&gt;• Proposes Rs430bn new budgetary measures&lt;br&gt;• Suggests 18pc hike in petroleum levy target&lt;br&gt;• Asks provinces to mobilise extra Rs430bn&lt;br&gt;• Links power tariff relief to BISP&lt;br&gt;• Sees economic growth at 3.5pc&lt;br&gt;• Estimates average inflation at 8.4pc&lt;br&gt",
       "urgency": "breaking",
@@ -1550,7 +1694,7 @@
       "link": "https://www.dawn.com/news/2000619/imf-sets-rs171tr-federal-revenue-target-for-2026-27"
     },
     {
-      "id": "news-86",
+      "id": "news-94",
       "headline": "Trump says Isis second in command Abu-Bilal ‘eliminated from battlefield’",
       "summary": "US and Nigerian forces killed a leader of Islamic State in Nigeria in a mission carried out on Friday, US President Donald Trump said.\nTrump announced the joint operation in Africa’s most populous country in a late-night social media post that offered few details. He said Abu Bakr al-Mainuki was sec",
       "urgency": "breaking",
@@ -1568,7 +1712,7 @@
       "link": "https://www.scmp.com/news/world/africa/article/3353796/trump-says-isis-second-command-abu-bilal-eliminated-battlefield?utm_source=rss_feed"
     },
     {
-      "id": "news-87",
+      "id": "news-95",
       "headline": "Op Epic Fury to resume? Trump weighs fresh Iran strikes after China visit: Report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131131463.cms\" /&gt;<![CDATA[As US President Trump returns from China, pressure mounts over Iran. Top aides are reportedly preparing options for renewed military action",
       "urgency": "breaking",
@@ -1586,7 +1730,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/operation-epic-fury-to-resume-donald-trump-weighs-fresh-iran-strikes-after-china-visit-report/articleshow/131131463.cms"
     },
     {
-      "id": "news-88",
+      "id": "news-96",
       "headline": "Malaysian police probe claims that Jho Low returned to Kuala Lumpur for secret 1MDB talks",
       "summary": "Malaysian police will investigate claims that fugitive financier Jho Low returned to the country for secret meetings.\nInspector-General of Police Mohd Khalid Ismail said the claims that Low, whose full name is Low Taek Jho, had come to Malaysia for meetings had not been verified.\n“We have not verifi",
       "urgency": "info",
@@ -1604,7 +1748,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3353795/malaysian-police-probe-claims-jho-low-returned-kuala-lumpur-secret-1mdb-talks?utm_source=rss_feed"
     },
     {
-      "id": "news-89",
+      "id": "news-97",
       "headline": "New outbreak of Ebola kills 80 in eastern DR Congo",
       "summary": "Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
       "urgency": "info",
@@ -1622,7 +1766,7 @@
       "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-90",
+      "id": "news-98",
       "headline": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
       "summary": "&lt;p&gt;Voters in northern Brisbane electorate go to polls after sudden death of former independent MP Jimmy Sullivan&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjus",
       "urgency": "breaking",
@@ -1640,7 +1784,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor"
     },
     {
-      "id": "news-91",
+      "id": "news-99",
       "headline": "Japan’s ‘ibasho’ sense of belonging helps disaster survivors heal, study finds",
       "summary": "As the ground shook beneath her feet and the powerful tsunami rolled in from the Pacific Ocean on March 11, 2011, Masako Saito feared for her coastal community. Saito’s entire family escaped from Soma City in Japan, where massive waves caused utter devastation, and she could not return to witness th",
       "urgency": "info",
@@ -1656,150 +1800,6 @@
       "timestamp": "2026-05-16T04:00:10.000Z",
       "widgetType": "news",
       "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3353783/japans-ibasho-sense-belonging-helps-disaster-survivors-heal-study-finds?utm_source=rss_feed"
-    },
-    {
-      "id": "news-92",
-      "headline": "Residents of historic Hong Kong village run out of options as evictions loom",
-      "summary": "The picturesque old village of Tin Sam Tsuen in Hong Kong, marked by small houses built with bricks in a traditional colour and an ancestral hall with green and white walls, has been home to generations of residents for hundreds of years.\nFrom traditional rituals to celebrate newborns to flowing ban",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T04:00:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3353734/residents-historic-hong-kong-village-run-out-options-evictions-loom?utm_source=rss_feed"
-    },
-    {
-      "id": "news-93",
-      "headline": "Have Chinese defence firms broken the sniper rifle range record – again?",
-      "summary": "Cryptic statements from two Chinese defence companies suggest that a long-distance shooting record may have been broken yet again.\nThe first hint came on April 28, when Chongqing Changjiang Electric Appliances Industries Group, one of China’s biggest ammunition manufacturers, announced that an unspe",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T04:00:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/science/article/3353726/have-chinese-defence-firms-broken-sniper-rifle-range-record-again?utm_source=rss_feed"
-    },
-    {
-      "id": "news-94",
-      "headline": "Elderly man dies after falling on board bus in Hong Kong",
-      "summary": "An elderly man died after falling on board a bus in Hong Kong on Saturday.\nPolice said they received a report at 8.50am that the man in his seventies had fallen while the bus was near 125 Chatham Road South in Tsim Sha Tsui. The KMB bus was operating on route 5 between Fu Shan Estate and Star Ferry.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T03:59:30.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3353793/man-his-70s-dies-after-falling-board-bus-hong-kong?utm_source=rss_feed"
-    },
-    {
-      "id": "news-95",
-      "headline": "Bahawalpur police look for suspect linked to ‘cocaine queen’ network",
-      "summary": "&lt;p&gt;BAHAWALPUR: Following the revelations by &lt;a href=\"https://www.dawn.com/news/2000274\"&gt;cocaine trafficker&lt;/a&gt; Ms Anmol alias Pinki, who is in Karachi police’s custody, that one of her countrywide drug supply network’s member, Tahir Saleem, belonged to Hasilpur, Bahawalpur district",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T03:58:56.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2000562/bahawalpur-police-look-for-suspect-linked-to-cocaine-queen-network"
-    },
-    {
-      "id": "news-96",
-      "headline": "Trump-Xi Beijing Summit Signals Fragile Reset in US-China Relations - ummid.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTNlaTVKS2J4T0swWUpUZmt1QTZWT1Rpd1NhZzVWUHdWSnlfYUxsWTc5RFVoZGdQTnhQS3Bia2hqTFVWTXh6cUJtT2xUdUhJRVhya3hpTTM0RjN1X3VsZ240RWJTVDVJWXNwbnlDeDQzdVpQeFB6eU9JakxUUGFucE1tUnhpNDlCTUZVdTlBT05laUl6ZHM4LTVmYVdJX0FORlRaY1Y1QW4?oc=5\" target=\"_blan",
-      "urgency": "important",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-16T03:55:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTNlaTVKS2J4T0swWUpUZmt1QTZWT1Rpd1NhZzVWUHdWSnlfYUxsWTc5RFVoZGdQTnhQS3Bia2hqTFVWTXh6cUJtT2xUdUhJRVhya3hpTTM0RjN1X3VsZ240RWJTVDVJWXNwbnlDeDQzdVpQeFB6eU9JakxUUGFucE1tUnhpNDlCTUZVdTlBT05laUl6ZHM4LTVmYVdJX0FORlRaY1Y1QW4?oc=5"
-    },
-    {
-      "id": "news-97",
-      "headline": "Trump says Daesh second-in-command Abu-Bilal al Minuki eliminated - Khaleej Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3B4dmktVFJBQ3JrVTJuY2EyTW5WN0I4Xy1UNE5vSUtjWkNnTzN0R2ctM3RIam9TdFFOdjk0dVlqZWpOSzZORkVXLVBwcHA4ZjFxNnVMcDV3dF9OdFBaZFNhdkl5ZzZ5UVN6dEYzRlhjck43SEVqdjRQUldaUTBtWlE2OVBnYl9lUDI1aXBPQ1hfczDSAZsBQVVfeXFMTmsxTlFSZ0s1cF82RU96VVAzVDhiUWU4TGF",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Khaleej Times",
-          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
-          "url": "https://khaleejtimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T03:52:49.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3B4dmktVFJBQ3JrVTJuY2EyTW5WN0I4Xy1UNE5vSUtjWkNnTzN0R2ctM3RIam9TdFFOdjk0dVlqZWpOSzZORkVXLVBwcHA4ZjFxNnVMcDV3dF9OdFBaZFNhdkl5ZzZ5UVN6dEYzRlhjck43SEVqdjRQUldaUTBtWlE2OVBnYl9lUDI1aXBPQ1hfczDSAZsBQVVfeXFMTmsxTlFSZ0s1cF82RU96VVAzVDhiUWU4TGFTSV9ibm9lOVRtNHZQME1WZzNpc3NBZnkxb0xodEZrbmxEV0J5eWhtM3h0b2tLTGRKZ3d1TmtKd0cyY29ybks3Z2pxZHd0QmNLTjhSTmV3WXBrNG5ocldtUncxLVB0RnZ0Nl9kN1hRX1FGMnFPb3pFdkc0RmJJemR4b1U?oc=5"
-    },
-    {
-      "id": "news-98",
-      "headline": "Israel launches deadly air strikes on Gaza City apartment building",
-      "summary": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-16T03:37:28.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"
-    },
-    {
-      "id": "news-99",
-      "headline": "Czech police recover medieval saint’s 800-year-old skull encased in concrete",
-      "summary": "Czech police have arrested a man suspected of stealing an almost 800-year-old religious relic from a Catholic church and encasing it in concrete.\nAccording to a police spokeswoman on Friday, the suspect admitted taking the skull, which is revered by believers as a relic of Saint Zdislava of Lemberk,",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-16T03:30:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/europe/article/3353791/czech-police-recover-medieval-saints-800-year-old-skull-encased-concrete?utm_source=rss_feed"
     }
   ],
   "financials": {
