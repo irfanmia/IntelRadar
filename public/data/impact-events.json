@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-16T07:50:15.514Z",
+  "lastUpdated": "2026-05-16T08:10:11.919Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 529,
-      "count": 328,
+      "score": 530,
+      "count": 329,
       "breaking": 84,
-      "latest": "2026-05-16T07:48:20.000Z"
+      "latest": "2026-05-16T08:00:06.000Z"
     },
     {
       "id": "middle-east",
-      "score": 394,
+      "score": 393,
       "count": 168,
-      "breaking": 109,
+      "breaking": 108,
       "latest": "2026-05-16T07:43:45.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 151,
-      "count": 67,
+      "score": 152,
+      "count": 68,
       "breaking": 42,
-      "latest": "2026-05-16T02:44:38.000Z"
+      "latest": "2026-05-16T07:48:25.000Z"
     },
     {
       "id": "sudan",
@@ -30,8 +30,15 @@
       "latest": "2026-05-11T12:00:00.000Z"
     },
     {
+      "id": "taliban-pakistan",
+      "score": 54,
+      "count": 20,
+      "breaking": 17,
+      "latest": "2026-05-14T22:10:00.000Z"
+    },
+    {
       "id": "china-taiwan",
-      "score": 49,
+      "score": 50,
       "count": 28,
       "breaking": 9,
       "latest": "2026-05-16T07:21:29.000Z"
@@ -42,13 +49,6 @@
       "count": 20,
       "breaking": 14,
       "latest": "2026-04-19T07:00:00.000Z"
-    },
-    {
-      "id": "taliban-pakistan",
-      "score": 43,
-      "count": 20,
-      "breaking": 11,
-      "latest": "2026-05-14T22:10:00.000Z"
     },
     {
       "id": "sahel",
@@ -152,15 +152,15 @@
     ],
     "pakistan": [
       "middle-east",
-      "china-taiwan",
       "taliban-pakistan",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "india": [
       "middle-east",
-      "china-taiwan",
       "taliban-pakistan",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
@@ -213,15 +213,15 @@
       "ukraine-russia"
     ],
     "south-korea": [
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "north-korea": [
-      "korea",
       "china-taiwan",
+      "korea",
       "general",
       "middle-east",
       "ukraine-russia"
