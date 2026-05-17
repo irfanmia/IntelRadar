@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-05-17T12:37:22.552Z",
+  "lastUpdated": "2026-05-17T13:11:36.100Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 501,
-      "count": 307,
-      "breaking": 85,
-      "latest": "2026-05-17T12:30:10.000Z"
+      "score": 533,
+      "count": 328,
+      "breaking": 90,
+      "latest": "2026-05-17T13:00:26.000Z"
     },
     {
       "id": "middle-east",
-      "score": 389,
+      "score": 396,
       "count": 167,
-      "breaking": 106,
+      "breaking": 110,
       "latest": "2026-05-17T12:05:09.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 159,
-      "count": 67,
+      "score": 158,
+      "count": 66,
       "breaking": 45,
       "latest": "2026-05-17T09:45:24.000Z"
     },
@@ -37,6 +37,13 @@
       "latest": "2026-05-17T05:24:39.000Z"
     },
     {
+      "id": "korea",
+      "score": 52,
+      "count": 19,
+      "breaking": 16,
+      "latest": "2026-04-19T07:00:00.000Z"
+    },
+    {
       "id": "china-taiwan",
       "score": 47,
       "count": 26,
@@ -44,25 +51,18 @@
       "latest": "2026-05-17T12:17:22.000Z"
     },
     {
-      "id": "korea",
-      "score": 44,
-      "count": 19,
-      "breaking": 12,
-      "latest": "2026-04-19T07:00:00.000Z"
+      "id": "sahel",
+      "score": 37,
+      "count": 22,
+      "breaking": 7,
+      "latest": "2026-05-12T08:22:14.000Z"
     },
     {
       "id": "venezuela",
-      "score": 36,
-      "count": 25,
+      "score": 35,
+      "count": 26,
       "breaking": 3,
       "latest": "2026-05-17T05:00:29.000Z"
-    },
-    {
-      "id": "sahel",
-      "score": 35,
-      "count": 22,
-      "breaking": 6,
-      "latest": "2026-05-12T08:22:14.000Z"
     }
   ],
   "countryEvents": {
@@ -167,8 +167,8 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
-      "china-taiwan",
       "korea",
+      "china-taiwan",
       "venezuela",
       "general"
     ],
@@ -199,29 +199,29 @@
       "general"
     ],
     "taiwan": [
-      "china-taiwan",
       "korea",
+      "china-taiwan",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "china": [
       "middle-east",
-      "china-taiwan",
       "korea",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "south-korea": [
-      "china-taiwan",
       "korea",
+      "china-taiwan",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "north-korea": [
-      "china-taiwan",
       "korea",
+      "china-taiwan",
       "general",
       "middle-east",
       "ukraine-russia"
@@ -273,15 +273,15 @@
     ],
     "australia": [
       "middle-east",
-      "china-taiwan",
       "korea",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "japan": [
       "middle-east",
-      "china-taiwan",
       "korea",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
