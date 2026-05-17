@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-17T07:10:07.493Z",
+  "lastUpdated": "2026-05-17T07:30:07.843Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 571,
-      "count": 338,
+      "score": 565,
+      "count": 333,
       "breaking": 103,
-      "latest": "2026-05-17T07:08:26.000Z"
+      "latest": "2026-05-17T07:23:39.000Z"
     },
     {
       "id": "middle-east",
-      "score": 396,
-      "count": 171,
-      "breaking": 107,
-      "latest": "2026-05-17T07:08:41.000Z"
+      "score": 402,
+      "count": 173,
+      "breaking": 109,
+      "latest": "2026-05-17T07:20:07.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 157,
+      "score": 155,
       "count": 65,
-      "breaking": 45,
+      "breaking": 44,
       "latest": "2026-05-17T06:01:26.000Z"
     },
     {
@@ -37,6 +37,13 @@
       "latest": "2026-04-19T07:00:00.000Z"
     },
     {
+      "id": "china-taiwan",
+      "score": 48,
+      "count": 29,
+      "breaking": 8,
+      "latest": "2026-05-17T06:30:04.000Z"
+    },
+    {
       "id": "taliban-pakistan",
       "score": 47,
       "count": 22,
@@ -44,11 +51,11 @@
       "latest": "2026-05-17T05:24:39.000Z"
     },
     {
-      "id": "china-taiwan",
-      "score": 45,
-      "count": 28,
-      "breaking": 7,
-      "latest": "2026-05-17T06:30:04.000Z"
+      "id": "venezuela",
+      "score": 36,
+      "count": 25,
+      "breaking": 3,
+      "latest": "2026-05-17T05:00:29.000Z"
     },
     {
       "id": "sahel",
@@ -56,13 +63,6 @@
       "count": 22,
       "breaking": 6,
       "latest": "2026-05-12T08:22:14.000Z"
-    },
-    {
-      "id": "venezuela",
-      "score": 34,
-      "count": 25,
-      "breaking": 3,
-      "latest": "2026-05-17T05:00:29.000Z"
     }
   ],
   "countryEvents": {
@@ -152,15 +152,15 @@
     ],
     "pakistan": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
     "india": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
