@@ -1,8 +1,602 @@
 {
-  "lastUpdated": "2026-05-30T15:28:31.008Z",
+  "lastUpdated": "2026-05-30T17:22:00.846Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "What to Know About the Ebola Outbreak",
+      "summary": "Aid agencies are racing to help underequipped health workers in the Democratic Republic of Congo. More than 245 people are now suspected to have died from the virus.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T17:09:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+    },
+    {
+      "id": "news-1",
+      "headline": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+      "summary": "Israeli settlers attacked Palestinian homes and property across the occupied West Bank.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T17:04:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss"
+    },
+    {
+      "id": "news-2",
+      "headline": "The Russian Drone That Hit Romania Also Hit European Confidence",
+      "summary": "The failure to protect NATO territory further increased anxiety about alliance solidarity, Russia’s intentions and Washington’s commitment to collective defense.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T17:01:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html"
+    },
+    {
+      "id": "news-3",
+      "headline": "Liverpool sack Arne Slot after disastrous Premier League title defence",
+      "summary": "Liverpool have sacked head coach Arne Slot after a fifth-place finish in their Premier League title defence.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T17:01:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss"
+    },
+    {
+      "id": "news-4",
+      "headline": "Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area",
+      "summary": "Médicins Sans Frontières says that never before has an Ebola outbreak recorded so many cases so soon after its declaration.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:58:56.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-5",
+      "headline": "WHO chief visits eastern DR Congo amid Ebola outbreak",
+      "summary": "The head of the World Health Organization (WHO) Tedros Adhanom Ghebreyesus traveled to Bunia, in DR Congo on Saturday to show his support to the residents of the capital of Ituri Province, the epicentre of a severe Ebola virus outbreak. There have been at least 1,077 suspected cases in the country s",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:57:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/africa/20260530-who-chief-visits-eastern-dr-congo-amid-ebola-outbreak"
+    },
+    {
+      "id": "news-6",
+      "headline": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
+      "summary": "WHO&#039;s Tedros calls for a community-led fight as a rare Ebola strain spreads rapidly through conflict-hit eastern DRC.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:44:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss"
+    },
+    {
+      "id": "news-7",
+      "headline": "A Big Bang, a Fire and Panic as War Enters Romanian Homes",
+      "summary": "When a drone crashed into an apartment building in eastern Romania, residents were reminded that the Russia-Ukraine war makes for a dangerous neighbor.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:44:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html"
+    },
+    {
+      "id": "news-8",
+      "headline": "As Trump Mulls Decision About Iran War Deal, a Restive Middle East Waits to Hear",
+      "summary": "The president has wavered on whether to move ahead with an agreement with Iran to end the war. On Friday, he vowed to make a “final determination” soon.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:34:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
+    },
+    {
+      "id": "news-9",
+      "headline": "8 militants killed on second day of security operation in KP's Darra Adamkhel: security sources",
+      "summary": "&lt;p&gt;PESHAWAR: At least eight militants, including two Afghan nationals belonging to the banned Tariq Gidar group — an affiliate of the proscribed Tehreek-i-Taliban Pakistan (TTP) — were killed on the second day of an &lt;a href=\"https://www.dawn.com/news/2003751/five-terrorists-killed-in-darra-",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:32:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2003955/8-militants-killed-on-second-day-of-security-operation-in-kps-darra-adamkhel-security-sources"
+    },
+    {
+      "id": "news-10",
+      "headline": "Iran’s Hard-Liners Try to Derail Potential Deal With the U.S.",
+      "summary": "A political fight is playing out in Iran, where the small but loud faction of hard-liners has used rallies, state media and private and public statements to try to undermine negotiations.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:29:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/29/world/middleeast/irans-hard-liners-deal.html"
+    },
+    {
+      "id": "news-11",
+      "headline": "Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB4amRjY21ZdVRYa29sT1IwbS1fX2VZMjFCenhMNmRqc1BMUDcyVXZKV3JGOWpBYnFlYlJ2XzhjVXhNVThSUU5FX0dIbEc5RVBJQjcxVTkwYU9pS1dBX0t5NDhOcTFtTEk1LTZEaHgxLXdWMTU2Q3dJ?oc=5\" target=\"_blank\"&gt;Iran War Updates: Trump Puts Off ‘Final Determination’ on Ira",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:29:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4amRjY21ZdVRYa29sT1IwbS1fX2VZMjFCenhMNmRqc1BMUDcyVXZKV3JGOWpBYnFlYlJ2XzhjVXhNVThSUU5FX0dIbEc5RVBJQjcxVTkwYU9pS1dBX0t5NDhOcTFtTEk1LTZEaHgxLXdWMTU2Q3dJ?oc=5"
+    },
+    {
+      "id": "news-12",
+      "headline": "‘Opposite visions’: What to know about Colombia’s presidential election",
+      "summary": "Senator Ivan Cepeda is leading two right-wing rivals in the first round of an election dominated by security concerns.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:21:52.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss"
+    },
+    {
+      "id": "news-13",
+      "headline": "Iran’s Team Trains in Limbo for World Cup Overshadowed by War",
+      "summary": "The Iranian soccer players, still awaiting visas to the U.S., are practicing in Turkey and making backup plans.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:20:07.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html"
+    },
+    {
+      "id": "news-14",
+      "headline": "Dubai Police arrest 8 in Dh12m oud theft, woman posed as princess",
+      "summary": "Dubai Police arrest 8 in Dh12m oud theft, woman posed as princess",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:16:15.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/crime/dubai-police-arrest-8-in-dh12m-oud-theft-woman-posed-as-princess-1.500558178"
+    },
+    {
+      "id": "news-15",
+      "headline": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
+      "summary": "A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:15:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html"
+    },
+    {
+      "id": "news-16",
+      "headline": "Hegseth’s Message to Asian Partners: Do More to Get More",
+      "summary": "At a security conference in Singapore, Defense Secretary Pete Hegseth told Asian military leaders how they could get to “the front of the line” for U.S. assistance.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:13:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/30/world/asia/hegseth-asia-security-shangri-la.html"
+    },
+    {
+      "id": "news-17",
+      "headline": "UAE expresses solidarity with Afghanistan after deadly truck accident",
+      "summary": "UAE expresses solidarity with Afghanistan after deadly truck accident",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:10:35.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/government/uae-expresses-solidarity-with-afghanistan-after-deadly-truck-accident-1.500558156"
+    },
+    {
+      "id": "news-18",
+      "headline": "Driver falls asleep at Dubai junction while intoxicated",
+      "summary": "Driver falls asleep at Dubai junction while intoxicated",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:10:15.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/driver-falls-asleep-at-dubai-junction-while-intoxicated-1.500558114"
+    },
+    {
+      "id": "news-19",
+      "headline": "Is Melania Trump an 'alien'? Indian-origin attorney says White House's immigrant-bashing crosses line",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131412130.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:08:47.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/is-melania-trump-an-alien-indian-origin-attorney-says-white-houses-immigrant-bashing-crosses-line/articleshow/131412130.cms"
+    },
+    {
+      "id": "news-20",
+      "headline": "High-stakes decision: Trump keeps region guessing on Iran deal",
+      "summary": "High-stakes decision: Trump keeps region guessing on Iran deal",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:07:55.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/high-stakes-decision-trump-keeps-region-guessing-on-iran-deal-1.500558164"
+    },
+    {
+      "id": "news-21",
+      "headline": "Indonesia’s Mount Merapi volcano erupts, spewing ash into the sky",
+      "summary": "Videos show Indonesia’s Mount Merapi spewing a column of ash around 2 kilometres high in West Sumatra.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:06:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/indonesias-mount-merapi-volcano-erupts-spewing-ash-into-the-sky?traffic_source=rss"
+    },
+    {
+      "id": "news-22",
+      "headline": "'Bringing the war back where it came from': Zelenskyy after Ukrainian drones hit Russian oil facilities",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131412167.cms\" /&gt;<![CDATA[",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T16:00:20.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/europe/bringing-the-war-back-where-it-came-from-zelenskyy-after-ukrainian-drones-hit-russian-oil-facilities/articleshow/131412167.cms"
+    },
+    {
+      "id": "news-23",
+      "headline": "Arsenal vs PSG: Champions League holders chase history in Budapest final",
+      "summary": "Arsenal vs PSG: Champions League holders chase history in Budapest final",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:59:21.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/football/arsenal-vs-psg-champions-league-holders-chase-history-in-budapest-final-1.500558171"
+    },
+    {
+      "id": "news-24",
+      "headline": "KP CM Afridi urges GB chief justice to ensure transparency amid 'alarming' electoral environment",
+      "summary": "&lt;p&gt;Khyber Pakhtunkhwa Chief Minister Sohail Afridi on Saturday wrote to the Chief Justice of the Supreme Appellate Court of Gilgit-Baltistan, urging immediate judicial intervention to ensure transparency in the upcoming GB elections amid what he described as an “alarming” deterioration in the ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:46:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment"
+    },
+    {
+      "id": "news-25",
+      "headline": "Inaugural Hong Kong Comic Con draws massive crowds and global vendors",
+      "summary": "Pop culture fans packed the inaugural Hong Kong edition of Comic Con, an exhibition featuring international and local animated figures and products, fuelling hopes among digital entertainment vendors that business will be strong over the three-day event that ends on Sunday.\nGiant statues of characte",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:45:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3355431/inaugural-hong-kong-comic-con-draws-massive-crowds-and-global-vendors?utm_source=rss_feed"
+    },
+    {
+      "id": "news-26",
+      "headline": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:39:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-27",
+      "headline": "UAE petrol prices for June out tomorrow: How much you will pay for fuel next month",
+      "summary": "UAE petrol prices for June out tomorrow: How much you will pay for fuel next month",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:38:13.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/energy/uae-petrol-prices-for-june-out-tomorrow-how-much-you-will-pay-for-fuel-next-month-1.500558128"
+    },
+    {
+      "id": "news-28",
+      "headline": "Afghanistan truck overturns, 20 dead including 12 children",
+      "summary": "Afghanistan truck overturns, 20 dead including 12 children",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:34:58.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/afghanistan-truck-overturns-20-dead-including-12-children-1.500558148"
+    },
+    {
+      "id": "news-29",
+      "headline": "Returning home to invest: Some entrepreneurs see opportunities in DRC despite instability",
+      "summary": "While much of the international spotlight remains fixed on conflict in eastern DR Congo and renewed fears around Ebola outbreaks, some members of the Congolese diaspora are choosing to return home and invest. Jean Luc Luboya Tshishimbi, the CEO of Bio Happy Farms, shares his perspective – that of an",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:26:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/returning-home-to-invest-some-entrepreneurs-see-opportunities-in-drc-despite-instability"
+    },
+    {
+      "id": "news-30",
+      "headline": "Senior Sri Lankan monk suspended over child sex abuse allegation",
+      "summary": "Pallegama Hemarathana is accused of abusing an 11-year-old girl in a Buddhist temple in 2022.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:26:35.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss"
+    },
+    {
+      "id": "news-31",
+      "headline": "PSG and Arsenal chase European glory at UEFA Champions League final",
+      "summary": "Arsenal and Paris Saint Germain will face off in a thrilling final under the lights of the Pushkas Arena in Budapest tonight. PSG has high hopes of winning the prestigious title for the second year in a row, whilst the Gunners are hoping to lift the trophy for the first time. Get a feel of the elect",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:24:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/psg-and-arsenal-chase-european-glory-at-uefa-champions-league-final"
+    },
+    {
+      "id": "news-32",
+      "headline": "Medical miracle or MAGA marvel? Trump's doc says he has heart of someone 14 years younger",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131411648.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:24:37.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/medical-miracle-or-maga-marvel-trumps-doc-says-he-has-heart-of-someone-14-years-younger/articleshow/131411648.cms"
+    },
+    {
+      "id": "news-33",
       "headline": "'US, Pakistan developing true friendship': Hegseth hails Islamabad's role in US-Iran negotiations",
       "summary": "&lt;p&gt;United States Secretary of Defense Pete Hegseth on Saturday said Washington and Islamabad were developing a “true friendship” as he lauded Pakistan’s role in the ongoing US-Iran peace negotiations.&lt;/p&gt;\n&lt;p&gt;With Pakistan acting as the official interlocutor between Washington and T",
       "urgency": "breaking",
@@ -20,7 +614,25 @@
       "link": "https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations"
     },
     {
-      "id": "news-1",
+      "id": "news-34",
+      "headline": "Sheikh Hamdan asks fans: Arsenal or PSG? UEFA Champions League Final 2026 poll",
+      "summary": "Sheikh Hamdan asks fans: Arsenal or PSG? UEFA Champions League Final 2026 poll",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T15:19:33.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/sheikh-hamdan-asks-fans-arsenal-or-psg-uefa-champions-league-final-2026-poll-1.500558098"
+    },
+    {
+      "id": "news-35",
       "headline": "Sabalenka, Osaka set up French Open clash, Gauff eyes second week",
       "summary": "&lt;p&gt;Top seed Aryna Sabalenka and four-time Grand Slam winner Naomi Osaka on Saturday set up a blockbuster last-16 meeting at the French Open, while defending champion Coco Gauff seeks to join them in the second week.&lt;/p&gt;\n&lt;p&gt;Sabalenka beat Australia’s Daria Kasatkina 6-0, 7-5 in just",
       "urgency": "breaking",
@@ -38,25 +650,43 @@
       "link": "https://www.dawn.com/news/2003946/sabalenka-osaka-set-up-french-open-clash-gauff-eyes-second-week"
     },
     {
-      "id": "news-2",
-      "headline": "A Big Bang, a Fire and Panic as War Enters Romanian Homes",
-      "summary": "When a drone crashed into an apartment building in eastern Romania, residents were reminded that the Russia-Ukraine war makes for a dangerous neighbor.",
-      "urgency": "breaking",
+      "id": "news-36",
+      "headline": "Arsenal&apos;s Mosquera, Havertz start Champions League final",
+      "summary": "Arsenal&apos;s Mosquera, Havertz start Champions League final",
+      "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-30T14:56:59.000Z",
+      "timestamp": "2026-05-30T15:09:55.000Z",
       "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html"
+      "link": "https://gulfnews.com/sport/football/arsenals-mosquera-havertz-start-champions-league-final-1.500558113"
     },
     {
-      "id": "news-3",
+      "id": "news-37",
+      "headline": "Pentagon chief Hegseth outlines new US Indo-Pacific strategy at Singapore summit",
+      "summary": "Pentagon chief Hegseth outlines new US Indo-Pacific strategy at Singapore summit",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T14:54:04.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/pentagon-chief-hegseth-outlines-new-us-indo-pacific-strategy-at-singapore-summit-1.500558106"
+    },
+    {
+      "id": "news-38",
       "headline": "Rescuers free four more men from flooded Laos cave, two still missing",
       "summary": "Five of seven men who entered cave seeking gold are now out after being trapped for 10 days.",
       "urgency": "info",
@@ -74,25 +704,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/30/rescuers-free-four-more-men-from-flooded-laos-cave-two-still-missing?traffic_source=rss"
     },
     {
-      "id": "news-4",
-      "headline": "Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB4amRjY21ZdVRYa29sT1IwbS1fX2VZMjFCenhMNmRqc1BMUDcyVXZKV3JGOWpBYnFlYlJ2XzhjVXhNVThSUU5FX0dIbEc5RVBJQjcxVTkwYU9pS1dBX0t5NDhOcTFtTEk1LTZEaHgxLXdWMTU2Q3dJ?oc=5\" target=\"_blank\"&gt;Iran War Updates: Trump Puts Off ‘Final Determination’ on Ira",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T14:52:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4amRjY21ZdVRYa29sT1IwbS1fX2VZMjFCenhMNmRqc1BMUDcyVXZKV3JGOWpBYnFlYlJ2XzhjVXhNVThSUU5FX0dIbEc5RVBJQjcxVTkwYU9pS1dBX0t5NDhOcTFtTEk1LTZEaHgxLXdWMTU2Q3dJ?oc=5"
-    },
-    {
-      "id": "news-5",
+      "id": "news-39",
       "headline": "Is a Canadian Car the Answer to Trump’s Tariffs? The Bricklin Shows the Risks.",
       "summary": "A sports car made in New Brunswick and mostly funded by the province lasted only about 18 months.",
       "urgency": "info",
@@ -110,7 +722,7 @@
       "link": "https://www.nytimes.com/2026/05/30/world/canada/carney-auto-tariffs-bricklin-car.html"
     },
     {
-      "id": "news-6",
+      "id": "news-40",
       "headline": "Trumpiana: Battle of bluff, bluster and blunder!",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131411176.cms\" /&gt;<![CDATA[Despite ongoing Iran peace talks, Donald Trump celebrated Republican primary victories, asserting his party dominance. Meanwhile, his admin",
       "urgency": "info",
@@ -128,7 +740,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/trumpiana-battle-of-bluff-bluster-and-blunder/articleshow/131411176.cms"
     },
     {
-      "id": "news-7",
+      "id": "news-41",
       "headline": "Heat Wave Grips France",
       "summary": "France is sweltering in an \"unprecedented\" heatwave for May - says the French meteorological service. Skyrocketing temperatures have broken records this month. We speak with Fabio D'Andrea, a CNRS climatologist and head of the geosciences department of ENS about the cause.",
       "urgency": "info",
@@ -146,7 +758,7 @@
       "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20260530-heat-wave-grips-france"
     },
     {
-      "id": "news-8",
+      "id": "news-42",
       "headline": "Is Rs 5 crore enough for NRIs to return to India from the US? Former Meta techie who moved to Bengaluru says 'don't chase...'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131411074.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -164,7 +776,7 @@
       "link": "https://timesofindia.indiatimes.com/nri/is-rs-5-crore-enough-for-nris-to-return-to-india-from-the-us-former-meta-techie-who-moved-to-bengaluru-says-dont-chase-/articleshow/131411074.cms"
     },
     {
-      "id": "news-9",
+      "id": "news-43",
       "headline": "Sustained security can’t come from ‘barrel of a gun’: East Timor’s Jose Ramos-Horta",
       "summary": "The world can learn diplomatic lessons from Asean, East Timor President Jose Ramos-Horta has said in a strongly worded rebuke to existing global power structures.\nAt the Shangri-La Dialogue in Singapore on Saturday, Ramos-Horta, who leads the newest and 11th member of the Association of Southeast As",
       "urgency": "info",
@@ -182,7 +794,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3355429/sustained-security-cant-come-barrel-gun-east-timors-jose-ramos-horta?utm_source=rss_feed"
     },
     {
-      "id": "news-10",
+      "id": "news-44",
       "headline": "US says 'more than capable' of resuming war, as peace deal remains elusive",
       "summary": "Pentagon head Pete Hegseth - has said that Washington could restart the war with Iran at any time if it wanted. His remarks follow days of talks and a two-hour meeting in the White House situation room - that has yet to produce a deal between the US and Iran. Analysis by FRANCE 24 international affa",
       "urgency": "breaking",
@@ -200,7 +812,25 @@
       "link": "https://www.france24.com/en/us-says-more-than-capable-of-resuming-war-as-peace-deal-remains-elusive"
     },
     {
-      "id": "news-11",
+      "id": "news-45",
+      "headline": "Heatwave makes conditions 'inhumane', say inmates at overcrowded Paris suburb prison",
+      "summary": "A damp towel hangs from a barred window, a fan churns the muggy air: Inmates at the overcrowded Villepinte prison outside Paris say enduring a heatwave that has stifled France in recent days in cramped cells is \"inhumane\".",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T14:23:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/live-news/20260530-heatwave-makes-conditions-inhumane-say-inmates-at-overcrowded-paris-suburb-prison"
+    },
+    {
+      "id": "news-46",
       "headline": "Hong Kong must remove bottlenecks to grow yacht economy, industry leaders say",
       "summary": "Hong Kong should urgently address its bottlenecks in developing a yacht economy by improving immigration procedures, upgrading mooring facilities and curating niche tourism itineraries following Beijing’s policy relaxation on yachts from the city sailing to mainland China, industry leaders have said",
       "urgency": "important",
@@ -218,7 +848,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355428/hong-kong-must-remove-bottlenecks-grow-yacht-economy-industry-leaders-say?utm_source=rss_feed"
     },
     {
-      "id": "news-12",
+      "id": "news-47",
       "headline": "Why Iran&apos;s hardliners keep blocking a US deal — and why they matter",
       "summary": "Why Iran&apos;s hardliners keep blocking a US deal — and why they matter",
       "urgency": "info",
@@ -236,7 +866,7 @@
       "link": "https://gulfnews.com/world/mena/why-irans-hardliners-keep-blocking-a-us-deal-and-why-they-matter-1.500558057"
     },
     {
-      "id": "news-13",
+      "id": "news-48",
       "headline": "Trump health check-up: White House releases memo on fitness",
       "summary": "Trump health check-up: White House releases memo on fitness",
       "urgency": "info",
@@ -254,7 +884,7 @@
       "link": "https://gulfnews.com/world/americas/trump-health-check-up-white-house-releases-memo-on-fitness-1.500558076"
     },
     {
-      "id": "news-14",
+      "id": "news-49",
       "headline": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
       "summary": "At least 10 children among the dead as a packed truck carrying families returning from Pakistan flips on major highway.",
       "urgency": "breaking",
@@ -272,10 +902,10 @@
       "link": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18?traffic_source=rss"
     },
     {
-      "id": "news-15",
-      "headline": "PSG vs Arsenal live: follow the Champions League final",
+      "id": "news-50",
+      "headline": "PSG vs Arsenal live: Havertz strike puts Gunners ahead at half-time",
       "summary": "Paris Saint-Germain and Arsenal face off in the Champions League final in Budapest on Saturday, with the biggest prize in European club football up for grabs. Title holders PSG can become only the second team in the modern era to retain the trophy, but Arsenal head into the game on a fresh high afte",
-      "urgency": "info",
+      "urgency": "breaking",
       "topic": "general",
       "sources": [
         {
@@ -290,7 +920,25 @@
       "link": "https://www.france24.com/en/sport/20260530-psg-vs-arsenal-live-follow-champions-league-final"
     },
     {
-      "id": "news-16",
+      "id": "news-51",
+      "headline": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVotLVFqT0lNQy15OWRUSVRNYi12b1d2ZTZTekxmaE9uYlNmNDd5YlVwVXNlaHE2RWsxTzZVZzFxTmk0M05uSjdCVlU5OGFsbUVEY3hOWUJFRTEzOWtjOURHZUZUQ0pGNlJMSl9ORHk5WUVGOG9nM1U4WnBWS2RSZzBSaTFkWC1nR0ZmNmNGTUVTVnF3TFNUN2ptYk9TLXp5Y19PMm8xSFBpWTduQl9xTDNuVHZJSEw",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T14:09:35.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVotLVFqT0lNQy15OWRUSVRNYi12b1d2ZTZTekxmaE9uYlNmNDd5YlVwVXNlaHE2RWsxTzZVZzFxTmk0M05uSjdCVlU5OGFsbUVEY3hOWUJFRTEzOWtjOURHZUZUQ0pGNlJMSl9ORHk5WUVGOG9nM1U4WnBWS2RSZzBSaTFkWC1nR0ZmNmNGTUVTVnF3TFNUN2ptYk9TLXp5Y19PMm8xSFBpWTduQl9xTDNuVHZJSEwwWTV3a2Z30gHDAUFVX3lxTE1qaGFnNzB1Q2JrYy1HUml3ZllPZTZjbU9tUGxsV25VNWp4UnpOVkNFUHV0a3NXVzRsVHk1M2pHTkNnb05KVlhqVFE3TTY5MDN0dDhyZlNnSlJ3dTVpdGNFaXNqLUNNMDFfR2VWRGxlYlV4VnJPd09OVVktNDhndXlmLXlaUkJpdXd4U2Q3ZXM1bnZac3RzcGxnQmJBWFFKT0lqaFlhcVRLd3cxb1ppREs0VVM4dnZyTlpjMmhtc2hzWlotQQ?oc=5"
+    },
+    {
+      "id": "news-52",
       "headline": "Green Card rules clarified: US denies blanket ‘return home’ requirement",
       "summary": "Green Card rules clarified: US denies blanket ‘return home’ requirement",
       "urgency": "info",
@@ -308,7 +956,7 @@
       "link": "https://gulfnews.com/world/americas/green-card-rules-clarified-us-denies-blanket-return-home-requirement-1.500558041"
     },
     {
-      "id": "news-17",
+      "id": "news-53",
       "headline": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
       "summary": "Israel’s military has advanced beyond Lebanon&#039;s Litani River for the first time since 2006.",
       "urgency": "info",
@@ -326,7 +974,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss"
     },
     {
-      "id": "news-18",
+      "id": "news-54",
       "headline": "Burjeel Hospital opens ‘VAT Refund Counter’ at Yas Mall for World No Tobacco Day 2026",
       "summary": "Burjeel Hospital opens ‘VAT Refund Counter’ at Yas Mall for World No Tobacco Day 2026",
       "urgency": "info",
@@ -344,7 +992,7 @@
       "link": "https://gulfnews.com/business/corporate-news/burjeel-hospital-opens-vat-refund-counter-at-yas-mall-for-world-no-tobacco-day-2026-1.500557858"
     },
     {
-      "id": "news-19",
+      "id": "news-55",
       "headline": "What Filipinos need to know before accepting work abroad offers online",
       "summary": "What Filipinos need to know before accepting work abroad offers online",
       "urgency": "info",
@@ -362,7 +1010,7 @@
       "link": "https://gulfnews.com/world/asia/philippines/what-filipinos-need-to-know-before-accepting-work-abroad-offers-online-1.500558031"
     },
     {
-      "id": "news-20",
+      "id": "news-56",
       "headline": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
       "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
       "urgency": "important",
@@ -380,7 +1028,7 @@
       "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-21",
+      "id": "news-57",
       "headline": "China dials down rhetoric but regional risks persist at Shangri-La Dialogue",
       "summary": "The world faces challenges from “hegemonism” and “bloc confrontation” driven by “certain countries”, China’s delegation to Asia’s premier security conference said on Saturday, without directly naming the United States.\nMajor General Meng Xiangqing, the head of the Chinese delegation to the Shangri-L",
       "urgency": "breaking",
@@ -398,43 +1046,25 @@
       "link": "https://www.scmp.com/news/china/military/article/3355425/china-dials-down-rhetoric-regional-risks-persist-shangri-la-dialogue?utm_source=rss_feed"
     },
     {
-      "id": "news-22",
-      "headline": "Middle East on Edge as Trump Mulls Decision About Iran Deal - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnU4WkE2d0hadEJJM2RweHdqZngxdFJ3eXB3XzNOQ1g2RVFQQnVCREdEcmNfMjZNU0pfdUNaS1F2Ym1YUndlcVhYYTR1eVVjcWpjdVZWZ0hxNDY4MHlXemJsMVRMUlFuRlpHaVExdm8tVlItRGVaQkhCZFFTRGNhTFV3S01GWG9ZUTFGLQ?oc=5\" target=\"_blank\"&gt;Middle East on Edge as Trump Mu",
+      "id": "news-58",
+      "headline": "UAE authorities say public health remains stable, monitoring Ebola virus developments - Khaleej Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3g5T1ExZklybE4xc2NaYmdnaUxnQk15YkhJdEJWXzVHWkRtb3Z6eGVsTThielN2QTdQSGRkVE5rMG1wY0RKNGktR3RYNkU0Ymhrdlp0VGNrVm50ZmhyV0FmRERaaXRWWVprNm5iemYwTXZtQWNqRE9tUTVfc0laVGZBZzUwdW9PX20zNW9SeEl0LUJtZWVUN1cxa3ljd3B0QjJhNDNac2F3UUd2UWtobzREU1h2ZXh",
       "urgency": "info",
-      "topic": "middle-east",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Khaleej Times",
+          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
+          "url": "https://khaleejtimes.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-30T13:23:50.000Z",
+      "timestamp": "2026-05-30T13:18:56.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnU4WkE2d0hadEJJM2RweHdqZngxdFJ3eXB3XzNOQ1g2RVFQQnVCREdEcmNfMjZNU0pfdUNaS1F2Ym1YUndlcVhYYTR1eVVjcWpjdVZWZ0hxNDY4MHlXemJsMVRMUlFuRlpHaVExdm8tVlItRGVaQkhCZFFTRGNhTFV3S01GWG9ZUTFGLQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3g5T1ExZklybE4xc2NaYmdnaUxnQk15YkhJdEJWXzVHWkRtb3Z6eGVsTThielN2QTdQSGRkVE5rMG1wY0RKNGktR3RYNkU0Ymhrdlp0VGNrVm50ZmhyV0FmRERaaXRWWVprNm5iemYwTXZtQWNqRE9tUTVfc0laVGZBZzUwdW9PX20zNW9SeEl0LUJtZWVUN1cxa3ljd3B0QjJhNDNac2F3UUd2UWtobzREU1h2ZXhw0gHAAUFVX3lxTE1BWVphZ1FGdmMwaFZMMndfT05KZmpsTHhBN09IekgxMTNKaDJESmNZSGxnX1RNVlBQUE9PME5hYkFmSjJpaHRyQzJhWXNZenlhYTFpYU1ESk5pU0ZwSEdaam5vb2NNMmRZal9Ed2pPY2JOcHlGR2t2dWt0MHJidEFtcnV6SS1nZHoxbGpXOWk2bFFGOG9MQTBNaWpJWmxfRUszY2FFSlF5R19kTUt5MFBiOUVoZHk1YjU2dG1YWER6dw?oc=5"
     },
     {
-      "id": "news-23",
-      "headline": "As Trump Mulls Decision About Iran War Deal, the Middle East Remains on Edge",
-      "summary": "The president has wavered on whether to move ahead with an agreement with Iran to end the war. On Friday, he vowed to make a “final determination” soon.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T13:23:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
-    },
-    {
-      "id": "news-24",
+      "id": "news-59",
       "headline": "UAE reviews Ebola developments, reinforces health preparedness measures",
       "summary": "UAE reviews Ebola developments, reinforces health preparedness measures",
       "urgency": "info",
@@ -452,7 +1082,7 @@
       "link": "https://gulfnews.com/uae/health/uae-reviews-ebola-developments-reinforces-health-preparedness-measures-1.500558025"
     },
     {
-      "id": "news-25",
+      "id": "news-60",
       "headline": "Emirati and Polish artists reinterpret folktales as Sharjah sparks cross-continent creativity",
       "summary": "Emirati and Polish artists reinterpret folktales as Sharjah sparks cross-continent creativity",
       "urgency": "info",
@@ -470,7 +1100,7 @@
       "link": "https://gulfnews.com/entertainment/arts-culture/emirati-and-polish-artists-reinterpret-folktales-as-sharjah-sparks-cross-continent-creativity-1.500557758"
     },
     {
-      "id": "news-26",
+      "id": "news-61",
       "headline": "Violence against foreign-owned shops in South Africa",
       "summary": "Foreign workers in South Africa are again facing violence and protests by anti-immigrant groups.",
       "urgency": "important",
@@ -488,25 +1118,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss"
     },
     {
-      "id": "news-27",
-      "headline": "Flights temporarily suspended at Munich Airport after reported drone sighting",
-      "summary": "Flights temporarily suspended at Munich Airport after reported drone sighting",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T12:55:33.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/europe/flights-temporarily-suspended-at-munich-airport-after-reported-drone-sighting-1.500558001"
-    },
-    {
-      "id": "news-28",
+      "id": "news-62",
       "headline": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
       "summary": "WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.",
       "urgency": "info",
@@ -524,7 +1136,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss"
     },
     {
-      "id": "news-29",
+      "id": "news-63",
       "headline": "Glittering Osaka prolongs French Open run with victory over Jovic",
       "summary": "For the first time in her career, world No.16 Naomi Osaka advanced to the fourth round of the French Open on Saturday with a 7-6 (7-5), 6-7 (3-7), 6-4 victory over American Iva Jovic.",
       "urgency": "info",
@@ -542,7 +1154,7 @@
       "link": "https://www.france24.com/en/sport/20260530-glittering-osaka-prolongs-french-open-run-with-victory-over-jovic"
     },
     {
-      "id": "news-30",
+      "id": "news-64",
       "headline": "WHO chief visits epicentre of Ebola outbreak in DR Congo",
       "summary": "&lt;p&gt;UN health chief Tedros Adhanom Ghebreyesus landed on Saturday in the eastern Democratic Republic of Congo (DRC) province worst-hit by a &lt;a href=\"https://www.dawn.com/news/2003686\"&gt;severe Ebola outbreak&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;The World Health Organisation’s director general told",
       "urgency": "breaking",
@@ -560,7 +1172,7 @@
       "link": "https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo"
     },
     {
-      "id": "news-31",
+      "id": "news-65",
       "headline": "The Iran war is dividing Muslims in the Philippines",
       "summary": "Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.",
       "urgency": "breaking",
@@ -578,7 +1190,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-66",
       "headline": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
       "summary": "Senior U.S. and Cuban military officials held a rare face-to-face meeting near Guantanamo Bay.",
       "urgency": "info",
@@ -596,7 +1208,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss"
     },
     {
-      "id": "news-33",
+      "id": "news-67",
       "headline": "What I Saw Inside an Ebola Ward",
       "summary": "Our chief Africa correspondent, Declan Walsh, walked inside an Ebola ward where both adults and children were being treated, and where someone had recently died of the disease amid a spiraling outbreak in the region. This is what he saw.",
       "urgency": "breaking",
@@ -614,9 +1226,9 @@
       "link": "https://www.nytimes.com/video/world/africa/100000010929380/what-i-saw-inside-an-ebola-ward.html"
     },
     {
-      "id": "news-34",
+      "id": "news-68",
       "headline": "France mourns intellectual 'grandfather', sociologist and philosopher Edgar Morin",
-      "summary": "France is mourning the loss of Edgar Morin. The country's favorite intellectual has passed away at the age of 104. President Emmanuel Macron paid him tribute - calling Morin 'humanism personified' - and offered his loved ones the condolences of the Nation. A look back at his life with Caroline Baum.",
+      "summary": "France is mourning the loss of Edgar Morin. The country's favorite intellectual has passed away at the age of 104. President Emmanuel Macron paid him tribute – calling Morin \"humanism personified\" – and offered his loved ones the condolences of the nation. FRANCE 24's Caroline Baum takes a look back",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -632,7 +1244,7 @@
       "link": "https://www.france24.com/en/france-mourns-intellectual-grandfather-sociologist-and-philosopher-edgar-morin"
     },
     {
-      "id": "news-35",
+      "id": "news-69",
       "headline": "How Curry Shops Got Caught in Japan’s Immigration Crackdown",
       "summary": "Under Prime Minister Sanae Takaichi, new visa rules are forcing some foreign business owners, who have put down roots in Japan, to leave.",
       "urgency": "info",
@@ -650,25 +1262,7 @@
       "link": "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html"
     },
     {
-      "id": "news-36",
-      "headline": "WHO chief visits Ebola epicentre in DR Congo, as death toll rises",
-      "summary": "The number of suspected cases of Ebola continues to rise by the day... now above the thousand mark. On the ground, Congolese authorities are scrambling to provide protective equipment which is in short supply, and to establish trust within communities to help fight the spread of the virus. WHO Direc",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T12:34:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/who-chief-visits-ebola-epicentre-in-dr-congo-as-death-toll-rises"
-    },
-    {
-      "id": "news-37",
+      "id": "news-70",
       "headline": "Festive atmosphere in Budapest as PSG and Arsenal eye Champions League title",
       "summary": "It's the pinnacle of football. Kick off at the Champions League final in Budapest is just a few hours away. Arsenal are trying to win it for the first time, while Paris Saint-Germain wants to become only the second team to win it twice in a row. The atmosphere in Budapest is festive to say the least",
       "urgency": "info",
@@ -686,7 +1280,25 @@
       "link": "https://www.france24.com/en/festive-atmosphere-in-budapest-as-psg-and-arsenal-eye-champions-league-title"
     },
     {
-      "id": "news-38",
+      "id": "news-71",
+      "headline": "A Restive Middle East Awaits Trump’s Decision on Iran Deal - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnU4WkE2d0hadEJJM2RweHdqZngxdFJ3eXB3XzNOQ1g2RVFQQnVCREdEcmNfMjZNU0pfdUNaS1F2Ym1YUndlcVhYYTR1eVVjcWpjdVZWZ0hxNDY4MHlXemJsMVRMUlFuRlpHaVExdm8tVlItRGVaQkhCZFFTRGNhTFV3S01GWG9ZUTFGLQ?oc=5\" target=\"_blank\"&gt;A Restive Middle East Awaits Tr",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-30T12:28:56.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnU4WkE2d0hadEJJM2RweHdqZngxdFJ3eXB3XzNOQ1g2RVFQQnVCREdEcmNfMjZNU0pfdUNaS1F2Ym1YUndlcVhYYTR1eVVjcWpjdVZWZ0hxNDY4MHlXemJsMVRMUlFuRlpHaVExdm8tVlItRGVaQkhCZFFTRGNhTFV3S01GWG9ZUTFGLQ?oc=5"
+    },
+    {
+      "id": "news-72",
       "headline": "Sri Lanka’s top monk suspended over alleged child sex abuse",
       "summary": "Sri Lanka’s Buddhist hierarchy suspended on Saturday a senior monk accused of sexually abusing an 11-year-old girl, in a high-profile case that has shocked the religiously conservative nation.\nIn a rare disciplinary move, 71-year-old Pallegama Hemarathana was stripped of his responsibilities as the ",
       "urgency": "info",
@@ -704,7 +1316,7 @@
       "link": "https://www.scmp.com/news/asia/south-asia/article/3355423/sri-lankas-top-monk-suspended-over-alleged-child-sex-abuse?utm_source=rss_feed"
     },
     {
-      "id": "news-39",
+      "id": "news-73",
       "headline": "Hong Kong charity calls for foster carers from diverse backgrounds to ease backlog",
       "summary": "Hundreds of vulnerable children in Hong Kong are waiting for temporary homes, a local charity has said, urging more households from diverse backgrounds to step forward as demand for foster placements continues to outstrip supply.\nMother’s Choice said on Saturday that 222 children remained on the off",
       "urgency": "breaking",
@@ -722,7 +1334,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3355422/hong-kong-charity-calls-foster-carers-diverse-backgrounds-ease-backlog?utm_source=rss_feed"
     },
     {
-      "id": "news-40",
+      "id": "news-74",
       "headline": "Ye and Travis Scott Concerts Canceled in Italy Over Security Fears",
       "summary": "The events were canceled “to ensure public order and safety,” the authorities said. Jewish leaders had objected to the concert by Ye, formerly known as Kanye West, who has a history of antisemitic remarks.",
       "urgency": "info",
@@ -740,25 +1352,7 @@
       "link": "https://www.nytimes.com/2026/05/30/world/europe/ye-travis-scott-italy-concerts.html"
     },
     {
-      "id": "news-41",
-      "headline": "KP CM Afridi urges GB chief justice to ensure transparency amid 'alarming' electoral environment",
-      "summary": "&lt;p&gt;Khyber Pakhtunkhwa Chief Minister Sohail Afridi on Saturday wrote to the Chief Justice of the Supreme Appellate Court of Gilgit-Baltistan, urging immediate judicial intervention to ensure transparency in the upcoming GB elections amid what he described as an “alarming” deterioration in the ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T12:23:47.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment"
-    },
-    {
-      "id": "news-42",
+      "id": "news-75",
       "headline": "Meet ICE agent Christian Castro, arrested in Texas for shooting at a Venezuelan in Minneapolis and lying about it",
       "summary": "Meet ICE agent Christian Castro, arrested in Texas for shooting at a Venezuelan in Minneapolis and lying about it",
       "urgency": "info",
@@ -776,7 +1370,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/meet-ice-agent-christian-castro-arrested-in-texas-for-shooting-a-venezuelan-in-minneapolis-and-lying-about-it/articleshow/131409331.cms"
     },
     {
-      "id": "news-43",
+      "id": "news-76",
       "headline": "US, UK and Australia to develop underwater drone technology",
       "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
       "urgency": "info",
@@ -794,7 +1388,7 @@
       "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-44",
+      "id": "news-77",
       "headline": "Blue Origin faces months of delays after rocket explosion damages launch pad",
       "summary": "&lt;p&gt;&lt;a href=\"https://www.dawn.com/news/2003678\"&gt;Blue Origin&lt;/a&gt; faces a months-long setback after &lt;a href=\"https://www.dawn.com/news/2003831/rocket-explosion-a-setback-for-nasas-moon-plans\"&gt;the explosion of a rocket&lt;/a&gt; damaged its launch pad, company and industry source",
       "urgency": "breaking",
@@ -812,7 +1406,7 @@
       "link": "https://www.dawn.com/news/2003929/blue-origin-faces-months-of-delays-after-rocket-explosion-damages-launch-pad"
     },
     {
-      "id": "news-45",
+      "id": "news-78",
       "headline": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
       "summary": "Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.",
       "urgency": "breaking",
@@ -830,7 +1424,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss"
     },
     {
-      "id": "news-46",
+      "id": "news-79",
       "headline": "LIVE: PSG vs Arsenal – Champions League final",
       "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream of UEFA&#039;s showpiece final.",
       "urgency": "info",
@@ -848,7 +1442,25 @@
       "link": "https://www.aljazeera.com/sports/liveblog/2026/5/30/live-psg-vs-arsenal-champions-league-final?traffic_source=rss"
     },
     {
-      "id": "news-47",
+      "id": "news-80",
+      "headline": "Oman Maritime Security Centre warns of suspected sea mine in Strait of Hormuz - Al Arabiya English",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaTVIQzlLLWl1M2ZtaXBJbHN6RzFaNFQxNUtxZ2RVWUN0WUtONlV4RktWUDJPUlFQTXVsQzZjNk5oS2ZRb3lLbnV2TlpoRUdPX01NZ3RseDB2N0E3Z2FsOTJIMnpOM1hCanRXRnFqVi05R19XUEpFUVhuaW1nOXhPTFNmNWFNTnhlbG90ay1lQjJ4Y2RRd0VqbEI5Y2h4V09PNkpWSG5KSm1wdktJc19WN2k1ZzhGbDd",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Arabiya",
+          "logo": "https://www.google.com/s2/favicons?domain=alarabiya.net&sz=32",
+          "url": "https://english.alarabiya.net",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T12:02:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaTVIQzlLLWl1M2ZtaXBJbHN6RzFaNFQxNUtxZ2RVWUN0WUtONlV4RktWUDJPUlFQTXVsQzZjNk5oS2ZRb3lLbnV2TlpoRUdPX01NZ3RseDB2N0E3Z2FsOTJIMnpOM1hCanRXRnFqVi05R19XUEpFUVhuaW1nOXhPTFNmNWFNTnhlbG90ay1lQjJ4Y2RRd0VqbEI5Y2h4V09PNkpWSG5KSm1wdktJc19WN2k1ZzhGbDdLNXB0Q2otUzE0czdvXzF6Yl9PYldPVjNW0gHWAUFVX3lxTE1mWUc5NjlZNGlqZ0FyOU5mYm14Vy11TmNNckI0UzBnSURmX1hWcDQ0U3l0eVo3TXJmNFZoTHdta056V01xdXduNVpzalVzSVlyWldzOVI5SFJocWZJQ0YxWHFsVTBybEhlU3VVbU5xTW1lTDJmM0J1TDJpbVRKTXRFVnI1cVMwTWFINTRDS0oxVHRpSjc1ZGRhR2RQNVN1TVl1QmJ0eHp3QWtJbDVEbEV3ZUFJUGYwYkZqMkM2S2tlUnNfLXVuNGU1RWtJYzZuYVM0UEJhd1E?oc=5"
+    },
+    {
+      "id": "news-81",
       "headline": "US agency goes back to the future to take on China’s Belt and Road Initiative",
       "summary": "The US agency set up to counter China’s Belt and Road Initiative is blending national security with development finance to try to secure a critical minerals supply chain, according to analysts and officials.\nCreated in 2019 during President Donald Trump’s first administration, the US International D",
       "urgency": "info",
@@ -866,7 +1478,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3352868/us-agency-goes-back-future-take-chinas-belt-and-road-initiative?utm_source=rss_feed"
     },
     {
-      "id": "news-48",
+      "id": "news-82",
       "headline": "5 Are Freed in Laos Cave Rescue After More Than a Week",
       "summary": "Rescuers pumped water from the flooded cave, enabling four miners to crawl out. One used diving gear to escape earlier, and two remain missing.",
       "urgency": "info",
@@ -884,8 +1496,8 @@
       "link": "https://www.nytimes.com/2026/05/30/world/asia/laos-cave-rescue-four.html"
     },
     {
-      "id": "news-49",
-      "headline": "Liverpool sack Arne Slot after disappointing season, target Andoni Iraola as replacement",
+      "id": "news-83",
+      "headline": "Liverpool sack Slot after disastrous Premier League title defence",
       "summary": "Liverpool sack manager Arne Slot: club",
       "urgency": "info",
       "topic": "general",
@@ -902,7 +1514,7 @@
       "link": "https://gulfnews.com/sport/football/liverpool-sack-arne-slot-after-disappointing-season-target-andoni-iraola-as-replacement-1.500557947"
     },
     {
-      "id": "news-50",
+      "id": "news-84",
       "headline": "Liverpool FC sack head coach Arne Slot a year after winning Premier League championship",
       "summary": "Liverpool FC announced the departure of head coach Arne Slot in a statement Saturday. The club had a troubled season, finishing fifth in their defence of the Premier League title they won just last year.",
       "urgency": "info",
@@ -920,7 +1532,7 @@
       "link": "https://www.france24.com/en/sport/20260530-liverpool-fc-sack-head-coach-arne-slot-after-difficult-season"
     },
     {
-      "id": "news-51",
+      "id": "news-85",
       "headline": "Unruly passenger disrupts United Airlines flight bound for Minneapolis, plane seeks FBI's help",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131408762.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -938,7 +1550,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/unruly-passenger-disrupts-united-airlines-flight-bound-for-minneapolis-plane-seeks-fbis-help/articleshow/131408762.cms"
     },
     {
-      "id": "news-52",
+      "id": "news-86",
       "headline": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
       "urgency": "info",
@@ -956,7 +1568,7 @@
       "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-53",
+      "id": "news-87",
       "headline": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
       "summary": "101 East investigates the plight of two North Korean POWs in Ukraine and the campaign to transfer them to South Korea.",
       "urgency": "breaking",
@@ -974,7 +1586,7 @@
       "link": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine?traffic_source=rss"
     },
     {
-      "id": "news-54",
+      "id": "news-88",
       "headline": "Truck carrying Afghan refugees from Pakistan overturns, killing 22",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131408364.cms\" /&gt;<![CDATA[A tragic road accident in eastern Afghanistan claimed at least 22 lives, including 10 children and five women, as a truck carrying returnin",
       "urgency": "important",
@@ -992,7 +1604,7 @@
       "link": "https://timesofindia.indiatimes.com/world/south-asia/journey-home-ends-in-tragedy-truck-carrying-afghan-refugees-from-pakistan-overturns-killing-22/articleshow/131408364.cms"
     },
     {
-      "id": "news-55",
+      "id": "news-89",
       "headline": "Pakistan hires US lobbying firm to advance strategic interests in Washington amid Iran war diplomacy push",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131408327.cms\" /&gt;<![CDATA[Pakistan has hired a US lobbying firm, Ervin Graves Strategy Group, for a two-year contract worth $50,000 monthly. The firm will advocate f",
       "urgency": "breaking",
@@ -1010,25 +1622,7 @@
       "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-hires-us-lobbying-firm-to-advance-strategic-interests-in-washington-amid-iran-war-diplomacy-push/articleshow/131408327.cms"
     },
     {
-      "id": "news-56",
-      "headline": "UAE issues Ebola travel warning for Uganda, DR Congo and South Sudan",
-      "summary": "UAE issues Ebola travel warning for Uganda, DR Congo and South Sudan",
-      "urgency": "breaking",
-      "topic": "sudan",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T11:18:15.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/government/uae-issues-ebola-travel-warning-for-uganda-dr-congo-and-south-sudan-1.500557919"
-    },
-    {
-      "id": "news-57",
+      "id": "news-90",
       "headline": "Japan PM vows ‘breakthrough’ with North Korea in abduction issue",
       "summary": "Prime Minister Sanae Takaichi on Saturday expressed her determination to achieve a “breakthrough” in resolving the long-standing issue of Japanese nationals abducted by North Korea, vowing to weigh all options, including summit talks.\nAt a rally in Tokyo calling for the return of Japanese abductees,",
       "urgency": "important",
@@ -1046,7 +1640,7 @@
       "link": "https://www.scmp.com/news/asia/east-asia/article/3355417/japan-pm-vows-breakthrough-north-korea-abduction-issue?utm_source=rss_feed"
     },
     {
-      "id": "news-58",
+      "id": "news-91",
       "headline": "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
       "summary": "The US has addressed defence leaders in Singapore, outlining America&#039;s geopolitical goals.",
       "urgency": "info",
@@ -1064,7 +1658,7 @@
       "link": "https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy?traffic_source=rss"
     },
     {
-      "id": "news-59",
+      "id": "news-92",
       "headline": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
       "summary": "&lt;p&gt;Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s&lt;/p&gt;&lt;p&gt;A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based magic and spiritual healing tradition ",
       "urgency": "breaking",
@@ -1082,7 +1676,7 @@
       "link": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition"
     },
     {
-      "id": "news-60",
+      "id": "news-93",
       "headline": "Israel launches more than 10 strikes across southern Lebanon",
       "summary": "Videos show the aftermath of renewed Israeli strikes on southern Lebanon that killed at least three people.",
       "urgency": "breaking",
@@ -1100,7 +1694,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss"
     },
     {
-      "id": "news-61",
+      "id": "news-94",
       "headline": "How to to end edemic violence in Colombia? Presidential elections to take place on Sunday",
       "summary": "Colombia is going to the polls this Sunday. The presidential election is set to determine Gustavo Petro’s successor. Violence is at the heart of this campaign: armed groups are stepping up their attacks, and each candidate has their own proposals for how to prevent it. Violence is an endemic problem",
       "urgency": "breaking",
@@ -1118,7 +1712,25 @@
       "link": "https://www.france24.com/en/how-to-to-end-edemic-violence-in-colombia-presidential-elections-to-take-place-on-sunday"
     },
     {
-      "id": "news-62",
+      "id": "news-95",
+      "headline": "UAE urges citizens, residents not to travel to 3 Ebola-hit countries - Khaleej Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVMxc01YMEItNHk0S2RkN3B0d0dHMEYwYXlTTWdhZ1V5M1BYRE9TeHdjcE9ycVY1enhTTnIyaDI1ZnZZUkE2a3hldmxlTmRmcWtTb3d6a2NZVEs1X2l2bkVENVZVX19mZ3YxYWpEckJid2hlTHJqWHU3dllDNGtqNGlhd0dySW4wdDNzamw3WmMwNndZbkoxVVFIUzQ1TzJ1S3h0YVVUX09fTlnSAbMBQVVfeXFMTnV",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
+          "url": "https://khaleejtimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-30T10:56:34.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVMxc01YMEItNHk0S2RkN3B0d0dHMEYwYXlTTWdhZ1V5M1BYRE9TeHdjcE9ycVY1enhTTnIyaDI1ZnZZUkE2a3hldmxlTmRmcWtTb3d6a2NZVEs1X2l2bkVENVZVX19mZ3YxYWpEckJid2hlTHJqWHU3dllDNGtqNGlhd0dySW4wdDNzamw3WmMwNndZbkoxVVFIUzQ1TzJ1S3h0YVVUX09fTlnSAbMBQVVfeXFMTnVBYkJXdV90WURSaWtUZzF1U1kxd2lUVDBHdzU0eEpULVBQYnAtR2laVElLQXlwaDZ2LXdKT25DakhSeVg5ZTREZlNGa0JMVV9Fb25OMnJLTDRWelBsdFNJcV9GNVFvV2NzckxlbmZPRm9TWllMaWxubGRZRUxKMDNTMEJrY2pQd2U5X3FUUldPSmlCN0tnUnJXaEhLdXZnVWlKLUhNcXJhWmo5Q09MZjVNekE?oc=5"
+    },
+    {
+      "id": "news-96",
       "headline": "Bolivia at a 'breaking point'? Government blames fugitive ex-leader for unrest",
       "summary": "Nearly a month of anti-government protests and a blockade of the capital in Bolivia have pushed the country to a \"breaking point\", said the President, as demonstrators call for his resignation. Details by Antonia Kerrigan.",
       "urgency": "breaking",
@@ -1136,25 +1748,7 @@
       "link": "https://www.france24.com/en/bolivia-at-a-breaking-point-government-blames-fugitive-ex-leader-for-unrest"
     },
     {
-      "id": "news-63",
-      "headline": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
-      "summary": "A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:53:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html"
-    },
-    {
-      "id": "news-64",
+      "id": "news-97",
       "headline": "UK man, 68, dies rescuing granddaughter after family swept out to sea in Cornwall",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131407948.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1172,7 +1766,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/uk-man-68-dies-rescuing-granddaughter-after-family-swept-out-to-sea-in-cornwall/articleshow/131407948.cms"
     },
     {
-      "id": "news-65",
+      "id": "news-98",
       "headline": "\"Choose France\" summit to kick off as factory closures multiply",
       "summary": "In France, Emmanuel Macron toured the French factory of German-owned Thermomix kitchen appliances on Friday… one of over 100 industrial and business sites opening to the public this weekend in the leadup to the French President's annual \"Choose France\" summit on Monday. Macron will be hosting some 2",
       "urgency": "breaking",
@@ -1190,7 +1784,7 @@
       "link": "https://www.france24.com/en/choose-france-summit-to-kick-off-as-factory-closures-multiply"
     },
     {
-      "id": "news-66",
+      "id": "news-99",
       "headline": "5 villagers trapped in flooded Laos cave freed after 10-day ordeal",
       "summary": "Five villagers trapped deep in a flooded cave in Laos have been freed, ending a 10-day underground ordeal that relied on expert cave rescuers racing against time to guide the group through flooded passages before fresh rains further complicated the mission.\nHugs, cheers and tears met four of the gro",
       "urgency": "info",
@@ -1206,600 +1800,6 @@
       "timestamp": "2026-05-30T10:52:33.000Z",
       "widgetType": "news",
       "link": "https://www.scmp.com/week-asia/people/article/3355416/5-villagers-trapped-flooded-laos-cave-freed-after-10-day-ordeal?utm_source=rss_feed"
-    },
-    {
-      "id": "news-67",
-      "headline": "PSG and Arsenal supporters arrive in Budapest for Champions League final",
-      "summary": "The Champions league final is set for tonight. Arsenal and PSG will face off under the lights of the Pushkas Arena in Budapest. PSG has high hopes of winning the prestigious title for the second year in a row… a feat that would be nothing less than legendary. Story by Caroline Baum.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:51:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/psg-and-arsenal-supporters-arrive-in-budapest-for-champions-league-final"
-    },
-    {
-      "id": "news-68",
-      "headline": "UCL final: Raising concerns in Paris that troublemakers will cause unrest",
-      "summary": "Paris is preparing to mark a Champions League final involving Paris Saint-Germain for the second year in a row. This time, PSG faces Arsenal in Budapest, and once again the event is expected to attract tens of thousands of fans to screening venues in the French capital, raising concerns that trouble",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:50:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/ucl-final-raising-concerns-in-paris-that-troublemakers-will-cause-unrest"
-    },
-    {
-      "id": "news-69",
-      "headline": "What to watch for in the US-Iran memo to end the war - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5DdGR6V1ZVMGpRWnVWSEpHSWlORXBLNzVtNElZY3RjNFZfN2pnc19wdlBsZTRmZ0F2OUtGSGlmQnMzbkxXNFpuNWFUR2NZMmd3M3dJVVhibHdPb1piLWZWYmRoajYtQ2JhTmxyNl9abkdHTzQ?oc=5\" target=\"_blank\"&gt;What to watch for in the US-Iran memo to end the war&lt;/a&gt;&amp",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:49:19.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DdGR6V1ZVMGpRWnVWSEpHSWlORXBLNzVtNElZY3RjNFZfN2pnc19wdlBsZTRmZ0F2OUtGSGlmQnMzbkxXNFpuNWFUR2NZMmd3M3dJVVhibHdPb1piLWZWYmRoajYtQ2JhTmxyNl9abkdHTzQ?oc=5"
-    },
-    {
-      "id": "news-70",
-      "headline": "European Union unlocks 16.4 billion euros in funds for Hungary at Magyar's Brussels visit",
-      "summary": "The EU has unlocked 16.4 billion euros in funds for Hungary after new Prime Minister Peter Magyar enacted reforms to weed out corruption. It caps off weeks of negotiations between his government and the EU to release funding crucial to Hungary's slumping economy. Details by Camille Knight.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:49:01.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/european-union-unlocks-16-4-billion-euros-in-funds-for-hungary-at-magyar-s-brussels-visit"
-    },
-    {
-      "id": "news-71",
-      "headline": "Four more men freed from flooded Laos cave in hazardous rescue mission",
-      "summary": "&lt;p&gt;Two still missing as divers make their way deeper into cave through muddy water and sharp rocks to find them&lt;/p&gt;&lt;p&gt;Four more miners who were trapped in a flooded cave in Laos for 10 days have been freed by divers, but two people are still missing as rescuers continue to crawl th",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:46:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/world/2026/may/30/four-more-men-freed-from-flooded-laos-cave-in-hazardous-rescue-mission"
-    },
-    {
-      "id": "news-72",
-      "headline": "Scheme allowing Hong Kong drivers to enter Guangdong province extended to 2031",
-      "summary": "The popular scheme allowing Hong Kong vehicles to travel north to Guangdong province has been extended by five years, mainland Chinese authorities have announced, as the initial three-year period is set to expire.\nUnder the Northbound Travel for Hong Kong Vehicles scheme, eligible private car owners",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:44:41.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3355415/hong-kong-cross-border-car-scheme-guangdong-extended-2031?utm_source=rss_feed"
-    },
-    {
-      "id": "news-73",
-      "headline": "Eid On The Square 2026: Trafalgar Square hosts free Eid festival; families enjoy food, culture",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131407758.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:38:25.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/uk/halal-food-qawwali-and-live-events-sadiq-khan-urges-londoners-not-to-miss-trafalgar-squares-eid-celebration/articleshow/131407758.cms"
-    },
-    {
-      "id": "news-74",
-      "headline": "Rubio says Trump envoy Barrack to step down from Syria post",
-      "summary": "Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:34:54.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss"
-    },
-    {
-      "id": "news-75",
-      "headline": "Season Pass",
-      "summary": "Today, let’s set our ambitions for summer reading.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:29:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/30/briefing/season-pass.html"
-    },
-    {
-      "id": "news-76",
-      "headline": "Suspected robber dies by suicide to avoid arrest in Karachi: police",
-      "summary": "&lt;p&gt;KARACHI: A suspected thief died by suicide to avoid arrest during an office-cum-house robbery on Khalid Bin Waleed Road near Tariq Road in PECHS early Saturday morning, officials said.&lt;/p&gt;\n&lt;p&gt;Ferozabad police Station House Officer (SHO) Adeel Afzal said the suspect had entered t",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:25:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2003916/suspected-robber-dies-by-suicide-to-avoid-arrest-in-karachi-police"
-    },
-    {
-      "id": "news-77",
-      "headline": "Romania says Russian drone targeting Ukraine crashes in apartment, killing two",
-      "summary": "France has summoned the Russian ambassador following a drone crash on an apartment building in Romania. It hit an apartment building, wounding two and drawing condemnation from NATO. Russia says no evidence has been provided for claims about Russian drones in the EU. Story by Jennie Shin.",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:20:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/romania-says-russian-drone-targeting-ukraine-crashes-in-apartment-killing-two"
-    },
-    {
-      "id": "news-78",
-      "headline": "Iran war: US says ready to resume war if no deal reached - DW.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWk4YS1EM2o0b21XQUJFOHJhellSaWZRcklnY1UtemRiNHFQYzVaU1RzenZkY25GRFhReDRuSmU2a1lnU0RUQXVSMEZvUjlEak5GbXprNzR1RnFJek1vU0RBVVppS19uQzBDdHJWUjNYTGhJaWJsRlhyb2lZYl94RTZ4VlFkeXFZWTZEdWxhaTFXOEZPRFE?oc=5\" target=\"_blank\"&gt;Iran war: US says ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:19:37.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWk4YS1EM2o0b21XQUJFOHJhellSaWZRcklnY1UtemRiNHFQYzVaU1RzenZkY25GRFhReDRuSmU2a1lnU0RUQXVSMEZvUjlEak5GbXprNzR1RnFJek1vU0RBVVppS19uQzBDdHJWUjNYTGhJaWJsRlhyb2lZYl94RTZ4VlFkeXFZWTZEdWxhaTFXOEZPRFE?oc=5"
-    },
-    {
-      "id": "news-79",
-      "headline": "Hegseth’s Message to Asian Partners: Do More to Get More",
-      "summary": "At a security conference in Singapore, Defense Secretary Pete Hegseth told Asian military leaders how they could get to “the front of the line” for U.S. assistance.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:19:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/30/world/asia/hegseth-asia-security-shangri-la.html"
-    },
-    {
-      "id": "news-80",
-      "headline": "Iran missile strike at Kuwait base damages US drones, injures Americans: Report",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131407551.cms\" /&gt;<![CDATA[An Iranian missile struck Ali Al Salem Air Base in Kuwait. The attack damaged two US MQ-9 Reaper drones, with one destroyed and another sev",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:19:05.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-missile-strike-at-kuwait-base-damages-us-drones-injures-americans-report/articleshow/131407551.cms"
-    },
-    {
-      "id": "news-81",
-      "headline": "Israel crosses the Litani River in Lebanon: What it means and why it matters",
-      "summary": "The Israeli Prime Minister Benjamin Netanyahu says Israeli forces have advanced further into Lebanon, crossing the Litani river, amid a nominal truce. The Litani is seen as one of the most important reference lines in the south of the country - it is the northern limit of a UN-monitored security zon",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:18:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/israel-crosses-the-litani-river-in-lebanon-what-it-means-and-why-it-matters"
-    },
-    {
-      "id": "news-82",
-      "headline": "Trapped in a cave for a week: Rescuers in Laos evacuate first of five villagers",
-      "summary": "On Friday night, rescuers in Laos evacuated the first of five villagers who have been trapped in a cave for more than a week by floodwaters. Divers found the five people on Wednesday. Rescue workers have to extricate them and find two other people, who are still missing. Story by Nicholas Rushworth.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:16:29.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/trapped-in-a-cave-for-a-week-rescuers-in-laos-evacuate-first-of-five-villagers"
-    },
-    {
-      "id": "news-83",
-      "headline": "How UAE families are transitioning back to school after the Eid break",
-      "summary": "How UAE families are transitioning back to school after the Eid break",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:15:21.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/living-in-uae/education/how-uae-families-are-transitioning-back-to-school-after-the-eid-break-1.500557839"
-    },
-    {
-      "id": "news-84",
-      "headline": "DR Congo sees first recovery from Ebola as disease scourges the country",
-      "summary": "A patient in the DRC has been confirmed to have recovered - a first since the outbreak was detected in mid-May. WHO chief Tedros Adhanom Ghebreyesus visited the country on Friday, where authorities are still struggling to contain the spread of the disease. Story by Jennie Shin.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:15:03.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/dr-congo-sees-first-recovery-from-ebola-as-disease-scourges-the-country"
-    },
-    {
-      "id": "news-85",
-      "headline": "Israeli troops push deeper into Lebanon, crossing the Litani river, as talks expected",
-      "summary": "In Lebanon, Israeli forces have advanced further north. Israeli Prime Minister Binyamin Netanyahu says they have crossed the Litani river - a key reference point in Southern Lebanon marking the limit of a UN-monitored zone. Despite a ceasefire, Israel and Iran-backed Hezbollah militants have continu",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:14:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/israeli-troops-push-deeper-into-lebanon-crossing-the-litani-river-as-talks-expected"
-    },
-    {
-      "id": "news-86",
-      "headline": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
-      "summary": "Israel says it has intercepted an air attack from Hezbollah on Saturday, May 30th.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:13:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss"
-    },
-    {
-      "id": "news-87",
-      "headline": "Ukrainian military destroy two Russian Tu-142 naval aircraft, Iskander missile system on Black Sea coast - The Kyiv Independent",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnZ3ZjA3T0FtSHJ3bzNiUW1McjE2b0w1MTdSa1lfMDF0Q09KNGhfWG5HZjQzdV9SNUEwX2YtZUs1eS1LTXE5cnRLNmk1aEJRdVVLbG1fdXFfV21POThjNDdqa0k1V2ctQVFaWTFURWtRMWE3OFV2MTNJMEdYWjhCRnJ5Zm5Od04xdWp3RTM5N3MwT2FmMDhCb0x6SUpXR2ZUcW5nejkyQkVLUUFxT3QwNVBha3pXRDh",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Kyiv Independent",
-          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
-          "url": "https://kyivindependent.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:04:42.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNnZ3ZjA3T0FtSHJ3bzNiUW1McjE2b0w1MTdSa1lfMDF0Q09KNGhfWG5HZjQzdV9SNUEwX2YtZUs1eS1LTXE5cnRLNmk1aEJRdVVLbG1fdXFfV21POThjNDdqa0k1V2ctQVFaWTFURWtRMWE3OFV2MTNJMEdYWjhCRnJ5Zm5Od04xdWp3RTM5N3MwT2FmMDhCb0x6SUpXR2ZUcW5nejkyQkVLUUFxT3QwNVBha3pXRDhvSHNUMm9LY2dfX3RQckFXOEtR?oc=5"
-    },
-    {
-      "id": "news-88",
-      "headline": "Looming Iran peace deal shows how Trump’s maximalist goals have shrunk - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPaURjUHFySnJCUXR3VGl0UlZIOV9MZGRFMUZJR1d1Ulh5eGV5MUdtUkVaMEtrM1dJN3JNX2hNdFEtcXNZTEJid0xnOTFueFlLdXV4by12cEg4bFlHN3MxcV9QUFluQ0FHc2QxeGtEU2s0OHJqbGxBXzI0YmRLbG91Zlg1LTA?oc=5\" target=\"_blank\"&gt;Looming Iran peace deal shows how Trump’s ",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:02:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaURjUHFySnJCUXR3VGl0UlZIOV9MZGRFMUZJR1d1Ulh5eGV5MUdtUkVaMEtrM1dJN3JNX2hNdFEtcXNZTEJid0xnOTFueFlLdXV4by12cEg4bFlHN3MxcV9QUFluQ0FHc2QxeGtEU2s0OHJqbGxBXzI0YmRLbG91Zlg1LTA?oc=5"
-    },
-    {
-      "id": "news-89",
-      "headline": "China launches AI framework to improve ‘black box’ transparency and raise standards",
-      "summary": "China has pledged to improve the accuracy, reliability and transparency of AI through a new national evaluation framework, as policymakers move to establish common standards for assessing the fast-evolving technology.\nNew guidelines released by the central government said Beijing would create a comm",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:00:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/economy/china-economy/article/3355324/china-launches-ai-framework-improve-black-box-transparency-and-raise-standards?utm_source=rss_feed"
-    },
-    {
-      "id": "news-90",
-      "headline": "Chinese archaeologist who discovered 5,000-year-old city pleads guilty to corruption",
-      "summary": "Liu Bin, a Chinese archaeologist credited with discovering a vast 5,000-year-old prehistoric city that rewrote the history of Chinese civilisation, has pleaded guilty to taking bribes and embezzlement.\nThe celebrated academic, who discovered the Liangzhu ruins – a Unesco World Heritage site in easte",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T10:00:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/science/article/3355242/chinese-archaeologist-who-discovered-5000-year-old-city-pleads-guilty-corruption?utm_source=rss_feed"
-    },
-    {
-      "id": "news-91",
-      "headline": "Dead humpback whale Timmy brought ashore on Danish island for postmortem",
-      "summary": "The body of a dead humpback whale known as “Timmy” has been brought ashore on the Danish island of Anholt, where experts hope a postmortem examination will shed light on how it died.\nA live streaming by the News5 broadcaster showed a vehicle slowly dragging the bloated carcass out of the shallow wat",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:57:01.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/europe/article/3355412/dead-humpback-whale-timmy-brought-ashore-danish-island?utm_source=rss_feed"
-    },
-    {
-      "id": "news-92",
-      "headline": "17 nations launch pact to protect vital undersea cables amid US, China absence",
-      "summary": "Seventeen countries have agreed to collaborate on defence strategies for critical marine infrastructure such as undersea cables, an effort that analysts warn may be undermined by the absence of superpower involvement.\nAt the Shangri-La Dialogue in Singapore on Saturday, defence ministers and represe",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:55:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/week-asia/politics/article/3355411/17-nations-launch-pact-protect-vital-undersea-cables-amid-us-china-absence?utm_source=rss_feed"
-    },
-    {
-      "id": "news-93",
-      "headline": "Vallejo fined for sexist remarks about female referee at French Open",
-      "summary": "Paraguayan blames Brazilian referee Ana Carvalho for failing to control the home crowd during his second-round loss.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:47:44.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/5/30/vallejo-fined-for-sexist-remarks-about-female-referee-at-french-open?traffic_source=rss"
-    },
-    {
-      "id": "news-94",
-      "headline": "Rescuers pull 4 from flooded cave in Laos, 2 still missing",
-      "summary": "&lt;p&gt;Rescuers pulled four people from a flooded cave in Laos on Saturday, Thai volunteer rescuers said, hours after another man was brought out late on Friday.&lt;/p&gt;\n&lt;p&gt;The five are among seven Lao nationals who had entered the cave in Xaisomboun province to prospect for gold, but were",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:46:48.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2003913/rescuers-pull-4-from-flooded-cave-in-laos-2-still-missing"
-    },
-    {
-      "id": "news-95",
-      "headline": "Iran likey used Chinese-made missile to down US F-15: Reports",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131407066.cms\" /&gt;<![CDATA[A US F-15E Strike Eagle was reportedly shot down over Iran by a Chinese-made shoulder-launched missile, marking a significant escalation. W",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:38:24.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-likey-used-chinese-made-missile-to-down-us-f-15-reports/articleshow/131407066.cms"
-    },
-    {
-      "id": "news-96",
-      "headline": "Police fire tear gas during protest outside New Jersey ICE facility",
-      "summary": "Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:28:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss"
-    },
-    {
-      "id": "news-97",
-      "headline": "UK travellers urged to reach airports 3 hours early amid new border checks",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131406555.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:18:34.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/uk/europe-airport-chaos-uk-travellers-asked-to-arrive-3-hours-early-as-border-checks-cause-delays/articleshow/131406555.cms"
-    },
-    {
-      "id": "news-98",
-      "headline": "Officer accuses disabled driver of holding phone with missing hand",
-      "summary": "A traffic stop in Florida has gone viral after an officer accused a disabled driver of holding a phone in her right hand",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:11:28.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/officer-accuses-disabled-driver-of-holding-phone-with-missing-hand?traffic_source=rss"
-    },
-    {
-      "id": "news-99",
-      "headline": "Champions League Final: PSG and Arsenal set for battle of superstars",
-      "summary": "Paris Saint-Germain and Arsenal face off in the Champions League final this Saturday in Budapest. PSG are aiming to retain the European crown, while the newly crowned Premier League champions are chasing the first Champions League title in their history, 20 years after their only previous final appe",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-30T09:10:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260530-champions-league-final-psg-arsenal-battle-of-superstars"
     }
   ],
   "financials": {
