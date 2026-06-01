@@ -1,8 +1,1286 @@
 {
-  "lastUpdated": "2026-05-31T18:06:26.680Z",
+  "lastUpdated": "2026-06-01T00:33:55.721Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Colombia Presidential Election Heads to a Runoff",
+      "summary": "The candidate forced a runoff on Sunday in what could herald another gain for the right-wing wave sweeping Latin America.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-01T00:31:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
+    },
+    {
+      "id": "news-1",
+      "headline": "A year of grief and waiting: What remains when a plane falls from the sky",
+      "summary": "A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-01T00:24:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-2",
+      "headline": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
+      "summary": "&lt;p&gt;Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks&lt;/p&gt;&lt;p&gt;The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election on Sunday and will face senator Iván Cepeda, the candid",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-01T00:24:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff"
+    },
+    {
+      "id": "news-3",
+      "headline": "Australia news live: Crisafulli says protesters at Brisbane Olympic site moved on for their own safety as bulldozers roll in",
+      "summary": "&lt;p&gt;Construction of stadium and aquatic centre is in park that traditional owners say is a First Nations sacred site. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-01T00:15:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-transport-victoria-pauline-hanson-anthony-albanese"
+    },
+    {
+      "id": "news-4",
+      "headline": "Donated milk reaches Cuba amid deepening shortages",
+      "summary": "Cuba has begun distributing donated powdered milk from Mexico and Uruguay as the island faces severe shortages.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-01T00:05:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/donated-milk-reaches-cuba-amid-deepening-shortages?traffic_source=rss"
+    },
+    {
+      "id": "news-5",
+      "headline": "Myanmar’s China-backed mega dam revival risks Kachin rebel backlash",
+      "summary": "Deep in the forested highlands of northern Myanmar, where the Irrawaddy River rises from two tributaries in the hills of Kachin state, a contentious infrastructure project is stirring again – and threatening to reopen wounds that never fully healed.\nThe Myitsone Dam, a US$3.6 billion Chinese-finance",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-01T00:00:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/week-asia/politics/article/3355345/myanmars-china-backed-mega-dam-revival-risks-kachin-rebel-backlash?utm_source=rss_feed"
+    },
+    {
+      "id": "news-6",
+      "headline": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
+      "summary": "France requests UN Security Council meeting over Israel&#039;s expanding invasion in Lebanon.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-01T00:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss"
+    },
+    {
+      "id": "news-7",
+      "headline": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T23:53:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-8",
+      "headline": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+      "summary": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Asia",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T23:32:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-9",
+      "headline": "Crude oil rises 2% on renewed bullish sentiment driven by geopolitical tensions",
+      "summary": "Crude oil rises 2% on renewed bullish sentiment driven by geopolitical tensions",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T23:21:30.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/energy/crude-oil-rises-2-on-renewed-bullish-sentiment-driven-by-geopolitical-tensions-1.500559053"
+    },
+    {
+      "id": "news-10",
+      "headline": "Swiatek exits French Open, Zverev eases into quarters",
+      "summary": "Swiatek exits French Open, Zverev, Ruud eye quarters",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T23:03:02.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/tennis/swiatek-exits-french-open-zverev-eases-into-quarters-1.500558848"
+    },
+    {
+      "id": "news-11",
+      "headline": "Cepeda, de la Espriella advance in Colombia’s presidential election",
+      "summary": "The left-wing senator and far-right newcomer will face each other in a run-off on June 21, with security a top issue.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T23:02:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss"
+    },
+    {
+      "id": "news-12",
+      "headline": "2025 Wildfires Were the Costliest Ever, Researchers Say",
+      "summary": "Severe, hard-to-control blazes in densely populated areas like Los Angeles drove the year’s record losses.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T23:01:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/31/climate/2025-wildfire-damage.html"
+    },
+    {
+      "id": "news-13",
+      "headline": "Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley",
+      "summary": "The focus of competition for Chinese electric vehicles (EVs) is shifting from prices to artificial intelligence capability, as carmakers try to manage weakening demand amid tightened regulations, according to Morgan Stanley.\nThe push in AI would likely bring models with conditionally autonomous driv",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T23:00:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley?utm_source=rss_feed"
+    },
+    {
+      "id": "news-14",
+      "headline": "Israel&apos;s widening Lebanon offensive &apos;cause for serious concern&apos;: Germany warns of severe humanitarian fallout",
+      "summary": "&lt;p&gt;International concern mounts as Germany and the UK warn against Israel&apos;s expanding ground offensive in southern Lebanon. Qatar condemned the incursions as a breach of international law, while Prime Minister Netanyahu confirmed the capture of Beaufort Castle and ordered the military to ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:55:31.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/israels-widening-lebanon-offensive-cause-for-serious-concern-germany-warns-of-severe-humanitarian-fallout-1.500559037"
+    },
+    {
+      "id": "news-15",
+      "headline": "Trump seeking edits to US-Iran deal, US media report",
+      "summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:54:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-16",
+      "headline": "Could Trump’s Iran ‘excursion’ be a bigger global turning point than Vietnam? - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWM0UURmN2Z1bm01MDF6M1pIb3FjUnMyZWFyMkVsMG5BV2gxYi1QTDhjZWFKbS1oVm9MWi1FcG1JaWVfdEVGUm1tS3o4UllzOUVqVnVsSzY2UllKYmJTbkpGaXB2TEhGOTBoMC1ySEhUS3RnNEJkQm03SVlkY0ZOeGdMcEMxSkdfVWJ6aDNDa1MwLUdKNWVFbFdqenZIc1hZZkE?oc=5\" target=\"_blank\"&gt;Co",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:50:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWM0UURmN2Z1bm01MDF6M1pIb3FjUnMyZWFyMkVsMG5BV2gxYi1QTDhjZWFKbS1oVm9MWi1FcG1JaWVfdEVGUm1tS3o4UllzOUVqVnVsSzY2UllKYmJTbkpGaXB2TEhGOTBoMC1ySEhUS3RnNEJkQm03SVlkY0ZOeGdMcEMxSkdfVWJ6aDNDa1MwLUdKNWVFbFdqenZIc1hZZkE?oc=5"
+    },
+    {
+      "id": "news-17",
+      "headline": "Israel seizes castle in Lebanon as it expands ground offensive - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oWmwzcUdrNVlWZFo0cWZkTkR5YkRveFloM2lXWDZsa3ZNcWJKbUJSV3dhYXY2cVFNeGRhYWw1SVM1VXhmSENFSmZscGd2dElDZmJCVUtyVGJVUQ?oc=5\" target=\"_blank\"&gt;Israel seizes castle in Lebanon as it expands ground offensive&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:39:12.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oWmwzcUdrNVlWZFo0cWZkTkR5YkRveFloM2lXWDZsa3ZNcWJKbUJSV3dhYXY2cVFNeGRhYWw1SVM1VXhmSENFSmZscGd2dElDZmJCVUtyVGJVUQ?oc=5"
+    },
+    {
+      "id": "news-18",
+      "headline": "YouTube Premium adds Auto Speed feature, On-the-go mode for podcasts",
+      "summary": "YouTube Premium adds Auto Speed feature, On-the-go mode for podcasts",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:32:43.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/technology/youtube-premium-adds-auto-speed-feature-on-the-go-mode-for-podcasts-1.500559006"
+    },
+    {
+      "id": "news-19",
+      "headline": "Iran president Pezeshkian submits resignation letter to supreme leader over IRGC control, says report; official rejects claim",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131431370.cms\" /&gt;<![CDATA[Reports emerged of Iranian President Masoud Pezeshkian submitting a resignation letter, citing exclusion from decision-making and IRGC cont",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:28:17.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-president-pezeshkian-submits-resignation-letter-to-supreme-leaders-office-claims-report-official-rejects-claim/articleshow/131431370.cms"
+    },
+    {
+      "id": "news-20",
+      "headline": "China Exports Surveillance",
+      "summary": "The country has spent decades perfecting a surveillance state at home. Now it’s promoting its ideology of state control, and the technology to enforce it, abroad.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:18:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/31/world/china-surveillance-solomon-islands-trump-nepal.html"
+    },
+    {
+      "id": "news-21",
+      "headline": "Child killed in house fire in south-west Melbourne home",
+      "summary": "&lt;p&gt;Crews extinguished blaze before finding a child who died in Werribee home, Victoria police said&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-transport-victoria-pauline-hans",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:17:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/01/child-killed-in-house-fire-in-south-west-melbourne-home"
+    },
+    {
+      "id": "news-22",
+      "headline": "Netanyahu: Israel’s Beaufort castle capture marks ‘dramatic shift’ in Lebanon offensive - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SVNLX3gzTTBOT01xeWhlaV96ZDJtZEZmUGVYNHZjU3dkM0U3WHJWaUg4RDdGSWVCQ2h3b3NyVU9iaUdKWE53REVhdGVfemkzZEVqRklXdFF5bU1mNXc?oc=5\" target=\"_blank\"&gt;Netanyahu: Israel’s Beaufort castle capture marks ‘dramatic shift’ in Lebanon offensive&lt;/a&",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T22:03:09.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SVNLX3gzTTBOT01xeWhlaV96ZDJtZEZmUGVYNHZjU3dkM0U3WHJWaUg4RDdGSWVCQ2h3b3NyVU9iaUdKWE53REVhdGVfemkzZEVqRklXdFF5bU1mNXc?oc=5"
+    },
+    {
+      "id": "news-23",
+      "headline": "Car bombs, drone attacks, assassination: Cepeda, de la Espriella lead race for Colombia presidency",
+      "summary": "War or peace? Colombians choose destiny in high-stakes vote",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:56:51.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/colombians-elect-president-amid-rising-drug-violence-1.500558360"
+    },
+    {
+      "id": "news-24",
+      "headline": "Nicaraguan indigenous leader dies after three years in prison",
+      "summary": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:52:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-25",
+      "headline": "US President names Tom Barrack as special envoy to enhance ties with Syria, Iraq",
+      "summary": "US President names Tom Barrack as special envoy to enhance ties with Syria, Iraq",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:50:10.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/us-president-names-tom-barrack-as-special-envoy-to-enhance-ties-with-syria-iraq-1.500558973"
+    },
+    {
+      "id": "news-26",
+      "headline": "US takes step to halt Nvidia AI chip shipments to Chinese overseas subsidiaries",
+      "summary": "The US Department of Commerce on Sunday moved to close a year-old potential loophole it had created that may have led companies to export ‌the world’s most advanced chips – such as Nvidia’s most sophisticated Rubin and Blackwell processors, as well as AMD’s MI350x – to Chinese entities located outsi",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:46:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3355492/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china?utm_source=rss_feed"
+    },
+    {
+      "id": "news-27",
+      "headline": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
+      "summary": "Rivera spent nearly three years in detention, cut off from the outside world, leading advocates to fear for his welfare.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:38:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss"
+    },
+    {
+      "id": "news-28",
+      "headline": "Austria arrests six suspects linked to Daesh network",
+      "summary": "Austria arrests six suspects linked to Daesh network",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:34:40.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/europe/austria-arrests-six-suspects-linked-to-daesh-network-1.500559009"
+    },
+    {
+      "id": "news-29",
+      "headline": "Iranian President Pezeshkian, sidelined by IRGC, submits a resignation letter to Khamenei: Report",
+      "summary": "Iranian President Pezeshkian, sidelined by IRGC, submits a resignation letter to Khamenei: Report",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:30:37.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/iranian-president-pezeshkian-sidelined-by-irgc-submits-a-resignation-letter-to-khamenei-report-1.500559027"
+    },
+    {
+      "id": "news-30",
+      "headline": "On fire safety, Hong Kong needs a mindset change",
+      "summary": "Hong Kong simply has not developed the right mindset with respect to fire safety. Unless prompt, effective action is taken, we could be looking at more tragedies like the Wang Fuk Court disaster in Tai Po.\nThe numbers are stark and overwhelming, yet the context from which they have been derived is e",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:30:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355282/fire-safety-hong-kong-needs-mindset-change?utm_source=rss_feed"
+    },
+    {
+      "id": "news-31",
+      "headline": "PSG celebrate Champions League title with 48,000 fans at Parc des Princes stadium",
+      "summary": "The European champions celebrated back-to-back titles with jubilant fans at their Paris home after a day of revelry in the French capital.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:14:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260531-psg-celebrate-champions-league-title-with-48-000-fans-at-parc-des-princes-stadium"
+    },
+    {
+      "id": "news-32",
+      "headline": "Polls close in Colombia presidential election that may reshape relations with US",
+      "summary": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC LatAm",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:08:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-33",
+      "headline": "Can AI cure loneliness? South Korea’s robot companions for seniors",
+      "summary": "South Korea is using AI-powered companion dolls to help tackle loneliness in its ageing population",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:07:25.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/can-ai-cure-loneliness-south-koreas-robot-companions-for-seniors?traffic_source=rss"
+    },
+    {
+      "id": "news-34",
+      "headline": "New Jersey orders curfew after immigration protests escalate",
+      "summary": "New Jersey orders curfew after immigration protests escalate.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:03:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/new-jersey-orders-curfew-after-immigration-protests-escalate?traffic_source=rss"
+    },
+    {
+      "id": "news-35",
+      "headline": "Massive Attack to tour Australia for first time in 16 years",
+      "summary": "&lt;p&gt;The Bristol trip-hop group will perform in Brisbane, Melbourne and Sydney in August&lt;/p&gt;&lt;p&gt;Massive Attack are set to tour Australia for the first time in 16 years.&lt;/p&gt;&lt;p&gt;The influential British trip-hop group, made up of Robert “3D” Del Naja and Grant “Daddy G” Marsha",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T21:00:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/music/2026/jun/01/massive-attack-australia-tour-august-sydney-melbourne-brisbane"
+    },
+    {
+      "id": "news-36",
+      "headline": "Ethiopia to vote in first elections since Tigray peace deal",
+      "summary": "Four years after the formal end of Ethiopia&#039;s Tigray war, Ethiopians will be voting in general elections.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:57:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss"
+    },
+    {
+      "id": "news-37",
+      "headline": "Damanjeet Singh and Pardaman Singh charged after extortion-related shooting in Canada",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131429457.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:52:02.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/damanjeet-singh-and-pardaman-singh-foreign-nationals-charged-after-extortion-related-shooting-in-canada/articleshow/131429457.cms"
+    },
+    {
+      "id": "news-38",
+      "headline": "Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles",
+      "summary": "Having never previously won the Indian Premier League, Virat Kohli seals consecutive titles as Gujarat Titans defeated.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:49:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/5/31/kohli-powers-bengaluru-to-stuff-of-dreams-back-to-back-ipl-titles?traffic_source=rss"
+    },
+    {
+      "id": "news-39",
+      "headline": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+      "summary": "Continuing internal conflicts and deepening repression are casting a long shadow over the general election.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:28:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss"
+    },
+    {
+      "id": "news-40",
+      "headline": "Ethiopia’s election is about affirming national commitment to democracy",
+      "summary": "A national vote alone can&#039;t address all challenges in the country, but it can be a step toward democratic consolidation.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:28:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss"
+    },
+    {
+      "id": "news-41",
+      "headline": "Syria’s Sharaa holds phone call with Trump, Syrian presidency says",
+      "summary": "Syrian President ⁠Ahmed al-Sharaa held a phone ⁠call with US President Donald Trump in which they discussed supporting the Syrian economy and the latest regional developments, the Syrian presidency said ‌on Sunday.\nDuring the call, Sharaa said lifting the remaining US sanctions on Syria was essentia",
+      "urgency": "important",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:26:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3355491/syrias-sharaa-holds-phone-call-trump-syrian-presidency-says?utm_source=rss_feed"
+    },
+    {
+      "id": "news-42",
+      "headline": "LIVE: No Winner in Colombia De la Espriella and Cepeda Head to June 21 Runoff",
+      "summary": "Colombians voted Sunday in the first round of presidential elections, choosing between a reformist left seeking to retain power following a historic victory four years ago and a hard-line right promising greater security amid escalating violence by armed groups. With 99% of votes counted, far-right ",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:25:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-live-follow-the-first-round"
+    },
+    {
+      "id": "news-43",
+      "headline": "Pakistan's 'resolute response' during May 2025 conflict debunked notion of space for war in South Asia: military official",
+      "summary": "&lt;p&gt;A military official from Pakistan has said that the country’s “resolute response” to India during the May 2025 conflict had effectively debunked the notion of space for war in South Asia.&lt;/p&gt;\n&lt;p&gt;Commander I Corps Lieutenant General Nauman Zakria made these remarks during a speci",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:19:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2004168/pakistans-resolute-response-during-may-2025-conflict-debunked-notion-of-space-for-war-in-south-asia-military-official"
+    },
+    {
+      "id": "news-44",
+      "headline": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
+      "summary": "New Jersey Governor Mikie Sherrill has called for the establishment of protest zones to minimise clashes with police.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:12:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss"
+    },
+    {
+      "id": "news-45",
+      "headline": "Trump Watch Misprinted 'Rump': couple’s $640 gift arrives with typo; firm offers $800 card",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131429361.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:12:23.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/maga-supporter-buys-640-trump-watch-for-wife-left-stunned-after-spotting-one-mistake-how-could-they-process-this/articleshow/131429361.cms"
+    },
+    {
+      "id": "news-46",
+      "headline": "Sharjeel Memon criticises Irsa's 'unjust reduction' of Sindh's water share, urges Centre to take notice",
+      "summary": "&lt;p&gt;Senior Minister Sharjeel Inam Memon on Sunday urged the federal government to take notice of Indus River Systems Authority’s (Irsa) “unjust reduction of Sindh’s share” and ensure that Sindh received its rightful share of water.&lt;/p&gt;\n&lt;p&gt;A 22 per cent &lt;a href=\"https://www.dawn.c",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:06:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2004154/sharjeel-memon-criticises-irsas-unjust-reduction-of-sindhs-water-share-urges-centre-to-take-notice"
+    },
+    {
+      "id": "news-47",
+      "headline": "Jubilant PSG fans celebrate Champions League victory by the Eiffel Tower",
+      "summary": "A huge crowd of jubilant PSG supporters gathered near the Eiffel Tower on Sunday to celebrate their team's second Champions League title victory.\n \nThousands of people celebrated across France throughout the night but the parties were blighted by incidents, clashes with police, vandalism, a deadly r",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:04:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260531-jubilant-psg-fans-celebrate-champions-league-victory-by-the-eiffel-tower"
+    },
+    {
+      "id": "news-48",
+      "headline": "'Strict action' taken, says power minister after Khawaja Asif's claim of Lesco employees' corruption",
+      "summary": "&lt;p&gt;Power Minister Awais Leghari on Sunday said that “strict action” had been taken against a Lahore Electric Supply Company (Lesco) line superintendent after Defence Minister Khawaja Asif complained of financial corruption.&lt;/p&gt;\n&lt;p&gt;In an X post on Saturday, Asif said he had sought a",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T20:02:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2004146/strict-action-taken-says-power-minister-after-khawaja-asifs-claim-of-lesco-employees-corruption"
+    },
+    {
+      "id": "news-49",
+      "headline": "Bus driver charged in US crash that killed 5, including family",
+      "summary": "A family of four from Massachusetts were killed when a bus crashed into multiple vehicles in Virginia as they were travelling to a wedding.\nThe family wedding will go forward on Sunday in South Carolina but it also will be a time to mourn the loss of Dmitri and Ecaterina Doncev and their two childre",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:45:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3355490/chinese-bus-driver-charged-crash-killed-5-virginia-including-family-4?utm_source=rss_feed"
+    },
+    {
+      "id": "news-50",
+      "headline": "What’s at stake in Ethiopia’s elections?",
+      "summary": "Ethiopia&#039;s governing party is seeking to cement its grip on power amid a fragmented electorate.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:38:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss"
+    },
+    {
+      "id": "news-51",
+      "headline": "Explosives store blast kills dozens in Myanmar village",
+      "summary": "Explosives store blast kills dozens in Myanmar village.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:35:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/explosives-store-blast-kills-dozens-in-myanmar-village?traffic_source=rss"
+    },
+    {
+      "id": "news-52",
+      "headline": "US woman falsely claimed she had cancer, defrauded family to fund trips to Australia",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131428815.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:15:59.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/pennsylvania-woman-falsely-claimed-she-had-cancer-defrauded-family-and-friends-of-thousands-of-dollars-to-fund-trips-to-australia/articleshow/131428815.cms"
+    },
+    {
+      "id": "news-53",
+      "headline": "Karachi faces 54 MGD water shortage after electricity supply to NEK Pumping Station suspended: KWSC",
+      "summary": "&lt;p&gt;The Karachi Water and Sewerage Corporation (KWSC) said on Sunday that the city was facing a shortfall of 54 million gallons per day (MGD) after electricity supply to North East Karachi Pumping Station was disrupted due to a fault in K-Electric’s main cable.&lt;/p&gt;\n&lt;p&gt;It also warned",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:12:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2004149/karachi-faces-54-mgd-water-shortage-after-electricity-supply-to-nek-pumping-station-suspended-kwsc"
+    },
+    {
+      "id": "news-54",
+      "headline": "Iran says does not trust US as Trump toughens terms",
+      "summary": "Iran’s chief negotiator warned on Sunday the United States was not to be trusted, saying Tehran would not agree to any deal with Washington unless it fully secured Iranian rights.\nMohammad Bagher Ghalibaf’s remarks came as reports emerged that US President Donald Trump had sent a tougher peace propo",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:10:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3355489/iran-says-does-not-trust-us-trump-toughens-terms?utm_source=rss_feed"
+    },
+    {
+      "id": "news-55",
+      "headline": "Brazil monitors two patients for possible Ebola infection",
+      "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:07:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-56",
+      "headline": "Colombia's election: Meeting the Presidential contenders",
+      "summary": "The Economist’s Kinley Salmon on his encounters with the candidates",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:07:35.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260531-colombia-s-election-meeting-the-presidential-contenders"
+    },
+    {
+      "id": "news-57",
+      "headline": "Dead whale towed ashore in Denmark ahead of autopsy",
+      "summary": "\"Timmy\" was found dead off the coast of Anholt despite multiple attempts to rescue it.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:05:42.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-58",
+      "headline": "Punjab approves deployment of 6,000 police personnel in GB for election",
+      "summary": "&lt;p&gt;RAWALPINDI/ ISLAMABAD: Six thousand Punjab police personnel are being deployed in Gilgit-Baltistan ahead of the June 7 election, it emerged on Sunday as the PTI reiterated its allegations of pre-poll rigging.&lt;/p&gt;\n&lt;p&gt;Punjab authorities had initially approved the deployment of 5,0",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T19:02:54.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2004156/punjab-approves-deployment-of-6000-police-personnel-in-gb-for-election"
+    },
+    {
+      "id": "news-59",
+      "headline": "Building collapses in New Delhi, some people rescued, more feared trapped",
+      "summary": "Nine people have reportedly been rescued from the rubble of a collapsed five-storey building in New Delhi, India.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:59:54.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/building-collapses-in-new-delhi-some-people-rescued-more-feared-trapped?traffic_source=rss"
+    },
+    {
+      "id": "news-60",
+      "headline": "Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation",
+      "summary": "The seizure of Beaufort in southern Lebanon called up bitter memories in both countries amid a widening Israeli conflict with Hezbollah that seems far from over.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:57:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html"
+    },
+    {
+      "id": "news-61",
+      "headline": "US measure to deepen Israel military cooperation faces bipartisan pushback",
+      "summary": "Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:52:24.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss"
+    },
+    {
+      "id": "news-62",
+      "headline": "Trump sends tougher peace proposal back to Iran - US media reports - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE81Q1RlS0dRYVUydzh6YkpGdWxaZVB5N0JGbWdQbUpsaHRNRkpkeTlvcVdZTWtvb0RiN0UwSThWSHVtUWFBU2xFbWlQcU1WcnRfazFwV1Y1Q0ZLZS10Rnc?oc=5\" target=\"_blank\"&gt;Trump sends tougher peace proposal back to Iran - US media reports&lt;/a&gt;&amp;nbsp;&amp;nbs",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:48:46.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81Q1RlS0dRYVUydzh6YkpGdWxaZVB5N0JGbWdQbUpsaHRNRkpkeTlvcVdZTWtvb0RiN0UwSThWSHVtUWFBU2xFbWlQcU1WcnRfazFwV1Y1Q0ZLZS10Rnc?oc=5"
+    },
+    {
+      "id": "news-63",
+      "headline": "US Congress moves to deepen military ties with Israel: Why it matters",
+      "summary": "Analysts say the plan would weave Israeli military interests more deeply into the fabric of US national security policy.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:40:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss"
+    },
+    {
+      "id": "news-64",
+      "headline": "French museum reports theft of banana from Italian artist’s multimillion-dollar work",
+      "summary": "A museum in eastern France on Sunday reported to police the theft of a banana that forms a core part of a multimillion-dollar artwork by Italian visual artist Maurizio Cattelan.\nThe missing fruit – which was taped to a wall to form the provocative work by Cattelan called “Comedian” – was noticed by ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:36:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/europe/article/3355488/french-museum-reports-theft-banana-italian-artists-multimillion-dollar-work?utm_source=rss_feed"
+    },
+    {
+      "id": "news-65",
+      "headline": "The largest Israeli advance into Lebanon in years",
+      "summary": "Israel’s military presence in southern Lebanon has expanded dramatically.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:36:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss"
+    },
+    {
+      "id": "news-66",
+      "headline": "In pictures: Paris hosts PSG victory parade after back-to-back Champions League titles",
+      "summary": "Fresh from their Champions League final win in Budapest, Paris Saint-Germain players paraded their trophy on the Champs-de-Mars in front of the Eiffel Tower on Sunday, ahead of a presidential reception at the Élysée Palace and a party at their Parc des Princes stadium. But security was tight after o",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:34:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/sport/20260531-in-pictures-paris-hosts-psg-victory-parade-after-back-to-back-champions-league-titles"
+    },
+    {
+      "id": "news-67",
+      "headline": "Vingegaard completes Grand Tour set with victory at the Giro d'Italia",
+      "summary": "Denmark's Jonas Vingegaard won the 2026 Giro d'Italia on Sunday to become only the eighth male rider in history to win all three Grand Tours, having also won the Tour de France twice before his triumph at the Vuelta a Espana last year.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:29:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/sport/20260531-vingegaard-completes-grand-tour-set-with-victory-at-the-giro-d-italia"
+    },
+    {
+      "id": "news-68",
+      "headline": "Polls open in Colombia’s pivotal presidential election",
+      "summary": "Colombians headed to the polls to choose a new president in a high-stakes election.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:23:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss"
+    },
+    {
+      "id": "news-69",
+      "headline": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T18:13:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-70",
+      "headline": "Dozens killed in explosives depot blast in northeast Myanmar",
+      "summary": "At least 46 people have been killed and 70 wounded in explosion in rebel-held area, local media report.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-05-31T17:42:32.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar?traffic_source=rss"
+    },
+    {
+      "id": "news-71",
       "headline": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
       "summary": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
       "urgency": "info",
@@ -20,7 +1298,7 @@
       "link": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-1",
+      "id": "news-72",
       "headline": "Italy bans Kanye West concert over security concerns",
       "summary": "A concert by the US rapper Kanye West, who was supposed to perform on July 18 in Reggio Emilia in northern Italy, has been banned on public safety grounds, the authorities said.\nThe prefect of the province, Salvatore Angieri, said the decision was made following requests from bodies including the lo",
       "urgency": "info",
@@ -38,7 +1316,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3355487/italy-bans-kanye-west-concert-over-security-concerns?utm_source=rss_feed"
     },
     {
-      "id": "news-2",
+      "id": "news-73",
       "headline": "Indian woman caught shoplifting in Japan tried to bribe police: 'They respect India a lot...'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131426270.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -56,25 +1334,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/viral-post-claims-indian-woman-caught-shoplifting-in-japan-tried-to-bribe-shopkeeper-police-they-respect-india-a-lot-/articleshow/131426270.cms"
     },
     {
-      "id": "news-3",
-      "headline": "Punjab approves deployment of 6,000 police personnel in GB for elections",
-      "summary": "&lt;p&gt;RAWALPINDI/ ISLAMABAD: Six thousand Punjab police personnel are being deployed in Gilgit-Baltistan ahead of the June 7 election, it emerged on Sunday as the PTI reiterated its allegations of pre-poll rigging.&lt;/p&gt;\n&lt;p&gt;Punjab authorities had initially approved the deployment of 5,0",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T17:32:27.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2004156/punjab-approves-deployment-of-6000-police-personnel-in-gb-for-elections"
-    },
-    {
-      "id": "news-4",
+      "id": "news-74",
       "headline": "South Africa made to look like fools over World Cup visa issues, says minister",
       "summary": "After a day of uncertainty, the government confirms the team will depart for Mexico on Monday.",
       "urgency": "info",
@@ -92,43 +1352,7 @@
       "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-5",
-      "headline": "French museum reports theft of arty banana",
-      "summary": "French museum reports theft of arty banana",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T17:21:46.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/french-museum-reports-theft-of-arty-banana-1.500558904"
-    },
-    {
-      "id": "news-6",
-      "headline": "Could Trump’s Iran ‘excursion’ be a bigger global turning point than Vietnam? - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWM0UURmN2Z1bm01MDF6M1pIb3FjUnMyZWFyMkVsMG5BV2gxYi1QTDhjZWFKbS1oVm9MWi1FcG1JaWVfdEVGUm1tS3o4UllzOUVqVnVsSzY2UllKYmJTbkpGaXB2TEhGOTBoMC1ySEhUS3RnNEJkQm03SVlkY0ZOeGdMcEMxSkdfVWJ6aDNDa1MwLUdKNWVFbFdqenZIc1hZZkE?oc=5\" target=\"_blank\"&gt;Co",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T17:19:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWM0UURmN2Z1bm01MDF6M1pIb3FjUnMyZWFyMkVsMG5BV2gxYi1QTDhjZWFKbS1oVm9MWi1FcG1JaWVfdEVGUm1tS3o4UllzOUVqVnVsSzY2UllKYmJTbkpGaXB2TEhGOTBoMC1ySEhUS3RnNEJkQm03SVlkY0ZOeGdMcEMxSkdfVWJ6aDNDa1MwLUdKNWVFbFdqenZIc1hZZkE?oc=5"
-    },
-    {
-      "id": "news-7",
+      "id": "news-75",
       "headline": "The Bazaar of Return in Aida Refugee Camp",
       "summary": "The Bazaar of Return in Aida Refugee Camp",
       "urgency": "important",
@@ -146,25 +1370,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-bazaar-of-return-in-aida-refugee-camp?traffic_source=rss"
     },
     {
-      "id": "news-8",
-      "headline": "Colombia Presidential Election: What to Know About the Candidates and Main Issues",
-      "summary": "The election tests the legacy of the country’s first leftist leader against a rising far-right outsider and a traditional conservative.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T17:12:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html"
-    },
-    {
-      "id": "news-9",
+      "id": "news-76",
       "headline": "Timeline: Where and When Trump Has Involved the U.S. Military in International Conflicts",
       "summary": "The United States has been involved in many military operations around the world since President Trump returned to office.",
       "urgency": "info",
@@ -182,7 +1388,7 @@
       "link": "https://www.nytimes.com/2026/05/31/us/politics/trumps-military-wars.html"
     },
     {
-      "id": "news-10",
+      "id": "news-77",
       "headline": "Israeli army captures strategic Crusader-built castle in Lebanon",
       "summary": "Israeli troops have captured a strategic mountain topped with a Crusader-built castle in southern Lebanon in the deepest incursion into the country in more than a quarter-century, the military said on Sunday.\nThe taking of Beaufort Castle, near the city of Nabatiyeh, followed days of air strikes and",
       "urgency": "breaking",
@@ -200,25 +1406,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3355486/israeli-army-captures-strategic-crusader-built-castle-lebanon?utm_source=rss_feed"
     },
     {
-      "id": "news-11",
-      "headline": "Dua Lipa, Callum Turner  exchange wedding vows in London",
-      "summary": "Dua Lipa, Callum Turner  exchanged wedding vows in intimate ceremony in London",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T17:04:25.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/entertainment/dua-lipa-callum-turner-exchange-wedding-vows-in-london-1.500558876"
-    },
-    {
-      "id": "news-12",
+      "id": "news-78",
       "headline": "Huge blast kills dozens in rebel-held village in Myanmar",
       "summary": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
       "urgency": "info",
@@ -236,25 +1424,7 @@
       "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-13",
-      "headline": "European champions PSG get hero's welcome in Paris, next to the Eiffel Tower",
-      "summary": "Paris Saint-Germain made history yesterday, by winning the UEFA Champions League final a second time in a row. Fans gathered in the streets of PAris to celebrate and are now waiting to see the players lift the trophy in front of the Eiffel Tower. Around 90,000 supporters and spectators are here to s",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T16:58:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/european-champions-psg-get-hero-s-welcome-in-paris-next-to-the-eiffel-tower"
-    },
-    {
-      "id": "news-14",
+      "id": "news-79",
       "headline": "Indian man awarded nearly £30,000 by UK tribunal after employer failed to provide work",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131426073.cms\" /&gt;<![CDATA[An Indian man, Shabin Shaji, secured nearly £30,000 from an employment tribunal after his UK employer, Swan Care Solutions, failed to provi",
       "urgency": "breaking",
@@ -272,43 +1442,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/indian-man-awarded-nearly-30000-by-uk-tribunal-after-employer-failed-to-provide-work/articleshow/131426073.cms"
     },
     {
-      "id": "news-15",
-      "headline": "Ethiopia’s election: Parties, coalitions and candidates explained",
-      "summary": "Over 50 million Ethiopians are registered to vote, with youth and women forming a significant share of the electorate.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T16:40:22.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss"
-    },
-    {
-      "id": "news-16",
-      "headline": "Iran ⁠restores some gas production at South Pars facility",
-      "summary": "Production restored at three offshore platforms after Israeli attacks, Pars Oil and Gas Company CEO tells Iranian media.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T16:38:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss"
-    },
-    {
-      "id": "news-17",
+      "id": "news-80",
       "headline": "'No sufficient outcome' yet of talks to secure discounts from Chinese power producers: Leghari",
       "summary": "&lt;p&gt;ISLAMABAD: Power Minister Awais Leghari said on Sunday that there had been “no sufficient outcome” of talks to secure discounts from Chinese power producers thus far, unlike over Rs3.5 trillion in savings secured through revised agreements with other independent power producers (IPPs) and p",
       "urgency": "breaking",
@@ -326,7 +1460,7 @@
       "link": "https://www.dawn.com/news/2004161/no-sufficient-outcome-yet-of-talks-to-secure-discounts-from-chinese-power-producers-leghari"
     },
     {
-      "id": "news-18",
+      "id": "news-81",
       "headline": "United Airlines flight to Spain turns back to Newark, US after possible security threat",
       "summary": "A United Airlines flight bound for Spain from Newark Liberty International Airport turned around mid-flight on Saturday due to a possible security threat in-flight.\nThe flight departed at around 6pm local time for Palma de Mallorca, Spain, but landed back at Newark at 9.37pm, according to the Port A",
       "urgency": "breaking",
@@ -344,43 +1478,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3355484/united-airlines-flight-spain-turns-back-newark-us-after-possible-security-threat?utm_source=rss_feed"
     },
     {
-      "id": "news-19",
-      "headline": "Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation",
-      "summary": "The seizure of Beaufort in southern Lebanon called up bitter memories in both countries amid a widening Israeli conflict with Hezbollah that seems far from over.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T16:24:57.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html"
-    },
-    {
-      "id": "news-20",
-      "headline": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T16:24:56.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-21",
+      "id": "news-82",
       "headline": "Emerging Houthi–Al-Shabaab co-operation and the growing threat to Red Sea shipping - The Conversation",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0dGOHlFQVlFMHhpT0xqYnJZLThOblFyOFRSbEJ2eEttWFB1WlEwNmJrcXFqbk1XSFV0anNqN3lTZG9WMDBfSXVTeFZuWWdaMGU5Z0doVmRTLURicEdOdUxCNkY0SGxMbXpORVptbG9PNWQyRlJYYWpGd1Zja3ZUWHBjNHFtRzZ5ZXlHZndnV3BPOG1aZ2hEVWRweU1TR3gyVmpjREpSQmtKNDFMVHNJaGxBdV8yaTR",
       "urgency": "info",
@@ -398,25 +1496,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0dGOHlFQVlFMHhpT0xqYnJZLThOblFyOFRSbEJ2eEttWFB1WlEwNmJrcXFqbk1XSFV0anNqN3lTZG9WMDBfSXVTeFZuWWdaMGU5Z0doVmRTLURicEdOdUxCNkY0SGxMbXpORVptbG9PNWQyRlJYYWpGd1Zja3ZUWHBjNHFtRzZ5ZXlHZndnV3BPOG1aZ2hEVWRweU1TR3gyVmpjREpSQmtKNDFMVHNJaGxBdV8yaTRq?oc=5"
     },
     {
-      "id": "news-22",
-      "headline": "'Strict action' taken, says power minister after Khawaja Asif's claim of Lesco employees' corruption",
-      "summary": "&lt;p&gt;Power Minister Awais Leghari on Sunday said that “strict action” had been taken against a Lahore Electric Supply Company (Lesco) line superintendent after Defence Minister Khawaja Asif complained of financial corruption.&lt;/p&gt;\n&lt;p&gt;In an X post on Saturday, Asif said he had sought a",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T16:21:17.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2004146/strict-action-taken-says-power-minister-after-khawaja-asifs-claim-of-lesco-employees-corruption"
-    },
-    {
-      "id": "news-23",
+      "id": "news-83",
       "headline": "Rejected from H-1B lottery four times, ex-Google employee says he got a Green Card after leaving $300,000 job",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131424532.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -434,7 +1514,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/rejected-from-h-1b-lottery-four-times-ex-google-employee-says-he-got-a-green-card-after-leaving-300000-job/articleshow/131424532.cms"
     },
     {
-      "id": "news-24",
+      "id": "news-84",
       "headline": "Huge crowds greet PSG players as they parade Champions League trophy in Paris",
       "summary": "Huge crowds greet PSG players as they parade Champions League trophy in Paris",
       "urgency": "info",
@@ -452,25 +1532,7 @@
       "link": "https://www.france24.com/en/sport/20260531-european-champions-psg-set-for-heroes-welcome-in-paris-%E2%80%93-under-heavy-security"
     },
     {
-      "id": "news-25",
-      "headline": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T16:08:57.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-26",
+      "id": "news-85",
       "headline": "Green initiatives make HKIS campus a living laboratory",
       "summary": "[The content of this article has been produced by our advertising partner.]\nThrough its commitment to creating a green campus by cutting carbon emissions through System Optimization and producing renewable energy, Hong Kong International School (HKIS) is also giving students an in-depth understandin",
       "urgency": "info",
@@ -488,7 +1550,7 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/hkis-sustainability-journey/article/3355159/green-initiatives-make-hkis-campus-living-laboratory?utm_source=rss_feed"
     },
     {
-      "id": "news-27",
+      "id": "news-86",
       "headline": "PolyU Faculty of Business celebrates 30th anniversary of its DBA programme, with over 400 academic and industry leaders gathering to explore new trends for scholar-leaders in AI era",
       "summary": "[The content of this article has been produced by our advertising partner.]\nThe Faculty of Business at The Hong Kong Polytechnic University (PolyU) hosted a grand dinner on 14 May to celebrate the 30th anniversary of its Doctor of Business Administration (DBA) programme. The event was attended by Mr",
       "urgency": "info",
@@ -506,25 +1568,7 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/polyu-dba-30th-gala/article/3354319/polyu-faculty-business-celebrates-30th-anniversary-its-dba-programme-over-400-academic-and-industry?utm_source=rss_feed"
     },
     {
-      "id": "news-28",
-      "headline": "Colombians head to the polls to choose President Gustavo Petro’s successor",
-      "summary": "The contest is largely a three-horse race between a left-wing senator, a businessman and a right-wing lawmaker.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:58:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor?traffic_source=rss"
-    },
-    {
-      "id": "news-29",
+      "id": "news-87",
       "headline": "Trump sends back revised Iran deal text; seeks 'tougher language' on nuclear terms, Strait of Hormuz reopening",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131425476.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -542,7 +1586,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/trump-sends-back-revised-iran-deal-text-seeks-tougher-language-on-nuclear-terms-strait-of-hormuz-reopening/articleshow/131425476.cms"
     },
     {
-      "id": "news-30",
+      "id": "news-88",
       "headline": "Laos cave survivors help with plan to find last two missing men",
       "summary": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
       "urgency": "info",
@@ -560,7 +1604,7 @@
       "link": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-89",
       "headline": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
       "summary": "&lt;p&gt;Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province&lt;/p&gt;&lt;p&gt;Containing the &lt;a href=\"https://www.theguardian.com/world/ebola\"&gt;Ebola&lt;/a&gt; outbreak in the &lt;a href=\"https://www.theguardian.com/world/cong",
       "urgency": "important",
@@ -578,25 +1622,7 @@
       "link": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak"
     },
     {
-      "id": "news-32",
-      "headline": "Blast in rebel-held Myanmar kills dozens: rescuers",
-      "summary": "Dozens killed in blast in rebel-held Myanmar: rescuers bur-sco",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:47:11.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/asia/blast-in-rebel-held-myanmar-kills-dozens-rescuers-1.500558837"
-    },
-    {
-      "id": "news-33",
+      "id": "news-90",
       "headline": "Ukraine hits Russian energy targets, denies striking Zaporizhzhia nuclear plant",
       "summary": "Ukrainian drones struck targets across several Russian regions overnight from Saturday, including an oil pumping station, a refinery and a fuel depot, Russian and Ukrainian authorities said Sunday. Kyiv however denied Moscow's claims that a Ukrainian drone struck the Zaporizhzhia nuclear plant in Ru",
       "urgency": "info",
@@ -614,43 +1640,7 @@
       "link": "https://www.france24.com/en/europe/20260531-ukraine-hits-russian-energy-targets-denies-striking-zaporizhzhia-nuclear-plant"
     },
     {
-      "id": "news-34",
-      "headline": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
-      "summary": "The former Colombian president reflects on peace, conflict and the return of violence.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:44:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/31/juan-manuel-santos-on-colombias-peace-process-10-years-on?traffic_source=rss"
-    },
-    {
-      "id": "news-35",
-      "headline": "Sharjeel Memon criticises Irsa's 'unjust reduction' in Sindh's water share, urges Centre to take notice",
-      "summary": "&lt;p&gt;Senior Minister Sharjeel Inam Memon on Sunday urged the federal government to take notice of Indus River Systems Authority’s (Irsa) “unjust reduction of Sindh’s share” and ensure that Sindh received its rightful share of water.&lt;/p&gt;\n&lt;p&gt;A 22 per cent &lt;a href=\"https://www.dawn.c",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:30:41.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2004154/sharjeel-memon-criticises-irsas-unjust-reduction-in-sindhs-water-share-urges-centre-to-take-notice"
-    },
-    {
-      "id": "news-36",
+      "id": "news-91",
       "headline": "Ukrainian drones hit oil depot, key pipeline facility in Russia",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131425215.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -668,25 +1658,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/ukrainian-drones-hit-oil-depot-key-pipeline-facility-in-russia/articleshow/131425215.cms"
     },
     {
-      "id": "news-37",
-      "headline": "Germany World Cup 2026 team preview: Players to watch, group and squad list",
-      "summary": "The 2014 champs exited in the group stages of the last two World Cups but look a stronger force under Julian Nagelsmann.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:28:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/5/31/germany-world-cup-2026-team-preview-players-to-watch-group-and-squad-list?traffic_source=rss"
-    },
-    {
-      "id": "news-38",
+      "id": "news-92",
       "headline": "Iran reinstates some internet access but restrictions remain for most - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0l3TG91LVluZUNRa2xjOHhLZ3EwbkJXNk5LSDBqX2tnNXNidDhpeHV4SU1XdzlRdUNILXA4N2lpM1FSdHdkc3FORDl1LUVQTEtMZmRGQ3N0YW8yellOX3FaSTF4N2dVTURQSGZQVE43YXZmUXpEUWx5TXowaVNDNlBNWHFIVjI5R0k0elJva3JHblJhRDdocUxOcmVnQ2dyWWQycjRobGNnVkxJOGtZ0gG0AUFVX3l",
       "urgency": "info",
@@ -704,61 +1676,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0l3TG91LVluZUNRa2xjOHhLZ3EwbkJXNk5LSDBqX2tnNXNidDhpeHV4SU1XdzlRdUNILXA4N2lpM1FSdHdkc3FORDl1LUVQTEtMZmRGQ3N0YW8yellOX3FaSTF4N2dVTURQSGZQVE43YXZmUXpEUWx5TXowaVNDNlBNWHFIVjI5R0k0elJva3JHblJhRDdocUxOcmVnQ2dyWWQycjRobGNnVkxJOGtZ0gG0AUFVX3lxTE1MbmJQZGpZNmtmRXdTR3NuTnI3MTdlRHAwRndnRGxWVEFLLWVFTWMtUUZ0Q1FkQlRNaEF1NnFTcUg5a1lLdVRVb1FPUUdiZlN1S1V6TjExQ2VjbllYZDl4Y2lPeGlrU0hwa3A1dUxmYWI3NGhsQnRrVzI0d2NMNklrMGs4eTNFeV9NOUJ1WHFyLXphc1ZYVm5Ja2JMbkQzRFBOVC03LVhNMkFaUkhBbDg3UlkxMQ?oc=5"
     },
     {
-      "id": "news-39",
-      "headline": "Rescuers race to save two people still trapped in cave in Laos",
-      "summary": "Rescuers face heavy rains, equipment failures in search for two people trapped in central Laos cave by flash floods.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:21:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/rescuers-race-to-save-two-people-still-trapped-in-cave-in-laos?traffic_source=rss"
-    },
-    {
-      "id": "news-40",
-      "headline": "Could Democrats be shut out of the California governor’s race?",
-      "summary": "California is a Democrat stronghold, but thanks to the state&#039;s jungle primary, Republicans are frontrunners to advance.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:19:33.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/longform/2026/5/31/could-democrats-be-shut-out-of-the-california-governors-race?traffic_source=rss"
-    },
-    {
-      "id": "news-41",
-      "headline": "Iran ready to fire missiles across Middle East after digging out bombed tunnels - The Jerusalem Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9ENmFPaXNXbXhlU0pLYWhoMldTUm02cTJaM1VlSGFQQVI4OUk1b3NfU1pVMjlzUVBySS1tcHM2aDVBeVUzVExNbkVJTWRoQjB1S0plSmxXSXN3eVBVcFBzbTViRWt1Y09yQ2c?oc=5\" target=\"_blank\"&gt;Iran ready to fire missiles across Middle East after digging out bombed tunnel",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:11:41.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ENmFPaXNXbXhlU0pLYWhoMldTUm02cTJaM1VlSGFQQVI4OUk1b3NfU1pVMjlzUVBySS1tcHM2aDVBeVUzVExNbkVJTWRoQjB1S0plSmxXSXN3eVBVcFBzbTViRWt1Y09yQ2c?oc=5"
-    },
-    {
-      "id": "news-42",
+      "id": "news-93",
       "headline": "45 killed in Myanmar’s Shan state after blast at mining explosive storage facility",
       "summary": "A blast on Sunday at a building in northeastern Myanmar said to have been storing explosives for mining has killed more than 45 people, according to rescuers and independent media reports.\nAbout 70 other people were injured in the explosion that took place around noon in the village of Kaungtup, in ",
       "urgency": "breaking",
@@ -776,61 +1694,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3355481/45-killed-myanmars-shan-state-after-blast-mining-explosive-storage-facility?utm_source=rss_feed"
     },
     {
-      "id": "news-43",
-      "headline": "Dubai welcomes returning Hajj pilgrims with special passport stamp",
-      "summary": "Dubai welcomes returning Hajj pilgrims with special passport stamp",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:09:26.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/dubai-welcomes-returning-hajj-pilgrims-with-special-passport-stamp-1.500558823"
-    },
-    {
-      "id": "news-44",
-      "headline": "HR guide for UAE companies launched to support employees with multiple sclerosis",
-      "summary": "HR guide for UAE companies launched to support employees with multiple sclerosis",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:08:54.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/health/hr-guide-for-uae-companies-launched-to-support-employees-with-multiple-sclerosis-1.500558815"
-    },
-    {
-      "id": "news-45",
-      "headline": "Colombia votes in presidential election that could redefine relations with US",
-      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T15:08:38.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-46",
+      "id": "news-94",
       "headline": "As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost",
       "summary": "Residents of coastal communities in Colombia and Ecuador said the airstrike campaign was making many reconsider anything involving the ocean as a livelihood.",
       "urgency": "breaking",
@@ -848,27 +1712,27 @@
       "link": "https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html"
     },
     {
-      "id": "news-47",
-      "headline": "What are the chances for the Iran-US ‘Declaration of Principles’?",
-      "summary": "Analysts Negar Mortazavi and Colin Clarke dissect the complications surrounding the Iran-US deal.",
+      "id": "news-95",
+      "headline": "What are the chances for the Iran-US ‘Declaration of Principles’? - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXFwaDdKYVhTTG5UMFlXa3duZFJmZW5yX2lONEZndnJ5UEtJQ1pDYWx0LTNCemdOcTdONUFRWWVGV2pfUVl6RTRlZGlJMUtBSFhxZVRNekNSU2tYNDIxZ2VyWUtfUlJRZ29tdmpMN1h3NC0wSG5QTTBXZUdiQjNmUWVNcHp0UFUzNGY1SThEdWM4ZVkzVUdrMHdaTG5YUVRFVVNwc2xBbHVYbU9nVFHSAbMBQVVfeXF",
       "urgency": "info",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-31T15:02:49.000Z",
+      "timestamp": "2026-05-31T15:03:13.000Z",
       "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXFwaDdKYVhTTG5UMFlXa3duZFJmZW5yX2lONEZndnJ5UEtJQ1pDYWx0LTNCemdOcTdONUFRWWVGV2pfUVl6RTRlZGlJMUtBSFhxZVRNekNSU2tYNDIxZ2VyWUtfUlJRZ29tdmpMN1h3NC0wSG5QTTBXZUdiQjNmUWVNcHp0UFUzNGY1SThEdWM4ZVkzVUdrMHdaTG5YUVRFVVNwc2xBbHVYbU9nVFHSAbMBQVVfeXFMTmQ3cU5ieUJTdkI4RnJjajZSYUZZT01hTVd2R0J6d0FvOWxyRllSQjcyQVlIV21TdnNjdnNTWXhESFBOeG9oaHZmelpUN3NMTUZhb0QzOFp4dlhfSGJKVGlWT0pWVHdQUnhWLTRnQ2N4UVBKeG1hSlQyeUhJckhaMUNXM3FDRHctcEdQX2QtM1hmYjEtZjZlNzdUU01kbFR6bllyZ0UzNjJxenZTYXd6MXN6WEE?oc=5"
     },
     {
-      "id": "news-48",
+      "id": "news-96",
       "headline": "Students would save $3bn over a decade if Labor changed Hecs indexation date by five months",
-      "summary": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Costings commissioned by independent MP Monique Ryan show possible savings for university graduates, as Hecs debts increase by $1bn on Monday &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=",
+      "summary": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Costings commissioned by independent MP Monique Ryan show possible savings for university graduates, as Hecs debts increase by $1bn on Monday&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jun/01",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -884,9 +1748,9 @@
       "link": "https://www.theguardian.com/australia-news/2026/jun/01/hecs-debt-indexation-change-university-students-graduates-would-save-billions"
     },
     {
-      "id": "news-49",
-      "headline": "Australian home prices fall as experts predict slump could last a year and cut values by 10%",
-      "summary": "&lt;p&gt;Buyers abandon auctions and Sydney, Melbourne and Canberra median house prices end May lower than they were at the end of 2025&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"",
+      "id": "news-97",
+      "headline": "Capital city home prices fall as experts predict Australia’s property slump could last a year and cut values by 10%",
+      "summary": "&lt;p&gt;Buyers abandon auctions and Sydney, Melbourne and Canberra median house prices end May lower than they were at the end of 2025&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -902,7 +1766,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jun/01/australia-home-prices-fall-year-long-decline-value-prediction"
     },
     {
-      "id": "news-50",
+      "id": "news-98",
       "headline": "In Taiwan, ‘Mainland Spouses’ From China Become a Focus of Infiltration Fears",
       "summary": "At the heart of a criminal case involving one such wife is a question: How can Taiwan protect its democracy without unfairly targeting Chinese migrants?",
       "urgency": "info",
@@ -920,7 +1784,7 @@
       "link": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html"
     },
     {
-      "id": "news-51",
+      "id": "news-99",
       "headline": "More than 45 killed, around 70 injured in blast at explosives storage building in Myanmar",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131424732.cms\" /&gt;<![CDATA[An explosion at a building reportedly storing mining explosives in northeastern Myanmar killed over 45 people and injured around 70. The bl",
       "urgency": "breaking",
@@ -936,870 +1800,6 @@
       "timestamp": "2026-05-31T14:50:17.000Z",
       "widgetType": "news",
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/more-than-45-killed-around-70-injured-in-blast-at-explosives-storage-building-in-myanmar/articleshow/131424732.cms"
-    },
-    {
-      "id": "news-52",
-      "headline": "To Improve Ukraine’s Military, She Calls Out the Ugly Parts",
-      "summary": "Olha Reshetylova has been tasked by the government with overseeing soldiers’ rights. Some commanders resent her, but she says her work makes the armed forces stronger.",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:45:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/05/31/world/europe/ukraine-military-soldiers-ombudsman.html"
-    },
-    {
-      "id": "news-53",
-      "headline": "Not just the US: How 51 countries armed Israel during Gaza war",
-      "summary": "An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:41:14.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss"
-    },
-    {
-      "id": "news-54",
-      "headline": "Riots, vandalism, death &amp; 780 arrests: PSG's Champions League win celebrations turn violent across France",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131424529.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:40:08.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/europe/riots-vandalism-death-780-arrests-psgs-champions-league-win-celebrations-turn-violent-across-france/articleshow/131424529.cms"
-    },
-    {
-      "id": "news-55",
-      "headline": "Over 700 rioters detained across France after PSG's Champions League victory celebrations",
-      "summary": "A second Champions League trophy for Paris Saint-Germain, but an evening marred by riots in the French capital and 15 other cities across the country. Groups of supporters clashed with the police, resulting in 780 arrests and 57 security forces injured. Details by Daniel Quinlan.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:36:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/over-700-rioters-detained-across-france-after-psg-s-champions-league-victory-celebrations"
-    },
-    {
-      "id": "news-56",
-      "headline": "Israeli airstrikes devastate Lebanon’s Tyre",
-      "summary": "Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:36:04.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss"
-    },
-    {
-      "id": "news-57",
-      "headline": "The week in pictures: Europe's shock early heatwave, French Open battles and the Blue Origin blast",
-      "summary": "Former title holders crashed out at Paris's Roland-Garros tennis stadium and PSG faced off with Arsenal in Budapest to win their second Champions League final in a row as a heatwave shattered European temperature records for the month of May: FRANCE 24 looks back at some of the week's most striking ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:32:44.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/europe/20260531-the-week-in-pictures-europe-s-shock-early-heatwave-french-open-battles-and-the-blue-origin-blast"
-    },
-    {
-      "id": "news-58",
-      "headline": "‘Purely politics’: Row over Zohran Mamdani’s new office costing $5 million",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131424412.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:29:43.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/purely-politics-row-over-zohran-mamdanis-new-communications-office-costing-5-million/articleshow/131424412.cms"
-    },
-    {
-      "id": "news-59",
-      "headline": "Oman arrests passenger for trying to smuggle more than 6kg of marijuana through Muscat airport",
-      "summary": "Oman arrests passenger for trying to smuggle more than 6kg of marijuana through Muscat airport",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:27:13.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/gulf/oman/oman-arrests-passenger-for-trying-to-smuggle-more-than-6kg-of-marijuana-through-muscat-airport-1.500558781"
-    },
-    {
-      "id": "news-60",
-      "headline": "Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOT085TU5YaXJCSWgyRXNtdUxpb0U1SFZDSEJXYnJCaE93VFJmVnlCUzVMZkJ5dVlGMFgyVEQtai1aWlRJbko2S1owZFZKRXNWRGcxbWdaRzM2QkdRT3gyVUxFWUdFamk1alRWTHVIZzZ4WVEtckExaHFGcjM1MjhNRGs2Ylk?oc=5\" target=\"_blank\"&gt;Trump Sends Tougher Terms to Iran for Peac",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:21:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT085TU5YaXJCSWgyRXNtdUxpb0U1SFZDSEJXYnJCaE93VFJmVnlCUzVMZkJ5dVlGMFgyVEQtai1aWlRJbko2S1owZFZKRXNWRGcxbWdaRzM2QkdRT3gyVUxFWUdFamk1alRWTHVIZzZ4WVEtckExaHFGcjM1MjhNRGs2Ylk?oc=5"
-    },
-    {
-      "id": "news-61",
-      "headline": "PSG fans await Champions League trophy celebration in Paris",
-      "summary": "Paris Saint-Germain are the champions of Europe after their win on penalties against Arsenal last night. This afternoon, the team heads back to the French capital for a victory parade in the heart of the city. Supporters are already gathering around the Eiffel Tower to welcome them. Details by Emily",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:20:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/psg-fans-await-champions-league-trophy-celebration-in-paris"
-    },
-    {
-      "id": "news-62",
-      "headline": "Top 10 countries with the highest Schengen visa rejection rates for UAE residents",
-      "summary": "Top 10 countries with the highest Schengen visa rejection rates for UAE residents",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:13:27.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/top-10-countries-with-the-highest-schengen-visa-rejection-rates-for-uae-residents-1.500558786"
-    },
-    {
-      "id": "news-63",
-      "headline": "A 'second brain' on your face: testing the AI glasses built by Meta's hackers",
-      "summary": "They first made headlines by bolting facial recognition onto Meta's Ray-Bans to show how easily the technology could identify strangers in the street. Now Anhphu Nguyen and Caine Ardayfio have a product of their own: Mira, a $650 pair of AI glasses, with no camera this time, that quietly transcribes",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:11:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/tv-shows/tech-24/20260531-a-second-brain-on-your-face-testing-the-ai-glasses-built-by-meta-s-hackers"
-    },
-    {
-      "id": "news-64",
-      "headline": "Karachi faces 54 MGD water shortage after electricity supply to NEK Pumping Station suspended: KWSC",
-      "summary": "&lt;p&gt;The Karachi Water and Sewerage Corporation (KWSC) said on Sunday that the city was facing a shortfall of 54 million gallons per day (MGD) after electricity supply to North East Karachi Pumping Station was disrupted due to a fault in K-Electric’s main cable.&lt;/p&gt;\n&lt;p&gt;It also warned",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:08:27.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2004149/karachi-faces-54-mgd-water-shortage-after-electricity-supply-to-nek-pumping-station-suspended-kwsc"
-    },
-    {
-      "id": "news-65",
-      "headline": "Ethiopia heads to the polls: Elections under the shadow of war and dissent",
-      "summary": "As Ethiopia prepares to hold its seventh General Elections on June 1, Prime Minister Abiy Ahmed and the ruling Prosperity Party are widely expected to secure a landslide victory. But the stakes for him are high nonetheless: restoring stability and projecting an image of national unity. Critics warn ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:04:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/ethiopia-heads-to-the-polls-elections-under-the-shadow-of-war-and-dissent"
-    },
-    {
-      "id": "news-66",
-      "headline": "What is Lebanon's Beaufort Castle, and why have Israeli forces captured it?",
-      "summary": "The Israeli army has taken control of Beaufort castle in Southern Lebanon, crossing over the Litani river, which they had been using as a de facto boundary. Israeli Prime Minister Benjamin Netanyahu called the operation a \"dramatic shift\" in the Israeli offensive in Lebanon. The Israeli army now has",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:00:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/what-is-lebanon-s-beaufort-castle-and-why-have-israeli-forces-captured-it"
-    },
-    {
-      "id": "news-67",
-      "headline": "Saudi Arabia opens visa applications for new Umrah season",
-      "summary": "Saudi Arabia opens visa applications for new Umrah season",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:00:20.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-opens-visa-applications-for-new-umrah-season-1.500558767"
-    },
-    {
-      "id": "news-68",
-      "headline": "How China’s home-grown WS-10 engine helped make the country a modern air power",
-      "summary": "As China marks the 20th anniversary of completing its first domestically developed high-thrust turbofan engine for fighter jets, the WS-10 – Woshan-10, meaning Turbofan-10 – continues its crucial role in the People’s Liberation Army (PLA).\nThe WS-10 turbofan engine was code-named Taihang after the f",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T14:00:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/military/article/3355472/how-chinas-home-grown-ws-10-engine-helped-make-country-modern-air-power?utm_source=rss_feed"
-    },
-    {
-      "id": "news-69",
-      "headline": "Death of Congolese man renews scrutiny of race relations in Ireland",
-      "summary": "&lt;p&gt;Yves Sakila died after being restrained by security guards ‘in broad daylight’&lt;/p&gt;&lt;p&gt;Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street, prompting an outcry and comparison",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:59:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations"
-    },
-    {
-      "id": "news-70",
-      "headline": "World Health Organization hails recovery of five Ebola patients",
-      "summary": "More than 220 people are suspected to have died from the disease&#039;s latest outbreak, which was declared two weeks ago.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:57:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/world-health-organization-hails-recovery-of-five-ebola-patients?traffic_source=rss"
-    },
-    {
-      "id": "news-71",
-      "headline": "French police arrest 780 after violent Paris Saint-Germain celebrations",
-      "summary": "French police detained 780 people involved in violent clashes in Paris and other French cities that erupted on Saturday night after Paris Saint-Germain won the Champions League title.\nInterior Minister Laurent Nuñez said 57 officers were wounded, with most suffering minor injuries, as football fans ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:56:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/europe/article/3355479/french-police-arrest-780-after-violent-paris-saint-germain-celebrations?utm_source=rss_feed"
-    },
-    {
-      "id": "news-72",
-      "headline": "Iran chief negotiator says no deal with US until Iranian rights secured",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131424022.cms\" /&gt;<![CDATA[Iran's chief negotiator Mohammad Bagher Ghalibaf said on Sunday that Tehran will not agree to any deal with the United States that fails to",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:53:32.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-chief-negotiator-says-no-deal-with-us-until-iranian-rights-secured/articleshow/131424022.cms"
-    },
-    {
-      "id": "news-73",
-      "headline": "Protesters want to send ‘fascists to Mars’ aboard mock rocket",
-      "summary": "Environmental activists in Rome built a mock rocket with caricatures of Giorgia Meloni and Donald Trump.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:41:35.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/protesters-want-to-send-fascists-to-mars-aboard-mock-rocket?traffic_source=rss"
-    },
-    {
-      "id": "news-74",
-      "headline": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
-      "summary": "Analysts say Israel is effectively expanding its area of military control northward towards the Zahrani River.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:39:54.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss"
-    },
-    {
-      "id": "news-75",
-      "headline": "Israel seizes strategic Beaufort Castle in Lebanon, issues new evacuation orders",
-      "summary": "Israeli troops have captured Beaufort castle in Lebanon, built in Crusader times – and a symbol of Israel's advancement deeper into Lebanese territory. Israeli forces have used it as a base during its two decade occupation of Lebanon. Israel has called on Lebanese civilians to evacuate yet more town",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:31:17.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/israel-seizes-strategic-beaufort-castle-in-lebanon-issues-new-evacuation-orders"
-    },
-    {
-      "id": "news-76",
-      "headline": "PSG players parade Champions League trophy at Eiffel Tower after night of unrest in Paris",
-      "summary": "Fresh from their Champions League final win in Budapest, Paris Saint-Germain players paraded their trophy on the Champs-de-Mars in front of the Eiffel Tower on Sunday, ahead of a presidential reception at the Élysée Palace and a party at their Parc des Princes stadium. But security was tight after o",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:31:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/sport/20260531-european-champions-psg-set-for-heroes-welcome-in-paris-%E2%80%93-under-heavy-security"
-    },
-    {
-      "id": "news-77",
-      "headline": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
-      "summary": "Satellite images show transformation as Netanyahu orders military to occupy 70 percent of Gaza.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:28:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss"
-    },
-    {
-      "id": "news-78",
-      "headline": "How to handle armed groups? Colombians vote in presidential election",
-      "summary": "Colombians are heading to the polls Sunday. With current president Gustavo Petro stepping down, the search for his successor is seen as a referendum on his leftist social policies and response to growing violence in the country. Left-wing candidate Ivan Cepeda, who says he will continue pursuing pea",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:24:37.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/how-to-handle-armed-groups-colombians-vote-in-presidential-election"
-    },
-    {
-      "id": "news-79",
-      "headline": "Israel’s Netanyahu says capturing Beaufort castle a ‘dramatic shift’ in Lebanon offensive - Arab News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SVNLX3gzTTBOT01xeWhlaV96ZDJtZEZmUGVYNHZjU3dkM0U3WHJWaUg4RDdGSWVCQ2h3b3NyVU9iaUdKWE53REVhdGVfemkzZEVqRklXdFF5bU1mNXc?oc=5\" target=\"_blank\"&gt;Israel’s Netanyahu says capturing Beaufort castle a ‘dramatic shift’ in Lebanon offensive&lt;/",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Arab News",
-          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
-          "url": "https://arabnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:17:14.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5SVNLX3gzTTBOT01xeWhlaV96ZDJtZEZmUGVYNHZjU3dkM0U3WHJWaUg4RDdGSWVCQ2h3b3NyVU9iaUdKWE53REVhdGVfemkzZEVqRklXdFF5bU1mNXc?oc=5"
-    },
-    {
-      "id": "news-80",
-      "headline": "Student recalls eye-opening trip with American peers that drew praise from Xi",
-      "summary": "A university student in Hong Kong who recently received a letter from Chinese President Xi Jinping has said that an ocean voyage, a food delivery app and having a curious mind helped break stereotypes and bridge gaps between Chinese and American young people.\nLiu Runjie, a fourth-year electronic eng",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:02:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3355477/diplomacy-high-seas-how-china-us-student-voyage-bridged-cultural-gaps?utm_source=rss_feed"
-    },
-    {
-      "id": "news-81",
-      "headline": "‘Silent killer’: the race to beat cancer in Hong Kong",
-      "summary": "‘Silent killer’: the race to beat cancer in Hong Kong",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T13:00:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/infographics/hong-kong/health-environment/article/3350474/silent-killer-race-beat-cancer-hong-kong?utm_source=rss_feed"
-    },
-    {
-      "id": "news-82",
-      "headline": "Swiatek out of French Open as Kostyuk, Svitolina book all-Ukrainian quarter-final",
-      "summary": "Iga Swiatek became the latest former title holder to crash out of the French Open on Sunday after losing in straight sets to Marta Kostyuk of Ukraine, meaning there are no former champions left at Roland Garros in either the men's or the women's draws. Kostyuk, who remains unbeaten on clay this seas",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:59:48.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/sport/20260531-kostyuk-downs-four-time-winner-swiatek-latest-french-open-upset"
-    },
-    {
-      "id": "news-83",
-      "headline": "Israel captures Lebanon's medieval Beaufort Castle in 'deepest incursion in 26 years'",
-      "summary": "&lt;p&gt;Israel captured the medieval fortress on Beaufort in Lebanon on Sunday as it warned Lebanese civilians to flee a large area of the south of the country ahead of a stepped-up ground offensive.&lt;/p&gt;\n&lt;p&gt;&lt;a rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link--external\" ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:55:38.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2004134/israel-captures-lebanons-medieval-beaufort-castle-in-deepest-incursion-in-26-years"
-    },
-    {
-      "id": "news-84",
-      "headline": "Japan rejects ‘new militarism’, says China is rapidly arming",
-      "summary": "Japan accuses China of lacking military transparency and stresses the importance of dialogue for regional stability.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:51:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss"
-    },
-    {
-      "id": "news-85",
-      "headline": "Five Ebola patients recover in Congo as WHO opens new treatment centre",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131423211.cms\" /&gt;<![CDATA[Five patients infected with a rare Ebola strain have recovered in the Democratic Republic of Congo, with four set for discharge from a new ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:38:32.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/five-patients-recover-from-ebola-in-congo-as-who-launches-new-treatment-centre/articleshow/131423211.cms"
-    },
-    {
-      "id": "news-86",
-      "headline": "22-year-old Parth Patel arrested in US after scamming Illinois resident out of $40,000",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131423051.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:34:29.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/22-year-old-parth-patel-arrested-in-us-after-scamming-illinois-resident-out-of-40000-by-posing-as-fbi-agent/articleshow/131423051.cms"
-    },
-    {
-      "id": "news-87",
-      "headline": "South Africa’s World Cup 2026 departure delayed over Mexican visa debacle",
-      "summary": "World Cup delegation held up as players await visas for Mexico, whom South Africa face in the opening game in 11 days.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:32:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/5/31/south-africas-world-cup-2026-departure-delayed-over-mexican-visa-debacle?traffic_source=rss"
-    },
-    {
-      "id": "news-88",
-      "headline": "Four-time champion Swiatek out as French Open continues to deliver shocks",
-      "summary": "Swiatek handed straight-sets defeat by Ukraine&#039;s Marta Kostyuk in the round of 16 a day after Gauff&#039;s ouster.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:30:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/5/31/four-time-champion-swiatek-out-as-french-open-continues-to-deliver-shocks?traffic_source=rss"
-    },
-    {
-      "id": "news-89",
-      "headline": "US quietly plays the long game on energy dominance against China",
-      "summary": "Sun Tzu wrote that “fighting and winning all your battles is not the height of skill; subduing the enemy without fighting is the height of skill”. That maxim offers perhaps the clearest lens to interpret the logic of American grand strategy under US President Donald Trump.\nWhat many dismiss as incon",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:30:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3355267/us-quietly-plays-long-game-energy-dominance-against-china?utm_source=rss_feed"
-    },
-    {
-      "id": "news-90",
-      "headline": "'Fake news': MNA Ali Musa Gilani denies reports of his deportation from UAE",
-      "summary": "&lt;p&gt;MNA Ali Musa Gilani on Sunday denied reports of his deportation from the United Arab Emirates (UAE), terming them “fake news”.&lt;/p&gt;\n&lt;p&gt;“I was not deported at all, it’s fake news! I travelled as per schedule and returned as per schedule,” Musa, son of Senate Chairperson Yousaf Raz",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:26:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2004143/fake-news-mna-ali-musa-gilani-denies-reports-of-his-deportation-from-uae"
-    },
-    {
-      "id": "news-91",
-      "headline": "Shangri-La Dialogue: can Asia do ‘less Shangri-La, more ships, more subs’?",
-      "summary": "As the Shangri-La Dialogue drew to a close on Sunday, two issues dominated discussions throughout the event: defence spending and the varying level of commitment of countries to maintain peace in the region after calls by Washington for its allies and others to pull their weight.\nAnalysts said the 3",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:25:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/week-asia/politics/article/3355475/shangri-la-dialogue-can-asia-do-less-shangri-la-more-ships-more-subs?utm_source=rss_feed"
-    },
-    {
-      "id": "news-92",
-      "headline": "Can Hongkong Post be saved or should it become a taxpayer-funded public service?",
-      "summary": "Hongkong Post’s worsening financial situation may require not only an injection of funds but also a return to being a government-funded department providing basic public services, observers have said.\nThe analysts’ views follow the authorities’ plan to inject HK$4.6 billion (US$587 million) as a lif",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:18:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355474/can-hongkong-post-be-saved-or-should-it-become-taxpayer-funded-public-service?utm_source=rss_feed"
-    },
-    {
-      "id": "news-93",
-      "headline": "Expensive AI binge leaves companies balking at soaring bills",
-      "summary": "&lt;p&gt;Artificial intelligence is getting expensive — and companies are starting to rethink their embrace of the disruptive technology.&lt;/p&gt;\n&lt;p&gt;Playing by a well-worn Silicon Valley playbook, AI companies charged rock-bottom prices to hook customers after ChatGPT burst onto the scene.&l",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:18:15.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2004145/expensive-ai-binge-leaves-companies-balking-at-soaring-bills"
-    },
-    {
-      "id": "news-94",
-      "headline": "Nigerian retired general abducted with his wife in the north-west",
-      "summary": "Maj Gen Rabe Abubakar's kidnapping highlights continuing security challenges facing parts of the country.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:11:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-95",
-      "headline": "Colombian voters weigh economic reforms against right-wing crackdown",
-      "summary": "Colombians will cast ballots on Sunday in what is likely to be the first round of a presidential election, choosing between a leftist pledging to expand reforms begun by the current government, an ‌independent businessman promising a security crackdown and a right-wing senator seeking to become the ",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:06:24.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/americas/article/3355473/colombian-voters-weigh-economic-reforms-against-right-wing-crackdown?utm_source=rss_feed"
-    },
-    {
-      "id": "news-96",
-      "headline": "Human-shaped object in US military UFO files intrigues Chinese expert",
-      "summary": "Amid a flurry of interest in newly declassified US government UFO files, a Chinese researcher has expressed intrigue in an apparent video of a fast-moving, human-shaped object.\nZhang Nan, a Beijing-based researcher into unidentified anomalous phenomena (UAP), said he was particularly fascinated by a",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T12:00:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/science/article/3355450/human-shaped-object-us-military-ufo-files-intrigues-chinese-expert?utm_source=rss_feed"
-    },
-    {
-      "id": "news-97",
-      "headline": "Rescuers pull four villagers trapped in a flooded cave during ten days",
-      "summary": "Rescue workers in Laos have safely evacuated four villagers who had been trapped in a flooded cave for ten days, the day after another one was successfully extracted. Two men remain missing. Story by Jennie Shin.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-31T11:56:49.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/rescuers-pull-four-villagers-trapped-in-a-flooded-cave-during-ten-days"
-    },
-    {
-      "id": "news-98",
-      "headline": "Nepal PM calls for dialogue with India to resolve border issues, seeks UK's involvement in talks",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131422526.cms\" /&gt;<![CDATA[Nepal's Prime Minister Balendra Shah proposed resolving border disputes with India through dialogue and suggested involving the UK, citing ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T11:50:30.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/south-asia/nepal-pm-calls-for-dialogue-with-india-to-resolve-border-issues-seeks-uks-involvement-in-talks/articleshow/131422526.cms"
-    },
-    {
-      "id": "news-99",
-      "headline": "Iran says no deal with US unless its rights secured - Arab News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE81Q1RlS0dRYVUydzh6YkpGdWxaZVB5N0JGbWdQbUpsaHRNRkpkeTlvcVdZTWtvb0RiN0UwSThWSHVtUWFBU2xFbWlQcU1WcnRfazFwV1Y1Q0ZLZS10Rnc?oc=5\" target=\"_blank\"&gt;Iran says no deal with US unless its rights secured&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font colo",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Arab News",
-          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
-          "url": "https://arabnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-05-31T11:49:31.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81Q1RlS0dRYVUydzh6YkpGdWxaZVB5N0JGbWdQbUpsaHRNRkpkeTlvcVdZTWtvb0RiN0UwSThWSHVtUWFBU2xFbWlQcU1WcnRfazFwV1Y1Q0ZLZS10Rnc?oc=5"
     }
   ],
   "financials": {
