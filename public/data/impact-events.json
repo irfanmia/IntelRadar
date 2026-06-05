@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-05T13:27:18.817Z",
+  "lastUpdated": "2026-06-05T14:04:31.238Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 510,
-      "count": 293,
-      "breaking": 91,
-      "latest": "2026-06-05T13:15:31.000Z"
+      "score": 570,
+      "count": 338,
+      "breaking": 99,
+      "latest": "2026-06-05T14:01:20.000Z"
     },
     {
       "id": "middle-east",
-      "score": 347,
-      "count": 145,
-      "breaking": 98,
-      "latest": "2026-06-05T13:08:38.000Z"
+      "score": 406,
+      "count": 178,
+      "breaking": 111,
+      "latest": "2026-06-05T14:00:05.000Z"
     },
     {
       "id": "ukraine-russia",
@@ -31,17 +31,31 @@
     },
     {
       "id": "sudan",
-      "score": 53,
+      "score": 55,
       "count": 23,
-      "breaking": 15,
+      "breaking": 16,
       "latest": "2026-06-04T12:00:00.000Z"
     },
     {
-      "id": "china-taiwan",
-      "score": 30,
+      "id": "taliban-pakistan",
+      "score": 53,
       "count": 21,
-      "breaking": 4,
+      "breaking": 14,
+      "latest": "2026-06-05T09:40:44.000Z"
+    },
+    {
+      "id": "china-taiwan",
+      "score": 35,
+      "count": 21,
+      "breaking": 6,
       "latest": "2026-06-04T20:06:00.000Z"
+    },
+    {
+      "id": "sahel",
+      "score": 31,
+      "count": 20,
+      "breaking": 5,
+      "latest": "2026-05-19T07:00:00.000Z"
     },
     {
       "id": "venezuela",
@@ -49,13 +63,6 @@
       "count": 21,
       "breaking": 2,
       "latest": "2026-05-20T10:33:10.000Z"
-    },
-    {
-      "id": "taliban-pakistan",
-      "score": 3,
-      "count": 1,
-      "breaking": 1,
-      "latest": "2026-06-05T09:40:44.000Z"
     }
   ],
   "countryEvents": {
@@ -101,9 +108,9 @@
       "ukraine-russia"
     ],
     "saudi-arabia": [
-      "sahel",
       "middle-east",
       "sudan",
+      "sahel",
       "general",
       "ukraine-russia"
     ],
@@ -145,15 +152,15 @@
     ],
     "pakistan": [
       "middle-east",
-      "china-taiwan",
       "taliban-pakistan",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "india": [
       "middle-east",
-      "china-taiwan",
       "taliban-pakistan",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
@@ -176,9 +183,9 @@
       "general"
     ],
     "france": [
-      "sahel",
       "middle-east",
       "ukraine-russia",
+      "sahel",
       "general"
     ],
     "ukraine": [
@@ -226,22 +233,22 @@
       "ukraine-russia"
     ],
     "sudan": [
-      "sahel",
       "middle-east",
       "sudan",
+      "sahel",
       "general",
       "ukraine-russia"
     ],
     "nigeria": [
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "kenya": [
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "middle-east",
       "ukraine-russia"
@@ -291,20 +298,20 @@
       "ukraine-russia"
     ],
     "algeria": [
-      "sahel",
       "middle-east",
+      "sahel",
       "general",
       "ukraine-russia"
     ],
     "libya": [
-      "sahel",
       "middle-east",
+      "sahel",
       "general",
       "ukraine-russia"
     ],
     "morocco": [
-      "sahel",
       "middle-east",
+      "sahel",
       "general",
       "ukraine-russia"
     ],
@@ -393,36 +400,36 @@
       "ukraine-russia"
     ],
     "south-sudan": [
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "mali": [
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "niger": [
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "burkina-faso": [
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "middle-east",
       "ukraine-russia"
     ],
     "democratic-republic-of-congo": [
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "middle-east",
       "ukraine-russia"
