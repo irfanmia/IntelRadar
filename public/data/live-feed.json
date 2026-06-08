@@ -1,8 +1,836 @@
 {
-  "lastUpdated": "2026-06-07T20:50:59.826Z",
+  "lastUpdated": "2026-06-07T23:49:47.872Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+      "summary": "Israel had attacked the outskirts of the Lebanese capital, Beirut, earlier Sunday, prompting Iran to retaliate. There were no immediate reports of casualties from the missile attack.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:37:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles"
+    },
+    {
+      "id": "news-1",
+      "headline": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:37:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles/heres-the-latest"
+    },
+    {
+      "id": "news-2",
+      "headline": "Mojtaba Khamenei is &apos;pretty badly injured&apos;: Trump",
+      "summary": "Mojtaba Khamenei is &apos;pretty badly injured&apos;: Trump",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:25:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/mojtaba-khamenei-is-pretty-badly-injured-trump-1.500566661"
+    },
+    {
+      "id": "news-3",
+      "headline": "Christian Eriksen ‘conscious’ after another on-field collapse in Denmark match",
+      "summary": "Christian Eriksen was conscious and undergoing further tests in hospital after collapsing on the field again while playing for Denmark’s national team on Sunday in a scary scene that had echoes of his cardiac arrest at the European Championship five years ago.\nTelevision footage showed the 34-year-o",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:24:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/sport/football/article/3356286/christian-eriksen-conscious-after-another-field-collapse-denmark-match?utm_source=rss_feed"
+    },
+    {
+      "id": "news-4",
+      "headline": "Xi Jinping set to meet Kim Jong-un in North Korea, as China seeks to revitalise relationship",
+      "summary": "&lt;p&gt;The China-North Korea relationship has been strained by a fall in trade during the pandemic and Pyongyang’s increasing ties with Russia&lt;/p&gt;&lt;p&gt;Xi Jinping visits North Korea on Monday for a two-day trip, his first in nearly seven years, as China’s president looks to revitalise tie",
+      "urgency": "info",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:21:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea"
+    },
+    {
+      "id": "news-5",
+      "headline": "Australia news live: Julia Gillard ‘disgusted’ by ‘ditch the witch’ ads targeting Victorian premier; One Nation ahead of Labor in new poll",
+      "summary": "&lt;p&gt;Former Labor prime minister angered at use of ‘tired old trope’. Follow live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;free app&lt;/a&",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:16:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb"
+    },
+    {
+      "id": "news-6",
+      "headline": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+      "summary": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:03:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-7",
+      "headline": "European leaders back Zelensky's call for direct Russia talks",
+      "summary": "Ukrainian President Volodymyr Zelensky won support from the leaders of Britain, France and Germany on Sunday for direct ceasefire talks with Russia, as diplomatic efforts to end the war remain stalled. The appeal came as Russian strikes reportedly damaged a nuclear fuel storage facility near the Che",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:01:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260607-european-leaders-back-zelensky-call-for-direct-russia-talks"
+    },
+    {
+      "id": "news-8",
+      "headline": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+      "summary": "The European country had 9.1 million international visitors in April, the most ever for that month.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:01:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-9",
+      "headline": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+      "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:00:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-10",
+      "headline": "Hong Kong police warn World Cup fans against using overseas betting sites",
+      "summary": "Hong Kong police have warned football fans that using overseas betting websites could breach local gambling laws even if the platforms claim to be legally registered abroad, as authorities prepare for a predicted surge in wagering over the Fifa World Cup that begins on June 11.\nPolice issued the war",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T23:00:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356273/hong-kong-police-warn-world-cup-fans-against-using-overseas-betting-sites?utm_source=rss_feed"
+    },
+    {
+      "id": "news-11",
+      "headline": "Nuclear powers increasing deployment of warheads, SIPRI warns",
+      "summary": "The world’s nuclear-armed states are increasingly moving warheads from storage onto operational delivery systems, raising the risk of conflict despite a gradual decline in overall stockpiles, researchers warned on Monday. SIPRI said geopolitical rivalry and a new arms build-up could reverse decades ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:42:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260607-nuclear-powers-increasing-deployment-of-warheads-sipri-warns"
+    },
+    {
+      "id": "news-12",
+      "headline": "Munich airport flights briefly grounded after tower evacuation",
+      "summary": "Flights halted at Munich Airport over smell of smoke in control tower: spokesman",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:41:25.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/munich-airport-flights-briefly-grounded-after-tower-evacuation-1.500566604"
+    },
+    {
+      "id": "news-13",
+      "headline": "North Korea’s Kim Jong Un inspects munitions at weapons factory",
+      "summary": "North Korea has released photos of Kim Jong Un inspecting huge munitions at a weapons factory",
+      "urgency": "info",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:38:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/north-koreas-kim-jong-un-inspects-munitions-at-weapons-factory-2?traffic_source=rss"
+    },
+    {
+      "id": "news-14",
+      "headline": "Iran suspends flights at Tehran international airport: local media",
+      "summary": "Iran suspends flights at Tehran international airport: local media",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:36:35.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/iran-suspends-flights-at-tehran-international-airport-local-media-1.500566640"
+    },
+    {
+      "id": "news-15",
+      "headline": "UK, France, Germany back direct Ukraine-Russia talks: joint statement",
+      "summary": "Ukrainian President Volodymyr Zelensky received the backing of the leaders of the UK, France and Germany in calling for direct ceasefire talks between Russia and Ukraine, according to a joint statement issued following defence talks in London on Sunday.\nZelensky met British Prime Minister Keir Starm",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:22:59.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/europe/article/3356285/uk-france-germany-back-direct-ukraine-russia-talks-joint-statement?utm_source=rss_feed"
+    },
+    {
+      "id": "news-16",
+      "headline": "Iran launches missiles at Israel for first time since ceasefire",
+      "summary": "The apparent attack Sunday night, Tehran’s first such strike in two months, threatened to further complicate efforts to broker a peace deal aimed at ending the war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:12:16.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/"
+    },
+    {
+      "id": "news-17",
+      "headline": "Is &apos;super El Niño&apos; coming? UN warns of potentially historic climate event as fossil fuel emissions push planet into danger zone",
+      "summary": "Is &apos;super El Niño&apos; coming? UN warns of potentially historic climate event as fossil fuel emissions push planet into danger zone",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:11:31.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/is-super-el-ni%C3%B1o-coming-un-warns-of-potentially-historic-climate-event-as-fossil-fuel-emissions-push-planet-into-danger-zone-1.500566638"
+    },
+    {
+      "id": "news-18",
+      "headline": "Balochistan CM announces civil award to be conferred on man who helped female doctor after acid attack",
+      "summary": "&lt;p&gt;Balochistan Chief Minister Sarfaraz Bugti on Sunday announced that a civil award would be conferred on a man who came to the assistance of a female doctor at Quetta’s Civil Hospital after an&lt;a href=\"https://www.dawn.com/news/2005660\"&gt; acid attack &lt;/a&gt;on her.&lt;/p&gt;\n&lt;p&gt;O",
+      "urgency": "breaking",
+      "topic": "taliban-pakistan",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:09:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2005865/balochistan-cm-announces-civil-award-to-be-conferred-on-man-who-helped-female-doctor-after-acid-attack"
+    },
+    {
+      "id": "news-19",
+      "headline": "Bilawal says will meet PM Shehbaz over AJK situation; state media reports JAAC head office sealed",
+      "summary": "&lt;p&gt;PPP Chairman Bilawal Bhutto-Zardari, whose party holds the majority in the Azad Jammu and Kashmir (AJK) Legislative Assembly, said on Sunday he would meet Prime Minister Shehbaz Sharif over the current situation in AJK, asserting that issues would be resolved through talks.&lt;/p&gt;\n&lt;p&",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:08:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2005870/bilawal-says-will-meet-pm-shehbaz-over-ajk-situation-state-media-reports-jaac-head-office-sealed"
+    },
+    {
+      "id": "news-20",
+      "headline": "PPP shares tax-related reservations in pre-budget meeting with Dar, say sources",
+      "summary": "&lt;p&gt;ISLAMABAD: A PPP delegation, led by party Chairman Bilawal Bhutto-Zardari, expressed its reservations related to taxes during a pre-budget meeting with Deputy Prime Minister and Foreign Minister Ishaq Dar on Sunday, sources told &lt;em&gt;Dawn&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;The meeting was ",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:07:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2005897/ppp-shares-tax-related-reservations-in-pre-budget-meeting-with-dar-say-sources"
+    },
+    {
+      "id": "news-21",
+      "headline": "Unofficial results show PPP leading the GB race with victory on 10 seats",
+      "summary": "&lt;p&gt;Unofficial and preliminary election results for 24 seats of the Gilgit-Baltistan Legislative Assembly show that the PPP is leading the race with success in 10 constituencies.&lt;/p&gt;\n&lt;p&gt;According to the unofficial results, second in the race is PML-N with six seats, while independen",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:05:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2005670/unofficial-results-show-ppp-leading-the-gb-race-with-victory-on-10-seats"
+    },
+    {
+      "id": "news-22",
+      "headline": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
+      "summary": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
+      "urgency": "info",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:02:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-23",
+      "headline": "'We don't look at the sky anymore': The Air India crash victims who were not on the plane",
+      "summary": "A grandfather, a survivor, a witness: one year after the crash, the people on the ground tell their stories.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:01:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-24",
+      "headline": "China adds warheads as nuclear powers ‘walk away’ from disarmament: SIPRI",
+      "summary": "China expanded its nuclear warhead stockpile over the past year and might have increased the number deployed with operational forces, a Swedish think tank report said, warning that major powers were “walking away” from disarmament commitments.\nAccording to the report released on Monday as part of th",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:01:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/military/article/3356269/china-adds-warheads-nuclear-powers-walk-away-disarmament-sipri?utm_source=rss_feed"
+    },
+    {
+      "id": "news-25",
+      "headline": "Nobel laureate James Heckman on the value of risk-taking, and China’s ‘common goal’",
+      "summary": "James Heckman is the Henry Schultz distinguished service professor of economics and public policy and director of the Centre for the Economics of Human Development at the University of Chicago.\nHeckman has devoted his professional life to understanding the origins of major social and economic questi",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T22:00:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3356073/nobel-laureate-james-heckman-value-risk-taking-and-chinas-common-goal?utm_source=rss_feed"
+    },
+    {
+      "id": "news-26",
+      "headline": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
+      "summary": "President Volodymyr Zelensky traveled to London to meet with the leaders of Britain, Germany and France, whom he said could be negotiators in talks with Russia.",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:55:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html"
+    },
+    {
+      "id": "news-27",
+      "headline": "A President, His Prime Minister and the Bitter Rift Dividing Senegal",
+      "summary": "The two men became president and prime minister by defeating the political old guard in Senegal. Now they are fighting each other.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:51:24.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/06/world/africa/senegal-faye-sonko-young-fight.html"
+    },
+    {
+      "id": "news-28",
+      "headline": "South Africa's president unveils crackdown on illegal migration",
+      "summary": "He made the announcements in a national address as tensions rise over anti-foreigner marches.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Africa",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:44:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cwyd50g0y5zo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-29",
+      "headline": "North Korea's Kim Yo Jong: Nuclear Programme Inflexible Amid Tensions - India News Network",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUtqaTg0bHE1bXp5cWdSM3RiMUZGcEo5SHZKcGRrd1J4TXhveUlNdFhSSnM1S2QyeURIbTJoSVR6dUtqZkJYRi1rTHpCRjM1YzFCaEhPMFZxMWdJTEVScEIzRk5ZS2RyN0JoTldveGlPT0lWWjRldUhiempGZE1xclVKNVhwc01aRmx2Y1dCRUpXQ3pyVFhqenB3c29Ec3RFcDA1Y2VkV09jclRaQ1dhaA?oc=5\" ta",
+      "urgency": "info",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:42:33.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUtqaTg0bHE1bXp5cWdSM3RiMUZGcEo5SHZKcGRrd1J4TXhveUlNdFhSSnM1S2QyeURIbTJoSVR6dUtqZkJYRi1rTHpCRjM1YzFCaEhPMFZxMWdJTEVScEIzRk5ZS2RyN0JoTldveGlPT0lWWjRldUhiempGZE1xclVKNVhwc01aRmx2Y1dCRUpXQ3pyVFhqenB3c29Ec3RFcDA1Y2VkV09jclRaQ1dhaA?oc=5"
+    },
+    {
+      "id": "news-30",
+      "headline": "Zelensky's close European allies set out five conditions for peace talks",
+      "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:39:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-31",
+      "headline": "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+      "summary": "Iran&#039;s attack on Israel aims to restore deterrence but avoid return to war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:33:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/quotable/2026/6/7/irans-attack-on-israel-aims-to-restore-deterrence-but-avoid-return-to-war?traffic_source=rss"
+    },
+    {
+      "id": "news-32",
+      "headline": "Iran fires missiles at Israel for first time since ceasefire - Axios",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzU3Z3FickZNcjlaaVJXeDVqSTdJVUVvQmEyWnlQeGVxOFlrZTgtYW9oNkdFWHFIcVRDNVZIQ0pqVjVnTldFTVllbWNscVNheXNia2hFaVhmY3VWMlprcVYtM0VIX1JsUVBBWkV6azZwQ0RaMGY2YWpOX3FNZDMyU3htWFpyWTl3RVdrclJWaGliVnk1blE?oc=5\" target=\"_blank\"&gt;Iran fires missile",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:30:27.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzU3Z3FickZNcjlaaVJXeDVqSTdJVUVvQmEyWnlQeGVxOFlrZTgtYW9oNkdFWHFIcVRDNVZIQ0pqVjVnTldFTVllbWNscVNheXNia2hFaVhmY3VWMlprcVYtM0VIX1JsUVBBWkV6azZwQ0RaMGY2YWpOX3FNZDMyU3htWFpyWTl3RVdrclJWaGliVnk1blE?oc=5"
+    },
+    {
+      "id": "news-33",
+      "headline": "As Asia’s strategic landscape evolves, what is the Quad’s purpose?",
+      "summary": "When foreign ministers of countries that are part of the Quadrilateral Security Dialogue (Quad) gathered in New Delhi last week, the agenda looked familiar: supply chain resilience, telecommunications security and maritime domain awareness. The talking points have evolved, the initiatives have multi",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:30:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/opinion/asia-opinion/article/3355773/asias-strategic-landscape-evolves-what-quads-purpose?utm_source=rss_feed"
+    },
+    {
+      "id": "news-34",
+      "headline": "Fifa World Cup: Can Morocco inspire another Arab fairytale? - Khaleej Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3RXbTBaUlNMVkY5REd5T0xXVjdvazl4ZFhrR3phUmFsSVRwQzJQbkVrRjlDRXoyc0g3VUtzNTN0TWpkaVhXUFJacTZtOC1UVERvYXBIaXc1V2hvbzYxaEE0MzZIRU01NGR5OTR6UjJ6c2pxT1dpTnZCWVZEUEUyY2k2bmU2cmg3TnJmNFFkd01vWkh0aVlQSXpJNHF0azRQR0lESm5SUWhLV0M2SVpyTk9jd1dmZ9I",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
+          "url": "https://khaleejtimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:29:10.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3RXbTBaUlNMVkY5REd5T0xXVjdvazl4ZFhrR3phUmFsSVRwQzJQbkVrRjlDRXoyc0g3VUtzNTN0TWpkaVhXUFJacTZtOC1UVERvYXBIaXc1V2hvbzYxaEE0MzZIRU01NGR5OTR6UjJ6c2pxT1dpTnZCWVZEUEUyY2k2bmU2cmg3TnJmNFFkd01vWkh0aVlQSXpJNHF0azRQR0lESm5SUWhLV0M2SVpyTk9jd1dmZ9IBvgFBVV95cUxNMVZBaUU5RXg2Vm1XWjMtQ0RPYlF3ZVA0WHByc0ZMaXpjb3lXUHY3Q2huRW0wM2VINDBKbmhDcTVHZUhtcEZJdVdFWnZpVkVxOVBUTGdwZ0x5Wkw0c2FNWGRLbmsxVnpTQ002LWk0S1MyZnRMNkVlWWJ2NmgxU0xLWHNIRFkwZjN1ZzJRYVhZVEh5eHJsd3BDR3MtMHlULW5oUUJiV01Rck84LTU2d0tnWnNmSEVrQWdfWUU2bmx3?oc=5"
+    },
+    {
+      "id": "news-35",
+      "headline": "Trump storms out of tense NBC interview about Iran war strategy, election fraud claims",
+      "summary": "US President Donald Trump lasted through scrutinising questions about his Iran war strategy and repeated weather disruptions during an interview with US broadcaster NBC – but angrily stormed out when confronted over his unfounded claims of election fraud.\n“You’re a one-sided, crooked network. Sorry.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:27:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3356284/trump-storms-out-tense-nbc-interview-about-iran-war-strategy?utm_source=rss_feed"
+    },
+    {
+      "id": "news-36",
+      "headline": "Tribeca Festival Denounces Pair Who Joked on the Red Carpet About Rape",
+      "summary": "A clip of the actor Elon Gold with Lizzy Savetsky, a social media influencer, at the premiere of “The Wedding Entertainer” has been circulating online.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:23:44.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/07/world/middleeast/tribeca-film-festival-response-palestinian-joke.html"
+    },
+    {
+      "id": "news-37",
+      "headline": "Iran launches strikes on Israel in retaliation for Beirut bombardment - CBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHVuVG1ZUG0ySl96ZFpNSU5OaGZ2eGJ3Q05rMFdRb0VOajJ0SFZOTURDMl9LbnQ4clpwOEw3RzBDc05RWG93SjlLMnJZdGp4MEItV0M1R245VGNXRVdVWlluNWl5MWJYczVaNGVlWjJRbXlJNWU2NGNTWDlLODNOWW9BUQ?oc=5\" target=\"_blank\"&gt;Iran launches strikes on Israel in retaliat",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:19:48.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHVuVG1ZUG0ySl96ZFpNSU5OaGZ2eGJ3Q05rMFdRb0VOajJ0SFZOTURDMl9LbnQ4clpwOEw3RzBDc05RWG93SjlLMnJZdGp4MEItV0M1R245VGNXRVdVWlluNWl5MWJYczVaNGVlWjJRbXlJNWU2NGNTWDlLODNOWW9BUQ?oc=5"
+    },
+    {
+      "id": "news-38",
+      "headline": "Videos show missiles launched from Iran into Israel",
+      "summary": "Iranian media has released video showing missiles being launched towards Israel.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:14:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss"
+    },
+    {
+      "id": "news-39",
+      "headline": "Richard Scolyer, cancer researcher and former Australian of the year, dies aged 59",
+      "summary": "&lt;p&gt;Scolyer, who did pioneering work on immunotherapy, was diagnosed with inoperable brain cancer in 2023&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/society/2026/jun/08/richard-scolyer-open-letter-to-australians-before-death-aged-59\"&gt;Richard Scolyer’s open ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:13:25.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/08/richard-scolyer-cancer-researcher-and-former-australian-of-the-year-dies-aged-59"
+    },
+    {
+      "id": "news-40",
+      "headline": "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+      "summary": "Iranian state TV broadcast scenes of celebration in Tehran as missiles flew overhead en route to Israel.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:12:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss"
+    },
+    {
+      "id": "news-41",
+      "headline": "Brazil’s Embraer sees eventual China breakthrough for E2 jets",
+      "summary": "Brazilian planemaker Embraer ⁠expects to eventually bring its ⁠E2 jets into China, seeing a role for the aircraft among the country’s domestically developed models, a senior executive told Reuters on Sunday.\n“We have a dedicated team in Beijing, they’re day-to-day working in China,” Embraer Commerci",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:09:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/americas/article/3356283/brazils-embraer-sees-eventual-china-breakthrough-e2-jets?utm_source=rss_feed"
+    },
+    {
+      "id": "news-42",
+      "headline": "A Voice for Ukraine’s Soldiers",
+      "summary": "Meet the rights defender charged with protecting the country’s fighters — not from Russia, but from abuses by their own commanders.",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:06:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/07/world/08int-theworld-ukraine-iran-israel-world-cup.html"
+    },
+    {
+      "id": "news-43",
+      "headline": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
+      "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T21:04:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html"
+    },
+    {
+      "id": "news-44",
+      "headline": "Israel strikes Beirut suburb days after US-brokered truce - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MmJYVVJ0LTcyRno2RHYxLXN2cjFwME5MMWxBSjhCX3FRdFdNYW5uUnFZcG9CQ19jalN5N2phNTN1ejU3cmdGampqY1lCZDVZMk5LUTRoMnVOZw?oc=5\" target=\"_blank\"&gt;Israel strikes Beirut suburb days after US-brokered truce&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T20:56:09.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MmJYVVJ0LTcyRno2RHYxLXN2cjFwME5MMWxBSjhCX3FRdFdNYW5uUnFZcG9CQ19jalN5N2phNTN1ejU3cmdGampqY1lCZDVZMk5LUTRoMnVOZw?oc=5"
+    },
+    {
+      "id": "news-45",
+      "headline": "Australian doctor who underwent world-first brain tumour treatment dies",
+      "summary": "The melanoma doctor's brain cancer treatment experiment has sparked hope for a breakthrough.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Asia",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T20:54:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c14yz5jg476o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-46",
       "headline": "Arab Gunman Kills One in Attack on Central Israel",
       "summary": "The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility.",
       "urgency": "breaking",
@@ -20,97 +848,43 @@
       "link": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html"
     },
     {
-      "id": "news-1",
-      "headline": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
-      "summary": "Israel had attacked the outskirts of the Lebanese capital, Beirut, earlier Sunday, prompting threats of Iranian retaliation. There were no immediate reports of casualties.",
+      "id": "news-47",
+      "headline": "Iran missile attack on Israel triggers temporary airspace closures in Iran, Iraq and Syria",
+      "summary": "Iran missile attack on Israel triggers temporary airspace closures in Iran, Iraq and Syria",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T20:48:11.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles"
-    },
-    {
-      "id": "news-2",
-      "headline": "Unofficial results show PPP leading the GB race with victory on 10 seats",
-      "summary": "&lt;p&gt;Unofficial and preliminary results of elections for the 24 seats of the Gilgit-Baltistan Legislative Assembly show that the PPP is leading the race with success in 10 constituencies.&lt;/p&gt;\n&lt;p&gt;According to the unofficial results, second in the race is PML-N with six seats, while in",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
           "category": "local_media"
         }
       ],
-      "timestamp": "2026-06-07T20:34:45.000Z",
+      "timestamp": "2026-06-07T20:44:06.000Z",
       "widgetType": "news",
-      "link": "https://www.dawn.com/news/2005670/unofficial-results-show-ppp-leading-the-gb-race-with-victory-on-10-seats"
+      "link": "https://gulfnews.com/world/mena/iran-missile-attack-on-israel-triggers-temporary-airspace-closures-in-iran-iraq-and-syria-1.500566620"
     },
     {
-      "id": "news-3",
-      "headline": "Richard Scolyer, cancer researcher and former Australian of the year, dies aged 59",
-      "summary": "&lt;p&gt;Scolyer, who did pioneering work on immunotherapy, was diagnosed with inoperable brain cancer in 2023&lt;/p&gt;&lt;p&gt;Prof Richard Scolyer, the world-renowned cancer researcher and former Australian of the year, has died at the age of 59.&lt;/p&gt;&lt;p&gt;Scolyer’s family shared a statem",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T20:33:01.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/08/richard-scolyer-cancer-researcher-and-former-australian-of-the-year-dies-aged-59"
-    },
-    {
-      "id": "news-4",
-      "headline": "Tribeca Festival Denounces Pair Who Joked on the Red Carpet About Rape",
-      "summary": "A clip of the actor Elon Gold with Lizzy Savetsky, a social media influencer, at the premiere of “The Wedding Entertainer” has been circulating online.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T20:30:40.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/07/world/middleeast/tribeca-film-festival-response-palestinian-joke.html"
-    },
-    {
-      "id": "news-5",
-      "headline": "Live updates: Israel says it intercepted missile fire from Iran as US peace effort remains stalled - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2Z1c1luQ3VlZGdLNFE3c0cxRDZBa2JUQlZwMlNlNVZWWXplUDVjbzNZS0dfS1Bub0ZJNDIybDhmSGFkaW5vcmhvdjc4dzAyN1ExdTFuNXhRTU9DUnhBZ0VqX2FySHdaX3RqQ2JPd0I3STZSaU1TNlI5d3ZmcGlTend3?oc=5\" target=\"_blank\"&gt;Live updates: Israel says it intercepted miss",
+      "id": "news-48",
+      "headline": "22-year-old student shot dead after chasing phone robbers in Philadelphia; father says...",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131573736.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
-      "topic": "middle-east",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-06-07T20:24:00.000Z",
+      "timestamp": "2026-06-07T20:39:34.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2Z1c1luQ3VlZGdLNFE3c0cxRDZBa2JUQlZwMlNlNVZWWXplUDVjbzNZS0dfS1Bub0ZJNDIybDhmSGFkaW5vcmhvdjc4dzAyN1ExdTFuNXhRTU9DUnhBZ0VqX2FySHdaX3RqQ2JPd0I3STZSaU1TNlI5d3ZmcGlTend3?oc=5"
+      "link": "https://timesofindia.indiatimes.com/world/us/22-year-old-student-shot-dead-after-chasing-phone-robbers-in-philadelphia-father-says-im-shocked-he-went-after-them/articleshow/131573736.cms"
     },
     {
-      "id": "news-6",
+      "id": "news-49",
       "headline": "Live Updates: Iran retaliates after Israel's deadly strike in Beirut, accuses U.S. of violating ceasefire as peace talks stall - CBS News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPelJMTjAxUFhxdHBqeU9KN3lhbkFhM182azlzVHpGTDZXaGkyaDFNT0Vzc2ZBT1BJTnpiTm9XalZjOVhaWGN6YjJjXzBBZ2lrQW52bFhZZmw4OHFSYWVRcUpwenVEckFlSkY5NGx1bFM2dDVuUUlPQ1M1UTgtX094dlhHOUs1bVU3NlFBRmFuLThRN0dtUE9yWg?oc=5\" target=\"_blank\"&gt;Live Updates: I",
       "urgency": "breaking",
@@ -128,27 +902,9 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelJMTjAxUFhxdHBqeU9KN3lhbkFhM182azlzVHpGTDZXaGkyaDFNT0Vzc2ZBT1BJTnpiTm9XalZjOVhaWGN6YjJjXzBBZ2lrQW52bFhZZmw4OHFSYWVRcUpwenVEckFlSkY5NGx1bFM2dDVuUUlPQ1M1UTgtX094dlhHOUs1bVU3NlFBRmFuLThRN0dtUE9yWg?oc=5"
     },
     {
-      "id": "news-7",
-      "headline": "Iran fires missiles at Israel after it attacked Beirut",
-      "summary": "Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T20:12:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss"
-    },
-    {
-      "id": "news-8",
-      "headline": "Israel says Iran launched missiles at it in the first such bombardment during fragile ceasefire - AP News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUR4X28zSUZqamE5ZkhYVlV0Umx4Q1RwZkMwMDdBaTU0aWw5Q0tueHRGTnAyZ0FSN2gwU2syR1k4cGRzMkc2cy13WFFOaW5TcTRVSHA4NTJNR2FPanBMclhpQjZ4cnk2UVRHOGhIWk9GZmt2WVNENk82UGNIN29jSy0wZGw0U0piM25RN0R4MEdmT2g1TV9xZFl3?oc=5\" target=\"_blank\"&gt;Israel says I",
+      "id": "news-50",
+      "headline": "Iran losing patience with Israel and US over ceasefire violations - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPR19Xc0xDc2plcWozTXl5ZzJrYmc4VjNrMXU4blg0UzhTU0pHRWNIVTFSalBNZHlGRk4zUUFFeEpDN054RktFdFptdHdXaDloU1FhWHdTMVl6cmFEbl9xdzd0b2lwdVkzN21XZnVpWW0taTVuVTN2RHBVWVRTVU5iZm5oOGRYbU1vWHFBYXVKMHRMTzU4WV95aE0tbWRVWktZb1JhS19QYU1qa25WNVdXNE5zYktGd9I",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
@@ -159,12 +915,30 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-06-07T20:03:00.000Z",
+      "timestamp": "2026-06-07T20:12:42.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUR4X28zSUZqamE5ZkhYVlV0Umx4Q1RwZkMwMDdBaTU0aWw5Q0tueHRGTnAyZ0FSN2gwU2syR1k4cGRzMkc2cy13WFFOaW5TcTRVSHA4NTJNR2FPanBMclhpQjZ4cnk2UVRHOGhIWk9GZmt2WVNENk82UGNIN29jSy0wZGw0U0piM25RN0R4MEdmT2g1TV9xZFl3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR19Xc0xDc2plcWozTXl5ZzJrYmc4VjNrMXU4blg0UzhTU0pHRWNIVTFSalBNZHlGRk4zUUFFeEpDN054RktFdFptdHdXaDloU1FhWHdTMVl6cmFEbl9xdzd0b2lwdVkzN21XZnVpWW0taTVuVTN2RHBVWVRTVU5iZm5oOGRYbU1vWHFBYXVKMHRMTzU4WV95aE0tbWRVWktZb1JhS19QYU1qa25WNVdXNE5zYktGd9IBuwFBVV95cUxNa1dHZ2stS0ZON2RWa2J3N0xJSC1ZOUgxUXJ0eFEwT1pRRlc4am0xallxZ3B3QlM4LTZvZjhEN0ZpMUxwaUlkVDhha0ZqSWlzYmttMThGaDUwdjRfN1BVbzJBbVJIWTRfak9ITXVXeWxYSUN5SDBGNVRpbUNyUTB5bnFlWmRoS2pTeDlqSC12OWJ6QVFKMDYwS3VLdVJXVmhWVGRfNTRFY3FIaUhlbnFWcHB0Q2NIelFYa1Yw?oc=5"
     },
     {
-      "id": "news-9",
+      "id": "news-51",
+      "headline": "Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel - CNBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzRQOFlUU0ZzbVhBNXdhTE5YdWh4MG1Qdnp5YmNtVW1IZ2djVDczUjNFS2VuUE9ueUQyV0RqUjJjOVh6QVpJQnJHVy15QVAtYnNycEcteWVtakQ5dV9HZk9YRXV0MEZ0RkpMbTEzVGs0SEN4djJPVzNaY2s2aTVJQkFoM2ZzaVdo0gGOAUFVX3lxTE9LTm45S0xnZXcwT1RCZ3hWWWkxX2JUajFGOWd2SkV2aGJmY3g",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-07T20:05:12.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzRQOFlUU0ZzbVhBNXdhTE5YdWh4MG1Qdnp5YmNtVW1IZ2djVDczUjNFS2VuUE9ueUQyV0RqUjJjOVh6QVpJQnJHVy15QVAtYnNycEcteWVtakQ5dV9HZk9YRXV0MEZ0RkpMbTEzVGs0SEN4djJPVzNaY2s2aTVJQkFoM2ZzaVdo0gGOAUFVX3lxTE9LTm45S0xnZXcwT1RCZ3hWWWkxX2JUajFGOWd2SkV2aGJmY3gtR3JldktRaVJkNk1YRm9lWlRUaWVhMXRjYjlnY1A0SXlmVms1c2liTmY5TTZ3Q2RtMVZKRHRVdzFReTR4UFlvMHRIVE1HWGV3V3BYTTBDZFJIWXZhMlVxMkZabmlRc3B2WWc?oc=5"
+    },
+    {
+      "id": "news-52",
       "headline": "Israel hits civilian area in Beirut’s southern suburbs, kills at least two - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGNNYnRnNkpiNEZsXzRxZUp5ekYzUGtYZmdNcXhXRDdSWFNldVh5WmticVRQNmZTamVZQVBkbnJSeDJ3LWZUZzZCU3EzREQ2YmI2dEVxdUI4Z0JzVklmV2Q5RHV6NTNDNXZaLVA4SmowVUxReVhMZ2xabEFfamlFbVJSQkRGdk9jc3hPbm9CMW00a0xtU3puQXRubm0wc0p2cVozSzc4cVVrR3phckJLR01BS2bSAbo",
       "urgency": "info",
@@ -182,43 +956,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGNNYnRnNkpiNEZsXzRxZUp5ekYzUGtYZmdNcXhXRDdSWFNldVh5WmticVRQNmZTamVZQVBkbnJSeDJ3LWZUZzZCU3EzREQ2YmI2dEVxdUI4Z0JzVklmV2Q5RHV6NTNDNXZaLVA4SmowVUxReVhMZ2xabEFfamlFbVJSQkRGdk9jc3hPbm9CMW00a0xtU3puQXRubm0wc0p2cVozSzc4cVVrR3phckJLR01BS2bSAboBQVVfeXFMTllfSmhkd2thanBrQ3lfb2V0c2NoOGhZYjhUT3dXamY3SkM1VTc5OGxhQ2Z4Z2pNaTVzU284Nm1EUlNhLVNJbnotdnVyaE5XUnVuU3JBYWpISi1zSi12d2JkUzhLWmRrR0lnYlBUTGIzMTBUdS1LazNlM2NDZW5hZGFjelY2ckxqVHl0ZTZEN3RvQW1Ya25vQ3Rja0JkaWVkUHo0aUhmTzVhWjZIVExqZ2ZhdlBvMGtxQnRn?oc=5"
     },
     {
-      "id": "news-10",
-      "headline": "Iran losing patience with Israel and US over ceasefire violations",
-      "summary": "Iran’s patience has reached its limit with the continuous violations of the ‘ceasefire’.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T20:01:46.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss"
-    },
-    {
-      "id": "news-11",
-      "headline": "US retaliates with airstrikes after Iran launches missiles and drones in weekend attacks - Fox News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeG4xT1BkNTdjMEYzZG8xTlFNVWFZUWtSUjk5MEFHcEkxWGc5cWdYdTRyWmQ2SlpaOElEQ3pQNkxlSVhNS1pFbWc0bGZIclRCRVFlcmFvWlhqVUVKREVlTDlPR2g0Uk5zbzlnTVZJelNrUnVvTGoyc3h2V0l3UVJ4UUZRNmTSAYoBQVVfeXFMTXl4ZUF5dlhQR29wRTVDZlZrZjJHTHNqQXkxWC0tS1dZaVd3ODhnMTF",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T20:01:04.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeG4xT1BkNTdjMEYzZG8xTlFNVWFZUWtSUjk5MEFHcEkxWGc5cWdYdTRyWmQ2SlpaOElEQ3pQNkxlSVhNS1pFbWc0bGZIclRCRVFlcmFvWlhqVUVKREVlTDlPR2g0Uk5zbzlnTVZJelNrUnVvTGoyc3h2V0l3UVJ4UUZRNmTSAYoBQVVfeXFMTXl4ZUF5dlhQR29wRTVDZlZrZjJHTHNqQXkxWC0tS1dZaVd3ODhnMTFhblo0Y3JnalZiTFdGdnFiWFVyTXFWQWI0bHZEZzRmNVE3RDVUTXdQNFdzdWNyMUtoanFhckZkdjZwcmJ0LVdiLTFnZG5xc0NNU0UwamZXTWk4dV93dTRRVTJR?oc=5"
-    },
-    {
-      "id": "news-12",
+      "id": "news-53",
       "headline": "The new rules of China’s trade",
       "summary": "The new rules of China’s trade",
       "urgency": "info",
@@ -236,7 +974,7 @@
       "link": "https://gulfnews.com/business/markets/the-new-rules-of-chinas-trade-1.500563203"
     },
     {
-      "id": "news-13",
+      "id": "news-54",
       "headline": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
       "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
       "urgency": "important",
@@ -254,25 +992,7 @@
       "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-14",
-      "headline": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
-      "summary": "President Volodymyr Zelensky traveled to London to meet with the leaders of Britain, Germany and France, whom he said could be negotiators in talks with Russia.",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T19:52:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html"
-    },
-    {
-      "id": "news-15",
+      "id": "news-55",
       "headline": "Anshul Kuncha murder: Police offer $20,000 reward in hunt for killers of Indian man in US",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131573420.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -290,7 +1010,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/anshul-kuncha-murder-police-offer-20000-reward-for-information-leading-to-arrest-in-killing-indian-man-in-philadelphia/articleshow/131573420.cms"
     },
     {
-      "id": "news-16",
+      "id": "news-56",
       "headline": "Live: Israel reports missiles from Iran in first bombardment since fragile ceasefire",
       "summary": "Live: Israel reports missiles from Iran in first bombardment since fragile ceasefire",
       "urgency": "breaking",
@@ -308,7 +1028,7 @@
       "link": "https://www.france24.com/en/middle-east/20260607-middle-east-live-us-downs-two-iranian-drones-targeting-hormuz-shipping-traffic"
     },
     {
-      "id": "news-17",
+      "id": "news-57",
       "headline": "Iranian World Cup excitement dulled by war and economic crisis",
       "summary": "Iranian World Cup excitement dulled by war and economic crisis.",
       "urgency": "breaking",
@@ -326,43 +1046,25 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss"
     },
     {
-      "id": "news-18",
-      "headline": "Israel strikes Beirut suburb days after US-brokered truce - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MmJYVVJ0LTcyRno2RHYxLXN2cjFwME5MMWxBSjhCX3FRdFdNYW5uUnFZcG9CQ19jalN5N2phNTN1ejU3cmdGampqY1lCZDVZMk5LUTRoMnVOZw?oc=5\" target=\"_blank\"&gt;Israel strikes Beirut suburb days after US-brokered truce&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font col",
+      "id": "news-58",
+      "headline": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+      "summary": "U.S. efforts for a truce in Lebanon appear to have stalled. Israel accused Hezbollah of firing at Israeli territory. Iran swiftly retaliated.",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-06-07T19:39:27.000Z",
+      "timestamp": "2026-06-07T19:32:12.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MmJYVVJ0LTcyRno2RHYxLXN2cjFwME5MMWxBSjhCX3FRdFdNYW5uUnFZcG9CQ19jalN5N2phNTN1ejU3cmdGampqY1lCZDVZMk5LUTRoMnVOZw?oc=5"
+      "link": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html"
     },
     {
-      "id": "news-19",
-      "headline": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYm9lTnNrRVdpemlabTEtY0FUeVUyWFR0QlNKelpXUzc5US15Zl94Wi13UDFGTlhvdDM0bTRFQlV0SkxtSTZSVmtGRk1icEVRb0dWRVNpOTl5c20xTHMweEpERFN4UzdBSzlSUHRTQTEtTGlLQVNPRC1lWTFyeGFLM2tFdlZ0c3BsVnJmV1ZvMVNqUQ?oc=5\" target=\"_blank\"&gt;Israel Bombs Beirut Out",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T19:36:18.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYm9lTnNrRVdpemlabTEtY0FUeVUyWFR0QlNKelpXUzc5US15Zl94Wi13UDFGTlhvdDM0bTRFQlV0SkxtSTZSVmtGRk1icEVRb0dWRVNpOTl5c20xTHMweEpERFN4UzdBSzlSUHRTQTEtTGlLQVNPRC1lWTFyeGFLM2tFdlZ0c3BsVnJmV1ZvMVNqUQ?oc=5"
-    },
-    {
-      "id": "news-20",
+      "id": "news-59",
       "headline": "Arab attacker opens fire in central Israel, killing 1 and wounding 5",
       "summary": "A Palestinian man with Israeli citizenship went on a shooting rampage in several towns in central Israel on Sunday, killing a reservist and wounding five other people, according to Israeli police and the military. The attacker was killed by police.\nThe attack came at a time of heightened tensions fo",
       "urgency": "breaking",
@@ -380,7 +1082,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3356282/arab-attacker-opens-fire-central-israel-killing-1-and-wounding-5?utm_source=rss_feed"
     },
     {
-      "id": "news-21",
+      "id": "news-60",
       "headline": "Qatar denies airspace closure amid viral social media claims, flights continue as usual",
       "summary": "Qatar denies airspace closure amid viral social media claims, flights continue as usual",
       "urgency": "info",
@@ -398,7 +1100,7 @@
       "link": "https://gulfnews.com/world/gulf/qatar/qatar-denies-airspace-closure-amid-viral-social-media-claims-flights-continue-as-usual-1.500566585"
     },
     {
-      "id": "news-22",
+      "id": "news-61",
       "headline": "Neo-Nazi Party Member Loses Close Mayoral Race in German Town",
       "summary": "Despite losing in the runoff, his relative success capped a growing realization in Germany that voting for the far right, even within living memory of Adolf Hitler, is no longer considered taboo.",
       "urgency": "info",
@@ -416,25 +1118,7 @@
       "link": "https://www.nytimes.com/2026/06/07/world/europe/germany-neo-nazi-mayor-election.html"
     },
     {
-      "id": "news-23",
-      "headline": "PPP shares tax-related reservations in pre-budget meeting with Dar, say sources",
-      "summary": "&lt;p&gt;ISLAMABAD: A PPP delegation, led by party Chairman Bilawal Bhutto-Zardari, expressed its reservations related to taxes during a pre-budget meeting with Deputy Prime Minister and Foreign Minister Ishaq Dar on Sunday, sources told &lt;em&gt;Dawn&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;The meeting was ",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T19:23:46.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2005897/ppp-shares-tax-related-reservations-in-pre-budget-meeting-with-dar-say-sources"
-    },
-    {
-      "id": "news-24",
+      "id": "news-62",
       "headline": "Italy recovers 10 bodies as boat with nearly 60 on board capsizes off Malta",
       "summary": "At least 990 refugees and migrants have died this year while attempting the perilous journey across the Mediterranean.",
       "urgency": "important",
@@ -452,25 +1136,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/7/malta-latest?traffic_source=rss"
     },
     {
-      "id": "news-25",
-      "headline": "Iranian missile launches target northern Israel, Israeli military says - Axios",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzU3Z3FickZNcjlaaVJXeDVqSTdJVUVvQmEyWnlQeGVxOFlrZTgtYW9oNkdFWHFIcVRDNVZIQ0pqVjVnTldFTVllbWNscVNheXNia2hFaVhmY3VWMlprcVYtM0VIX1JsUVBBWkV6azZwQ0RaMGY2YWpOX3FNZDMyU3htWFpyWTl3RVdrclJWaGliVnk1blE?oc=5\" target=\"_blank\"&gt;Iranian missile la",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T19:13:39.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbzU3Z3FickZNcjlaaVJXeDVqSTdJVUVvQmEyWnlQeGVxOFlrZTgtYW9oNkdFWHFIcVRDNVZIQ0pqVjVnTldFTVllbWNscVNheXNia2hFaVhmY3VWMlprcVYtM0VIX1JsUVBBWkV6azZwQ0RaMGY2YWpOX3FNZDMyU3htWFpyWTl3RVdrclJWaGliVnk1blE?oc=5"
-    },
-    {
-      "id": "news-26",
+      "id": "news-63",
       "headline": "Hezbollah MP: Resistance defends Lebanon where the state failed",
       "summary": "Ibrahim Moussawi says Hezbollah stepped in after diplomacy and the Lebanese state failed.",
       "urgency": "info",
@@ -488,7 +1154,7 @@
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss"
     },
     {
-      "id": "news-27",
+      "id": "news-64",
       "headline": "Trump walks out of interview after being pressed for evidence of how Biden rigged 2020 election",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131571791.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -506,25 +1172,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-walks-out-of-interview-after-being-pressed-for-evidence-of-how-biden-rigged-the-2020-election-ive-had-enough/articleshow/131571791.cms"
     },
     {
-      "id": "news-28",
-      "headline": "Why BCCI is sending Sooryavanshi’s parents on India tours after IPL breakout",
-      "summary": "Why BCCI is sending Sooryavanshi’s parents on India tours after IPL breakout",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T19:03:57.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/cricket/why-bcci-is-sending-sooryavanshis-parents-on-india-tours-after-ipl-breakout-1.500566571"
-    },
-    {
-      "id": "news-29",
+      "id": "news-65",
       "headline": "Lawsuit seeks to stop Trump’s planned White House UFC match",
       "summary": "Legal challenge claims US president did not seek proper approval for fighting event to be held on his 80th birthday.",
       "urgency": "info",
@@ -542,25 +1190,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss"
     },
     {
-      "id": "news-30",
-      "headline": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T18:49:17.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-31",
+      "id": "news-66",
       "headline": "Alexander Zverev wins French Open to claim first Grand Slam title",
       "summary": "Zverev&#039;s five-set defeat of Flavio Cobolli makes him the first German man to win a Slam since Boris Becker 30 years ago.",
       "urgency": "info",
@@ -578,7 +1208,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/7/alexander-zverev-wins-french-open-to-claim-first-grand-slam-title?traffic_source=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-67",
       "headline": "Eriksen conscious after collapsing in Denmark game",
       "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
       "urgency": "important",
@@ -596,7 +1226,7 @@
       "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-33",
+      "id": "news-68",
       "headline": "Denmark’s Christian Eriksen collapses on football pitch during friendly",
       "summary": "The football player has a special heart-starting device implanted since he collapsed during a match in 2021.",
       "urgency": "important",
@@ -614,7 +1244,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/7/denmarks-christian-eriksen-collapses-during-world-cup-warm-up-match?traffic_source=rss"
     },
     {
-      "id": "news-34",
+      "id": "news-69",
       "headline": "Pope in Spain: The \"rockstar\" effect",
       "summary": "Massimo Faggioli is a Church Historian and Professor in Historical and Contemporary Ecclesiology, Trinity College Dublin, the University of Dublin.",
       "urgency": "info",
@@ -632,7 +1262,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260607-pope-in-spain-the-rockstar-effect"
     },
     {
-      "id": "news-35",
+      "id": "news-70",
       "headline": "Zverev beats Cobolli in tense Paris final for first Grand Slam",
       "summary": "Alexander Zverev finally lands the Grand Slam title that threatened to elude him after overcoming Flavio Cobolli and his own nerves to win the French Open.",
       "urgency": "info",
@@ -650,7 +1280,7 @@
       "link": "https://www.bbc.com/sport/tennis/articles/c992081nnpko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-36",
+      "id": "news-71",
       "headline": "Trump considers buying Chagos Islands from Mauritius, Telegraph reports",
       "summary": "⁠The White House ⁠is considering a plan to buy the Chagos Islands from Mauritius, the Telegraph reported on Sunday.\nUS officials have drawn up ‌a proposal to bypass the UK and make their own deal to take control of Diego Garcia, the report said.\nReuters could not immediately confirm the report. The ",
       "urgency": "info",
@@ -668,43 +1298,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3356281/trump-considers-buying-chagos-islands-mauritius-telegraph-reports?utm_source=rss_feed"
     },
     {
-      "id": "news-37",
-      "headline": "Israel strikes Beirut after Hezbollah attack, risking Iran response - Axios",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPamtFLVM2ZEVsR3UxUS12X2VGclNOVzJWdllVejhUOFdKZWt0THJJVGxsZ0EwZXRJU0tRUGJlbG42UWx5al9XN0VXMG5UN0laS2t6S0RiYmRIME51bk5IWF80T1h0emNneEx5c0p0NE94QUFRelZIOEhwTWtBUTI1Ym05OU9tYkUwX0E?oc=5\" target=\"_blank\"&gt;Israel strikes Beirut after Hezbol",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T18:11:15.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPamtFLVM2ZEVsR3UxUS12X2VGclNOVzJWdllVejhUOFdKZWt0THJJVGxsZ0EwZXRJU0tRUGJlbG42UWx5al9XN0VXMG5UN0laS2t6S0RiYmRIME51bk5IWF80T1h0emNneEx5c0p0NE94QUFRelZIOEhwTWtBUTI1Ym05OU9tYkUwX0E?oc=5"
-    },
-    {
-      "id": "news-38",
-      "headline": "70 companies, 1,000 jobs in UAE: Inside MoIAT’s major Emirati employment push",
-      "summary": "70 companies, 1,000 jobs in UAE: Inside MoIAT’s major Emirati employment push",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T18:09:14.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/70-companies-1000-jobs-in-uae-inside-moiats-major-emirati-employment-push-1.500566550"
-    },
-    {
-      "id": "news-39",
+      "id": "news-72",
       "headline": "27 terrorists killed in North Waziristan IBOs: ISPR",
       "summary": "&lt;p&gt;Security forces killed 27 terrorists in operations conducted in the Miranshah area of Khyber Pakhtunkhwa’s North Waziristan district over the past 72 hours, the military’s media affairs wing said on Sunday.&lt;/p&gt;\n&lt;p&gt;“In continuation of a series of intelligence-based operations, se",
       "urgency": "breaking",
@@ -722,7 +1316,7 @@
       "link": "https://www.dawn.com/news/2005890/27-terrorists-killed-in-north-waziristan-ibos-ispr"
     },
     {
-      "id": "news-40",
+      "id": "news-73",
       "headline": "Armenia: Moscow, Meddling & the Mountain",
       "summary": "Taline Papazian is a French Armenian political scientist and strategic affairs analyst covering Armenia and South Caucasus. She is also Director of the Armenia Peace Initiative Think Tank.",
       "urgency": "info",
@@ -740,25 +1334,25 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260607-armenia-moscow-meddling-the-mountain"
     },
     {
-      "id": "news-41",
-      "headline": "Alexander Zverev wins first Grand Slam title at French Open",
-      "summary": "Alexander Zverev wins first Grand Slam title at French Open",
-      "urgency": "info",
+      "id": "news-74",
+      "headline": "Mexico City attempts record-breaking wave",
+      "summary": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
+      "urgency": "breaking",
       "topic": "general",
       "sources": [
         {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
         }
       ],
-      "timestamp": "2026-06-07T17:52:02.000Z",
+      "timestamp": "2026-06-07T17:53:32.000Z",
       "widgetType": "news",
-      "link": "https://gulfnews.com/sport/tennis/alexander-zverev-wins-first-grand-slam-title-at-french-open-1.500566536"
+      "link": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-42",
+      "id": "news-75",
       "headline": "French Open: German Alexander Zverev beats Flavio Cobolli to claim first Grand Slam title",
       "summary": "French Open: German Alexander Zverev beats Flavio Cobolli to claim first Grand Slam title",
       "urgency": "info",
@@ -776,7 +1370,7 @@
       "link": "https://www.france24.com/en/sport/20260607-french-open-german-alexander-zverev-beats-flavio-cobolli-to-claim-first-grand-slam-title"
     },
     {
-      "id": "news-43",
+      "id": "news-76",
       "headline": "French Open: Zverev beats Cobolli to win first Grand Slam title",
       "summary": "Alexander Zverev finally secured his maiden Grand Slam title with a dramatic five-set victory over Italy's Flavio Cobolli in the French Open final on Sunday.",
       "urgency": "info",
@@ -794,25 +1388,7 @@
       "link": "https://www.france24.com/en/sport/20260607-french-open-german-alexander-zverev-beats-flavio-cobolli-to-claim-first-grand-slam-title"
     },
     {
-      "id": "news-44",
-      "headline": "Iran vows ‘painful’ response after Israel strikes Beirut’s southern suburbs - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1dGNHYyeVVUSktNdXdvWjg1ZWg5WjBDMXFMXzVOLWN2Q0o3YXVaQ0NwS0dDa1FlMUdTWUptekkxdDYyai1ZYjR0ai1jNjRTdE41YURBamNXXzRtRElGT0lCSVFCaUF1ajlTbXl0dElEb05IM0Z3Q0NzVzJmR2VobGlFc3ZxdE5kQ2poM2w0UXUyRHdONENGX1BB?oc=5\" target=\"_blank\"&gt;Iran vows ‘pa",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T17:40:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1dGNHYyeVVUSktNdXdvWjg1ZWg5WjBDMXFMXzVOLWN2Q0o3YXVaQ0NwS0dDa1FlMUdTWUptekkxdDYyai1ZYjR0ai1jNjRTdE41YURBamNXXzRtRElGT0lCSVFCaUF1ajlTbXl0dElEb05IM0Z3Q0NzVzJmR2VobGlFc3ZxdE5kQ2poM2w0UXUyRHdONENGX1BB?oc=5"
-    },
-    {
-      "id": "news-45",
+      "id": "news-77",
       "headline": "'Iranians are crazy, nuts, but I like them': Trump's 'blow up' claim regarding Tehran",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131571124.cms\" /&gt;<![CDATA[US President Trump labelled Iranians \"nuts\" and \"crazy people\" while defending his hardline stance against Tehran acquiring nuclear weapons",
       "urgency": "breaking",
@@ -830,7 +1406,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/theyre-crazy-people-donald-trump-calls-iranians-nuts-says-us-must-stop-iran-from-getting-nuclear-weapon/articleshow/131571124.cms"
     },
     {
-      "id": "news-46",
+      "id": "news-78",
       "headline": "Kosovo: Former President warns of the cost of political deadlock",
       "summary": "\"Enough is Enough\", the words of Gezim Selimi, a retired teacher in Pristina as he voted today in the Kosovo elections. He was one of a snap shot of voters questioned by journalists about what it like to be voting again in Kosovo.",
       "urgency": "breaking",
@@ -848,7 +1424,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260607-kosovo-former-president-warns-of-the-cost-of-political-deadlock"
     },
     {
-      "id": "news-47",
+      "id": "news-79",
       "headline": "US eyes control of Diego Garcia via Chagos purchase, says report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131571025.cms\" /&gt;<![CDATA[The US is reportedly exploring a direct purchase of the Chagos Islands, including the crucial Diego Garcia base, from Mauritius. This poten",
       "urgency": "info",
@@ -866,27 +1442,9 @@
       "link": "https://timesofindia.indiatimes.com/world/us/to-preserve-viability-as-a-regional-security-platform-us-weighs-plan-to-buy-chagos-islands-report-says/articleshow/131571025.cms"
     },
     {
-      "id": "news-48",
-      "headline": "‘Crooked network’: Trump storms off tense Meet the Press interview over 2020 election row",
-      "summary": "‘Crooked network’: Trump storms off tense Meet the Press interview over 2020 election row",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T17:27:47.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/americas/crooked-network-trump-storms-off-tense-meet-the-press-interview-over-2020-election-row-1.500566500"
-    },
-    {
-      "id": "news-49",
-      "headline": "Israel reports incoming Iranian missiles in first since fragile ceasefire",
-      "summary": "Air raid sirens sounded in Israel on Sunday as its military worked to intercept barrages of incoming Iranian missiles for the first time since an April ceasefire took hold in the Middle East war.\nThe Israeli army reported the attack just hours after Tehran had threatened to retaliate for a new Israe",
+      "id": "news-80",
+      "headline": "Israel army says Iran committed ‘grave mistake’ by firing missiles",
+      "summary": "Israel accused Tehran of committing a “grave mistake” on Sunday after reporting it had come under several waves of Iranian missile fire, the first such attack since a truce was announced on April 8 in the conflict in the Middle East.\nAir raid sirens sounded across large areas of northern and central",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
@@ -902,7 +1460,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3356280/iran-threatens-us-interests-and-israel-after-strike-beirut?utm_source=rss_feed"
     },
     {
-      "id": "news-50",
+      "id": "news-81",
       "headline": "Last-minute visas and moving training camp: Iran's road to the World Cup",
       "summary": "Iran's participation has become one of the most complex stories of the tournament.",
       "urgency": "info",
@@ -920,7 +1478,7 @@
       "link": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-51",
+      "id": "news-82",
       "headline": "Who is Sriram Krishnan? Indian-origin Trump AI adviser backed by Musk set to leave role",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131570607.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -938,25 +1496,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/who-is-sriram-krishnan-indian-origin-trump-ai-adviser-backed-by-elon-musk-set-to-leave-white-house-role/articleshow/131570607.cms"
     },
     {
-      "id": "news-52",
-      "headline": "Bilawal says will meet PM Shehbaz over AJK situation; state media reports JAAC head office sealed",
-      "summary": "&lt;p&gt;PPP Chairman Bilawal Bhutto-Zardari, whose party holds the majority in the Azad Jammu and Kashmir (AJK) Legislative Assembly, said on Sunday he would meet Prime Minister Shehbaz Sharif over the current situation in AJK, asserting that issues would be resolved through talks.&lt;/p&gt;\n&lt;p&",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T17:13:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2005870/bilawal-says-will-meet-pm-shehbaz-over-ajk-situation-state-media-reports-jaac-head-office-sealed"
-    },
-    {
-      "id": "news-53",
+      "id": "news-83",
       "headline": "Bolivia’s legislature passes law allowing use of troops against protesters",
       "summary": "New law grants president power to use military to clear roadblocks set up amid weeks of antigovernment demonstrations.",
       "urgency": "important",
@@ -974,7 +1514,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss"
     },
     {
-      "id": "news-54",
+      "id": "news-84",
       "headline": "With Leo and Bad Bunny touring Madrid, the bigger star might be the pope",
       "summary": "The previously stoic pope is drawing huge crowds and seems to be making a star turn, enthralling the faithful with emotive assurance.",
       "urgency": "info",
@@ -992,14 +1532,14 @@
       "link": "https://www.washingtonpost.com/world/2026/06/07/with-pope-leo-bad-bunny-touring-madrid-bigger-star-might-be-pontiff/"
     },
     {
-      "id": "news-55",
+      "id": "news-85",
       "headline": "Armenia votes as Russia piles pressure on pro-West government",
       "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
       "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "BBC World",
+          "name": "BBC Europe",
           "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
           "url": "https://bbc.com/news",
           "category": "global_media"
@@ -1010,7 +1550,7 @@
       "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-56",
+      "id": "news-86",
       "headline": "Trump calls for 'surgical' strikes on Hezbollah, rules out linking Lebanon war to Iran deal - Region - World - Ahram Online",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mSGZVWmpFSWtXalNxZXJyRGRlcThqbGUwV1k4SEtTcGVlSVRNVF9PMnc3cTVvcWExbE90TjcxYlk4MXpQd00wWE82ZnV0Tk4ycWVacHFMaFM?oc=5\" target=\"_blank\"&gt;Trump calls for 'surgical' strikes on Hezbollah, rules out linking Lebanon war to Iran deal - Region -",
       "urgency": "breaking",
@@ -1028,7 +1568,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mSGZVWmpFSWtXalNxZXJyRGRlcThqbGUwV1k4SEtTcGVlSVRNVF9PMnc3cTVvcWExbE90TjcxYlk4MXpQd00wWE82ZnV0Tk4ycWVacHFMaFM?oc=5"
     },
     {
-      "id": "news-57",
+      "id": "news-87",
       "headline": "Opec+ approves fourth oil output quota hike since Hormuz closure",
       "summary": "&lt;p&gt;Opec+ agreed on Sunday on a fourth increase in its oil output targets in as many months, even though the &lt;a href=\"https://www.dawn.com/live/iran-israel-war#2005887\"&gt;US war with Iran&lt;/a&gt; is still preventing several of the group’s members from pumping more.&lt;/p&gt;\n&lt;p&gt;The ",
       "urgency": "breaking",
@@ -1046,7 +1586,7 @@
       "link": "https://www.dawn.com/news/2005888/opec-approves-fourth-oil-output-quota-hike-since-hormuz-closure"
     },
     {
-      "id": "news-58",
+      "id": "news-88",
       "headline": "Author of Home Office report on China reveals attempts to compromise him",
       "summary": "&lt;p&gt;Exclusive: Dr David Wilson says former British police officer approached him as part of efforts to influence his work&lt;/p&gt;&lt;p&gt;The author of a Home Office-sponsored report on the Chinese state and organised crime in the UK was the target of failed honey traps and a suspected attemp",
       "urgency": "breaking",
@@ -1064,25 +1604,7 @@
       "link": "https://www.theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts"
     },
     {
-      "id": "news-59",
-      "headline": "An airstrike trapped a journalist. She died as rescuers waited for permission to save her. - The Washington Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQS19vMHhqN3gxYjRDeFdWd29zaGNXclBYenJoQlYzTkRDbVhaVy03YWJYanRxTTdQaEJVcDRPNUE3Z1dQcGNGeEJha3dkTEZscE1LaDNpbnI1dmxhVTN6aENYSEZoemVXckNBUkRIRzVWTGExMXVhN2QyZjVYbV9ab2tNV1ZvaUJkSlkyWVR3SE55VmQ1eVZoU0hyVHNzV3N1Y3JHRTNUS21CLXNfbjBkX2Vfb3JpVjB",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T17:00:01.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS19vMHhqN3gxYjRDeFdWd29zaGNXclBYenJoQlYzTkRDbVhaVy03YWJYanRxTTdQaEJVcDRPNUE3Z1dQcGNGeEJha3dkTEZscE1LaDNpbnI1dmxhVTN6aENYSEZoemVXckNBUkRIRzVWTGExMXVhN2QyZjVYbV9ab2tNV1ZvaUJkSlkyWVR3SE55VmQ1eVZoU0hyVHNzV3N1Y3JHRTNUS21CLXNfbjBkX2Vfb3JpVjBYcHBBX0xWaFAyV05MNlZj?oc=5"
-    },
-    {
-      "id": "news-60",
+      "id": "news-89",
       "headline": "Trump says will not unfreeze Iranian assets before ceasefire deal reached - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGFCdmJ4M1NYOUI4dnRrNVZpY00yUTVrLTVQWWdSUTBxcnFfR1VlYnIyLXBJSE9KRDVfMlphZGVrSG5fZ0R3QXdTZTMtMUJlM3VtMjRkQUpPZGNqaDJkNlE1YloyUWFJY1RqVk5kbGhxRlY3dTJIaHM0Y3F4TGhYQWNiV1hjMVJCanlkSUp4WUlEZEVibWMxNFBTRUpBQmhIN3pUMkdRYXZMY1FyTkZMbkx6b9IBuAF",
       "urgency": "breaking",
@@ -1100,7 +1622,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGFCdmJ4M1NYOUI4dnRrNVZpY00yUTVrLTVQWWdSUTBxcnFfR1VlYnIyLXBJSE9KRDVfMlphZGVrSG5fZ0R3QXdTZTMtMUJlM3VtMjRkQUpPZGNqaDJkNlE1YloyUWFJY1RqVk5kbGhxRlY3dTJIaHM0Y3F4TGhYQWNiV1hjMVJCanlkSUp4WUlEZEVibWMxNFBTRUpBQmhIN3pUMkdRYXZMY1FyTkZMbkx6b9IBuAFBVV95cUxNa1k3WUFZOUs3WDYxU1dLVE5TeGVFZDJMaVpTcnhRUk1XUnhSdW9zNTE3bFlHX29Kb0I5bWFNak81a2NsUHlfaUFQSDNPdzhBYzBiZWtDOUtuYUhlRjZ5aktwMkFPZkVobjFpSzd2MGJ2LTZ4WjJ6SkVHdlVsS0NBR2EzM0NCV3k0T2R1TkZqMFNNZjRMTEZqQzNINUNmNUFDN1puZjJMMFZHemlLREd2OEFwc1VrSFJn?oc=5"
     },
     {
-      "id": "news-61",
+      "id": "news-90",
       "headline": "Nigerian forces rescue 360 captives from Boko Haram",
       "summary": "Nigerian forces rescued 360 captives, including women and children from a Boko Haram mountain hideout in Borno State.",
       "urgency": "info",
@@ -1118,25 +1640,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss"
     },
     {
-      "id": "news-62",
-      "headline": "Bus-truck collision kills 18 pilgrims, injures 17 in southern Iraq",
-      "summary": "Bus-truck collision kills 18 pilgrims, injures 17 in southern Iraq",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T16:52:56.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/bus-truck-collision-kills-18-pilgrims-injures-17-in-southern-iraq-1.500566486"
-    },
-    {
-      "id": "news-63",
+      "id": "news-91",
       "headline": "More than 1 million people flood Madrid streets to see Pope Leo preside over open-air Mass",
       "summary": "Pope Leo honoured Spain’s centuries-old tradition of religious devotion on Sunday as a “school of faith” for today, as he presided over a Mass before more than a million people that highlighted one of the most iconic expressions of Spanish popular piety: a procession over flower-petal carpets.\nThe c",
       "urgency": "info",
@@ -1154,25 +1658,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3356278/more-1-million-people-flood-madrid-streets-see-pope-leo-preside-over-open-air-mass?utm_source=rss_feed"
     },
     {
-      "id": "news-64",
-      "headline": "Balochistan CM announces civil award to be conferred on man who helped female doctor after acid attack",
-      "summary": "&lt;p&gt;Balochistan Chief Minister Sarfaraz Bugti on Sunday announced that a a civil award would be conferred on a man who came to the assistance of a female doctor at Quetta’s Civil Hospital after an&lt;a href=\"https://www.dawn.com/news/2005660\"&gt; acid attack &lt;/a&gt;on her.&lt;/p&gt;\n&lt;p&gt",
-      "urgency": "breaking",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T16:26:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2005865/balochistan-cm-announces-civil-award-to-be-conferred-on-man-who-helped-female-doctor-after-acid-attack"
-    },
-    {
-      "id": "news-65",
+      "id": "news-92",
       "headline": "Police say two suspects have been shot and killed in Israel gun attack",
       "summary": "Police say two suspects have been shot and killed in Israel gun attack.",
       "urgency": "breaking",
@@ -1190,7 +1676,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss"
     },
     {
-      "id": "news-66",
+      "id": "news-93",
       "headline": "2 drivers hurt as Audi flies across central divider in Hong Kong road crash",
       "summary": "A driver escaped serious injury in Hong Kong after a car vaulted over the central divider on Tuen Mun Road and slammed into his seven-seater vehicle.\nPolice said the seven-seater was travelling in the fast lane towards Yuen Long near the Gold Coast in Tuen Mun when the driver of an Audi SUV on the o",
       "urgency": "breaking",
@@ -1208,7 +1694,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3356277/2-drivers-hurt-audi-flies-across-central-divider-hong-kong-road-crash?utm_source=rss_feed"
     },
     {
-      "id": "news-67",
+      "id": "news-94",
       "headline": "Al Jazeera reports from Beirut after Israeli attack",
       "summary": "Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.",
       "urgency": "breaking",
@@ -1226,7 +1712,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss"
     },
     {
-      "id": "news-68",
+      "id": "news-95",
       "headline": "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
       "summary": "Pope Leo XIV hails Spain’s ‘school of faith’ at Madrid Mass, urges unity amid vast Corpus Domini crowds.",
       "urgency": "info",
@@ -1244,7 +1730,7 @@
       "link": "https://www.aljazeera.com/gallery/2026/6/7/people-flood-madrid-streets-to-see-pope-leos-flower-carpeted-procession?traffic_source=rss"
     },
     {
-      "id": "news-69",
+      "id": "news-96",
       "headline": "Authenticity is what American voters want",
       "summary": "Results in US Democratic primary races are showing that old establishment politics no longer work.",
       "urgency": "info",
@@ -1262,7 +1748,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/6/7/authenticity-is-what-american-voters-want?traffic_source=rss"
     },
     {
-      "id": "news-70",
+      "id": "news-97",
       "headline": "Mexicans chase a world record wave - but is the trend even Mexican?",
       "summary": "Thousands lined the streets in Mexico City on Saturday as they attempted to set the world record for largest human wave.",
       "urgency": "info",
@@ -1280,7 +1766,7 @@
       "link": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-71",
+      "id": "news-98",
       "headline": "Indian student shot dead after pizza delivery to vacant apartment in Philly",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131569744.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1298,79 +1784,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/indian-student-shot-dead-after-pizza-delivery-to-vacant-apartment-in-philly/articleshow/131569744.cms"
     },
     {
-      "id": "news-72",
-      "headline": "Kimi Antonelli wins delayed Monaco Grand Prix to extend F1 lead",
-      "summary": "Antonelli takes his fifth successive Grand Prix win in race interrupted by crashes after asphalt breaks apart.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:58:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/6/7/kimi-antonelli-wins-delayed-monaco-grand-prix-to-extend-f1-lead?traffic_source=rss"
-    },
-    {
-      "id": "news-73",
-      "headline": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
-      "summary": "An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:58:22.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html"
-    },
-    {
-      "id": "news-74",
-      "headline": "Ronaldo, other ageing stars push limits to make history at World Cup 2026",
-      "summary": "Experts say sport science is just part of a complex system of factors needed to extend longevity in football.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:51:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/6/7/ageing-stars-push-boundaries-at-the-2026-world-cup-career-longevity?traffic_source=rss"
-    },
-    {
-      "id": "news-75",
-      "headline": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
-      "summary": "Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:44:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss"
-    },
-    {
-      "id": "news-76",
+      "id": "news-99",
       "headline": "US to send third-country deportees to Central African Republic",
       "summary": "Central African Republic has agreed to take in migrants from other countries deported by the United States, two sources with knowledge of the matter said, the latest example of the Trump administration striking deals with African states to accelerate removals.\nWashington has sent so-called third-cou",
       "urgency": "info",
@@ -1386,420 +1800,6 @@
       "timestamp": "2026-06-07T15:41:44.000Z",
       "widgetType": "news",
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3356276/us-send-third-country-deportees-central-african-republic?utm_source=rss_feed"
-    },
-    {
-      "id": "news-77",
-      "headline": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
-      "summary": "Long seen as the cool, coifed wife of the president, she emerged as a political player in her own right, as well as a relentless champion of charities.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:40:53.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html"
-    },
-    {
-      "id": "news-78",
-      "headline": "One dead, five injured after shooting in Israel",
-      "summary": "The suspect opened fire from a car in several locations before being shot dead.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:40:49.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-79",
-      "headline": "Iran war: 100 days on, a costly stalemate",
-      "summary": "One hundred days after US President Trump launched Operation Epic Fury against Iran, the conflict has lasted far longer than expected, causing more than 7,000 deaths, mass displacement, and severe economic disruption driven by the near-closure of the Strait of Hormuz and soaring oil prices. Despite ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:34:41.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260607-iran-war-100-days"
-    },
-    {
-      "id": "news-80",
-      "headline": "Armenia's parliamentary election a vote on nation's 'geopolitical future'",
-      "summary": "Armenians voted on Sunday in a parliamentary election seen as a test of the government's efforts to forge a peace deal following a crushing military defeat by Azerbaijan three years ago. \"This is really a vote on the geopolitical future of Armenia and its ties with Russia,\" FRANCE 24's Philip Turle ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:34:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/armenia-s-parliamentary-election-a-vote-on-nation-s-geopolitical-future"
-    },
-    {
-      "id": "news-81",
-      "headline": "Thousands gather for march for French girl whose killing sparked outrage over lapses",
-      "summary": "The parents of an 11-year-old girl, named as Lyhanna, joined thousands of people in the southwestern French town of Fleurance on Sunday for a silent march in her memory, as outrage spread over systemic failures blamed for her suspected killing.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:31:14.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/france/20260607-march-in-france-for-girl-whose-killing-sparked-outcry-over-lapses"
-    },
-    {
-      "id": "news-82",
-      "headline": "Iran’s World Cup squad lands in Mexico amid US visa row",
-      "summary": "Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:20:11.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss"
-    },
-    {
-      "id": "news-83",
-      "headline": "Iran’s World Cup team arrives in Mexico as US visa row continues",
-      "summary": "Iran’s national football team has arrived in Mexico ahead of its World Cup matches in the US.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:16:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss"
-    },
-    {
-      "id": "news-84",
-      "headline": "Cape Verde dreams of World Cup soccer glory, fears U.S. immigration dragnet",
-      "summary": "Migration is woven into the story of the small African nation of Cape Verde and its national soccer team, raising concern about who can attend the tournament.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Washington Post",
-          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
-          "url": "https://washingtonpost.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:15:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.washingtonpost.com/world/2026/06/07/joy-worry-cape-verde-soccer-team-looks-world-cup-us/"
-    },
-    {
-      "id": "news-85",
-      "headline": "Kebab company fined over Rs 6.3 crore for selling lamb that was 'mostly skin and fat' in UK",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131569126.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:15:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/uk/kebab-company-fined-over-rs-6-3-crore-for-selling-lamb-that-was-mostly-skin-and-fat-in-uk-given-4-years-to-pay/articleshow/131569126.cms"
-    },
-    {
-      "id": "news-86",
-      "headline": "Scammers posing as police cheat 42 mainland students in Hong Kong out of millions",
-      "summary": "More than 40 mainland students studying in Hong Kong fell victim to scammers impersonating Chinese law enforcement officers in the first quarter of this year, police said on Sunday, with the biggest case involving over HK$8 million (US$1.02 million).\nAmong the 42 cases, one victim was tricked into s",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T15:00:29.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3356275/scammers-posing-police-cheat-42-mainland-students-hong-kong-out-millions?utm_source=rss_feed"
-    },
-    {
-      "id": "news-87",
-      "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-      "summary": "The nearly 100-year-old airport has undergone a rapid $500 million renovation. But experts say it’s not enough.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:58:27.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html"
-    },
-    {
-      "id": "news-88",
-      "headline": "Missiles and negotiations: Iran 100 days into the war with US and Israel - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXlIbGd5Wk50WExkNGk5Vmx2U18xR3VyQkdMcmpNOUFDZnBmNzNiTlVTQThqTTA5b1E0Tm92SmVLTVV4cW84d0N6N2xsTVJPVHNJRjEwTzkxNHZ1QTlBUllHRkdqRzNJaXBBY213RmY2R0RzaGxtNWFINUdramcwZDF2c01fa2JMaGI4aENMenZONXJXLXZWUXcyMDdTWEExRHRJV1p5ZEZUdWtoaXdGaEFmd1lqd9I",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:36:38.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXlIbGd5Wk50WExkNGk5Vmx2U18xR3VyQkdMcmpNOUFDZnBmNzNiTlVTQThqTTA5b1E0Tm92SmVLTVV4cW84d0N6N2xsTVJPVHNJRjEwTzkxNHZ1QTlBUllHRkdqRzNJaXBBY213RmY2R0RzaGxtNWFINUdramcwZDF2c01fa2JMaGI4aENMenZONXJXLXZWUXcyMDdTWEExRHRJV1p5ZEZUdWtoaXdGaEFmd1lqd9IBuwFBVV95cUxQd1p6N0U3UFhpZWZJUDZqN1RidzRtV0xjckl5ZFpWZ0dtSG82V3pjMEpScXQteU5wMi16QjVMa3FtdXVSdHNfNlM3WkNzNWYwOFJuV3VRelVTYndYOElMQ0NWYjlGOUZiUlBwQ25JYnVlS2hCZU1oNzZnTmhVT0E1THVoeXd5LVAzY1ZTMWRtZ3BUNWEwYnhlV1p2UzY3NTg3WGZNMmxBenVBOTQ0Rzc3bEQ0d2twaFlfcDl3?oc=5"
-    },
-    {
-      "id": "news-89",
-      "headline": "British father jailed for murder of eight-month-old son who suffered 80+ injuries, mother sentenced for manslaughter",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131567871.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:35:30.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/uk/british-father-jailed-for-murder-of-eight-month-old-son-who-suffered-80-injuries-mother-sentenced-for-manslaughter/articleshow/131567871.cms"
-    },
-    {
-      "id": "news-90",
-      "headline": "Armenia votes in test of PM Pashinyan's pivot away from Russia",
-      "summary": "Armenians voted in a parliamentary election on Sunday as the incumbent government, under mounting Russian pressure, sought to loosen ties with Moscow and deepen cooperation with the West. Prime Minister Nikol Pashinyan and his governing Civil Contract party are looking for a strong mandate for a new",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:21:47.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/armenia-votes-in-test-of-pm-pashinyan-s-pivot-away-from-russia"
-    },
-    {
-      "id": "news-91",
-      "headline": "One dead, five wounded after shootings in Israel",
-      "summary": "A Palestinian man with Israeli citizenship went on a shooting rampage in several towns in central Israel on Sunday, killing one person and wounding five others, according to Israeli police. The attacker was killed by police. The attack came at a time of heightened tensions following a spate of Israe",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:18:27.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/one-dead-five-wounded-after-shootings-in-israel"
-    },
-    {
-      "id": "news-92",
-      "headline": "Misdiagnosis isn’t misconduct, lawyer for accused doctor tells medical watchdog",
-      "summary": "The lawyer for a Hong Kong doctor accused of professional misconduct after a boy in his care was left permanently disabled more than 16 years ago has told the medical watchdog that misdiagnosis or incompetence does not equate to misconduct.\nBut the prosecution representing the Medical Council secret",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:02:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3356272/misdiagnosis-isnt-misconduct-lawyer-accused-doctor-tells-medical-watchdog?utm_source=rss_feed"
-    },
-    {
-      "id": "news-93",
-      "headline": "Australian doctor who underwent world-first brain tumour treatment dies",
-      "summary": "The melanoma doctor's brain cancer treatment experiment has sparked hope for a breakthrough.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC Asia",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:01:14.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/c14yz5jg476o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-94",
-      "headline": "Hundreds of captives freed from Boko Haram mountain hideout",
-      "summary": "The group includes many women and children who were abducted in March from an area close to Cameroon.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:00:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-95",
-      "headline": "China urged to fast-track carrier fleet upgrades as Japan boosts strike power",
-      "summary": "China should speed up aircraft carrier group upgrades and boost their combat capabilities to counter Japan’s growing defence strength amid mounting tensions, military experts have said.\nThis comes as Tokyo ramps up its defence posture with long-range anti-ship missiles and deployments on Japanese is",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T14:00:07.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/military/article/3356267/china-urged-fast-track-carrier-fleet-upgrades-japan-boosts-strike-power?utm_source=rss_feed"
-    },
-    {
-      "id": "news-96",
-      "headline": "Washington, Brussels stake their claims on AI as trillion-dollar IPO wave begins",
-      "summary": "With SpaceX set to become the first AI-era giant to go public on Friday, governments on both sides of the Atlantic are racing to define their relationship with the industry. Washington is in talks with OpenAI about a government equity stake; Brussels has unveiled a new tech sovereignty package. On t",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T13:56:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/washington-brussels-stake-their-claims-on-ai-as-trillion-dollar-ipo-wave-begins"
-    },
-    {
-      "id": "news-97",
-      "headline": "'No sanctions relief, asset unfreezing or Lebanon talks': Donald Trump lays down terms for Iran deal",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131567875.cms\" /&gt;<![CDATA[US President Donald Trump stated that sanctions relief and asset unfreezing for Iran are contingent on a peace deal, with potential future ",
-      "urgency": "important",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T13:55:48.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/no-sanctions-relief-asset-unfreezing-or-lebanon-talks-donald-trump-lays-down-terms-for-iran-deal/articleshow/131567875.cms"
-    },
-    {
-      "id": "news-98",
-      "headline": "Deaf neighbour recounts tragic moments after Gurshabad Singh was found in Auckland pool",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131567034.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T13:52:11.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/deaf-neighbour-recounts-tragic-moments-after-body-of-8-year-old-gurshabad-singh-was-found-in-backyard-pool-in-auckland-we-didnt-hear-anything/articleshow/131567034.cms"
-    },
-    {
-      "id": "news-99",
-      "headline": "Putin’s Pakistan puzzle",
-      "summary": "&lt;p&gt;LAST week, Russian President Vladimir Putin talked on several geopolitical issues in St Petersburg, which also define Moscow’s approach to China, India and Pakistan.&lt;/p&gt;\n&lt;p&gt;The most interesting statement he made was that he does not believe Pakistan was under the control of Chin",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-07T13:37:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2005806/putins-pakistan-puzzle"
     }
   ],
   "financials": {
