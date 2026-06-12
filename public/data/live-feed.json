@@ -1,8 +1,656 @@
 {
-  "lastUpdated": "2026-06-12T01:43:41.781Z",
+  "lastUpdated": "2026-06-12T03:41:53.112Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "PTI’s Gohar Ali Khan summoned over Imran’s social media activity",
+      "summary": "&lt;p&gt;ISLAMABAD: The Islamabad High Court (IHC) has reissued a notice to Pakistan Tehreek-i-Insaf (PTI) Chairman Gohar Ali Khan after the party failed to submit a written response to a petition seeking the closure of the X (formerly Twitter) account allegedly operated by party founder Imran Khan.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:38:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007201/ptis-gohar-ali-khan-summoned-over-imrans-social-media-activity"
+    },
+    {
+      "id": "news-1",
+      "headline": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President",
+      "summary": "A court ruled that Yoon Suk Yeol, the impeached former president, had sought to stir up instability to justify his bid for authoritarian rule in 2024.",
+      "urgency": "info",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:33:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/11/world/asia/north-korea-drones-martial-law.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "Jailed South Korea ex-president gets 30 more years for sending drones into North",
+      "summary": "Prosecutors argued that Yoon ordered the operation to provoke Pyongyang and create a pretext for martial law.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Asia",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:28:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c17ydny8zyro?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-3",
+      "headline": "China Has Arrested U.S. Scholar Who Studies Myanmar Politics",
+      "summary": "The arrest of U Min Zin, a graduate student at U.C. Berkeley and founder of a research group in Myanmar, took place soon after President Trump met with Xi Jinping in China.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:25:07.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/11/us/politics/china-arrests-us-scholar.html"
+    },
+    {
+      "id": "news-4",
+      "headline": "A difficult story",
+      "summary": "&lt;p&gt;WHILE launching the &lt;a href=\"https://www.dawn.com/news/2006877/economy-grows-37pc-in-fy26-fastest-in-four-years-but-short-of-target\"&gt;Economic Survey 2026&lt;/a&gt;, Finance Minister Muhammad Aurangzeb told a hopeful story of economic recovery.&lt;/p&gt;\n&lt;p&gt;Indeed, the numbers su",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:24:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007188/a-difficult-story"
+    },
+    {
+      "id": "news-5",
+      "headline": "Australia news live: Matt Canavan says ‘good on One Nation’ for its fundraiser attacking Labor; national internet outages blamed on fibre provider",
+      "summary": "&lt;p&gt;Nationals leader says he welcomes ‘everybody trying to take down this government’. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:24:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb"
+    },
+    {
+      "id": "news-6",
+      "headline": "Indigenous energy sources overtake thermal power",
+      "summary": "&lt;p&gt;• Renewables, hydel and nuclear together now account for more than half of installed generation capacity&lt;br&gt;• PPIB has facilitated 102 IPPs, attracting over $35bn in foreign investment&lt;/p&gt;\n&lt;p&gt;LAHORE: Pakistan’s energy sector recorded steady improvement during the first nin",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:21:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007211/indigenous-energy-sources-overtake-thermal-power"
+    },
+    {
+      "id": "news-7",
+      "headline": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXc3blhkTDdaaGZNWkl4cWlUUXk1TTR3X0Q3Ym93ZDlwX3FYRU1iTHl2Wl9wekhRTmJfaWVIcmduMDVOTTRYUy1fTWIwVHVqRFZnQUtTVXdJYmVQZjJUQXhkc3M5Yms2aVlBU05RUlE0Ty1UUlNuS1M5dVVWelpQRTZ5WWV3UURoa2Fudzh2Z0JoSEdJMnp1V2ZDX2lvdm5seGtoMUNNZE5jN1k1MmJSSnpVTjJjTHE",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:20:05.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXc3blhkTDdaaGZNWkl4cWlUUXk1TTR3X0Q3Ym93ZDlwX3FYRU1iTHl2Wl9wekhRTmJfaWVIcmduMDVOTTRYUy1fTWIwVHVqRFZnQUtTVXdJYmVQZjJUQXhkc3M5Yms2aVlBU05RUlE0Ty1UUlNuS1M5dVVWelpQRTZ5WWV3UURoa2Fudzh2Z0JoSEdJMnp1V2ZDX2lvdm5seGtoMUNNZE5jN1k1MmJSSnpVTjJjTHE20gG-AUFVX3lxTE5VXzRrd25NRzg2NGhvSk9uX0txUlUzQmxQZW1fYkMwRkN6bTM2VXFrN2Y5ZXJuOENoaUc3blVybkQ1RWMxYVY3NjJNYWFVQWZOcER6cXowRE5OeHdUNXBxMmh0VFJ5NmNscDNPQU14VGRNWmVGNHZzZ1Q5LThZZGxkcjJ0MVVWQ25XV1ZkeGE3eWlpcG43WW1FX3EzZGJHUkdGYjhMSEZ1aDNfcEoyOG5lak5Fa1YyUzU1aVBjLVE?oc=5"
+    },
+    {
+      "id": "news-8",
+      "headline": "1966 Hong Kong rainstorm leaves 64 dead in one of city’s worst floods ever – SCMP archive",
+      "summary": "This article was first published on June 13, 1966\n36 feared dead in storm horror\nAt least 36 people are feared to have died in the fierce floods following one of the worst rainstorms in Hongkong’s history. Last night (June 12, 1966) officials— still working on rescue operations — revealed that 32 pe",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:15:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/article/3356700/1966-hong-kong-rainstorm-leaves-64-dead-one-citys-worst-floods-ever-scmp-archive?utm_source=rss_feed"
+    },
+    {
+      "id": "news-9",
+      "headline": "ECONOMIC SURVEY 2025-26: Digital economy grows as IT sector posts gains",
+      "summary": "&lt;p&gt;• 5G spectrum auction rakes in $510m; broadband penetration surges to 64.2pc; telecom revenues reached Rs837bn; IT &amp;amp; telecom sector’s export remittances climb to $3.38bn&lt;br&gt;• 161.6m mobile handsets locally manufactured due to heavy import duties&lt;/p&gt;\n&lt;p&gt;ISLAMABAD: P",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:13:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007210/economic-survey-2025-26-digital-economy-grows-as-it-sector-posts-gains"
+    },
+    {
+      "id": "news-10",
+      "headline": "Iran War Live Updates: Trump Again Claims Deal Is Close After Retracting Threat of Strikes",
+      "summary": "Claiming there was progress in peace negotiations, President Trump said he had canceled the next wave of planned attacks after two days of U.S. airstrikes.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:12:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel"
+    },
+    {
+      "id": "news-11",
+      "headline": "US-Iran peace deal in sight? Trump says signing could come within days",
+      "summary": "US-Iran peace deal in sight? Trump says signing could come within days",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:04:55.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/us-iran-peace-deal-in-sight-trump-says-signing-could-come-within-days-1.500571762"
+    },
+    {
+      "id": "news-12",
+      "headline": "AJK remains shut for third straight day",
+      "summary": "&lt;p&gt;MUZAFFARABAD: At least one person, who participated in a gathering organised by the proscribed Joint Awami Action Committee (JAAC), was killed and four others injured in a clash with law enforcement personnel on the outskirts of Rawalakot on Thursday, as Azad Jammu and Kashmir (AJK) observe",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T03:04:52.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007228/ajk-remains-shut-for-third-straight-day"
+    },
+    {
+      "id": "news-13",
+      "headline": "FIFA World Cup 2026: VAR under the spotlight after Mexico vs South Africa — how video assistant referees work",
+      "summary": "FIFA World Cup 2026: VAR under the spotlight after Mexico vs South Africa — how video assistant referees work",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:56:04.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-2026-var-under-the-spotlight-after-mexico-vs-south-africa-how-video-assistant-referees-work-1.500571757"
+    },
+    {
+      "id": "news-14",
+      "headline": "Trump unveils ‘great’ Iran deal, signing expected in Europe",
+      "summary": "&lt;figure class='media  w-full sm:w-full  media--center    media--uneven  media--stretch' data-original-src='https://i.dawn.com/large/2026/06/12055332eb2af3b.webp'&gt;\n        &lt;div class='media__item  '&gt;&lt;picture&gt;&lt;img src='https://i.dawn.com/large/2026/06/12055332eb2af3b.webp'  alt=' ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:53:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007227/trump-unveils-great-iran-deal-signing-expected-in-europe"
+    },
+    {
+      "id": "news-15",
+      "headline": "Bosnia’s Esmir Bajraktarevic: Child of Srebrenica",
+      "summary": "As Bosnia and Herzegovina prepare to face Canada in their 2026 World Cup opener, all eyes will be on Esmir Bajraktarevic",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:42:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/game-theory/2026/6/12/bosnias-esmir-bajraktarevic-child-of-srebrenica?traffic_source=rss"
+    },
+    {
+      "id": "news-16",
+      "headline": "Pakistan experiences back-to-back ‘warmest years’",
+      "summary": "&lt;figure class='media  w-full sm:w-full  media--center    media--uneven  media--stretch' data-original-src='https://i.dawn.com/large/2026/06/120546404b10587.webp'&gt;\n        &lt;div class='media__item  '&gt;&lt;picture&gt;&lt;img src='https://i.dawn.com/large/2026/06/120546404b10587.webp'  alt=' ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:42:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007224/pakistan-experiences-back-to-back-warmest-years"
+    },
+    {
+      "id": "news-17",
+      "headline": "Live updates: Trump says US ‘ended the war with Iran,’ though Tehran has yet to confirm a deal - CNN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1QY0JRWVhUT2wwN2h5ZFRETDRoUktOYngxcTFZVXNLQlIwNTBfN1JBaE9qLXlPT096VF9leUFHOVZMUEx4WnRVT1JscW1fRnlvRU02eFhRODZZY1UyU0pYakFfbWtiWmtPSnppQW9yeE1CSFBRaXdnZElJZGs?oc=5\" target=\"_blank\"&gt;Live updates: Trump says US ‘ended the war with Iran,’",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:42:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QY0JRWVhUT2wwN2h5ZFRETDRoUktOYngxcTFZVXNLQlIwNTBfN1JBaE9qLXlPT096VF9leUFHOVZMUEx4WnRVT1JscW1fRnlvRU02eFhRODZZY1UyU0pYakFfbWtiWmtPSnppQW9yeE1CSFBRaXdnZElJZGs?oc=5"
+    },
+    {
+      "id": "news-18",
+      "headline": "Princess Bha of Thailand, Second in Line to the Throne, Dies at 47",
+      "summary": "Ever since she collapsed in a park three and a half years ago, speculation has swirled in Thailand about who could become the next monarch.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:36:52.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html"
+    },
+    {
+      "id": "news-19",
+      "headline": "White House shows off cage match arena as corruption lawsuit looms",
+      "summary": "White House officials previewed the grounds where they’ll host a cage match to celebrate US President Trump’s birthday.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:32:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/white-house-shows-off-cage-match-arena-as-corruption-lawsuit-looms?traffic_source=rss"
+    },
+    {
+      "id": "news-20",
+      "headline": "South Korean court sentences ex-president Yoon to 30 years over Pyongyang drone plot",
+      "summary": "South Korea’s ex-president Yoon Suk-yeol was sentenced to 30 years in prison on Friday for sending drones into North Korea, a move prosecutors argued was aimed at creating a pretext for his disastrous martial law declaration in 2024.\nSpecial prosecutors said back in April that Yoon’s effort to “fabr",
+      "urgency": "breaking",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:31:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3356833/south-korean-court-sentences-ex-president-yoon-30-years-over-pyongyang-drone-plot?utm_source=rss_feed"
+    },
+    {
+      "id": "news-21",
+      "headline": "Squeezing tax from easy targets",
+      "summary": "&lt;p&gt;ISLAMABAD: The federal government’s demand that provinces share the burden of the Federal Board of Revenue (FBR) collection shortfalls underscores an unsustainable fiscal strategy. The honest answer is that it is mostly political economy, not administrative incapacity, analysts say. There a",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:30:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2007199/squeezing-tax-from-easy-targets"
+    },
+    {
+      "id": "news-22",
+      "headline": "Excellence Awards 2026 gets under way  today",
+      "summary": "Excellence Awards 2026 gets under way  today",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:30:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/excellence-awards-2026-gets-under-way-today-1.500571158"
+    },
+    {
+      "id": "news-23",
+      "headline": "Trump says deal to end Iran war is close after calling off strikes - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZ3VSOW56bGZiUEhTVENaV2ttSVBVMjN3Wmd1bHJwNUU3NWdPVnN5S0VabDdKVUs3aE9MU2p6bXQ4TGtqNHZ6ai1STVFiWkdwdlNFbWxia0ZDUQ?oc=5\" target=\"_blank\"&gt;Trump says deal to end Iran war is close after calling off strikes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:15:24.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZ3VSOW56bGZiUEhTVENaV2ttSVBVMjN3Wmd1bHJwNUU3NWdPVnN5S0VabDdKVUs3aE9MU2p6bXQ4TGtqNHZ6ai1STVFiWkdwdlNFbWxia0ZDUQ?oc=5"
+    },
+    {
+      "id": "news-24",
+      "headline": "Giant ‘8647’ anti-Trump markings appear in US capital",
+      "summary": "US Park Police opened an investigation on Thursday into giant markings of the numbers “8647” – which have been associated with opposition to President Donald Trump – on the grass of the National Mall.\nA spokesperson for the Department of the Interior, which manages the National Mall in downtown Wash",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:14:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3356830/giant-8647-anti-trump-markings-appear-us-capital?utm_source=rss_feed"
+    },
+    {
+      "id": "news-25",
+      "headline": "DR Congo coach Desabre hopes World Cup return can lift spirits",
+      "summary": "DR Congo coach Sebastien Desabre said Thursday he hopes his side can deliver a strong World Cup showing after arriving in the US following a quarantine period linked to the Ebola outbreak. The team, making their first appearance at the tournament since 1974, have relocated preparations abroad but ai",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:11:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20260612-dr-congo-coach-desabre-hopes-world-cup-return-can-lift-spirits"
+    },
+    {
+      "id": "news-26",
+      "headline": "Will Marcos’ shipbuilding push deliver lasting capacity for Philippines?",
+      "summary": "The Philippines has a rare opening to turn its geography, skilled workers and deepening ties with Japan into a stronger maritime industrial base, but analysts say Manila’s push to make shipbuilding a strategic industry will be judged by whether fresh investment can produce lasting capacity.\nPresiden",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:00:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/week-asia/politics/article/3356796/will-marcos-shipbuilding-push-deliver-lasting-capacity-philippines?utm_source=rss_feed"
+    },
+    {
+      "id": "news-27",
+      "headline": "Wartime apology author and Japan-China ‘bridge’ Yohei Kono dies at 89",
+      "summary": "A prominent backchannel political figure between Japan and China has died, days before a reported planned trip meant to ease deep bilateral tensions.\nYohei Kono, best known for his historic apology on August 4, 1993, to tens of thousands of “comfort women” who were forced by the Japanese military in",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:00:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3356790/wartime-apology-author-and-japan-china-bridge-yohei-kono-dies-89?utm_source=rss_feed"
+    },
+    {
+      "id": "news-28",
+      "headline": "Friday sermon, June 12, 2026: &apos;The Prophetic Migration&apos;",
+      "summary": "Friday sermon, June 12, 2026: &apos;The Prophetic Migration&apos;",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/friday-sermon-june-12-2026-the-prophetic-migration-1.500571606"
+    },
+    {
+      "id": "news-29",
+      "headline": "How UAE&apos;s Golden Visa is helping residents build businesses, families and stability: &apos;I can plan my future here&apos;",
+      "summary": "How UAE&apos;s Golden Visa is helping residents build businesses, families and stability: &apos;I can plan my future here&apos;",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/how-uaes-golden-visa-is-helping-residents-build-businesses-families-and-stability-i-can-plan-my-future-here-1.500571546"
+    },
+    {
+      "id": "news-30",
+      "headline": "5 free cozy mobile games that prove relaxing doesn&apos;t have to cost a thing",
+      "summary": "5 free cozy mobile games that prove relaxing doesn&apos;t have to cost a thing",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T02:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/lifestyle/5-free-cozy-mobile-games-that-prove-relaxing-doesnt-have-to-cost-a-thing-1.500569769"
+    },
+    {
+      "id": "news-31",
+      "headline": "Japan, S. Korea markets jump after Trump claims Iran deal reached",
+      "summary": "Japan&apos;s Nikkei jumps over 3%, S. Korea&apos;s Kospi nearly 7% after Trump cancels Iran strikes",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T01:55:06.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/markets/japan-s-korea-markets-jump-after-trump-claims-iran-deal-reached-1.500571686"
+    },
+    {
+      "id": "news-32",
+      "headline": "What 32 years in the UAE taught an Indian expat about success",
+      "summary": "What 32 years in the UAE taught an Indian expat about success",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T01:45:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae-success-stories/what-32-years-in-the-uae-taught-an-indian-expat-about-success-1.500571333"
+    },
+    {
+      "id": "news-33",
+      "headline": "Police officer in Toronto killed in shooting linked to investigation of a US consulate attack",
+      "summary": "Police officer in Toronto killed in shooting linked to investigation of a US Consulate attack",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T01:44:49.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/police-officer-in-toronto-killed-in-shooting-linked-to-investigation-of-a-us-consulate-attack-1.500571704"
+    },
+    {
+      "id": "news-34",
+      "headline": "Stock markets surge as Trump calls off strikes on Iran, touts peace deal",
+      "summary": "Wall Street and Asian markets rally on hopes for an end to the US-Israel war on Iran.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T01:44:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/economy/2026/6/12/stocks-markets-surge-as-trump-calls-off-strikes-on-iran-touts-peace-deal?traffic_source=rss"
+    },
+    {
+      "id": "news-35",
+      "headline": "Iran World Cup captain reveals Mexico cartel robbery story",
+      "summary": "Iran&#039;s World Cup captain says he’s heard Mexican cartels love Iranians and revealed his own brush with an armed group.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T01:40:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-world-cup-captain-reveals-mexico-cartel-robbery-story?traffic_source=rss"
+    },
+    {
+      "id": "news-36",
       "headline": "Singapore charges construction firm, boss over Tanjong Katong sinkhole lapses",
       "summary": "Ohin Construction, its managing director and several employees were charged on Thursday over alleged lapses linked to the sinkhole that appeared in Singapore’s Tanjong Katong neighbourhood in July last year.\nThe company faces eight charges, mostly under the Building Control Act, Workplace Safety and",
       "urgency": "info",
@@ -20,7 +668,25 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3356828/singapore-charges-construction-firm-boss-over-tanjong-katong-sinkhole-lapses?utm_source=rss_feed"
     },
     {
-      "id": "news-1",
+      "id": "news-37",
+      "headline": "Can Africa turn its population boom into prosperity?",
+      "summary": "Africa’s rapid population growth offers major economic opportunities but also deep structural constraints.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-12T01:31:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/6/12/can-africa-turn-its-population-boom-into-prosperity?traffic_source=rss"
+    },
+    {
+      "id": "news-38",
       "headline": "Scott Pelley’s firing from 60 Minutes offers Hong Kong food for thought",
       "summary": "Before Scott Pelley was fired from 60 Minutes last week, he accused CBS’s editor-in-chief of “murdering” the programme he had served for over two decades. For a show that once defined hard-edged journalism, his dismissal raises questions about what institutional independence means.\nThe split followe",
       "urgency": "info",
@@ -38,25 +704,7 @@
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3356645/scott-pelleys-firing-60-minutes-offers-hong-kong-food-thought?utm_source=rss_feed"
     },
     {
-      "id": "news-2",
-      "headline": "Australia news live: Pauline Hanson says she consults her ‘friend’ Gina Rinehart on policy; Australian billionaire fails to unseat Victoria’s Secret chair",
-      "summary": "&lt;p&gt;One Nation leader says Rinehart has been ‘very beneficial’ to the formulation of the party’s policies. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-12T01:25:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-labor-one-nation-cost-of-living-ntwnfb"
-    },
-    {
-      "id": "news-3",
+      "id": "news-39",
       "headline": "ILO launches global &apos;Just Transition&apos; policy gateway",
       "summary": "ILO launches global Just Transition Policy Gateway",
       "urgency": "info",
@@ -74,7 +722,7 @@
       "link": "https://gulfnews.com/world/ilo-launches-global-just-transition-policy-gateway-1.500571711"
     },
     {
-      "id": "news-4",
+      "id": "news-40",
       "headline": "As World Cup Begins, Mexico City Becomes a Global Stage",
       "summary": "Supporters of the national team gathered inside and outside the stadium for the opening of the games, celebrating the start of a tournament years in the making.",
       "urgency": "info",
@@ -92,7 +740,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html"
     },
     {
-      "id": "news-5",
+      "id": "news-41",
       "headline": "Thai Princess Bajrakitiyabha, who was known for her legal work, dies at 47",
       "summary": "Thai Princess Bajrakitiyabha, who was known for her legal work, dies",
       "urgency": "info",
@@ -107,10 +755,10 @@
       ],
       "timestamp": "2026-06-12T01:13:46.000Z",
       "widgetType": "news",
-      "link": "https://gulfnews.com/world/asia/world/asia/{{slug}}-1.500571702-1.500571702"
+      "link": "https://gulfnews.com/world/asia/thai-princess-bajrakitiyabha-who-was-known-for-her-legal-work-dies-at-47-1.500571702"
     },
     {
-      "id": "news-6",
+      "id": "news-42",
       "headline": "Israel launches overnight strikes across Gaza",
       "summary": "Videos shared by Palestinian activists show powerful Israeli airstrikes across Gaza Strip overnight.",
       "urgency": "breaking",
@@ -128,7 +776,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-43",
       "headline": "Thailand’s Princess Bajrakitiyabha dies aged 47 after years in a coma",
       "summary": "&lt;p&gt;Princess Bajrakitiyabha Mahidol’s health had worsened since she was hospitalised in December 2022 with heart problems that left her gravely ill&lt;/p&gt;&lt;p&gt;The eldest child of Thailand’s King Maha Vajiralongkorn has died aged 47, the palace has said, after nearly four years in a coma.",
       "urgency": "info",
@@ -146,7 +794,7 @@
       "link": "https://www.theguardian.com/world/2026/jun/12/thailand-princess-bajrakitiyabha-dies-aged-47"
     },
     {
-      "id": "news-8",
+      "id": "news-44",
       "headline": "How the Middle East is rewriting the rules of life sciences",
       "summary": "How the Middle East is rewriting the rules of life sciences",
       "urgency": "info",
@@ -164,7 +812,7 @@
       "link": "https://gulfnews.com/opinion/op-eds/how-the-middle-east-is-rewriting-the-rules-of-life-sciences-1.500571230"
     },
     {
-      "id": "news-9",
+      "id": "news-45",
       "headline": "El Nino returns and could become one of the strongest on record",
       "summary": "Meteorologists confirmed the arrival of El Nino in the Pacific Ocean on Thursday, warning the climate pattern could grow into one of the strongest on record. Experts say it is likely to amplify global heat and fuel extreme weather, including floods, droughts, wildfires and powerful storms, over the ",
       "urgency": "breaking",
@@ -182,7 +830,7 @@
       "link": "https://www.france24.com/en/environment/20260612-el-nino-returns-and-could-become-one-of-the-strongest-on-record"
     },
     {
-      "id": "news-10",
+      "id": "news-46",
       "headline": "For 5 million years, whales have come to this place in the Indian Ocean to die",
       "summary": "Chinese deep-sea explorers from the Chinese Academy of Sciences (CAS) have discovered the largest “whale-fall site” ever recorded in the Indian Ocean.\nThe graveyard is the Earth’s deepest and most extensive known accumulation of whale fossils, carcasses and the unique ecosystems they support, with s",
       "urgency": "info",
@@ -200,7 +848,7 @@
       "link": "https://www.scmp.com/news/china/science/article/3356773/5-million-years-whales-have-come-place-indian-ocean-die?utm_source=rss_feed"
     },
     {
-      "id": "news-11",
+      "id": "news-47",
       "headline": "Roche’s global survey highlights urgent need to shift diabetes care from disease treatment to mental wellbeing",
       "summary": "[The content of this article has been produced by our advertising partner.]\nNearly one in ten people in Hong Kong now live with diabetes, and the city’s burden is growing. An ageing population, shifting lifestyles, and a substantial number of undiagnosed cases have combined to make diabetes an incre",
       "urgency": "info",
@@ -218,7 +866,7 @@
       "link": "https://www.scmp.com/presented/news/hong-kong/topics/health-wellness/article/3356566/roches-global-survey-highlights-urgent-need-shift-diabetes-care-disease-treatment-mental-wellbeing?utm_source=rss_feed"
     },
     {
-      "id": "news-12",
+      "id": "news-48",
       "headline": "Chinese woman suffers pancreatitis after 6-day starvation, binge-eating once weekly",
       "summary": "A 25-year-old woman in China has been diagnosed with acute pancreatitis after she followed an extreme weight-loss regime which consisted of eating once a week and hardly eating a thing for the remaining six days.\nThe woman, who uses the alias Qingqing and lives in Hangzhou, eastern Zhejiang province",
       "urgency": "info",
@@ -236,7 +884,7 @@
       "link": "https://www.scmp.com/news/people-culture/gender-diversity/article/3356489/chinese-woman-suffers-pancreatitis-after-6-day-starvation-binge-eating-once-weekly?utm_source=rss_feed"
     },
     {
-      "id": "news-13",
+      "id": "news-49",
       "headline": "Heat killed 200,000 people in Europe in just four years: WHO",
       "summary": "Heat killed 200,000 people in Europe in just four years: WHO",
       "urgency": "breaking",
@@ -251,10 +899,10 @@
       ],
       "timestamp": "2026-06-12T00:54:14.000Z",
       "widgetType": "news",
-      "link": "https://gulfnews.com/world/c0osbqy-heat-killed-200000-people-europe-just-four-years-1.500571687"
+      "link": "https://gulfnews.com/world/heat-killed-200000-people-in-europe-in-just-four-years-who-1.500571687"
     },
     {
-      "id": "news-14",
+      "id": "news-50",
       "headline": "Thai princess in coma dies, aged 47: royal palace",
       "summary": "Thailand’s ⁠Princess Bajrakitiyabha Narendira Debyavati, the eldest ⁠child of Thai King Maha Vajiralongkorn, has died at 47, the royal palace said on Friday, after multiple health problems and nearly four years in a coma.\nThe princess was hospitalised in December 2022 after a sudden loss of consciou",
       "urgency": "info",
@@ -272,7 +920,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3356825/thai-princess-coma-dies-aged-47-royal-palace?utm_source=rss_feed"
     },
     {
-      "id": "news-15",
+      "id": "news-51",
       "headline": "Why Mexico’s President Will Not Attend the World Cup Opening Match",
       "summary": "President Claudia Sheinbaum of Mexico plans to intentionally skip the entire tournament, breaking a decades-long tradition of sports diplomacy.",
       "urgency": "breaking",
@@ -290,7 +938,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/americas/mexico-president-sheinbaum-world-cup.html"
     },
     {
-      "id": "news-16",
+      "id": "news-52",
       "headline": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
       "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
       "urgency": "important",
@@ -308,25 +956,7 @@
       "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-17",
-      "headline": "Iran War Live Updates: Trump Again Claims Deal Is Close After Retracting Threat of Strikes",
-      "summary": "Claiming there was progress in peace negotiations, President Trump said he had canceled the next wave of planned attacks after two days of U.S. airstrikes.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-12T00:42:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/06/11/world/iran-war-trump-us-israel"
-    },
-    {
-      "id": "news-18",
+      "id": "news-53",
       "headline": "Global heat: El Nino is officially here —  how it may affect you",
       "summary": "El Nino is back, but its effects vary widely",
       "urgency": "info",
@@ -344,7 +974,7 @@
       "link": "https://gulfnews.com/world/global-heat-el-nino-is-officially-here-how-it-affects-different-parts-of-the-planet-1.500571402"
     },
     {
-      "id": "news-19",
+      "id": "news-54",
       "headline": "Iran football team trains in Mexico as World Cup campaign begins",
       "summary": "Iran's national football team held its first open training session in Mexico on Thursday, offering a glimpse of a squad preparing for the World Cup under the shadow of conflict with the US, as President Donald Trump claimed a breakthrough in efforts to end the war.",
       "urgency": "breaking",
@@ -362,7 +992,7 @@
       "link": "https://www.france24.com/en/sport/20260612-iran-football-team-trains-in-mexico-as-world-cup-campaign-begins"
     },
     {
-      "id": "news-20",
+      "id": "news-55",
       "headline": "DR Congo arrive in the US for the World Cup after Ebola quarantine",
       "summary": "DRC squad arrived on a flight from Paris after US authorities insisted they serve a 21-day quarantine period elsewhere.",
       "urgency": "info",
@@ -380,7 +1010,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/12/dr-congo-arrive-in-the-us-for-the-world-cup-after-ebola-quarantine?traffic_source=rss"
     },
     {
-      "id": "news-21",
+      "id": "news-56",
       "headline": "Can Hong Kong cash in on ecotourism without trashing its natural treasures?",
       "summary": "A sea of 500 tents covered the white sands of remote Ham Tin Wan in Sai Kung during a recent holiday, turning one of Hong Kong’s most scenic beaches into a makeshift campsite for crowds of overnight visitors.\nSome of the campers had joined tours from mainland China for the Labour Day “golden week” h",
       "urgency": "info",
@@ -398,7 +1028,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356807/can-hong-kong-cash-ecotourism-without-trashing-its-natural-treasures?utm_source=rss_feed"
     },
     {
-      "id": "news-22",
+      "id": "news-57",
       "headline": "Japan’s Wataru Endo retires after injury ends World Cup 2026 dream",
       "summary": "Midfielder and captain quits after failing to recover from foot injury ahead of Japan&#039;s game against the Netherlands.",
       "urgency": "info",
@@ -416,9 +1046,27 @@
       "link": "https://www.aljazeera.com/sports/2026/6/12/japans-wataru-endo-retires-after-injury-ends-world-cup-2026-dream?traffic_source=rss"
     },
     {
-      "id": "news-23",
-      "headline": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXc3blhkTDdaaGZNWkl4cWlUUXk1TTR3X0Q3Ym93ZDlwX3FYRU1iTHl2Wl9wekhRTmJfaWVIcmduMDVOTTRYUy1fTWIwVHVqRFZnQUtTVXdJYmVQZjJUQXhkc3M5Yms2aVlBU05RUlE0Ty1UUlNuS1M5dVVWelpQRTZ5WWV3UURoa2Fudzh2Z0JoSEdJMnp1V2ZDX2lvdm5seGtoMUNNZE5jN1k1MmJSSnpVTjJjTHE",
+      "id": "news-58",
+      "headline": "\"If the surgery goes wrong....\": Clavicular’s extreme $35,000 jaw surgery plan sparks explosive internet debate over beauty obsession",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131671184.cms\" /&gt;<![CDATA[Streamer Clavicular sparked major online debate after revealing plans for a $35,000 bimaxillary osteotomy, also known as jaw surgery. In a ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-12T00:22:18.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/if-the-surgery-goes-wrong-claviculars-extreme-35000-jaw-surgery-plan-sparks-explosive-internet-debate-over-beauty-obsession/articleshow/131671184.cms"
+    },
+    {
+      "id": "news-59",
+      "headline": "Iran Update Special Report, June 11, 2026 - Institute for the Study of War",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzE1QWlabFk0ZlMybFloSE9FdWR4c25lT3J4RGRDRldKN0l5NTE3ZWhtcThMRVpZamJQY0NhTEYtVUlrQ29CelJ3VmZXSENPdEdybmVoSjNNTW9VdFVpYXVYSGNIZGVjaW1mQ3VlVGU5cFNKM1BxMktWZ2I4VnI5cHVZY0dNa3RON2pZV3hFZWM1cTkz?oc=5\" target=\"_blank\"&gt;Iran Update Special R",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
@@ -429,30 +1077,30 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-06-12T00:09:43.000Z",
+      "timestamp": "2026-06-12T00:03:14.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXc3blhkTDdaaGZNWkl4cWlUUXk1TTR3X0Q3Ym93ZDlwX3FYRU1iTHl2Wl9wekhRTmJfaWVIcmduMDVOTTRYUy1fTWIwVHVqRFZnQUtTVXdJYmVQZjJUQXhkc3M5Yms2aVlBU05RUlE0Ty1UUlNuS1M5dVVWelpQRTZ5WWV3UURoa2Fudzh2Z0JoSEdJMnp1V2ZDX2lvdm5seGtoMUNNZE5jN1k1MmJSSnpVTjJjTHE20gG-AUFVX3lxTE5VXzRrd25NRzg2NGhvSk9uX0txUlUzQmxQZW1fYkMwRkN6bTM2VXFrN2Y5ZXJuOENoaUc3blVybkQ1RWMxYVY3NjJNYWFVQWZOcER6cXowRE5OeHdUNXBxMmh0VFJ5NmNscDNPQU14VGRNWmVGNHZzZ1Q5LThZZGxkcjJ0MVVWQ25XV1ZkeGE3eWlpcG43WW1FX3EzZGJHUkdGYjhMSEZ1aDNfcEoyOG5lak5Fa1YyUzU1aVBjLVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzE1QWlabFk0ZlMybFloSE9FdWR4c25lT3J4RGRDRldKN0l5NTE3ZWhtcThMRVpZamJQY0NhTEYtVUlrQ29CelJ3VmZXSENPdEdybmVoSjNNTW9VdFVpYXVYSGNIZGVjaW1mQ3VlVGU5cFNKM1BxMktWZ2I4VnI5cHVZY0dNa3RON2pZV3hFZWM1cTkz?oc=5"
     },
     {
-      "id": "news-24",
-      "headline": "Live updates: Trump says US ‘ended the war with Iran,’ though Tehran has yet to confirm a deal - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1QY0JRWVhUT2wwN2h5ZFRETDRoUktOYngxcTFZVXNLQlIwNTBfN1JBaE9qLXlPT096VF9leUFHOVZMUEx4WnRVT1JscW1fRnlvRU02eFhRODZZY1UyU0pYakFfbWtiWmtPSnppQW9yeE1CSFBRaXdnZElJZGs?oc=5\" target=\"_blank\"&gt;Live updates: Trump says US ‘ended the war with Iran,’",
+      "id": "news-60",
+      "headline": "Who is Bricks &amp; Minifigs CEO? Ammon McNeff faces tough Coffeezilla questions over missing LEGO Star Wars collection",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131671163.cms\" /&gt;<![CDATA[Coffeezilla’s latest investigation into the Bricks &amp; Minifigs controversy included a direct conversation with CEO Ammon McNeff about a ",
       "urgency": "breaking",
-      "topic": "middle-east",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-06-12T00:01:00.000Z",
+      "timestamp": "2026-06-12T00:00:34.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QY0JRWVhUT2wwN2h5ZFRETDRoUktOYngxcTFZVXNLQlIwNTBfN1JBaE9qLXlPT096VF9leUFHOVZMUEx4WnRVT1JscW1fRnlvRU02eFhRODZZY1UyU0pYakFfbWtiWmtPSnppQW9yeE1CSFBRaXdnZElJZGs?oc=5"
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-bricks-minifigs-ceo-ammon-mcneff-faces-tough-coffeezilla-questions-over-missing-lego-star-wars-collection/articleshow/131671163.cms"
     },
     {
-      "id": "news-25",
+      "id": "news-61",
       "headline": "EVs capture two-thirds of China’s car market in record-breaking week",
       "summary": "Electric vehicles accounted for a record 66.7 per cent of new car sales in mainland China during the first week of June, the latest sign that the country’s battery-powered carmakers are benefiting from the global energy crisis.\nTwo out of every three new cars sold on the mainland in the seven days e",
       "urgency": "breaking",
@@ -470,7 +1118,7 @@
       "link": "https://www.scmp.com/business/china-evs/article/3356789/evs-capture-two-thirds-chinas-car-market-record-breaking-week?utm_source=rss_feed"
     },
     {
-      "id": "news-26",
+      "id": "news-62",
       "headline": "China’s ports are by far the most efficient in the world: World Bank study",
       "summary": "China’s ports continued to dominate global efficiency rankings in 2025, with seven Chinese trade hubs placing in the top 10, according to a study by the World Bank and S&amp;P Global released on Wednesday.\nThe latest edition of the annual report comes at a time when ports are playing a more vital ro",
       "urgency": "breaking",
@@ -488,7 +1136,7 @@
       "link": "https://www.scmp.com/economy/china-economy/article/3356750/chinas-ports-are-far-most-efficient-world-world-bank-study?utm_source=rss_feed"
     },
     {
-      "id": "news-27",
+      "id": "news-63",
       "headline": "How Nvidia’s South Korean AI deals could fuel ‘the next industrial revolution’",
       "summary": "A spate of agreements Nvidia has reached with South Korean companies presents a long-term road map for the country to expand its role in the semiconductor and physical AI industries, observers say.\nThe most significant deal Nvidia CEO Jensen Huang made during his whirlwind three-day trip to Seoul th",
       "urgency": "info",
@@ -506,7 +1154,7 @@
       "link": "https://www.scmp.com/week-asia/economics/article/3356685/how-nvidias-south-korean-ai-deals-could-fuel-next-industrial-revolution?utm_source=rss_feed"
     },
     {
-      "id": "news-28",
+      "id": "news-64",
       "headline": "&apos;He gave life to my paintings&apos;: Friends bid farewell to Sharjah ‘TikTok murder’ victim ahead of repatriation",
       "summary": "&apos;He gave life to my paintings&apos;: Friends bid farewell to Sharjah ‘TikTok murder’ victim ahead of repatriation",
       "urgency": "info",
@@ -524,7 +1172,7 @@
       "link": "https://gulfnews.com/uae/crime/he-gave-life-to-my-paintings-friends-bid-farewell-to-sharjah-tiktok-murder-victim-ahead-of-repatriation-1.500571655"
     },
     {
-      "id": "news-29",
+      "id": "news-65",
       "headline": "UAE-Sri Lanka trade deal could be finalised within a year",
       "summary": "UAE-Sri Lanka trade deal could be finalised within a year",
       "urgency": "info",
@@ -542,7 +1190,7 @@
       "link": "https://gulfnews.com/business/economy/uae-sri-lanka-trade-deal-could-be-finalised-within-a-year-1.500571215"
     },
     {
-      "id": "news-30",
+      "id": "news-66",
       "headline": "Who are Julian Quinones and Raul Jimenez, Mexico’s World Cup goal scorers?",
       "summary": "Mexico&#039;s two goal scorers were overcome with emotion as they took their team to a win in the World Cup&#039;s opening game.",
       "urgency": "info",
@@ -560,7 +1208,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/11/who-are-julian-quinones-and-raul-jimenez-mexicos-opening-match-scorers?traffic_source=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-67",
       "headline": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
       "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
       "urgency": "important",
@@ -578,7 +1226,7 @@
       "link": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-68",
       "headline": "Killing of Indian sailors ‘very unfortunate’, US lawmaker says, as tensions rise",
       "summary": "Republican Congressman Rob Wittman on Thursday called the US killing of three Indian sailors off the coast of Oman “a very, very unfortunate incident”, claiming that the US military is trying to “determine exactly what happened”.\n“Our thoughts and prayers go out to those Indian families who lost the",
       "urgency": "info",
@@ -596,7 +1244,7 @@
       "link": "https://www.scmp.com/news/us/diplomacy/article/3356824/killing-indian-sailors-very-unfortunate-us-lawmaker-says-tensions-rise?utm_source=rss_feed"
     },
     {
-      "id": "news-33",
+      "id": "news-69",
       "headline": "Air India crash families' year-long battle to identify remains of victims",
       "summary": "Relatives urge Indian authorities for answers after receiving the misidentified, and in one case mixed, remains of their loved ones.",
       "urgency": "info",
@@ -614,7 +1262,7 @@
       "link": "https://www.bbc.com/news/articles/c15y9g2ndkno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-34",
+      "id": "news-70",
       "headline": "UAE confirms readiness to host 2026 UN Crime Congress in September",
       "summary": "UAE confirms readiness to host 2026 UN Crime Congress",
       "urgency": "info",
@@ -632,25 +1280,7 @@
       "link": "https://gulfnews.com/uae/uae-confirms-readiness-to-host-2026-un-crime-congress-in-september-1.500571590"
     },
     {
-      "id": "news-35",
-      "headline": "Trump says US and Iran have reached a ‘great settlement’ - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm4yQXN2LVBpZUxQNHEzQlZqVHpab09JMjRXRHNJV3BlWTN2dHN5dHdxMTN1ZXhjUzR5a0txc2dBNTB1eVA0cF9PSzM3MjBHenk5bUQtdUdMWjRHQm44blJPOEhFdTF3Z3FsV0llLW1peGd1VVc3QzNPemR3SFc3NWQ2SnQweHJXNTFkMm5qY0FiVDNnbkdHUHFR0gGfAUFVX3lxTFBzQXB4YjVlcnlrSzFqdnI0Uzh",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T23:31:16.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm4yQXN2LVBpZUxQNHEzQlZqVHpab09JMjRXRHNJV3BlWTN2dHN5dHdxMTN1ZXhjUzR5a0txc2dBNTB1eVA0cF9PSzM3MjBHenk5bUQtdUdMWjRHQm44blJPOEhFdTF3Z3FsV0llLW1peGd1VVc3QzNPemR3SFc3NWQ2SnQweHJXNTFkMm5qY0FiVDNnbkdHUHFR0gGfAUFVX3lxTFBzQXB4YjVlcnlrSzFqdnI0UzhYVnpnQk9TNi05QnZ4Z2RzMWF3THdlSUkyOWR6OGZkc09NS3NQRzVqVGlGVk1QTk0tYzgzbjFmaG9MOGRlcWo0MFRMZUNnenRTXzlNVmxzWlZ6M1NRdXVIUlp2bE81Q1lxZUxFcXRsZE0yTEpyX19jUG5aNTZzdlZUMGNROGxfUnY4Ykx1TQ?oc=5"
-    },
-    {
-      "id": "news-36",
+      "id": "news-71",
       "headline": "Tearful Malaysian mother begs for no jail time over attempted affair",
       "summary": "A Malaysian mother of two broke down in tears as she begged for leniency from the sharia High Court in Melaka for attempting to have sex with another woman’s husband last year.\nAccording to Sinar Harian, the accused, Siti Iqbar Mazlan, 35, during the proceedings before Judge Abu Bakar Daud on Thursd",
       "urgency": "info",
@@ -668,7 +1298,25 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3356803/tearful-malaysian-mother-begs-no-jail-time-over-attempted-affair?utm_source=rss_feed"
     },
     {
-      "id": "news-37",
+      "id": "news-72",
+      "headline": "Trump says US and Iran have reached a ‘great settlement’",
+      "summary": "US President Donald Trump claims Washington and Tehran have reached a ‘great settlement’ and are finalising documents",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-11T23:29:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss"
+    },
+    {
+      "id": "news-73",
       "headline": "World Cup 2026 opening day controversies: Protests, ticket-price outrage and fan-zone chaos",
       "summary": "World Cup 2026 opening day controversies: Protests, ticket-price outrage and fan-zone chaos",
       "urgency": "important",
@@ -686,7 +1334,25 @@
       "link": "https://gulfnews.com/sport/football/world-cup/world-cup-2026-opening-day-controversies-protests-ticket-price-outrage-and-fan-zone-chaos-1.500571662"
     },
     {
-      "id": "news-38",
+      "id": "news-74",
+      "headline": "“Free him”: Twitch streamer BruceDropEmOff backs Karmelo Anthony and sparks fierce debate over Austin Metcalf murder conviction",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131671040.cms\" /&gt;<![CDATA[Streamer and YouTuber BruceDropEmOff publicly supported Karmelo Anthony after the teenager was convicted of murdering Austin Metcalf and se",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-11T23:25:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/free-him-twitch-streamer-brucedropemoff-backs-karmelo-anthony-and-sparks-fierce-debate-over-austin-metcalf-murder-conviction/articleshow/131671040.cms"
+    },
+    {
+      "id": "news-75",
       "headline": "World Cup 2026: Mexican fans celebrate first win",
       "summary": "#Mexico won 2-0 against 9-man #SouthAfrica in the opening game of the 2026 #WorldCup at Mexico City's #Azteca Stadium.",
       "urgency": "info",
@@ -704,7 +1370,7 @@
       "link": "https://www.france24.com/en/video/20260611-world-cup-2026-mexican-fans-celebrate-first-win"
     },
     {
-      "id": "news-39",
+      "id": "news-76",
       "headline": "Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable’ for some",
       "summary": "SpaceX’s IPO could challenge pension funds as concerns grow over its valuation and governance structure under Musk.",
       "urgency": "info",
@@ -722,25 +1388,7 @@
       "link": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some?traffic_source=rss"
     },
     {
-      "id": "news-40",
-      "headline": "Kuwait takes airport strike case to ICAO after Iranian drone attack",
-      "summary": "Civil Aviation protests to ICAO after Iranian attack hits Kuwait airport",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T23:00:08.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/business/aviation/c0o6xo6-civil-aviation-protests-icao-after-iranian-attack-1.500571567"
-    },
-    {
-      "id": "news-41",
+      "id": "news-77",
       "headline": "Hong Kong developers rediscover pricing power amid firmer demand",
       "summary": "Prices for some new homes in Hong Kong have rebounded by as much as a third from the housing market’s lowest level a few years ago amid robust demand, according to analysts.\nDevelopers have priced new units this year in Tseung Kwan O, Wong Chuk Hang and Tai Wai between 7 and 36 per cent higher than ",
       "urgency": "info",
@@ -758,25 +1406,7 @@
       "link": "https://www.scmp.com/business/article/3356781/hong-kong-developers-rediscover-pricing-power-amid-firmer-demand?utm_source=rss_feed"
     },
     {
-      "id": "news-42",
-      "headline": "Shakira&apos;s World Cup comeback, Salma Hayek&apos;s welcome, Tyla&apos;s anthem: Top celebrity moments that stole the show",
-      "summary": "Shakira&apos;s World Cup comeback, Salma Hayek&apos;s welcome, Tyla&apos;s anthem: Top celebrity moments that stole the show",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T22:59:10.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/football/world-cup/shakiras-world-cup-comeback-salma-hayeks-welcome-and-tylas-anthem-top-celebrity-moments-that-stole-show-1.500571649"
-    },
-    {
-      "id": "news-43",
+      "id": "news-78",
       "headline": "Trump, in Latest Pivot, Retracts Threat to Strike Iran Again and Widen the War",
       "summary": "Mr. Trump said that Iran was close to signing a peace deal. So far, weeks of talks have failed to produce an agreement.",
       "urgency": "breaking",
@@ -794,7 +1424,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/middleeast/trump-retracts-threat-iran.html"
     },
     {
-      "id": "news-44",
+      "id": "news-79",
       "headline": "What Trump claimed is in the US-Iran &apos;deal&apos; — and Ghalibaf&apos;s warning",
       "summary": "What Trump claimed is in the US-Iran &apos;deal&apos; — and Ghalibaf&apos;s warning",
       "urgency": "breaking",
@@ -812,25 +1442,7 @@
       "link": "https://gulfnews.com/world/mena/what-trump-claimed-is-in-the-us-iran-deal-1.500571643"
     },
     {
-      "id": "news-45",
-      "headline": "Opening delayed for US-Canada bridge threatened by Trump",
-      "summary": "Opening delayed for US-Canada bridge threatened by Trump",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T22:34:42.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/americas/opening-delayed-for-us-canada-bridge-threatened-by-trump-1.500571276"
-    },
-    {
-      "id": "news-46",
+      "id": "news-80",
       "headline": "Trump calls off third night of Iran strikes after threatening Kharg Island - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGNlUEhCak5Md1F6RHdjQVVGMERPVGRodm8wNGxXRW1KSFkzUXFkNnk1UHdmMnE3ZVhRMTk2cWhZSTBwakg5QkdKbUo4ZllubmhYYlpBWDFvRE5XaU1lUDZkd2RLX0lyX0pjUDFtRy1wZ050TUtIT3JQY1l0c1lPRC1YNWtmYk5tV0QwdnhiT2V3NnVKOGp5eTBFdnFhemxxYTNhd2RlYV9hMW140gGyAUFVX3lxTE5",
       "urgency": "breaking",
@@ -848,7 +1460,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGNlUEhCak5Md1F6RHdjQVVGMERPVGRodm8wNGxXRW1KSFkzUXFkNnk1UHdmMnE3ZVhRMTk2cWhZSTBwakg5QkdKbUo4ZllubmhYYlpBWDFvRE5XaU1lUDZkd2RLX0lyX0pjUDFtRy1wZ050TUtIT3JQY1l0c1lPRC1YNWtmYk5tV0QwdnhiT2V3NnVKOGp5eTBFdnFhemxxYTNhd2RlYV9hMW140gGyAUFVX3lxTE56YkZxSjBobmZGUlZYUkNLZTI1R2ZOY25CekJjSzRkRHdSRXZaRVl2SlptR1Nlc042OGIzcEJ5bmlyNDgwSFFWMmlCbFJTVlZ6SFF5d2xlcy1TSzAySVFYbjVXdWFxajFsRFJQOHNVOU1wWW5nR2ViNW5uWjNTSDM5dEdUT3NGZmtaTmRsa0YtaHA0TlpjalBSTlozYWtHVUlqOXJleFpHc0ZlLVEyMzJfR0E?oc=5"
     },
     {
-      "id": "news-47",
+      "id": "news-81",
       "headline": "Toronto Police Officer Fatally Shot While Investigating U.S. Consulate Shooting",
       "summary": "The officer was shot on Thursday while investigating the firing of a gun outside the U.S. consulate in March, the authorities said.",
       "urgency": "info",
@@ -866,7 +1478,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/canada/toronto-police-officer-shooting-us.html"
     },
     {
-      "id": "news-48",
+      "id": "news-82",
       "headline": "Blast off on Wall Street: record SpaceX IPO could make Musk a trillionaire",
       "summary": "Elon Musk’s SpaceX on Thursday confirmed it will begin trading on the Nasdaq exchange Friday in the biggest initial public offering in history, a blockbuster market debut that could propel the entrepreneur to trillionaire status.\nIn a filing with the US markets regulator, the company priced more tha",
       "urgency": "info",
@@ -884,7 +1496,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3356821/spacex-prices-record-ipo-could-make-musk-trillionaire?utm_source=rss_feed"
     },
     {
-      "id": "news-49",
+      "id": "news-83",
       "headline": "Whipsawed Between Fear and Relief, Iranians Hope for War’s End",
       "summary": "In addition to concerns about their safety in the event of another all-out war, many Iranians worry about the country’s economy further collapsing if the conflict remains in limbo.",
       "urgency": "breaking",
@@ -902,7 +1514,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html"
     },
     {
-      "id": "news-50",
+      "id": "news-84",
       "headline": "Trump says he has canceled plans to strike Iran, claiming deal is near",
       "summary": "President Donald Trump on Thursday withdrew threats to take Iran’s most critical oil terminal “in the not too distant future,\" after fresh attacks on U.S. bases in the region.",
       "urgency": "breaking",
@@ -920,25 +1532,7 @@
       "link": "https://www.washingtonpost.com/world/2026/06/11/iran-targets-five-us-bases-raising-fears-return-all-out-war/"
     },
     {
-      "id": "news-51",
-      "headline": "Security Is Tight as a Mexico Win Opens a Historic World Cup",
-      "summary": "As the largest World Cup kicked off in Mexico City on Thursday, the security around Estadio Azteca was strict, as law enforcement officers held off protesters.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T22:01:41.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/11/world/americas/mexico-city-world-cup.html"
-    },
-    {
-      "id": "news-52",
+      "id": "news-85",
       "headline": "Trump calls off latest threats to strike Iran, cites breakthrough in talks to end the war - AP News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUxSdXNaSUpKdFBPUU45bTNwSU43cFRxY1VEY2UzcnFoZ0FmRXhjdUdmZVNaSk9WN3VodGJsS21VbzcwdXdoelhHcTFUSWtVUW9LRVhMUXZ4SmlNWEs4OUhwbWdjRVpLY2dNZHZLbk1pZmgzZE04cUhuNmtPZEJicXZjWVVMUjRqRld6R3FDVy03OFFGNTFKcTdaY1ktUEJLamNPMDA1azgzZ00?oc=5\" target=\"_",
       "urgency": "breaking",
@@ -956,7 +1550,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUxSdXNaSUpKdFBPUU45bTNwSU43cFRxY1VEY2UzcnFoZ0FmRXhjdUdmZVNaSk9WN3VodGJsS21VbzcwdXdoelhHcTFUSWtVUW9LRVhMUXZ4SmlNWEs4OUhwbWdjRVpLY2dNZHZLbk1pZmgzZE04cUhuNmtPZEJicXZjWVVMUjRqRld6R3FDVy03OFFGNTFKcTdaY1ktUEJLamNPMDA1azgzZ00?oc=5"
     },
     {
-      "id": "news-53",
+      "id": "news-86",
       "headline": "US lawmakers warn next revolution in AI race must be in America, not China",
       "summary": "The United States must ensure the next chapter of responsible innovation is written in America, not in China, lawmakers and witnesses told a congressional hearing on Thursday as they sounded the alarm over US-China competition for global supremacy in artificial intelligence (AI).\n“Cyber security and",
       "urgency": "breaking",
@@ -974,7 +1568,7 @@
       "link": "https://www.scmp.com/news/us/diplomacy/article/3356820/us-lawmakers-warn-next-revolution-ai-race-must-be-america-not-china?utm_source=rss_feed"
     },
     {
-      "id": "news-54",
+      "id": "news-87",
       "headline": "US lawmakers press Israel to let cancer patients out of Gaza for treatment",
       "summary": "Group of lawmakers call on Trump administration to facilitate medical evacuations out of Gaza amid dearth of services.",
       "urgency": "info",
@@ -992,25 +1586,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss"
     },
     {
-      "id": "news-55",
-      "headline": "Canadian policeman killed during investigation tied to US consulate shooting",
-      "summary": "A Toronto police officer was shot and killed Thursday by a suspect in the investigation into a shooting attack that damaged the facade of the US consulate in the Canadian city in March, police said.\nOne 19-year-old suspect was in custody at a hospital in critical condition while officers searched fo",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:48:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3356819/canadian-policeman-killed-during-investigation-tied-us-consulate-shooting?utm_source=rss_feed"
-    },
-    {
-      "id": "news-56",
+      "id": "news-88",
       "headline": "Man charged with kidnap and murder of Sydney woman whose body has not been found",
       "summary": "&lt;p&gt;Woman, 58, was last heard from Monday afternoon and her car was found the next day&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jun/12/australia-news-live-richard-marles-aukus-submarine-defence-nato-anthony-albanese-pauline-hanson-la",
       "urgency": "breaking",
@@ -1028,7 +1604,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jun/12/man-charged-with-after-sydney-woman-allegedly-kidnapped-ntwnfb"
     },
     {
-      "id": "news-57",
+      "id": "news-89",
       "headline": "Trump says Iran peace deal is near after threatening new strikes",
       "summary": "US President Donald Trump said Thursday he had halted plans for new military strikes on Iran, claiming negotiators were close to extending a fragile ceasefire, just hours after threatening to intensify the conflict by targeting Iran’s oil industry.",
       "urgency": "breaking",
@@ -1046,7 +1622,7 @@
       "link": "https://www.france24.com/en/middle-east/20260611-trump-says-iran-peace-deal-is-near-after-threatening-new-strikes"
     },
     {
-      "id": "news-58",
+      "id": "news-90",
       "headline": "Mexico beat South Africa 2-0 to kick off 2026 FIFA World Cup",
       "summary": "&lt;p&gt;Mexico ignited their World Cup party with a dominant 2-0 victory over nine-man South Africa on Thursday as the biggest ever edition of the global footballing showpiece &lt;a href=\"https://www.dawn.com/news/2006730/hosts-mexico-face-south-africa-under-pressure-to-deliver-in-opener\"&gt;kicked",
       "urgency": "breaking",
@@ -1064,7 +1640,7 @@
       "link": "https://www.dawn.com/news/2007165/mexico-beat-south-africa-2-0-to-kick-off-2026-fifa-world-cup"
     },
     {
-      "id": "news-59",
+      "id": "news-91",
       "headline": "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
       "summary": "Murder of Melissa and Mark Hortman by man disguised as police officer prompted concerns about political violence in US.",
       "urgency": "info",
@@ -1082,25 +1658,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss"
     },
     {
-      "id": "news-60",
-      "headline": "Taipei envoy sees US$14 billion arms package moving ahead under Trump",
-      "summary": "Taiwan’s representative to the United States expressed confidence that Washington would approve a new round of arms sales to Taiwan, though US President Donald Trump has yet to make a decision on the matter.\nAsked on Thursday about a pending US$14 billion US arms sale to Taiwan, Alexander Tah-ray Yu",
-      "urgency": "info",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:36:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/us/article/3356818/taipei-envoy-sees-us14-billion-arms-package-moving-ahead-under-trump?utm_source=rss_feed"
-    },
-    {
-      "id": "news-61",
+      "id": "news-92",
       "headline": "This Is Mexico and Canada’s World Cup, Too. Don’t Expect Unity.",
       "summary": "Mexico and Canada have faced significant recent tension in their relations with the United States. But in their historic World Cup bid, the three countries promoted teamwork.",
       "urgency": "info",
@@ -1118,25 +1676,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html"
     },
     {
-      "id": "news-62",
-      "headline": "Thanks to Trump, Chinese people have a more realistic view of America",
-      "summary": "For much of the reform era, the United States occupied a special place in the Chinese imagination. When I was growing up in China in the 1980s, the US – or meiguo, the “beautiful country” – was more than a country. It was an idea.\nMany Chinese, myself included, associated it with prosperity, freedom",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:30:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3356445/thanks-trump-chinese-people-have-more-realistic-view-america?utm_source=rss_feed"
-    },
-    {
-      "id": "news-63",
+      "id": "news-93",
       "headline": "U.S. Blocks Deal by Florida-based Vanguard Energy to Supply Fuel to Cuba",
       "summary": "The deal to ship 250,000 barrels of fuel to Cuba could have eased an energy crisis. But the Trump administration says Vanguard Energy lacks the authorization to proceed.",
       "urgency": "important",
@@ -1154,7 +1694,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/americas/us-cuba-trump-energy-fuel.html"
     },
     {
-      "id": "news-64",
+      "id": "news-94",
       "headline": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
       "summary": "At least 18,000 people protested on Thursday as the capital hosted the first match of the tournament, though the demonstrations appeared to be largely peaceful.",
       "urgency": "important",
@@ -1172,61 +1712,7 @@
       "link": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html"
     },
     {
-      "id": "news-65",
-      "headline": "Iran live updates: Trump says agreement with Iran could be signed as early as this weekend - ABC News - Breaking News, Latest News and Videos",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0lNUGZXMS1EVjUtbGlpOTk3cGxTU1FINDZTSUNyVllOa0JFLWh5VHR0TW9RUDA1RkE0T2pzV3hIbE5PVTA5Y21jdk1ObkQxSy1SUkxuYWVCTW82bjdfbExvZTZRODJmcmdTTGwybU5YR24wbXJ3czVlWm9mMmE3QjRvWnEtOWhad1FQZ0U2OXcwVGFxZXJYT2FWMk5pc3h3OE9yV1dzVVlNYXpKbHRN?oc=5\" targ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:29:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0lNUGZXMS1EVjUtbGlpOTk3cGxTU1FINDZTSUNyVllOa0JFLWh5VHR0TW9RUDA1RkE0T2pzV3hIbE5PVTA5Y21jdk1ObkQxSy1SUkxuYWVCTW82bjdfbExvZTZRODJmcmdTTGwybU5YR24wbXJ3czVlWm9mMmE3QjRvWnEtOWhad1FQZ0U2OXcwVGFxZXJYT2FWMk5pc3h3OE9yV1dzVVlNYXpKbHRN?oc=5"
-    },
-    {
-      "id": "news-66",
-      "headline": "FIFA World Cup 2026 begins with dazzling Mexico spectacle",
-      "summary": "FIFA World Cup 2026 begins with dazzling Mexico spectacle",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:28:55.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-2026-begins-with-dazzling-mexico-spectacle-1.500571622"
-    },
-    {
-      "id": "news-67",
-      "headline": "The SpaceX I.P.O. Rocket",
-      "summary": "Elon Musk and people in his orbit are about to get much, much richer.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:27:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/11/world/spacex-ipo.html"
-    },
-    {
-      "id": "news-68",
+      "id": "news-95",
       "headline": "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
       "summary": "World Cup 2026 cohosts Mexico open the tournament with 2-0 win against South Africa, who were reduced to nine men.",
       "urgency": "info",
@@ -1244,7 +1730,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/11/jimenez-and-quinones-net-as-mexico-beat-south-africa-in-world-cup-opener?traffic_source=rss"
     },
     {
-      "id": "news-69",
+      "id": "news-96",
       "headline": "Lewis Hamilton’s bold new Barcelona paddock look steals attention while Kim Kardashian exits Europe",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131668736.cms\" /&gt;<![CDATA[Lewis Hamilton drew attention ahead of the Spanish Grand Prix by debuting a new hairstyle in Barcelona. The Ferrari star appeared relaxed a",
       "urgency": "info",
@@ -1262,25 +1748,7 @@
       "link": "https://timesofindia.indiatimes.com/sports/international-sports/lewis-hamiltons-bold-new-barcelona-paddock-look-steals-attention-while-kim-kardashian-exits-europe/articleshow/131668736.cms"
     },
     {
-      "id": "news-70",
-      "headline": "Biotech firm WuXi sues US over allegations it supports China’s military",
-      "summary": "A Chinese biotechnology company sued the US government on Thursday over being placed on a list of businesses from China that the ‌US Department of Defence has linked to that country’s military.\nWuXi AppTec filed its complaint in the Washington federal court, calling its inclusion on the list arbitra",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:15:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3356817/biotech-firm-wuxi-sues-us-over-allegations-it-supports-chinas-military?utm_source=rss_feed"
-    },
-    {
-      "id": "news-71",
+      "id": "news-97",
       "headline": "'Civilians will be put in harm's way' expert warns as first autonomous drone kills revealed",
       "summary": "A senior figure in the Ukrainian defence industry said that a test took place two years ago involving fully autonomous drones set to destroy anything in a given area, with confirmed casualties, according to a report in New Scientist. Speaking on FRANCE 24, Mariarosaria Taddeo, Professor of Digital E",
       "urgency": "breaking",
@@ -1298,7 +1766,7 @@
       "link": "https://www.france24.com/en/tv-shows/a-propos/20260611-civilians-will-be-put-in-harm-s-way-expert-warns-as-first-autonomous-drone-kill-revealed"
     },
     {
-      "id": "news-72",
+      "id": "news-98",
       "headline": "World Cup 2026: Mexico dominates opening match as South Africa falls to two red cards",
       "summary": "World Cup 2026: Mexico dominates opening match as South Africa falls to two red cards",
       "urgency": "info",
@@ -1316,7 +1784,7 @@
       "link": "https://www.france24.com/en/sport/20260611-world-cup-2026-mexico-dominates-opening-as-south-africa-falls-to-two-red-cards"
     },
     {
-      "id": "news-73",
+      "id": "news-99",
       "headline": "World Cup mania at Mexico’s Zocalo Square",
       "summary": "Jubilant football fans at Mexico City’s Zocalo Square are ready for the World Cup Opener at the city’s centre.",
       "urgency": "info",
@@ -1332,474 +1800,6 @@
       "timestamp": "2026-06-11T21:04:41.000Z",
       "widgetType": "news",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/world-cup-mania-at-mexicos-zocalo-square?traffic_source=rss"
-    },
-    {
-      "id": "news-74",
-      "headline": "What happened, and who performed at the World Cup 2026 opening ceremony?",
-      "summary": "Musical performances, colour, and fan excitement precede the World Cup&#039;s opening game in Mexico City.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T21:02:54.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/6/11/what-happened-and-who-performed-at-the-world-cup-2026-opening-ceremony?traffic_source=rss"
-    },
-    {
-      "id": "news-75",
-      "headline": "Belfast knife attack: False images, misinformation fuel anti-immigration riots",
-      "summary": "Police in Northern Ireland Thursday prepared for further disorder, as anti-immigration riots may enter its third night. The unrest erupted after a brutal street stabbing Monday involving Sudanese national Hadi Alodid, who has been charged for attempted murder following his attack on Stephen Ogilvie.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:59:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/belfast-knife-attack-false-images-misinformation-fuel-anti-immigration-riots"
-    },
-    {
-      "id": "news-76",
-      "headline": "Canadian traveller faces $147,000 medical bill after insurance claim is denied: 'I don’t remember anything'",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131668183.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:51:23.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/canadian-traveller-faces-147000-medical-bill-after-insurance-claim-is-denied-i-dont-remember-anything/articleshow/131668183.cms"
-    },
-    {
-      "id": "news-77",
-      "headline": "In the U.K., a Violent Cycle: Hateful Attacks, Right-Wing Agitation and Riots",
-      "summary": "Two stabbings have fueled violent protests in England and Northern Ireland in the last 10 days, fanned online by right-wing voices. In Britain and across Europe, it’s a grim pattern.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:49:49.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/11/world/europe/northern-ireland-stabbing-immigration.html"
-    },
-    {
-      "id": "news-78",
-      "headline": "How puppets are helping women and children in Gaza cope with trauma",
-      "summary": "A puppet show project in Gaza is using storytelling and creative workshops to help women and children process trauma.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:40:09.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss"
-    },
-    {
-      "id": "news-79",
-      "headline": "Will the stars align for SpaceX IPO?",
-      "summary": "Expectations are high for the IPO of SpaceX. The company - which includes rockets, satellites, and AI units - could become one of the most valuable in the world following its market launch on Friday. Founder Elon Musk is set to retail near total control of SpaceX, with 85% of the voting rights. Igor",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:34:11.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/will-the-stars-align-for-spacex-ipo-igor-pejic"
-    },
-    {
-      "id": "news-80",
-      "headline": "Minister condemns ‘racist thuggery’ as violence returns to Northern Ireland",
-      "summary": "The return of unrest to the province, which suffered decades of sectarian violence, has provoked deep concern.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:33:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/11/minister-condemns-racist-thuggery-as-violence-returns-to-northern-ireland?traffic_source=rss"
-    },
-    {
-      "id": "news-81",
-      "headline": "Johnny Somali cites bipolar disorder in bid to reduce prison sentence in South Korea",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131668683.cms\" /&gt;<![CDATA[Controversial streamer Johnny Somali is appealing his six-month sentence in South Korea, citing inability to access bipolar medication. Whi",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:31:47.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/johnny-somali-cites-bipolar-disorder-in-bid-to-reduce-prison-sentence-in-south-korea/articleshow/131668683.cms"
-    },
-    {
-      "id": "news-82",
-      "headline": "World Cup begins with Mexico hosting South Africa in opening match",
-      "summary": "In tonight's edition,  the World Cup kicks off with co-hosts Mexico taking on South Africa in front of 80,000 fans at the Estadio Azteca in Mexico City. Also,  as Africa sends the most teams that it ever has to the tournament, we revisit the legacy of the first team from the continent to head to the",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:29:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/world-cup-begins-with-mexico-hosting-south-africa-in-opening-match"
-    },
-    {
-      "id": "news-83",
-      "headline": "UK defence chief steps down, accuses Starmer of making Britain 'less safe'",
-      "summary": "British Defence Secretary John Healey resigned on Thursday, accusing Prime Minister Keir Starmer and the Treasury of failing to provide sufficient funding for the armed forces. The departure deepens pressure on Starmer ahead of a crucial by-election, with Healey warning that the government's delayed",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:28:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/europe/20260611-uk-defence-chief-steps-down-accuses-starmer-of-making-britain-less-safe"
-    },
-    {
-      "id": "news-84",
-      "headline": "Trump touts Iran deal: \"some people's response to this will be 'the boy who cried wolf'\"",
-      "summary": "US President Donald Trump on Thursday announced a \"great settlement\" with Iran to end the Middle East war, saying he expected a deal to be signed in Europe in the coming days. Trump's claim came just hours after he promised fresh strikes against Iran, before saying that he was calling them off as a ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:27:57.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/trump-touts-iran-deal-some-people-s-response-to-this-will-be-the-boy-who-cried-wolf"
-    },
-    {
-      "id": "news-85",
-      "headline": "Israel releases Hamas co-founder after two years in detention",
-      "summary": "Israeli authorities released Hamas co-founder Hassan Yousef after more than two years in administrative detention.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:25:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/israel-releases-hamas-co-founder-after-two-years-in-detention?traffic_source=rss"
-    },
-    {
-      "id": "news-86",
-      "headline": "Trump administration sanctions Cuba’s national oil company, blasts Castros",
-      "summary": "Secretary of State Marco Rubio denounces Union Cuba-Petroleo as having &#039;unlawfully expropriated&#039; US resources.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:21:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss"
-    },
-    {
-      "id": "news-87",
-      "headline": "US diplomat found dead in Myanmar hotel, Thai woman detained: 'Out of respect...'",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131668638.cms\" /&gt;<![CDATA[",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:12:55.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/us-diplomat-found-dead-in-myanmar-hotel-thai-woman-detained-out-of-respect-for-the-privacy-of-the-family-and-loved-ones-we-have-no-further-information/articleshow/131668638.cms"
-    },
-    {
-      "id": "news-88",
-      "headline": "Mexico City dazzles as World Cup 2026 kicks off in style",
-      "summary": "Fireworks and global stars light up Mexico City&#039;s kickoff of the 2026 World Cup at a revamped Azteca Stadium.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:12:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss"
-    },
-    {
-      "id": "news-89",
-      "headline": "France's 'culture of rape must become culture of protection', campaigner says",
-      "summary": "France is in the grip of a wave of sexual abuse scandals which has highlighted systemic failures in the handling of sexual assault and child abuse complaints. Speaking with FRANCE 24's Mark Owen, Solène Podevin-Favre, President of Face à l'Inceste, says that the latest cases show that \"the culture o",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T20:01:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/france-s-culture-of-rape-must-become-culture-of-protection-campaigner-says"
-    },
-    {
-      "id": "news-90",
-      "headline": "US targets Cuba oil giant as Beijing and Havana deepen party ties",
-      "summary": "The Trump administration on Thursday imposed sanctions on Cuba’s state-owned oil and gas company, escalating pressure on Havana’s communist government and targeting a sector central to the island’s worsening energy crisis.\nThe move came hours after senior Chinese and Cuban officials held a video con",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:57:56.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3356814/us-targets-cuba-oil-giant-china-and-havana-deepen-party-ties?utm_source=rss_feed"
-    },
-    {
-      "id": "news-91",
-      "headline": "Trump to pick US attorney Jay Clayton for director of national intelligence",
-      "summary": "Nomination comes amid pushback over Donald Trump&#039;s selection of Bill Pulte as acting director of the agency.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:56:14.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/11/trump-to-pick-us-attorney-jay-clayton-for-director-of-national-intelligence?traffic_source=rss"
-    },
-    {
-      "id": "news-92",
-      "headline": "Real Madrid turn to Mourinho again in bid to end trophy drought with 3-year contract",
-      "summary": "Jose Mourinho has returned to Real Madrid as head coach on a three-year contract, marking a sensational comeback to the Spanish club 13 years after his first spell. The Portuguese veteran replaces Alvaro Arbeloa following a second straight trophyless season and is charged with restoring Madrid’s dom",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:53:35.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/sport/20260611-real-madrid-turn-to-mourinho-again-in-bid-to-end-trophy-drought-with-3-year-contract"
-    },
-    {
-      "id": "news-93",
-      "headline": "Israel deports French journalist accused of supporting Hamas",
-      "summary": "Isreal suppressed coverage of its war on Gaza, banning international press and killing hundreds of local journalists.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:52:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss"
-    },
-    {
-      "id": "news-94",
-      "headline": "YouTuber Ben Phillips reports gunpoint robbery as French police arrest five suspects",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131668518.cms\" /&gt;<![CDATA[YouTuber Ben Phillips narrowly escaped a terrifying ordeal in Cannes, France, when armed robbers stormed his luxury villa. The intruders, w",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:48:06.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/youtuber-ben-phillips-reports-gunpoint-robbery-as-french-police-arrest-five-suspects/articleshow/131668518.cms"
-    },
-    {
-      "id": "news-95",
-      "headline": "China bars Philippines defence chief as South China Sea spat sails onwards",
-      "summary": "Chinese individuals and organisations are also banned from doing business with Gilberto Teodoro and his family.",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:46:22.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards?traffic_source=rss"
-    },
-    {
-      "id": "news-96",
-      "headline": "France: Protecting survivors cannot wait until trial day",
-      "summary": "⚖️🇫🇷 Protecting women & children cannot wait.\n \nWomen for Women France's Sarah McGrath advocates for stronger safeguarding policies for survivors waiting for trial on #F24Debate ➡️https://youtu.be/nKwRd6n1Zpk?si=RgDCqTiO2PrHTcrX",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:27:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260611-france-protecting-survivors-cannot-wait-until-trial-day"
-    },
-    {
-      "id": "news-97",
-      "headline": "13 Afghan Civilians Killed in Airstrikes on Pakistan Border, U.N. Says - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYk1fdmk5eTlmT0xSWVF6QkIxQjlxZk5VVUVHT0dTVk5Ua282S2Y3VE5pa1o2QjJDNWpkZ0hWbVVsX3hJN0tSbElWQjBTVkpMTmhPdExCRk8wRkktTG9kLTU3U2U3cExoRHF2NDlVTU90Smd0YlFzZThaOWhZenlVV0ZtTzFxR1BFQTZpNEc2ajlTZ2xvTndj?oc=5\" target=\"_blank\"&gt;13 Afghan Civilia",
-      "urgency": "breaking",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:23:02.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYk1fdmk5eTlmT0xSWVF6QkIxQjlxZk5VVUVHT0dTVk5Ua282S2Y3VE5pa1o2QjJDNWpkZ0hWbVVsX3hJN0tSbElWQjBTVkpMTmhPdExCRk8wRkktTG9kLTU3U2U3cExoRHF2NDlVTU90Smd0YlFzZThaOWhZenlVV0ZtTzFxR1BFQTZpNEc2ajlTZ2xvTndj?oc=5"
-    },
-    {
-      "id": "news-98",
-      "headline": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
-      "summary": "&lt;p&gt;Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts&lt;/p&gt;&lt;p&gt;A Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thursday, alleging that ChatGPT encouraged her daughter to kill herself. The ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:14:46.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit"
-    },
-    {
-      "id": "news-99",
-      "headline": "Iowa Guv issues statement amid job fear: 'At no point during our negotiations was it even considered to employ H-1B visa holders'",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131667943.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-11T19:07:02.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/iowa-guv-issues-statement-amid-job-fear-at-no-point-during-our-negotiations-was-it-even-considered-to-employ-h-1b-visa-holders/articleshow/131667943.cms"
     }
   ],
   "financials": {
