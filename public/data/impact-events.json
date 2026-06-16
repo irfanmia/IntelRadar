@@ -1,33 +1,40 @@
 {
-  "lastUpdated": "2026-06-16T14:20:11.580Z",
+  "lastUpdated": "2026-06-16T14:40:06.274Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 608,
-      "count": 350,
-      "breaking": 117,
-      "latest": "2026-06-16T14:18:44.000Z"
+      "score": 603,
+      "count": 347,
+      "breaking": 116,
+      "latest": "2026-06-16T14:26:00.000Z"
     },
     {
       "id": "middle-east",
-      "score": 366,
-      "count": 183,
-      "breaking": 85,
-      "latest": "2026-06-16T14:14:00.000Z"
+      "score": 376,
+      "count": 185,
+      "breaking": 89,
+      "latest": "2026-06-16T14:34:39.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 173,
+      "score": 172,
       "count": 67,
       "breaking": 52,
-      "latest": "2026-06-16T14:02:36.000Z"
+      "latest": "2026-06-16T14:28:42.000Z"
     },
     {
       "id": "sudan",
-      "score": 58,
-      "count": 25,
+      "score": 56,
+      "count": 24,
       "breaking": 16,
-      "latest": "2026-06-15T16:32:48.000Z"
+      "latest": "2026-06-15T12:00:00.000Z"
+    },
+    {
+      "id": "taliban-pakistan",
+      "score": 51,
+      "count": 19,
+      "breaking": 16,
+      "latest": "2026-06-16T07:47:03.000Z"
     },
     {
       "id": "korea",
@@ -37,18 +44,18 @@
       "latest": "2026-06-08T21:56:15.000Z"
     },
     {
-      "id": "taliban-pakistan",
-      "score": 46,
-      "count": 20,
-      "breaking": 13,
-      "latest": "2026-06-16T07:47:03.000Z"
+      "id": "venezuela",
+      "score": 31,
+      "count": 21,
+      "breaking": 4,
+      "latest": "2026-06-14T06:39:29.000Z"
     },
     {
-      "id": "venezuela",
-      "score": 29,
-      "count": 21,
-      "breaking": 3,
-      "latest": "2026-06-14T06:39:29.000Z"
+      "id": "sahel",
+      "score": 31,
+      "count": 20,
+      "breaking": 5,
+      "latest": "2026-05-19T07:00:00.000Z"
     },
     {
       "id": "china-taiwan",
@@ -56,13 +63,6 @@
       "count": 19,
       "breaking": 4,
       "latest": "2026-06-12T00:48:49.000Z"
-    },
-    {
-      "id": "sahel",
-      "score": 29,
-      "count": 20,
-      "breaking": 4,
-      "latest": "2026-06-09T05:00:00.000Z"
     }
   ],
   "countryEvents": {
@@ -168,8 +168,8 @@
       "middle-east",
       "ukraine-russia",
       "korea",
-      "china-taiwan",
       "venezuela",
+      "china-taiwan",
       "general"
     ],
     "united-kingdom": [
