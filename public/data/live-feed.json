@@ -1,8 +1,494 @@
 {
-  "lastUpdated": "2026-06-22T00:28:43.150Z",
+  "lastUpdated": "2026-06-22T01:44:26.169Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Largest ever cocaine bust in Australia after police raid underground bunker",
+      "summary": "Police seized 2.7 tonnes of cocaine worth an estimated A$816m after searching a property in western Sydney.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Asia",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:40:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.com/news/articles/c14ygjzr8j7o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "After hours-long talks in Burgenstock, US and Iran agree on roadmap to reach final peace deal in 60 days",
+      "summary": "&lt;p&gt;After hours-long negotiations in the Swiss resort of Burgenstock, the US and Iran agreed on a roadmap towards reaching a final peace deal in 60 days, a joint statement issued by mediators Pakistan and Qatar said on Monday.&lt;/p&gt;\n&lt;p&gt;The talks began on Sunday and stretched into Mond",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:36:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2009504/after-hours-long-talks-in-burgenstock-us-and-iran-agree-on-roadmap-to-reach-final-peace-deal-in-60-days"
+    },
+    {
+      "id": "news-2",
+      "headline": "Moving the goalposts won’t fix sources of Hong Kong poverty",
+      "summary": "Last week, Xia Baolong, Beijing’s point man on Hong Kong and Macau affairs, made a two-day trip to the city to review the Hong Kong government’s progress across many areas.\nEverything seems to have been orchestrated with precision. Ahead of Xia’s arrival, the government launched its two-month public",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:30:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3357680/moving-goalposts-wont-fix-sources-hong-kong-poverty?utm_source=rss_feed"
+    },
+    {
+      "id": "news-3",
+      "headline": "Live updates: US says negotiations with Iran ongoing after Trump’s threat disrupts talks - CNN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG5XRXhqYllSMDk1cko0aTRtX2dLWTFEVjMxYjhBVUh0WVZueEN4NEtLMUowNkVwNE1SRHFEUE5PMUhVY2o2MGJUbjEwMTlUalZrVzQtOUdxZG96YXFjc1c4LUFnaGtiMDFIeVdEaThKakJsdEJiVXZaX3ZHMFNDRk5R?oc=5\" target=\"_blank\"&gt;Live updates: US says negotiations with Iran ",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:29:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG5XRXhqYllSMDk1cko0aTRtX2dLWTFEVjMxYjhBVUh0WVZueEN4NEtLMUowNkVwNE1SRHFEUE5PMUhVY2o2MGJUbjEwMTlUalZrVzQtOUdxZG96YXFjc1c4LUFnaGtiMDFIeVdEaThKakJsdEJiVXZaX3ZHMFNDRk5R?oc=5"
+    },
+    {
+      "id": "news-4",
+      "headline": "Australia makes record cocaine bust after 2.7 tonnes found buried in Sydney",
+      "summary": "Australian police seized a record 2.7 tonnes of cocaine hidden in plastic tubs buried underground on the outskirts of Sydney, detectives said on Monday.\nIt was the largest cocaine haul in Australian history, a joint organised crime investigation force said in a statement.\nPolice allege a Sydney-base",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:28:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/asia/australasia/article/3357854/australia-makes-record-cocaine-bust-after-27-tonnes-found-buried-sydney?utm_source=rss_feed"
+    },
+    {
+      "id": "news-5",
+      "headline": "Australia politics live: Tim Wilson says it’s ‘silly’ to ask if house prices should go up or down amid debate over property tax reform",
+      "summary": "&lt;p&gt;Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;free app&lt;/a&gt; or &lt;a href=\"https://www.theguardian.com/austr",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:27:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb"
+    },
+    {
+      "id": "news-6",
+      "headline": "Ship traffic slows as Strait of Hormuz uncertainty deepens",
+      "summary": "Ship traffic slows as Strait of Hormuz uncertainty deepens",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:27:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/ship-traffic-slows-as-strait-of-hormuz-uncertainty-deepens-1.500582139"
+    },
+    {
+      "id": "news-7",
+      "headline": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
+      "summary": "Negotiators from the US and Iran wrapped a day of talks in Switzerland.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:19:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss"
+    },
+    {
+      "id": "news-8",
+      "headline": "Iran&apos;s challenges at World Cup swirl outside draw with Belgium",
+      "summary": "Iran&apos;s challenges at World Cup swirl outside draw with Belgium",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:15:13.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/football/world-cup/irans-challenges-at-world-cup-swirl-outside-draw-with-belgium-1.500582180"
+    },
+    {
+      "id": "news-9",
+      "headline": "No pressure to pass the ball to Ronaldo in World Cup: Portugal’s Conceicao",
+      "summary": "Ronaldo has faced criticism after his performance in Portugal’s first match of the FIFA World Cup.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:12:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/6/22/no-pressure-to-pass-the-ball-to-ronaldo-in-world-cup-portugals-conceicao?traffic_source=rss"
+    },
+    {
+      "id": "news-10",
+      "headline": "Live Updates: U.S. and Iranian negotiators meet as Trump threatens to \"hit Iran very hard again\" over Hezbollah - CBS News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG40STJrQkMxTUlTM2J4bkNpWXJTb0daR3BXaEpNZGx5dVVzaVFsQU9xRXU0QkVlSWw0dXpmSkdYNEVBZmEzVmhma0pyTUg0TFUyMHJnOFQzRFk0Zk5PeHpvVmpVXzZLMVhpS3JoeExqNFhwdkdDSXRfeElvb0VUTGk4bFhvZExWTHFYcWItUWs0cmpNY1R0ZjlDdGZaLTlXTW5VZkVnS1g0a0dhaFE?oc=5\" targe",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:06:52.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG40STJrQkMxTUlTM2J4bkNpWXJTb0daR3BXaEpNZGx5dVVzaVFsQU9xRXU0QkVlSWw0dXpmSkdYNEVBZmEzVmhma0pyTUg0TFUyMHJnOFQzRFk0Zk5PeHpvVmpVXzZLMVhpS3JoeExqNFhwdkdDSXRfeElvb0VUTGk4bFhvZExWTHFYcWItUWs0cmpNY1R0ZjlDdGZaLTlXTW5VZkVnS1g0a0dhaFE?oc=5"
+    },
+    {
+      "id": "news-11",
+      "headline": "Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda",
+      "summary": "Health officials defend the restrictions, but traders say the measures have disrupted the flow of goods and income.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:06:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/6/22/ebola-closure-cuts-off-a-lifeline-between-drcs-goma-and-rwanda?traffic_source=rss"
+    },
+    {
+      "id": "news-12",
+      "headline": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
+      "summary": "A victory for Abelardo De La Espriella, a lawyer with no previous political experience, would be a rebuke to the left and another win for the right in Latin America.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:03:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html"
+    },
+    {
+      "id": "news-13",
+      "headline": "Russian-occupied Crimea suspends fuel sales: Moscow-backed governor",
+      "summary": "Russian-occupied Crimea suspends petrol sales: Moscow-backed governor",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:01:17.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/europe/russian-occupied-crimea-suspends-fuel-sales-moscow-backed-governor-1.500581615"
+    },
+    {
+      "id": "news-14",
+      "headline": "Beyond plastic: The next circular economy challenge",
+      "summary": "Beyond plastic: The next circular economy challenge",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:01:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/opinion/op-eds/beyond-plastic-the-next-circular-economy-challenge-1.500579108"
+    },
+    {
+      "id": "news-15",
+      "headline": "Hong Kong aims to offer more investment options for mainland Chinese: Paul Chan",
+      "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s senior officials about the administration’s achievements so far and what may lie ahead.\nMore mainland Chinese investors could gain access to a broader range of products i",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:00:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357808/hong-kong-aims-offer-more-investment-options-mainland-chinese-paul-chan?utm_source=rss_feed"
+    },
+    {
+      "id": "news-16",
+      "headline": "Chinese woman suffers red, itchy skin after extreme full-face coverage, sunscreen use",
+      "summary": "A Chinese woman developed rashes and itching after applying extreme sun protection measures, including wearing a sunscreen product that covers her whole face.\nThe woman from eastern China’s Jiangsu province was recently reported to have developed red and itchy skin while travelling.\nShe applied sun ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:00:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3357409/chinese-woman-suffers-red-itchy-skin-after-extreme-full-face-coverage-sunscreen-use?utm_source=rss_feed"
+    },
+    {
+      "id": "news-17",
+      "headline": "UAE residents rethink loans, credit cards as rising costs change borrowing habits",
+      "summary": "UAE residents rethink loans, credit cards as rising costs change borrowing habits",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/economy/uae-residents-rethink-loans-credit-cards-as-rising-costs-change-borrowing-habits-1.500581888"
+    },
+    {
+      "id": "news-18",
+      "headline": "House of the Dragon Season 3 review: The Game of Thrones prequel finally roars in fire, blood and grief",
+      "summary": "House of the Dragon Season 3 review: The Game of Thrones prequel finally roars in fire, blood and grief",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/entertainment/house-of-the-dragon-season-3-review-the-game-of-thrones-prequel-finally-roars-in-fire-blood-and-grief-1.500582026"
+    },
+    {
+      "id": "news-19",
+      "headline": "UAE&apos;s under-15 social media ban: What TikTok, Instagram, Snapchat, Facebook, X must do and penalties if they don&apos;t",
+      "summary": "UAE&apos;s under-15 social media ban: What TikTok, Instagram, Snapchat, Facebook, X must do and penalties if they don&apos;t",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T01:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/uaes-under-15-social-media-ban-what-tiktok-instagram-snapchat-facebook-x-must-do-and-penalties-if-they-dont-1.500582129"
+    },
+    {
+      "id": "news-20",
+      "headline": "Cape Verde fight back for second World Cup draw 2-2 against Uruguay",
+      "summary": "Uruguay could need a win over Spain next weekend to avoid a second consecutive FIFA World Cup group-stage exit.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T00:58:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/6/22/cape-verde-fight-back-for-second-world-cup-draw-2-2-against-uruguay?traffic_source=rss"
+    },
+    {
+      "id": "news-21",
+      "headline": "Egyptian football fans chant for Palestine in Vancouver",
+      "summary": "Egyptian fans gathered outside BC Place in Vancouver ahead of their World Cup match against New Zealand.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T00:58:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/egyptian-football-fans-chant-for-palestine-in-vancouver?traffic_source=rss"
+    },
+    {
+      "id": "news-22",
+      "headline": "Mideast Live Updates: Strains Emerge on First Day of U.S.-Iran Talks",
+      "summary": "Negotiations were expected to continue through the night, a U.S. official said. Iranian negotiators insisted on an end to the war in Lebanon as a condition for further talks, state media reported, as President Trump renewed threats against Iran.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T00:57:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
+    },
+    {
+      "id": "news-23",
+      "headline": "Israeli military says killed two near West Bank settlement",
+      "summary": "Israeli military says killed two near West Bank settlement",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T00:49:38.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/israeli-military-says-killed-two-near-west-bank-settlement-1.500582164"
+    },
+    {
+      "id": "news-24",
+      "headline": "Cape Verde stun Uruguay, Yamal kickstarts Spain World Cup bid",
+      "summary": "Spain target convincing win to dispel World Cup doubts",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-22T00:32:06.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/football/world-cup/yamal-kickstarts-spain-world-cup-bid-as-cape-verde-stun-uruguay-1.500581609"
+    },
+    {
+      "id": "news-25",
+      "headline": "Trump faces new hurdles after deal: Iran’s leverage, Israel’s attacks, MAGA’s backlash - The Washington Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBYbWRrSDhfa2dsUUFiZ0xyV2Mxb2pSV29aV0JRM1A1Ykc0VF80czZ3ajlnYlphY1phWndBQV9udmpEZVFISUtleVpsTnRteE5UMjUwOUppek1ZS05mZXBLT09uY3pvQWhkTnJacWkxSDFUc2xwbWFua0MwdjF4RFR6bkdYM0VmRDlKS0Jwb3M2aDI3bGQwMjNvQUZHNFRmVDVlV0Y3WQ?oc=5\" target=\"_blank",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T00:28:17.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBYbWRrSDhfa2dsUUFiZ0xyV2Mxb2pSV29aV0JRM1A1Ykc0VF80czZ3ajlnYlphY1phWndBQV9udmpEZVFISUtleVpsTnRteE5UMjUwOUppek1ZS05mZXBLT09uY3pvQWhkTnJacWkxSDFUc2xwbWFua0MwdjF4RFR6bkdYM0VmRDlKS0Jwb3M2aDI3bGQwMjNvQUZHNFRmVDVlV0Y3WQ?oc=5"
+    },
+    {
+      "id": "news-26",
+      "headline": "Far-right millionaire Abelardo de la Espriella wins Colombia’s presidential runoff",
+      "summary": "&lt;p&gt;Leftwing opponent alleges vote count irregularities after Trump-endorsed lawyer secures narrow majority&lt;/p&gt;&lt;p&gt;The Trump-admiring far-right millionaire lawyer and self-styled “outsider” Abelardo de la Espriella has won Colombia’s presidential runoff, defeating the leftwing senato",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-22T00:27:07.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff"
+    },
+    {
+      "id": "news-27",
       "headline": "West Asia war updates on June 21, 2026: Iranians walk out of talks venue after Trump threat - The Hindu",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxNcGJsclpoQktyVnpPMVhqREQ4X2VBbktaYUlJSVRnaDM0UWdWc1MwdnlpOTdJUVpXMGRuVDNpSkw1QXhZVDF0WlV0ZmtiaVl6WUpjQXFhLUxpTjZoS1ZzQ2xaS3dQOXNGSzVaSC1zVmlpclp5cmMtR3F4RDM5OVd4RTVxM040cmZodlhMenFMamk3QXY5TGxkZnBETXBJc2dYdDU5TmVDQ3dPWUowY05BdThCSmJvZzV",
       "urgency": "breaking",
@@ -20,25 +506,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNcGJsclpoQktyVnpPMVhqREQ4X2VBbktaYUlJSVRnaDM0UWdWc1MwdnlpOTdJUVpXMGRuVDNpSkw1QXhZVDF0WlV0ZmtiaVl6WUpjQXFhLUxpTjZoS1ZzQ2xaS3dQOXNGSzVaSC1zVmlpclp5cmMtR3F4RDM5OVd4RTVxM040cmZodlhMenFMamk3QXY5TGxkZnBETXBJc2dYdDU5TmVDQ3dPWUowY05BdThCSmJvZzVEY0ZPaEVMaC1yUFlJNUJCSGpSdHUtWlhpX0wybWpmaVJGQUUtbE94czRudUZHR1ZsUlZQSlVXSDQwZXBuVXdmWkstdUFySVo0Sm1QUFhwbnZMNzFvYlBPY0RqVWVIY0p6VzhWamhaRDJyZW9HdVlQVy1Kb0FuQdIBtAJBVV95cUxPVTFFS055YWNGem43NTRtMkFvdHRBMmFBYlVOdENEVnJKNTl0NGtXRkRscHQtelZQUlZhYWp6R19EZ0VXYmJnSXhFb3p5ZTc1UnNCMzhielRiMk14WTlaVnZEREZ3d1dxb2ZNUmYtSEZOZGhvV0pCVGpJQWsxQS1saWd3UG9aU2pyV3M4cTNqWmdYYjZpX1dEVXJ1M3Q3Ums1TVltS1dSTkV1blg4MklveGdKN24tUkNWNDlDUzd4OUtrSHNGeWJxX29wMkNWdTlFZUhkWWZUZEsxa0ZoVkRwQUlFSzViX1RkaG1DVVdVaV94VW5DX2x5V0JZeThkNWtIUWtSZUxFSGFrX1g4RXN0dkFSdVkxaWZHa3hsUEU4ZmJPbWZyQ0JYLWZ3YXBxaXFwbWZlUA?oc=5"
     },
     {
-      "id": "news-1",
-      "headline": "Mideast Live Updates: Strains Emerge on First Day of U.S.-Iran Talks",
-      "summary": "Iranian negotiators insisted on an end to the war in Lebanon as a condition for further talks, state media reported. And President Trump renewed threats against Iran, even as Vice President JD Vance was hailing progress.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-22T00:17:15.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
-    },
-    {
-      "id": "news-2",
+      "id": "news-28",
       "headline": "Iranians gather in Tehran to support team in critical draw against Belgium",
       "summary": "Iranian fans in Tehran watched their team secure a 0-0 draw against Belgium at the World Cup in Los Angeles.",
       "urgency": "info",
@@ -56,7 +524,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss"
     },
     {
-      "id": "news-3",
+      "id": "news-29",
       "headline": "World Cup 2026: Cape Verde fight back to earn second draw against Uruguay",
       "summary": "Newcomers Cape Verde fought back against two-time champions Uruguay in a 2-2 draw to clinch a second point at their maiden World Cup and maintain their unbeaten run, just days after causing the first shock of the tournament by holding favourites Spain to a goalless stalemate.",
       "urgency": "info",
@@ -74,7 +542,7 @@
       "link": "https://www.france24.com/en/sport/20260622-world-cup-2026-cape-verde-fight-back-to-earn-second-draw-against-uruguay"
     },
     {
-      "id": "news-4",
+      "id": "news-30",
       "headline": "Canada steps up at Rimpac to rebut Trump’s freeriding charge",
       "summary": "Canada is deploying two frigates and a submarine to the world’s largest multinational naval exercise this week, in what analysts describe as both a display of Indo-Pacific seriousness and a pointed rebuttal to Washington’s “freeriding” charge.\nHMCS Ottawa, HMCS Regina and submarine HMCS Corner Brook",
       "urgency": "info",
@@ -92,7 +560,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3357714/canada-steps-rimpac-rebut-trumps-freeriding-charge?utm_source=rss_feed"
     },
     {
-      "id": "news-5",
+      "id": "news-31",
       "headline": "Iran war live: First day of US talks covers Lebanon, Hormuz, frozen assets",
       "summary": "Trump threatens to hit Iran &#039;very hard&#039; amid talks, prompting Ghalibaf to warn the US to take care with its rhetoric.",
       "urgency": "breaking",
@@ -110,7 +578,7 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss"
     },
     {
-      "id": "news-6",
+      "id": "news-32",
       "headline": "Brexit sent UK firms looking beyond Europe, and Dubai became the winner",
       "summary": "Brexit sent UK firms looking beyond Europe, and Dubai became the winner",
       "urgency": "info",
@@ -128,25 +596,7 @@
       "link": "https://gulfnews.com/business/economy/brexit-sent-uk-firms-looking-beyond-europe-and-dubai-became-the-winner-1.500581740"
     },
     {
-      "id": "news-7",
-      "headline": "Australia politics live: Jane Hume attacks ‘hypocrisy’ of property tax reform as auction clearance rates fall below 50%",
-      "summary": "&lt;p&gt;Deputy Liberal leader says Labor politicians pulling the ladder up behind them after using negative gearing to create wealth. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T23:57:22.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb"
-    },
-    {
-      "id": "news-8",
+      "id": "news-33",
       "headline": "Abu Dhabi unveils Dh200 billion mega buildout: 600+ projects to transform housing, transport, healthcare and turn Emirate into global hub",
       "summary": "Abu Dhabi unveils Dh200 billion mega buildout: 600+ projects to transform housing, transport, healthcare and turn Emirate into global hub",
       "urgency": "info",
@@ -164,25 +614,25 @@
       "link": "https://gulfnews.com/business/property/abu-dhabi-to-host-the-forbes-middle-east-building-the-future-summit-2026-1.500582190"
     },
     {
-      "id": "news-9",
-      "headline": "First round of direct US-Iran talks since deal expected to continue through the night",
-      "summary": "The US president, who is not at the talks, had earlier exchanged warnings with Iran's negotiator over clashes between Israel and Hezbollah in Lebanon.",
-      "urgency": "breaking",
+      "id": "news-34",
+      "headline": "First round of direct US-Iran talks since deal expected to continue through the night - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnejBZZkZqbVNKSTllMVV3bmhsQUdLSFZZcnBZejdzNDJSNDZXRFNoN0ozZkFaeTcxc3NhS0FfSVM4QjBSOXBueUNoUGFMV2hYcFFFY0ROWDVKQQ?oc=5\" target=\"_blank\"&gt;First round of direct US-Iran talks since deal expected to continue through the night&lt;/a&gt;&amp",
+      "urgency": "info",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
           "category": "global_media"
         }
       ],
       "timestamp": "2026-06-21T23:55:06.000Z",
       "widgetType": "news",
-      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnejBZZkZqbVNKSTllMVV3bmhsQUdLSFZZcnBZejdzNDJSNDZXRFNoN0ozZkFaeTcxc3NhS0FfSVM4QjBSOXBueUNoUGFMV2hYcFFFY0ROWDVKQQ?oc=5"
     },
     {
-      "id": "news-10",
+      "id": "news-35",
       "headline": "Trump-backed candidate wins razor-tight Colombia presidential vote",
       "summary": "A flamboyant US-backed lawyer who has never held public office narrowly won Colombia’s presidential run-off on Sunday, swinging the country hard to the right on a promise to wage war against drug-running guerrilla groups.\nWith more than 99 per cent of polling centres reporting, Abelardo de la Esprie",
       "urgency": "breaking",
@@ -200,7 +650,7 @@
       "link": "https://www.scmp.com/news/world/americas/article/3357850/trump-backed-candidate-wins-razor-tight-colombia-presidential-vote?utm_source=rss_feed"
     },
     {
-      "id": "news-11",
+      "id": "news-36",
       "headline": "BTS fans desperate to catch comeback tour lose more than $100,000 to scammers",
       "summary": "Elated to see BTS on the road again, but frustrated by competitive ticket wars, they have become easy targets.",
       "urgency": "breaking",
@@ -218,25 +668,7 @@
       "link": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-12",
-      "headline": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
-      "summary": "A victory for Abelardo De La Espriella, a lawyer with no previous political experience, would be a rebuke to the left and another win for the right in Latin America.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T23:39:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html"
-    },
-    {
-      "id": "news-13",
+      "id": "news-37",
       "headline": "World Cup what to know: Messi, Mbappe and Haaland back in action",
       "summary": "World Cup what to know: Messi, Mbappé and Haaland back in action",
       "urgency": "info",
@@ -254,7 +686,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/world-cup-what-to-know-messi-mbappe-and-haaland-back-in-action-1.500582177"
     },
     {
-      "id": "news-14",
+      "id": "news-38",
       "headline": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
       "summary": "Palestinians in Gaza gathered to watch Spain&#039;s World Cup victory over Saudi Arabia.",
       "urgency": "info",
@@ -272,7 +704,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss"
     },
     {
-      "id": "news-15",
+      "id": "news-39",
       "headline": "Iran Says It Is Pausing Talks After Trump Threats - WSJ",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTZVenJFcjA3OTZZWklMc1lneGJzd1VkcHpCb01HZlYtMTh4Rlh2LW1iWnhCMVZkWXNzRk0xa0Q2V3R5YnNTZ1pPTGRHSThoRWRaV3gtVGl0UjNVeXkxX0QxcnFpdVMtWkVJUmtCemVoVGZaZzhubWFqVHp1OUhxY0VOOU5tZGtHSkZlaXJNUWducFdGZVpVblhrOUx6TDZWbzlmYXZOOTlHYk1VaWhr?oc=5\" targ",
       "urgency": "info",
@@ -290,25 +722,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTZVenJFcjA3OTZZWklMc1lneGJzd1VkcHpCb01HZlYtMTh4Rlh2LW1iWnhCMVZkWXNzRk0xa0Q2V3R5YnNTZ1pPTGRHSThoRWRaV3gtVGl0UjNVeXkxX0QxcnFpdVMtWkVJUmtCemVoVGZaZzhubWFqVHp1OUhxY0VOOU5tZGtHSkZlaXJNUWducFdGZVpVblhrOUx6TDZWbzlmYXZOOTlHYk1VaWhr?oc=5"
     },
     {
-      "id": "news-16",
-      "headline": "Live updates: US says negotiations with Iran ongoing after Trump’s threat disrupts talks - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG5XRXhqYllSMDk1cko0aTRtX2dLWTFEVjMxYjhBVUh0WVZueEN4NEtLMUowNkVwNE1SRHFEUE5PMUhVY2o2MGJUbjEwMTlUalZrVzQtOUdxZG96YXFjc1c4LUFnaGtiMDFIeVdEaThKakJsdEJiVXZaX3ZHMFNDRk5R?oc=5\" target=\"_blank\"&gt;Live updates: US says negotiations with Iran ",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T23:08:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG5XRXhqYllSMDk1cko0aTRtX2dLWTFEVjMxYjhBVUh0WVZueEN4NEtLMUowNkVwNE1SRHFEUE5PMUhVY2o2MGJUbjEwMTlUalZrVzQtOUdxZG96YXFjc1c4LUFnaGtiMDFIeVdEaThKakJsdEJiVXZaX3ZHMFNDRk5R?oc=5"
-    },
-    {
-      "id": "news-17",
+      "id": "news-40",
       "headline": "Where is Hong Kong 29 years after handover?",
       "summary": "Where is Hong Kong 29 years after handover?",
       "urgency": "info",
@@ -326,7 +740,7 @@
       "link": "https://www.scmp.com/news/hong-kong/series/3357848/where-hong-kong-29-years-after-handover?utm_source=rss_feed"
     },
     {
-      "id": "news-18",
+      "id": "news-41",
       "headline": "Hong Kong to roll out measures boosting offshore yuan trading in July: finance chief",
       "summary": "As Hong Kong marks the 29th anniversary of its return to Chinese rule on July 1, the South China Morning Post talks to the city’s senior officials about the administration’s achievements so far and what may lie ahead.\nAuthorities are expected to roll out measures to strengthen Hong Kong’s role as an",
       "urgency": "info",
@@ -344,25 +758,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357804/hong-kong-roll-out-measures-boosting-offshore-yuan-trading-july-finance-chief?utm_source=rss_feed"
     },
     {
-      "id": "news-19",
-      "headline": "Far-right millionaire Abelardo de la Espriella wins Colombia’s presidential runoff",
-      "summary": "&lt;p&gt;Leftwing opponent alleges vote count irregularities after Trump-endorsed lawyer secures narrow majority&lt;/p&gt;&lt;p&gt;The Trump-admiring far-right millionaire lawyer and self-styled “outsider” Abelardo de la Espriella has won Colombia’s presidential runoff, defeating the leftwing senato",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T22:51:47.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff"
-    },
-    {
-      "id": "news-20",
+      "id": "news-42",
       "headline": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar - PBS",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVQ0enA2cm1mUWxwZVZMYjl1VEI1N3I2VGtrdENQMTB2NDhtdnAtMk5mMzJGNGQzNjA2MEl3ZDlVTnY3dXJUQ2hCU3lEeTBvSVlSUldZS1FqWjU4aFpMTERIcVlNREgwUXZpdXRQc2NfekM1Skt2Y1BRMnRkVzRRYzZIYko2d3Q1U1hTVVlWQzhodmMtWTdudVEwZDdxc0hoU3JrYUhtZW5VSzFhaW5rMnRLTXloQjF",
       "urgency": "info",
@@ -380,7 +776,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVQ0enA2cm1mUWxwZVZMYjl1VEI1N3I2VGtrdENQMTB2NDhtdnAtMk5mMzJGNGQzNjA2MEl3ZDlVTnY3dXJUQ2hCU3lEeTBvSVlSUldZS1FqWjU4aFpMTERIcVlNREgwUXZpdXRQc2NfekM1Skt2Y1BRMnRkVzRRYzZIYko2d3Q1U1hTVVlWQzhodmMtWTdudVEwZDdxc0hoU3JrYUhtZW5VSzFhaW5rMnRLTXloQjFHRzBn0gHAAUFVX3lxTE9WYW1NV2FfRjl4MXY2dm9CMnlscEk4aWNnTEVocjl1TDdSUWVWRE1OVXhyR3hvelAyTURtTVRwM1ZQUl9uZzdFVmR3NnFDdUpCbVNSTmF0Nk5iMElfUEZGS3p5OEV3LTB3XzlqU0dHdkllMWNiQmdZTng0VVFCelhZRHJzODNOX0hwREkxSDR3dWVsTHNEdFd1UTB1Y3puOTdoTHFVTFlNeHVPQXFpNDVSS2VCSGtfbm5LMWpjaVVJbg?oc=5"
     },
     {
-      "id": "news-21",
+      "id": "news-43",
       "headline": "JD Vance holds peace talks with Iran as Trump threatens strikes over Hormuz",
       "summary": "The president's warning underscores persistent tensions even as Vance said in Switzerland that he hoped the two sides would “turn over a new leaf” in their relationship.",
       "urgency": "breaking",
@@ -398,7 +794,7 @@
       "link": "https://www.washingtonpost.com/world/2026/06/21/us-iranian-meet-switzerland-hash-out-peace-plan/"
     },
     {
-      "id": "news-22",
+      "id": "news-44",
       "headline": "Almost three tonnes of cocaine found buried under Sydney property in Australia’s biggest ever seizure, police say",
       "summary": "&lt;p&gt;Australian federal police arrested and charged two men after allegedly finding 2.7 tonnes of cocaine in ‘bunkers’ under shipping containers&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-o",
       "urgency": "breaking",
@@ -416,7 +812,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jun/22/almost-three-tonnes-of-cocaine-found-buried-under-sydney-property-in-australias-biggest-ever-seizure-police-say"
     },
     {
-      "id": "news-23",
+      "id": "news-45",
       "headline": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region",
       "summary": "Egypt, Pakistan, Saudi Arabia, Türkiye affirm US-Iran agreement should ensure security and stability of Gulf region",
       "urgency": "info",
@@ -434,7 +830,7 @@
       "link": "https://gulfnews.com/world/mena/egypt-pakistan-saudi-arabia-t%C3%BCrkiye-affirm-us-iran-agreement-should-ensure-security-and-stability-of-gulf-region-1.500582063"
     },
     {
-      "id": "news-24",
+      "id": "news-46",
       "headline": "&apos;Toy Story 5&apos; rakes in the biggest box-office debut of the year with a franchise-best $160 million",
       "summary": "&apos;Toy Story 5&apos; rakes in the biggest box-office debut of the year with a franchise-best $160 million",
       "urgency": "info",
@@ -452,7 +848,7 @@
       "link": "https://gulfnews.com/entertainment/toy-story-5-rakes-in-the-biggest-box-office-debut-of-the-year-with-a-franchise-best-160-million-1.500582046"
     },
     {
-      "id": "news-25",
+      "id": "news-47",
       "headline": "Explosion at Qatar&apos;s Ras Laffan industrial zone leaves several injured",
       "summary": "Explosion at Qatar&apos;s Ras Laffan industrial zone: interior ministry",
       "urgency": "breaking",
@@ -470,7 +866,7 @@
       "link": "https://gulfnews.com/world/gulf/qatar/explosion-at-qatars-ras-laffan-industrial-zone-leaves-several-injured-1.500582131"
     },
     {
-      "id": "news-26",
+      "id": "news-48",
       "headline": "Trump says repairs to begin &apos;immediately&apos; for Washington pool renovation",
       "summary": "Trump blames &apos;terrible vandals&apos; for Washington pool renovation woes",
       "urgency": "info",
@@ -488,7 +884,7 @@
       "link": "https://gulfnews.com/world/americas/trump-says-repairs-to-begin-immediately-for-washington-pool-renovation-1.500581524"
     },
     {
-      "id": "news-27",
+      "id": "news-49",
       "headline": "UAE riders claim top three spots in Emirates Global Endurance Series opener in France",
       "summary": "UAE riders claim top three spots in Emirates Global Endurance Series opener in France",
       "urgency": "info",
@@ -506,7 +902,7 @@
       "link": "https://gulfnews.com/sport/uae-riders-claim-top-three-spots-in-emirates-global-endurance-series-opener-in-france-1.500582135"
     },
     {
-      "id": "news-28",
+      "id": "news-50",
       "headline": "Nie Huihua on the non-Westernness of Chinese government and the challenge to innovation",
       "summary": "Nie Huihua, a professor of economics at Renmin University, discusses how an effective understanding of China’s development requires a shift from Western-centric frameworks to an integrated perspective that recognises how formal institutions, informal grass-roots mechanisms and cultural collectivism ",
       "urgency": "info",
@@ -524,7 +920,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3357816/nie-huihua-non-westernness-chinese-government-and-challenge-innovation?utm_source=rss_feed"
     },
     {
-      "id": "news-29",
+      "id": "news-51",
       "headline": "7 killed and dozens injured following series of weekend shootings in Chicago",
       "summary": "7 killed and dozens injured following series of weekend shootings in Chicago",
       "urgency": "breaking",
@@ -542,7 +938,7 @@
       "link": "https://gulfnews.com/world/americas/7-killed-and-dozens-injured-following-series-of-weekend-shootings-in-chicago-1.500582111"
     },
     {
-      "id": "news-30",
+      "id": "news-52",
       "headline": "Currency crash and visa crackdowns force Indian students to rethink studying abroad",
       "summary": "A weaker rupee and tougher immigration rules are pushing Indian students away from popular destinations like the US and UK.",
       "urgency": "info",
@@ -560,7 +956,7 @@
       "link": "https://www.bbc.com/news/articles/c8x2gd9lkxzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-53",
       "headline": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
       "summary": "Nathan Ngoy was sent off for hauling down Mehdi Taremi, whose first-half strike was ruled offside in close Group G game.",
       "urgency": "breaking",
@@ -578,9 +974,9 @@
       "link": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
     },
     {
-      "id": "news-32",
-      "headline": "People caught vandalising Washington Reflecting Pool to be fully prosecuted",
-      "summary": "People ⁠caught vandalising the Lincoln Memorial Reflecting ⁠Pool on Washington’s National Mall will be fully prosecuted, US Attorney Jeanine Pirro said on Sunday.\nUS President Donald Trump has blamed vandalism for recent problems with the newly renovated pool, including its new ‌blue paint peeling o",
+      "id": "news-54",
+      "headline": "US attorney backs Trump on Washington pool ‘vandalising’, vows full prosecution",
+      "summary": "People ⁠caught vandalising the Lincoln Memorial Reflecting ⁠Pool on Washington’s National Mall will be fully prosecuted, US Attorney Jeanine Pirro said on Sunday.\nPresident Donald Trump has blamed vandalism for recent problems with the newly renovated pool, including its new ‌blue paint peeling off.",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -596,7 +992,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3357847/people-caught-vandalising-washington-reflecting-pool-be-fully-prosecuted?utm_source=rss_feed"
     },
     {
-      "id": "news-33",
+      "id": "news-55",
       "headline": "European heatwave sweeps across continent",
       "summary": "European heatwave sweeps across continent",
       "urgency": "info",
@@ -614,7 +1010,7 @@
       "link": "https://gulfnews.com/world/europe/european-heatwave-sweeps-across-continent-1.500582138"
     },
     {
-      "id": "news-34",
+      "id": "news-56",
       "headline": "‘High drama’ over Trump threats and Lebanon at US-Iran talks in Switzerland - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3FjZXl6NnNTa3N4ZndtVW8xTnY3WFl2ekNjbTJzZGRGMnBLZUhzaTNUWk01QTRSQXgwTmVRakdybFhjdmt5WlpDYmxzZ1QtR3ZhZHV5YmlMOXBya3lTZ0VvY2twVWNyTlhhdUN2VWp2RXlNbTNoYUU2Ml9vX25DWDFRZkpwOFpGOENxY2RxbFPSAZYBQVVfeXFMT1hya0JhY05hOVVuQUpIbFk3T2xscFBsMHJuYjU",
       "urgency": "info",
@@ -632,7 +1028,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3FjZXl6NnNTa3N4ZndtVW8xTnY3WFl2ekNjbTJzZGRGMnBLZUhzaTNUWk01QTRSQXgwTmVRakdybFhjdmt5WlpDYmxzZ1QtR3ZhZHV5YmlMOXBya3lTZ0VvY2twVWNyTlhhdUN2VWp2RXlNbTNoYUU2Ml9vX25DWDFRZkpwOFpGOENxY2RxbFPSAZYBQVVfeXFMT1hya0JhY05hOVVuQUpIbFk3T2xscFBsMHJuYjU2V09SQXV1NW04VktLWkZfRGlUYl9JUlRXLWxJUDhYVHBhSHdkdlBLeWI3bUJhQW9ZLWF0T28weW0zSV95dHNlMjY0WldueUxjZW5BTzRidDQ4N1BNQmpBaGFDZ1FwcDc2SVZpNF8xa3NqSUxxT3phQW5B?oc=5"
     },
     {
-      "id": "news-35",
+      "id": "news-57",
       "headline": "Several reported injured after 'technical accident' causes explosion at Qatar factory",
       "summary": "&lt;p&gt;Qatar’s interior ministry said an explosion resulting from a “technical accident” occurred on Sunday at a factory in Ras Laffan, an industrial city north of the capital Doha and site of the country’s core LNG processing operations.&lt;/p&gt;\n&lt;p&gt;It said several injuries were reported b",
       "urgency": "breaking",
@@ -650,7 +1046,7 @@
       "link": "https://www.dawn.com/news/2009790/several-reported-injured-after-technical-accident-causes-explosion-at-qatar-factory"
     },
     {
-      "id": "news-36",
+      "id": "news-58",
       "headline": "China-Asean relations are bigger than mere geopolitics",
       "summary": "China-Asean relations are usually described in two ways. One emphasises danger: the South China Sea, US-China rivalry, military pressure and risk of Southeast Asia being pulled into China’s orbit. The other emphasises opportunity: trade, infrastructure, investment, supply chains and shared growth.\nB",
       "urgency": "info",
@@ -668,7 +1064,7 @@
       "link": "https://www.scmp.com/opinion/asia-opinion/article/3357468/china-asean-relations-are-bigger-mere-geopolitics?utm_source=rss_feed"
     },
     {
-      "id": "news-37",
+      "id": "news-59",
       "headline": "Iran frustrate star-studded Belgium to steal another World Cup point",
       "summary": "&lt;p&gt;Belgium were held to a scoreless draw by Iran in a frustrating encounter Sunday that saw the Red Devils reduced to 10 men and facing the possibility of group-stage elimination for a second straight World Cup.&lt;/p&gt;\n&lt;p&gt;A star-studded though ageing lineup including Kevin De Bruyne a",
       "urgency": "breaking",
@@ -686,7 +1082,7 @@
       "link": "https://www.dawn.com/news/2009791/iran-frustrate-star-studded-belgium-to-steal-another-world-cup-point"
     },
     {
-      "id": "news-38",
+      "id": "news-60",
       "headline": "World Cup 2026: Iran hold 10-man Belgium to goalless draw in Los Angeles",
       "summary": "World Cup 2026: Iran hold 10-man Belgium to goalless draw in Los Angeles",
       "urgency": "info",
@@ -704,7 +1100,7 @@
       "link": "https://www.france24.com/en/sport/20260621-world-cup-2026-ten-man-belgium-held-to-goalless-draw-by-iran"
     },
     {
-      "id": "news-39",
+      "id": "news-61",
       "headline": "The Man Trumpifying FIFA",
       "summary": "Gianni Infantino, the FIFA president, has unabashedly courted the U.S. president’s favor.",
       "urgency": "info",
@@ -722,7 +1118,7 @@
       "link": "https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html"
     },
     {
-      "id": "news-40",
+      "id": "news-62",
       "headline": "What are the end goals of Iran-US negotiations?",
       "summary": "Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.",
       "urgency": "info",
@@ -740,7 +1136,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss"
     },
     {
-      "id": "news-41",
+      "id": "news-63",
       "headline": "Israel Directs Its Military to Limit Its Actions in Lebanon, but Tensions Persist",
       "summary": "It was not clear whether the new directive would resolve the friction that led to deadly clashes on Friday and Saturday and threatened to derail a preliminary U.S.-Iran peace deal.",
       "urgency": "breaking",
@@ -753,12 +1149,12 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-06-21T20:57:56.000Z",
+      "timestamp": "2026-06-21T20:57:57.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/2026/06/21/world/middleeast/israel-lebanon-hezbollah-fighting.html"
     },
     {
-      "id": "news-42",
+      "id": "news-64",
       "headline": "Revolutionary Guard claim is ‘outright lie’, says Iran’s football federation",
       "summary": "US claims that an individual with ties to the Islamic Revolutionary Guard Corps (IRGC) tried to join the Iran team’s flight to the United States on Saturday are “fabricated and entirely baseless allegations”, the country’s football federation (FFIRI) has said.\nMarkwayne Mullin, the US Homeland Secur",
       "urgency": "info",
@@ -776,7 +1172,7 @@
       "link": "https://www.scmp.com/sport/football/article/3357846/revolutionary-guard-claim-outright-lie-says-irans-football-federation?utm_source=rss_feed"
     },
     {
-      "id": "news-43",
+      "id": "news-65",
       "headline": "Switzerland talks enter tough phase after Trump renews threats against Iran",
       "summary": "US Vice President JD Vance said Sunday there was a chance to “turn over a new leaf” with Iran as negotiators met in Switzerland to build on last week’s interim agreement. But President Donald Trump’s renewed threats over Iran-backed Hezbollah and the Strait of Hormuz – and Israel's refusal to withdr",
       "urgency": "info",
@@ -794,7 +1190,7 @@
       "link": "https://www.france24.com/en/middle-east/20260621-switzerland-talks-enter-tough-phase-after-trump-renews-threats-against-iran"
     },
     {
-      "id": "news-44",
+      "id": "news-66",
       "headline": "Ilhan Omar under fire as husband’s income drops from millions to $200 in new disclosure",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131897170.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -812,7 +1208,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/ilhan-omar-under-fire-as-husbands-income-drops-from-millions-to-200-in-new-disclosure-report/articleshow/131897170.cms"
     },
     {
-      "id": "news-45",
+      "id": "news-67",
       "headline": "🔴 Live | Colombia Runoff: Colombia: Cepeda says preliminary result \"has no binding value\"",
       "summary": "According to preliminary results from Sunday's second round published by the national electoral authority, far-right candidate Abelardo de la Espriella is Colombia's president-elect. His left-wing rival Iván Cepeda announced that his campaign will contest results at 33,000 polling stations during th",
       "urgency": "important",
@@ -830,7 +1226,7 @@
       "link": "https://www.france24.com/en/americas/20260621-colombia-presidential-election-live-cepeda-de-la-espriella-face-off-in-second-round"
     },
     {
-      "id": "news-46",
+      "id": "news-68",
       "headline": "Mourners gather to remember Lebanese conservationist killed by Israel",
       "summary": "People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.",
       "urgency": "breaking",
@@ -848,7 +1244,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss"
     },
     {
-      "id": "news-47",
+      "id": "news-69",
       "headline": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
       "summary": "Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.",
       "urgency": "breaking",
@@ -866,25 +1262,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss"
     },
     {
-      "id": "news-48",
-      "headline": "Live Updates: U.S. and Iranian negotiators meet as Trump threatens to \"hit Iran very hard again\" over Hezbollah - CBS News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG40STJrQkMxTUlTM2J4bkNpWXJTb0daR3BXaEpNZGx5dVVzaVFsQU9xRXU0QkVlSWw0dXpmSkdYNEVBZmEzVmhma0pyTUg0TFUyMHJnOFQzRFk0Zk5PeHpvVmpVXzZLMVhpS3JoeExqNFhwdkdDSXRfeElvb0VUTGk4bFhvZExWTHFYcWItUWs0cmpNY1R0ZjlDdGZaLTlXTW5VZkVnS1g0a0dhaFE?oc=5\" targe",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T20:11:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMG40STJrQkMxTUlTM2J4bkNpWXJTb0daR3BXaEpNZGx5dVVzaVFsQU9xRXU0QkVlSWw0dXpmSkdYNEVBZmEzVmhma0pyTUg0TFUyMHJnOFQzRFk0Zk5PeHpvVmpVXzZLMVhpS3JoeExqNFhwdkdDSXRfeElvb0VUTGk4bFhvZExWTHFYcWItUWs0cmpNY1R0ZjlDdGZaLTlXTW5VZkVnS1g0a0dhaFE?oc=5"
-    },
-    {
-      "id": "news-49",
+      "id": "news-70",
       "headline": "Serena Williams to play women’s singles at Wimbledon as wildcard entrant",
       "summary": "The seven-time ladies&#039; singles champion will make her Grand Slam return at Wimbledon, six years after her last appearance.",
       "urgency": "info",
@@ -902,7 +1280,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/21/serena-williams-to-play-womens-singles-at-wimbledon-as-wildcard-entrant?traffic_source=rss"
     },
     {
-      "id": "news-50",
+      "id": "news-71",
       "headline": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
       "summary": "Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.",
       "urgency": "breaking",
@@ -920,7 +1298,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss"
     },
     {
-      "id": "news-51",
+      "id": "news-72",
       "headline": "Colombia elections take place as Abelardo de la Espriella leads polls",
       "summary": "Colombians are voting in an election where senator Ivan Cepeda is racing against Abelardo de la Espriella.",
       "urgency": "important",
@@ -938,25 +1316,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss"
     },
     {
-      "id": "news-52",
-      "headline": "Qatar factory explosion leaves several injured, no gas leak detected",
-      "summary": "Qatar factory explosion leaves several injured, no gas leak detected",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T19:57:31.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/gulf/qatar/massive-explosion-at-qatar-factory-no-gas-leaks-reported-1.500582130"
-    },
-    {
-      "id": "news-53",
+      "id": "news-73",
       "headline": "Japan fans celebrate 4-0 World Cup win in Tokyo",
       "summary": "Fans gathered at Tokyo&#039;s Shibuya Crossing after Japan beat Tunisia 4-0 in a World Cup group-stage match.",
       "urgency": "info",
@@ -974,7 +1334,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/japan-fans-celebrate-4-0-world-cup-win-in-tokyo?traffic_source=rss"
     },
     {
-      "id": "news-54",
+      "id": "news-74",
       "headline": "Ramiro Valdes, one of Cuba’s last living revolutionary figures, dies at 94",
       "summary": "Valdes was close ally of Castro brothers and helped found Cuba&#039;s notorious intelligence apparatus.",
       "urgency": "info",
@@ -992,7 +1352,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/21/ramiro-valdes-one-of-cubas-last-living-revolutionary-figures-dies-at-94?traffic_source=rss"
     },
     {
-      "id": "news-55",
+      "id": "news-75",
       "headline": "What's the state of the Strait?",
       "summary": "US and Iranian officials have begun talks in Switzerland, just five days into a 60-day ceasefire agreement that already appears under strain. Tehran claims it has closed the Strait of Hormuz, citing the continued fighting in Lebanon, while Washington says the talks are focused on ending Iran's nucle",
       "urgency": "breaking",
@@ -1010,7 +1370,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260621-what-s-the-state-of-the-strait"
     },
     {
-      "id": "news-56",
+      "id": "news-76",
       "headline": "Castro ally Ramiro Valdes, lauded as a hero of Cuban revolution, dies at 94",
       "summary": "Ramiro Valdes, one of Fidel Castro’s earliest collaborators who was lauded at ⁠home as a hero of ⁠the Cuban revolution, has died at the age of ⁠94, President Miguel Diaz-Canel said on social media on Sunday.\nThe president did not provide a cause of death.\nA top government official for decades after ",
       "urgency": "info",
@@ -1028,7 +1388,7 @@
       "link": "https://www.scmp.com/news/world/americas/article/3357845/castro-ally-ramiro-valdes-lauded-hero-cuban-revolution-dies-94?utm_source=rss_feed"
     },
     {
-      "id": "news-57",
+      "id": "news-77",
       "headline": "The last hours of Starmer?",
       "summary": "Ten years after Britain voted to leave the European Union, the UK could once again be facing a dramatic change in leadership. Prime Minister Keir Starmer is under mounting pressure amid growing speculation about his political future, with reports suggesting support within his own party is weakening ",
       "urgency": "info",
@@ -1046,7 +1406,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260621-the-last-hours-of-starmer"
     },
     {
-      "id": "news-58",
+      "id": "news-78",
       "headline": "‘Anti-Hindu bigotry’: Tulsi Gabbard linked to ‘cult’ in report as she exits DNI role",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131896738.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1064,43 +1424,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/anti-hindu-bigotry-tulsi-gabbard-linked-to-cult-allegations-in-report-as-she-exits-dni-role/articleshow/131896738.cms"
     },
     {
-      "id": "news-59",
-      "headline": "Trump and Iran's negotiator trade warnings as talks held in Switzerland - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnejBZZkZqbVNKSTllMVV3bmhsQUdLSFZZcnBZejdzNDJSNDZXRFNoN0ozZkFaeTcxc3NhS0FfSVM4QjBSOXBueUNoUGFMV2hYcFFFY0ROWDVKQQ?oc=5\" target=\"_blank\"&gt;Trump and Iran's negotiator trade warnings as talks held in Switzerland&lt;/a&gt;&amp;nbsp;&amp;nbs",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T19:33:09.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnejBZZkZqbVNKSTllMVV3bmhsQUdLSFZZcnBZejdzNDJSNDZXRFNoN0ozZkFaeTcxc3NhS0FfSVM4QjBSOXBueUNoUGFMV2hYcFFFY0ROWDVKQQ?oc=5"
-    },
-    {
-      "id": "news-60",
-      "headline": "US, Iran genuinely want peace in the region: PM Shehbaz",
-      "summary": "&lt;p&gt;Prime Minister Shehbaz Sharif while speaking to the press in Burgenstock, where US, Iranian, Qatari and Pakistani delegations gathered for peace talks on Sunday, praised the Iranian delegation’s dignity and attempts at de-escalation.&lt;/p&gt;\n&lt;p&gt;“I think they genuinely mean to promot",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T19:22:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2009504/us-iran-genuinely-want-peace-in-the-region-pm-shehbaz"
-    },
-    {
-      "id": "news-61",
+      "id": "news-79",
       "headline": "Serena Williams handed Wimbledon singles wildcard in grand slam comeback",
       "summary": "Tennis legend Serena Williams will make a surprise return to Wimbledon singles after being awarded the tournament's final wildcard on Sunday, setting up one of the biggest comebacks of this year's championships. Williams has not played singles at Wimbledon since 2022 and has mostly been absent from ",
       "urgency": "breaking",
@@ -1118,7 +1442,7 @@
       "link": "https://www.france24.com/en/sport/20260621-serena-williams-handed-wimbledon-singles-wildcard-in-grand-slam-comeback"
     },
     {
-      "id": "news-62",
+      "id": "news-80",
       "headline": "Thousands rally in Prague against government’s public broadcasting overhaul plan",
       "summary": "Thousands of Czechs rallied in the capital on Sunday to condemn a plan by the government led by populist Prime Minister Andrej Babis to overhaul funding for public broadcasters that is considered dangerous for their independence.\nThe protesters gathered in front of the Czech public television office",
       "urgency": "breaking",
@@ -1136,7 +1460,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3357844/thousands-rally-prague-against-governments-public-broadcasting-overhaul-plan?utm_source=rss_feed"
     },
     {
-      "id": "news-63",
+      "id": "news-81",
       "headline": "Quote of the day by Melinda French Gates: \"Shaming women for their sexuality is a standard tactic for…\"",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131895427.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1154,7 +1478,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-melinda-french-gates-shaming-women-for-their-sexuality-is-a-standard-tactic-for/articleshow/131895427.cms"
     },
     {
-      "id": "news-64",
+      "id": "news-82",
       "headline": "The U.S.-Iran War: By the Numbers - Time Magazine",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFREWVkzellGNm1qNFhBWG9seVNqc081VE1Od21qT09nNHNONlZTUUVWaE03Z09mWnZFbWthelFsR210d1hLY01RdmFFN0k4d3JrMkNidlY2eTlpX0ppWWU0MUY1TkRpQkxHcnZJUGtPOXhwd19SOG0xeWdBdkJKYklqbDlaVTZx?oc=5\" target=\"_blank\"&gt;The U.S.-Iran War: By the Numbers&lt;",
       "urgency": "breaking",
@@ -1172,7 +1496,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFREWVkzellGNm1qNFhBWG9seVNqc081VE1Od21qT09nNHNONlZTUUVWaE03Z09mWnZFbWthelFsR210d1hLY01RdmFFN0k4d3JrMkNidlY2eTlpX0ppWWU0MUY1TkRpQkxHcnZJUGtPOXhwd19SOG0xeWdBdkJKYklqbDlaVTZx?oc=5"
     },
     {
-      "id": "news-65",
+      "id": "news-83",
       "headline": "Worked in two restaurants for 'no experience': Graduate says she can't land a minimum-wage job",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131896471.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1190,7 +1514,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/worked-in-two-restaurants-for-no-experience-university-graduate-says-she-cant-land-a-minimum-wage-job-in-online-rant/articleshow/131896471.cms"
     },
     {
-      "id": "news-66",
+      "id": "news-84",
       "headline": "Europe heatwave scorches cities and wildlife",
       "summary": "Europe heatwave scorches cities and wildlife",
       "urgency": "info",
@@ -1208,7 +1532,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/europe-heatwave-scorches-cities-and-wildlife?traffic_source=rss"
     },
     {
-      "id": "news-67",
+      "id": "news-85",
       "headline": "Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia",
       "summary": "Yamal makes a goal-scoring return for Spain as European champions get their World Cup campaign back on track.",
       "urgency": "info",
@@ -1226,9 +1550,27 @@
       "link": "https://www.aljazeera.com/sports/2026/6/21/spain-thrash-saudi-arabia-as-lamine-yamal-off-mark-at-world-cup-2026?traffic_source=rss"
     },
     {
-      "id": "news-68",
-      "headline": "Iran-US talks to continue through the night after Iranians walked out over Trump threat",
-      "summary": "Iran’s delegation is still at the Swiss venue for talks with the United States on ending the Middle East war, and the US delegation expects to keep working with them through the night, a senior US diplomat said early on Monday.\nThe talks included “clarifying some of the confusing messaging from Iran",
+      "id": "news-86",
+      "headline": "Hezbollah rejects Israel’s ‘free rein’ to carry out attacks amid Lebanon ceasefire - Anadolu Ajansı",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTA1TFY2Y3loRGVtX0RieDA3TVVWdDJucTFua0VlSDhDQU5HOU5UbVVIQ2FPZVVpRkthUlJtMkZjUUxNSVFLeW90eEVGWGFVNGpiYnVpeXhoVWdqa0FFZzhzM2xVYXRrMGZOUjVUUVRxekZVN3kxaU0ydnJzTW9GTHRFTmlNOEhMSXNDZjBrRkQycWtIN0p2RVhNMF8zR2hPRTR4cU5IamptVVhscWRGaXRkOUNCT2s",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-21T18:37:09.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTA1TFY2Y3loRGVtX0RieDA3TVVWdDJucTFua0VlSDhDQU5HOU5UbVVIQ2FPZVVpRkthUlJtMkZjUUxNSVFLeW90eEVGWGFVNGpiYnVpeXhoVWdqa0FFZzhzM2xVYXRrMGZOUjVUUVRxekZVN3kxaU0ydnJzTW9GTHRFTmlNOEhMSXNDZjBrRkQycWtIN0p2RVhNMF8zR2hPRTR4cU5IamptVVhscWRGaXRkOUNCT2s0VC1idTdQY1J2Wms?oc=5"
+    },
+    {
+      "id": "news-87",
+      "headline": "Iran-US talks continue as Trump threat, Lebanon fighting strain Swiss summit",
+      "summary": "The United States expects talks with Iran to continue through the night in Switzerland, a US diplomat told reporters early Monday, as they work to permanently end the Middle East war.\nThe current round of negotiations got off to a rocky start, with the Islamic Republic’s delegation walking out in re",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
@@ -1244,7 +1586,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3357843/iran-vows-forces-are-ready-respond-after-trumps-threat-hit-iran-very-hard-again?utm_source=rss_feed"
     },
     {
-      "id": "news-69",
+      "id": "news-88",
       "headline": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
       "summary": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.",
       "urgency": "breaking",
@@ -1257,12 +1599,12 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-06-21T18:07:17.000Z",
+      "timestamp": "2026-06-21T18:07:18.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html"
     },
     {
-      "id": "news-70",
+      "id": "news-89",
       "headline": "Spanish proverb of the day: 'A bird in hand is worth more than a hundred flying around'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131895585.cms\" /&gt;<![CDATA[A classic Spanish saying, 'A bird in the hand is worth more than a hundred flying,' highlights the importance of appreciating what you have",
       "urgency": "info",
@@ -1280,7 +1622,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/spanish-proverb-of-the-day-a-bird-in-hand-is-worth-more-than-a-hundred-flying-around-and-why-certainty-often-beats-risky-rewards/articleshow/131895585.cms"
     },
     {
-      "id": "news-71",
+      "id": "news-90",
       "headline": "Yamal scores first World Cup goal as Spain bounce back with thumping win over Saudi Arabia",
       "summary": "The European champions put their shock opening draw against Cape Verde behind them with a crushing 4-0 defeat of Saudi Arabia on Sunday to move top of Group H and kick-start their World Cup campaign. Lamine Yamal needed just 10 minutes of his first start on football's biggest stage to get his maiden",
       "urgency": "info",
@@ -1298,7 +1640,7 @@
       "link": "https://www.france24.com/en/sport/20260621-world-cup-2026-spain-bounce-back-with-thumping-win-over-saudi-arabia-yamal"
     },
     {
-      "id": "news-72",
+      "id": "news-91",
       "headline": "TTAP demands removal of IT Minister over 'anti-people' telecommunication bill",
       "summary": "&lt;p&gt;ISLAMABAD: The opposition alliance Tehreek-i-Tahafuz-i-Ayin-i-Pakistan (TTAP) on Sunday demanded the removal of Minister of IT and Telecom Shaza Fatima Khawaja over a controversial telecommunication bill and sought representation in an inquiry committee investigating the matter “to ensure i",
       "urgency": "info",
@@ -1316,7 +1658,7 @@
       "link": "https://www.dawn.com/news/2009775/ttap-demands-removal-of-it-minister-over-anti-people-telecommunication-bill"
     },
     {
-      "id": "news-73",
+      "id": "news-92",
       "headline": "Uncertainty Remains Over the Strait of Hormuz",
       "summary": "The United States and Iranian militaries have offered conflicting accounts over whether the crucial waterway is open.",
       "urgency": "info",
@@ -1334,7 +1676,7 @@
       "link": "https://www.nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html"
     },
     {
-      "id": "news-74",
+      "id": "news-93",
       "headline": "Heat dome over Europe brings travel chaos, health alerts and wildlife stress",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131895501.cms\" /&gt;<![CDATA[Europe is grappling with a severe heatwave, with temperatures soaring towards 40°C, triggering health alerts and transport chaos. Italy has",
       "urgency": "breaking",
@@ -1352,7 +1694,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/heat-dome-over-europe-brings-travel-chaos-health-alerts-and-wildlife-stress/articleshow/131895501.cms"
     },
     {
-      "id": "news-75",
+      "id": "news-94",
       "headline": "Portuguese proverb of the day: 'One day belongs to the prey, another to the hunter'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131895244.cms\" /&gt;<![CDATA[The age-old Portuguese saying, \"One day belongs to the prey, another to the hunter,\" encapsulates the unpredictable nature of life. This pr",
       "urgency": "info",
@@ -1370,7 +1712,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/portuguese-proverb-of-the-day-one-day-belongs-to-the-prey-another-to-the-hunter-and-the-reminder-that-fortunes-can-change-without-warning/articleshow/131895244.cms"
     },
     {
-      "id": "news-76",
+      "id": "news-95",
       "headline": "What’s next in the Strait of Hormuz crisis?",
       "summary": "Iranian armed forces say they&#039;ve closed the vital waterway after Israeli attacks on Lebanon.",
       "urgency": "breaking",
@@ -1388,7 +1730,7 @@
       "link": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss"
     },
     {
-      "id": "news-77",
+      "id": "news-96",
       "headline": "Trump threatens to 'hit Iran very hard again' while Vance is in Switzerland for talks - NPR",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVF9idV83dFpLekJRQW1SMVJEdHVLRWRKZF9zanRTcmI4eHBGYmxxeHZ1eHdIczhVanlNSFFPb2stV2tHR3A5dmlid0UzT1lZdHUwaGpsR2d4aUI5bHM5Tl9HUHRPMXMza05sTENGVU9zUW9zc285dEFpOUtDbXYwZnVzLUpDRjlvQlgzQldHa3JwN1Aya1NQVQ?oc=5\" target=\"_blank\"&gt;Trump threatens",
       "urgency": "info",
@@ -1406,7 +1748,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVF9idV83dFpLekJRQW1SMVJEdHVLRWRKZF9zanRTcmI4eHBGYmxxeHZ1eHdIczhVanlNSFFPb2stV2tHR3A5dmlid0UzT1lZdHUwaGpsR2d4aUI5bHM5Tl9HUHRPMXMza05sTENGVU9zUW9zc285dEFpOUtDbXYwZnVzLUpDRjlvQlgzQldHa3JwN1Aya1NQVQ?oc=5"
     },
     {
-      "id": "news-78",
+      "id": "news-97",
       "headline": "Pope Leo exalts first American saint as a model for Christians for her care of migrants",
       "summary": "Pope Leo on Saturday exalted the first American saint, Mother Frances Cabrini, as a model for Christians today to care for migrants in need, as he visited her birthplace during a day trip to northern Italy.\nLeo, who has clashed with the Trump administration over its migrant crackdown, urged young pe",
       "urgency": "info",
@@ -1424,7 +1766,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3357842/pope-leo-exalts-first-american-saint-model-christians-her-care-migrants?utm_source=rss_feed"
     },
     {
-      "id": "news-79",
+      "id": "news-98",
       "headline": "Brilliant Kapp leads South Africa past India",
       "summary": "Marizanne Kapp strikes a powerful 81 as South Africa beat India by six wickets to keep their World Cup hopes alive.",
       "urgency": "breaking",
@@ -1442,7 +1784,7 @@
       "link": "https://www.bbc.com/sport/cricket/articles/c0ly687p8n5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-80",
+      "id": "news-99",
       "headline": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
       "summary": "The killing of the victim, a 14-year-old girl from Yonkers who was known for posting videos on TikTok, was premeditated, a court ruled.",
       "urgency": "info",
@@ -1458,348 +1800,6 @@
       "timestamp": "2026-06-21T17:14:11.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html"
-    },
-    {
-      "id": "news-81",
-      "headline": "Ethiopian prime minister’s party easily wins parliamentary election",
-      "summary": "Nobel Peace Prize winner PM Abiy Ahmed will stay in power, as analysts warn of renewed conflicts in Ethiopia.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T17:07:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss"
-    },
-    {
-      "id": "news-82",
-      "headline": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUpBUjQ5alZBSVFZU1U4QjlZRzBVSzd1WVltRURlZE9KdnAtVXF2OVpzZGhpSV8yYzBIdGRhbWNqNHdMckhuTXJtLUVKeWhZR3FSZFE3TjY0VzFhcEQxUG9oVE5OU2FWUko1aXBJNmllMWpyaHVyb3lrdmxOM0lLN20tQnBKSzdUYWZfamFnVFczVWpONnlsS0FpUEJVcWEwellnVkVPcmlxN01uTHfSAbMBQVVfeXF",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T17:05:45.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUpBUjQ5alZBSVFZU1U4QjlZRzBVSzd1WVltRURlZE9KdnAtVXF2OVpzZGhpSV8yYzBIdGRhbWNqNHdMckhuTXJtLUVKeWhZR3FSZFE3TjY0VzFhcEQxUG9oVE5OU2FWUko1aXBJNmllMWpyaHVyb3lrdmxOM0lLN20tQnBKSzdUYWZfamFnVFczVWpONnlsS0FpUEJVcWEwellnVkVPcmlxN01uTHfSAbMBQVVfeXFMT3g0czJOd01tXzE3TEh4WlJzSHJQYXR6ekt3X2tsVDcyVlJJMjc1eVpvRmdwcWtka1ZwYWdpR05KTmg2U0NEOWotNHMzU0NpT0E3SnRZZUhFXzZCQjVXcXc5S1F6RUxzOUxfZndXbjhpdHNxVm90eEdrSC1wZWNrU1FsaHJCMndHeE1mNy1KWHJNV3J0dnZ3X1g2UHhqU1ctbFlBY1E4clhvVEp1X2xPOWxMaTQ?oc=5"
-    },
-    {
-      "id": "news-83",
-      "headline": "As Vance Offers Iran ‘Outstretched Hand’ in Talks, Trump Threatens Bombing",
-      "summary": "The administration’s split message came as the United States and Iran began a new round of nuclear negotiations in Switzerland.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T17:04:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html"
-    },
-    {
-      "id": "news-84",
-      "headline": "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
-      "summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T17:03:53.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html"
-    },
-    {
-      "id": "news-85",
-      "headline": "NY boy finds mom’s dead body with throat slit; ‘someone followed her home,’ says husband",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131894064.cms\" /&gt;<![CDATA[",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T17:00:39.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/new-york-boy-finds-moms-dead-body-with-throat-slit-someone-followed-her-home-says-husband/articleshow/131894064.cms"
-    },
-    {
-      "id": "news-86",
-      "headline": "Ethiopian PM’s party secures landslide win in national election",
-      "summary": "Ethiopian Prime Minister Abiy Ahmed’s Prosperity Party (PP) won a landslide victory in legislative polls held June 1, the election commission said on Sunday, giving it almost 90 per cent of the seats.\nAbiy has led Ethiopia since 2018, and is increasingly criticised for growing authoritarianism, in c",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:56:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/africa/article/3357841/ethiopian-pms-party-secures-landslide-win-national-election?utm_source=rss_feed"
-    },
-    {
-      "id": "news-87",
-      "headline": "Iran, US, Israel: Memorandum of misunderstanding?",
-      "summary": "Chances are slim for progress between Iran and the US, argues Drop Site News co-founder Jeremy Scahill.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:49:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss"
-    },
-    {
-      "id": "news-88",
-      "headline": "What Washington wants from fresh Iran talks on nuclear programme, Hormuz and Hezbollah",
-      "summary": "What Washington wants from fresh Iran talks on nuclear programme, Hormuz and Hezbollah",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:49:14.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/what-washington-wants-from-fresh-iran-talks-on-nuclear-programme-hormuz-and-hezbollah-1.500582032"
-    },
-    {
-      "id": "news-89",
-      "headline": "The looming Super El Nino",
-      "summary": "A powerful El Nino is expected to peak in November that could threaten food supply and increase extreme weather events.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:45:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/the-looming-super-el-nino?traffic_source=rss"
-    },
-    {
-      "id": "news-90",
-      "headline": "How China is using maritime tactics and propaganda to squeeze Taiwan",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131894063.cms\" /&gt;<![CDATA[Taiwan's security official warns China is increasingly using 'grey-zone' tactics like coast guard patrols and legal claims to pressure the ",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:41:58.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/china/how-china-is-using-maritime-tactics-and-propaganda-to-squeeze-taiwan/articleshow/131894063.cms"
-    },
-    {
-      "id": "news-91",
-      "headline": "India’s ‘Cockroach’ movement camps out until education minister resigns",
-      "summary": "The viral &#039;Cockroach&#039; movement&#039;s supporters occupy New Delhi&#039;s protest site, refusing to leave until minister resigns.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:37:49.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss"
-    },
-    {
-      "id": "news-92",
-      "headline": "Pakistan, Saudi Arabia, Turkiye, Egypt stress importance of swift conclusion to 'current phase' of US-Iran talks",
-      "summary": "&lt;p&gt;Pakistan, Saudi Arabia, Turkiye and Egypt on Sunday welcomed the signing of the Islamabad Memorandum of Understanding (MoU) between the US and Iran during a Regional Four (R-4) meeting in Cairo, emphasising the importance of achieving a “swift and successful” conclusion to the subsequent ph",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:25:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2009729/pakistan-saudi-arabia-turkiye-egypt-stress-importance-of-swift-conclusion-to-current-phase-of-us-iran-talks"
-    },
-    {
-      "id": "news-93",
-      "headline": "Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts",
-      "summary": "An ally of Keir Starmer’s told the BBC on Sunday that Mr. Starmer was “taking the time to think through what the political realities are today compared to last week.”",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:23:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html"
-    },
-    {
-      "id": "news-94",
-      "headline": "Trump threatens to strike Iran over support for Hezbollah as fighting continues in Lebanon",
-      "summary": "US President Donald Trump on Sunday threatened to strike Iran if it did not stop Hezbollah from \"causing trouble,\" as peace talks between senior US and Iranian officials began in Switzerland. The memorandum of understanding signed Wednesday between the United States and Iran stipulates a cessation o",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T16:10:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/trump-threatens-to-strike-iran-over-support-for-hezbollah-as-fighting-continues-in-lebanon"
-    },
-    {
-      "id": "news-95",
-      "headline": "U.S. and Iran Have Plenty to Negotiate Beyond Nuclear Issues",
-      "summary": "Both sides have committed to discussing sanctions relief and the shape of a reconstruction fund, as well as Iran’s nuclear program.",
-      "urgency": "important",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T15:58:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/21/world/middleeast/us-iran-negotiations-issues.html"
-    },
-    {
-      "id": "news-96",
-      "headline": "PMSA begins repatriation, humanitarian assistance of 8 Iranian nationals rescued at sea",
-      "summary": "&lt;p&gt;The Pakistan Maritime Security Agency (PMSA) has spearheaded the repatriation and humanitarian assistance of eight Iranian nationals who were rescued at sea by a British vessel, it said in a press release on Sunday.&lt;/p&gt;\n&lt;p&gt;The Iranian nationals had been rescued by the British ve",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T15:56:45.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2009751/pmsa-begins-repatriation-humanitarian-assistance-of-8-iranian-nationals-rescued-at-sea"
-    },
-    {
-      "id": "news-97",
-      "headline": "2026 World Cup: Iran's football coach says US travel rules continue to disrupt preparations",
-      "summary": "As the 2026 FIFA World Cup continues in the US, Canada and Mexico, Iran is to play Belgium later today. Iran’s coach, however, says his team is still being treated unfairly by the US through travel restrictions and visa refusals. Story by Natasha Li.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T15:55:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/2026-world-cup-iran-s-football-coach-says-us-travel-rules-continue-to-disrupt-preparations"
-    },
-    {
-      "id": "news-98",
-      "headline": "27-year-old Dubai resident wins first free Binghatti apartment in new draw - Khaleej Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlljNnVzSkk3aUltTllZZlo4WUt5UkowRUdmbk5UTjQ1XzA4RkV1UUdTOS1CZ2ZNQnZ3MGFBdThpc3FOM3NzYUtTUTl5RENvMGFpMF9rQjlLVHhtYTV5MVJjeXBnWk5Fd29IenJnRmdPMHIwQS1iODVnSEVRdEJGTUZSb2Jsb1k5S3hURE1WYzNkTkFSbmw0YV9fbmdKWjlsVzFlZXA2Wk11bnPSAbMBQVVfeXFMTVc",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Khaleej Times",
-          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
-          "url": "https://khaleejtimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-21T15:52:53.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlljNnVzSkk3aUltTllZZlo4WUt5UkowRUdmbk5UTjQ1XzA4RkV1UUdTOS1CZ2ZNQnZ3MGFBdThpc3FOM3NzYUtTUTl5RENvMGFpMF9rQjlLVHhtYTV5MVJjeXBnWk5Fd29IenJnRmdPMHIwQS1iODVnSEVRdEJGTUZSb2Jsb1k5S3hURE1WYzNkTkFSbmw0YV9fbmdKWjlsVzFlZXA2Wk11bnPSAbMBQVVfeXFMTVc5SEpxcHcxSzVBUDM5VFY2V2RrZ2p6RTNPQjI2VHFiQjlnYndiZUwzamdQSUtlcXdyYTdXMW1OdWNBTng0RENSNnliOTI5c3NZNllpTkN2aWxSemFxTlV4UDVGRXdwaXRlc3ZuVWMxTzJyb0pSTFNRLWxfbG9HbmVSWTFNR1gyLUtzeUZGNEJXbVkybk92TEIwV05zZkQ3cGZKbFZLUFhUV1o0U191WmdNTTQ?oc=5"
-    },
-    {
-      "id": "news-99",
-      "headline": "China Demonstrates DF-17 Hypersonic Missile Capability Amid Pacific Tensions - 조선일보",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkhIVlZnMGZWZzlqWV9zY2loRzNYenJWUHJZbkRoUWY0amh3NnhoZnp6STRPNkEwTVVvZHpUbDFLX3JQUW9vY1dQNC1oTDVsVzQwdnZkeHdOM0ZtRS1FeUxVd3FPSzVfcUw0ODJYSGNSaHY5cXJxVkkyUGo0aWxZTjY5cmE?oc=5\" target=\"_blank\"&gt;China Demonstrates DF-17 Hypersonic Missil",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-21T15:45:19.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkhIVlZnMGZWZzlqWV9zY2loRzNYenJWUHJZbkRoUWY0amh3NnhoZnp6STRPNkEwTVVvZHpUbDFLX3JQUW9vY1dQNC1oTDVsVzQwdnZkeHdOM0ZtRS1FeUxVd3FPSzVfcUw0ODJYSGNSaHY5cXJxVkkyUGo0aWxZTjY5cmE?oc=5"
     }
   ],
   "financials": {
