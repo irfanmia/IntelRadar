@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-21T23:20:58.431Z",
+  "lastUpdated": "2026-06-22T00:28:43.154Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 561,
-      "count": 326,
-      "breaking": 103,
-      "latest": "2026-06-21T23:18:45.000Z"
+      "score": 572,
+      "count": 332,
+      "breaking": 106,
+      "latest": "2026-06-22T00:07:39.000Z"
     },
     {
       "id": "middle-east",
       "score": 429,
-      "count": 198,
-      "breaking": 110,
-      "latest": "2026-06-21T23:00:04.000Z"
+      "count": 196,
+      "breaking": 111,
+      "latest": "2026-06-22T00:23:30.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 145,
-      "count": 59,
-      "breaking": 43,
+      "score": 142,
+      "count": 58,
+      "breaking": 42,
       "latest": "2026-06-21T18:07:17.000Z"
     },
     {
@@ -30,6 +30,13 @@
       "latest": "2026-06-20T12:00:00.000Z"
     },
     {
+      "id": "taliban-pakistan",
+      "score": 47,
+      "count": 20,
+      "breaking": 13,
+      "latest": "2026-06-21T11:16:58.000Z"
+    },
+    {
       "id": "korea",
       "score": 46,
       "count": 20,
@@ -38,9 +45,9 @@
     },
     {
       "id": "china-taiwan",
-      "score": 33,
+      "score": 35,
       "count": 21,
-      "breaking": 5,
+      "breaking": 6,
       "latest": "2026-06-21T16:41:58.000Z"
     },
     {
@@ -56,13 +63,6 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-06-16T15:19:52.000Z"
-    },
-    {
-      "id": "taliban-pakistan",
-      "score": 1,
-      "count": 1,
-      "breaking": 0,
-      "latest": "2026-06-21T11:16:58.000Z"
     }
   ],
   "countryEvents": {
@@ -151,15 +151,15 @@
       "general"
     ],
     "pakistan": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "india": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "china-taiwan",
       "general",
       "ukraine-russia"
@@ -286,8 +286,8 @@
       "ukraine-russia"
     ],
     "afghanistan": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
@@ -328,8 +328,8 @@
       "ukraine-russia"
     ],
     "bangladesh": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
