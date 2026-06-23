@@ -1,8 +1,422 @@
 {
-  "lastUpdated": "2026-06-23T21:44:38.571Z",
+  "lastUpdated": "2026-06-23T23:12:01.386Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+      "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T23:06:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon"
+    },
+    {
+      "id": "news-1",
+      "headline": "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
+      "summary": "The high court has upheld ruling that prisoners cannot sue prison staff for money damages under religious liberties law.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T23:01:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss"
+    },
+    {
+      "id": "news-2",
+      "headline": "Australia politics live: Paid parental leave ‘not safe’ with One Nation, Plibersek warns; McKim says Greens want to ‘kill’ NDIS reform bill",
+      "summary": "&lt;p&gt;Social services minister says Pauline Hanson ‘completely unsympathetic’ to financial stress of having a baby. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:52:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb"
+    },
+    {
+      "id": "news-3",
+      "headline": "Trains stopped across Germany over technical glitch",
+      "summary": "A problem with a communications system forced Germany’s railway system to halt all trains late Tuesday, leaving passengers stranded across the country.\nThe main national railway operator, Deutsche Bahn, said all trains were being held at stations because of a nationwide problem with the GSM-R digita",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:51:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/europe/article/3358115/trains-stopped-across-germany-over-technical-glitch?utm_source=rss_feed"
+    },
+    {
+      "id": "news-4",
+      "headline": "Qantas and Emirates to ground multiple Airbus A380 planes for urgent inspections after cracks found in wings",
+      "summary": "&lt;p&gt;Airbus to inspect 15 Emirates and one Qantas plane after cracks found in structural wing beam of some jets&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-rev",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:50:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/24/airbus-a380-wing-cracks-planes-grounded-qantas-emirates"
+    },
+    {
+      "id": "news-5",
+      "headline": "Israel’s deliberate targeting of Palestinian children",
+      "summary": "New UN report documents the toll of Israel&#039;s war on Gaza and its occupation of the West Bank on Palestinian children.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:50:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
+    },
+    {
+      "id": "news-6",
+      "headline": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+      "summary": "Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:44:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-7",
+      "headline": "Technical glitch paralyses Germany&apos;s rail network",
+      "summary": "Technical glitch paralyses Germany&apos;s rail network",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:34:19.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/europe/technical-glitch-paralyses-germanys-rail-network-1.500584666"
+    },
+    {
+      "id": "news-8",
+      "headline": "Airbus to inspect 16 A380s after cracks found on plane wings",
+      "summary": "Airbus to inspect 16 A380s after cracks found on plane wings",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:25:50.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/airbus-to-inspect-16-a380s-after-cracks-found-on-plane-wings-2-1.500584631"
+    },
+    {
+      "id": "news-9",
+      "headline": "England held by Ghana at World Cup as pair close on last-32 passage",
+      "summary": "England and Ghana share a 0-0 draw in Group L, despite a late barrage by the English.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:22:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/6/23/england-held-by-ghana-at-world-cup-as-pair-seal-last-32-passage?traffic_source=rss"
+    },
+    {
+      "id": "news-10",
+      "headline": "England left frustrated by Ghana in World Cup draw",
+      "summary": "England left frustrated by Ghana in World Cup draw",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:20:35.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/football/world-cup/england-left-frustrated-by-ghana-in-world-cup-draw-1.500584672"
+    },
+    {
+      "id": "news-11",
+      "headline": "US Senate votes to pass Iran war powers resolution in blow to Trump - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmVKOWpHZklGS3lDR29YMTBtZWpOdTFHTXQ5QjY3TDRSajlsNDBxWm1rbG9jREZyTEpqMzR3bS1sdWlJNXE4Y0F3Q0pfaV9OQlYwSTVHcm40SndLZTFJUU9GMU5kc05aVU9NRF93QUNmSmFxeGpib3NiU2lNQTNrMzBkYy1SX0VwODRrSWpzeXPSAZYBQVVfeXFMUDFDZ0lfLVMwZ2xoOFlVTDF1bi1lOXRjUmJBNU8",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:19:17.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmVKOWpHZklGS3lDR29YMTBtZWpOdTFHTXQ5QjY3TDRSajlsNDBxWm1rbG9jREZyTEpqMzR3bS1sdWlJNXE4Y0F3Q0pfaV9OQlYwSTVHcm40SndLZTFJUU9GMU5kc05aVU9NRF93QUNmSmFxeGpib3NiU2lNQTNrMzBkYy1SX0VwODRrSWpzeXPSAZYBQVVfeXFMUDFDZ0lfLVMwZ2xoOFlVTDF1bi1lOXRjUmJBNU8tUDVIR0hvczBmT0dSSkNKd18wQTM5VDhhLWFPSk93aUFKUlF4bDdsYnJaWVNxb2J6eHc1SVFKbkNvZDdfSl80TVBDQWNnY0RYaENPZXBUaHo5SEd4VW1BN3pMM3l2bHFTbUlnWkdFUG5TS1UtQWxUVDhn?oc=5"
+    },
+    {
+      "id": "news-12",
+      "headline": "World Cup 2026: England held by Ghana in goalless Group L stalemate",
+      "summary": "World Cup 2026: England held by Ghana in goalless Group L stalemate",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:06:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/sport/20260623-world-cup-2026-england-held-by-ghana-in-goalless-group-l-stalemate"
+    },
+    {
+      "id": "news-13",
+      "headline": "Scientists find ‘smoking gun’ evidence of world’s oldest meteorite strike in Western Australia",
+      "summary": "&lt;p&gt;Curtin University researchers use innovative techniques to date three-billion-year-old impact crater in Pilbara region&lt;/p&gt;&lt;p&gt;A meteorite that struck Earth three billion years ago left behind a “smoking gun” – evidence of the world’s oldest impact crater in a remote part of Austr",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T22:00:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/environment/2026/jun/24/worlds-oldest-meteorite-strike-pilbara-western-australia"
+    },
+    {
+      "id": "news-14",
+      "headline": "Trump signals fresh US-Iran thaw, says ‘fair deal’ within reach as nuclear talks continue",
+      "summary": "Trump signals fresh US-Iran thaw, says ‘fair deal’ within reach as nuclear talks continue",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:56:33.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/trump-signals-fresh-us-iran-thaw-says-fair-deal-within-reach-as-nuclear-talks-continue-1.500584665"
+    },
+    {
+      "id": "news-15",
+      "headline": "France record heatwave sees 'hairdryer effect' threaten crops",
+      "summary": "Crops in the French region of Normandy are under threat from the latest heatwave. A combination of high soil temperatures with hot winds can see crops wither in hours - dubbed the ‘hairdryer effect’ - it now threatens the region's food production. FRANCE 24's Daniel Quinlan reports.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:54:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/france-record-heatwave-sees-hairdryer-effect-threaten-crops"
+    },
+    {
+      "id": "news-16",
+      "headline": "Outdoor workers battle soaring temperatures as France sees hottest day since records began",
+      "summary": "France experienced its hottest day since records began on Tuesday, a record it will likely break again on Wednesday. Officials have advised people to avoid travel and work from home when possible. But for some, this isn't an option. FRANCE 24's Juliette Brown reports.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:52:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/outdoor-workers-battle-soaring-temperatures-as-france-sees-hottest-day-since-records-began"
+    },
+    {
+      "id": "news-17",
+      "headline": "French Resistance hero and historian Marc Bloch enters France's Pantheon",
+      "summary": "French Resistance fighter and pioneering historian Marc Bloch entered France's Pantheon on Tuesday, becoming the first historian to receive one of the nation's highest honours. The ceremony comes amid renewed political debate over his anti-nationalist legacy less than a year before France's presiden",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:47:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260623-french-resistance-hero-and-historian-marc-bloch-enters-france-pantheon"
+    },
+    {
+      "id": "news-18",
+      "headline": "Evacuation of more than 11,000 seafarers underway: IMO",
+      "summary": "Evacuation of more than 11,000 seafarers underway: IMO",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:45:09.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/mena/evacuation-of-more-than-11000-seafarers-underway-imo-1.500584662"
+    },
+    {
+      "id": "news-19",
+      "headline": "Donald Trump to attend World Cup final, present trophy: Infantino",
+      "summary": "FIFA president Gianni Infantino will be &#039;enjoying the final&#039; with Trump and present the trophy together on July 19.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:44:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss"
+    },
+    {
+      "id": "news-20",
+      "headline": "U.S. and Iran dispute whether Tehran has agreed to nuclear inspections - NBC News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk53QXItMndLYkxpdE1La0szUWhfLWg0Tkx3Z1diQUYxdWFPN0E5SnpxQ0hqdWZ3ZHBrUjlSZ0JUV0pqZkpjbnAxRHQ5YXdVR21fSTlPX19hMjRaOHlCRzFETmRUdi1qbERraGttaDF4UFlRaXlMbk9LVXh2aGgtQnd2dWRUUGlERE9hb3VIR2tvQXI5RVJPVTloNFNLZkxnbDViSEhPdmYxdw?oc=5\" target=\"_b",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:41:08.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk53QXItMndLYkxpdE1La0szUWhfLWg0Tkx3Z1diQUYxdWFPN0E5SnpxQ0hqdWZ3ZHBrUjlSZ0JUV0pqZkpjbnAxRHQ5YXdVR21fSTlPX19hMjRaOHlCRzFETmRUdi1qbERraGttaDF4UFlRaXlMbk9LVXh2aGgtQnd2dWRUUGlERE9hb3VIR2tvQXI5RVJPVTloNFNLZkxnbDViSEhPdmYxdw?oc=5"
+    },
+    {
+      "id": "news-21",
+      "headline": "UN: Israel committed genocide by targeting Gaza children",
+      "summary": "Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:38:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss"
+    },
+    {
+      "id": "news-22",
+      "headline": "Paraguay’s Almiron suspended for one game after red card for covering mouth",
+      "summary": "FIFA also stripped journalist Jorge Chipi Vera of World Cup credentials after he criticised Almiron&#039;s red card on air.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T21:36:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/6/23/paraguays-almiron-suspended-for-one-game-after-red-card-for-covering-mouth?traffic_source=rss"
+    },
+    {
+      "id": "news-23",
       "headline": "US Anthropic ban is best advert for Chinese AI",
       "summary": "Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been miffed when they were shut off from using artificial intelligence (AI) models from Anthropic, a pioneering American firm in the field.\nGoldman Sachs and JPMorgan Chase pulled the plug in April and last week respectively",
       "urgency": "info",
@@ -20,7 +434,7 @@
       "link": "https://www.scmp.com/opinion/china-opinion/article/3357898/us-anthropic-ban-best-advert-chinese-ai?utm_source=rss_feed"
     },
     {
-      "id": "news-1",
+      "id": "news-24",
       "headline": "US Senate passes war powers resolution challenging Trump’s Iran war authority - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWFYzXzFSWlVhN2JuYWY3NG5GWVhRRl91Y3lwbFpKaXJOUkN4alVLbGFQcWphQ1FQcmlWNXlBVlN3d2FpcjRmQnVTdUVKQl9ucUdCNHBtWHJrclBQNnJMNldGUUd5eVVvNkpIeWo2Y3ZQSW5ZaVk3WkZhOUVKUXVneVB6Qk1kbGs?oc=5\" target=\"_blank\"&gt;US Senate passes war powers resolution",
       "urgency": "breaking",
@@ -38,7 +452,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWFYzXzFSWlVhN2JuYWY3NG5GWVhRRl91Y3lwbFpKaXJOUkN4alVLbGFQcWphQ1FQcmlWNXlBVlN3d2FpcjRmQnVTdUVKQl9ucUdCNHBtWHJrclBQNnJMNldGUUd5eVVvNkpIeWo2Y3ZQSW5ZaVk3WkZhOUVKUXVneVB6Qk1kbGs?oc=5"
     },
     {
-      "id": "news-2",
+      "id": "news-25",
       "headline": "U.N. Report Says Israeli Killings of Gaza Children Post-Truce Amount to Genocide",
       "summary": "Israel’s U.N. mission dismissed the report as a “libelous sham,” and called the investigating commission a “fundamentally flawed mechanism.”",
       "urgency": "breaking",
@@ -56,27 +470,9 @@
       "link": "https://www.nytimes.com/2026/06/23/world/middleeast/un-report-israel-palestinian-children.html"
     },
     {
-      "id": "news-3",
-      "headline": "Australia politics live: ‘Keep the flame of memory burning’, PM tells opening of new Australian War Memorial gallery",
-      "summary": "&lt;p&gt;Anthony Albanese presided over ceremony in Canberra last night. Follow today’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;fre",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T21:27:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb"
-    },
-    {
-      "id": "news-4",
-      "headline": "Philippines: Power generation gathers pace with multi-billiond-dollar investments in clean energy",
-      "summary": "Philippines: Power generation gathers pace with multi-billiond-dollar investments in clean energy",
+      "id": "news-26",
+      "headline": "Philippines: Power generation gathers pace with multi-billion-dollar clean energy projects",
+      "summary": "Philippines: Power generation gathers pace with multi-billion-dollar clean energy projects",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -92,25 +488,7 @@
       "link": "https://gulfnews.com/world/asia/philippines/philippines-power-generation-gathers-pace-with-multi-billiond-dollar-investments-in-clean-energy-1.500584091"
     },
     {
-      "id": "news-5",
-      "headline": "Mideast Live Updates: U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
-      "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T21:24:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon"
-    },
-    {
-      "id": "news-6",
+      "id": "news-27",
       "headline": "Deschamps to miss France's final group match after mother's death",
       "summary": "France coach Didier Deschamps will miss his side's final World Cup group match against Norway after returning home following the death of his mother, the French Football Federation said on Tuesday. Assistant Guy Stephan will take charge as France, already through to the last 32, seek top spot in Gro",
       "urgency": "info",
@@ -128,7 +506,7 @@
       "link": "https://www.france24.com/en/sport/20260623-deschamps-to-miss-france-final-group-match-after-mother-s-death"
     },
     {
-      "id": "news-7",
+      "id": "news-28",
       "headline": "Trump allies reassure Israelis amid tensions on US-Iran deal",
       "summary": "Trump allies reassure Israelis amid tensions on US-Iran deal",
       "urgency": "info",
@@ -146,7 +524,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-29",
       "headline": "Massive fire rips through Indonesia sandal factory",
       "summary": "A massive fire destroyed a sandal factory in Tangerang, Indonesia, after it spread to a gas storage area.",
       "urgency": "info",
@@ -164,7 +542,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/massive-fire-rips-through-indonesia-sandal-factory?traffic_source=rss"
     },
     {
-      "id": "news-9",
+      "id": "news-30",
       "headline": "Karl Stefanovic podcast interview with UK far-right activist Tommy Robinson removed from YouTube",
       "summary": "&lt;p&gt;Robinson says Pauline Hanson has ‘carried on fighting’ despite backlash in since-deleted episode of the Karl Stefanovic Show&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-ga",
       "urgency": "breaking",
@@ -182,7 +560,7 @@
       "link": "https://www.theguardian.com/media/2026/jun/23/karl-stefanovic-uk-far-right-tommy-robinson-podcast-video-ntwnfb"
     },
     {
-      "id": "news-10",
+      "id": "news-31",
       "headline": "UN chief calls on AI firms to 'come clean' on environmental costs",
       "summary": "As Europe swelters under a major heatwave, the energy-intensiveness of artificial intelligence has come into the spotlight.  At a climate conference in London, UN Secretary General Antonio Guterres called on AI companies to disclose the environmental impact of their systems.  Plus, Iran rejects the ",
       "urgency": "info",
@@ -200,7 +578,7 @@
       "link": "https://www.france24.com/en/tv-shows/business/20260623-un-chief-calls-on-ai-firms-to-come-clean-on-environmental-costs"
     },
     {
-      "id": "news-11",
+      "id": "news-32",
       "headline": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
       "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
       "urgency": "breaking",
@@ -218,7 +596,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-12",
+      "id": "news-33",
       "headline": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
       "summary": "Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.",
       "urgency": "breaking",
@@ -236,7 +614,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss"
     },
     {
-      "id": "news-13",
+      "id": "news-34",
       "headline": "Is the Australian Prime Minister’s Pragmatism Enough in Uncertain Times?",
       "summary": "Buffeted by global turmoil and a populist far-right ascendance at home, Anthony Albanese is trying to keep the country feeling hopeful.",
       "urgency": "info",
@@ -249,12 +627,12 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-06-23T21:00:08.000Z",
+      "timestamp": "2026-06-23T21:00:09.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/2026/06/23/world/australia/australia-albanese-prime-minister-popularity.html"
     },
     {
-      "id": "news-14",
+      "id": "news-35",
       "headline": "40 drown in France as people seek relief from Europe's heatwave",
       "summary": "&lt;p&gt;Forty people have drowned in France over recent days as they sought to cool down to escape record heat, the prime minister said on Tuesday, ​as a &lt;a href=\"https://www.dawn.com/news/2009530\"&gt;heatwave &lt;/a&gt;swept across much of Europe.&lt;/p&gt;\n&lt;p&gt;Britain, Italy, Switzerland ",
       "urgency": "breaking",
@@ -272,7 +650,7 @@
       "link": "https://www.dawn.com/news/2010275/40-drown-in-france-as-people-seek-relief-from-europes-heatwave"
     },
     {
-      "id": "news-15",
+      "id": "news-36",
       "headline": "Trump, without proof, blames ‘vandalism’ as Reflecting Pool turns green again",
       "summary": "With algae-green water and blue peeling paint, the Lincoln Memorial Reflecting Pool is set to be drained again, despite Donald Trump's recent renovation costing over $14 million. Trump has blamed the problems on \"vandalism,\" claiming a 350-foot gash was deliberately cut into the pool and saying mult",
       "urgency": "info",
@@ -290,7 +668,7 @@
       "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260623-trump-without-evidence-blames-vandalism-as-reflecting-pool-turns-green-again"
     },
     {
-      "id": "news-16",
+      "id": "news-37",
       "headline": "Karachi police issue traffic plan for Muharram 8-10 processions",
       "summary": "&lt;p&gt;Karachi Traffic Police (KTP) on Tuesday provided alternative routes for commuters to use as some roads will remain closed for the 8th, 9th and 10th Muharram processions.&lt;/p&gt;\n&lt;p&gt;In a statement issued on X, the KTP said on Tuesday, “Special arrangements have been made to ensure th",
       "urgency": "breaking",
@@ -308,7 +686,7 @@
       "link": "https://www.dawn.com/news/2010289/karachi-police-issue-traffic-plan-for-muharram-8-10-processions"
     },
     {
-      "id": "news-17",
+      "id": "news-38",
       "headline": "US stocks slide, as Wall Street gets AI wake-up call",
       "summary": "Wall Street got a reality check as a bruising sell-off in several technology giants fuelled concern the artificial intelligence frenzy that has powered the equity bull market might be overblown.\nThe tech rout engulfed global stocks as worries about frothy valuations ignited a fresh bout of volatilit",
       "urgency": "info",
@@ -326,7 +704,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3358114/us-stocks-slide-wall-street-gets-ai-wake-call?utm_source=rss_feed"
     },
     {
-      "id": "news-18",
+      "id": "news-39",
       "headline": "Macron pays tribute to Marc Bloch and 'his teachings against the spirit of defeatism'",
       "summary": "French Resistance fighter Marc Bloch, who was tortured and executed by the Gestapo in 1944, entered the Pantheon on Tuesday, becoming the first historian to receive the honour bestowed on exceptional figures in politics, culture and science. French President Emmanuel Macron paid tribute the historia",
       "urgency": "breaking",
@@ -344,7 +722,7 @@
       "link": "https://www.france24.com/en/macron-pays-tribute-to-marc-bloch-and-his-teachings-against-defeatism"
     },
     {
-      "id": "news-19",
+      "id": "news-40",
       "headline": "Alibaba sues Pentagon over China military blacklist",
       "summary": "Chinese technology and e-commerce giant Alibaba Group Holding has sued the US Department of Defence, seeking to be removed from a blacklist of companies deemed to support China’s military.\nIn a lawsuit filed on Tuesday in a district court in San Jose, California, the Hangzhou-based company said the ",
       "urgency": "info",
@@ -362,7 +740,7 @@
       "link": "https://www.scmp.com/news/us/article/3358113/alibaba-sues-pentagon-over-china-military-blacklist?utm_source=rss_feed"
     },
     {
-      "id": "news-20",
+      "id": "news-41",
       "headline": "US, Iran give conflicting claims over Hormuz fees - dw.com",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbm9EWUFvcE51SVdCcnltVThGLVlhWjR3VHhGSGV1YVlRaWNBTDZMMmRQM1N2TEQ0czZKWC1TRm9iNFVnUGd5cURxekRvc0d3YjExMlM5NmFpSTVvRGpkMlFKcktCeVhWaF96SGtkUEV3Wlgtb2x6MFhYcDRjSks1SUJveDlkYW1NLVZrTQ?oc=5\" target=\"_blank\"&gt;US, Iran give conflicting claim",
       "urgency": "info",
@@ -380,7 +758,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbm9EWUFvcE51SVdCcnltVThGLVlhWjR3VHhGSGV1YVlRaWNBTDZMMmRQM1N2TEQ0czZKWC1TRm9iNFVnUGd5cURxekRvc0d3YjExMlM5NmFpSTVvRGpkMlFKcktCeVhWaF96SGtkUEV3Wlgtb2x6MFhYcDRjSks1SUJveDlkYW1NLVZrTQ?oc=5"
     },
     {
-      "id": "news-21",
+      "id": "news-42",
       "headline": "Ukraine’s drones are spoiling Putin’s vision for Crimea",
       "summary": "Russian-installed authorities in Crimea have halted fuel distribution in vacation season as Ukraine isolates the peninsula.",
       "urgency": "info",
@@ -398,7 +776,7 @@
       "link": "https://www.washingtonpost.com/world/2026/06/23/ukraines-drones-are-making-crimea-harder-russia-hold/"
     },
     {
-      "id": "news-22",
+      "id": "news-43",
       "headline": "Trump’s Colombia Prize",
       "summary": "Abelardo De La Espriella appears set to be the country’s next president. It adds another right-wing populist leader to a growing roster around the world.",
       "urgency": "info",
@@ -416,7 +794,7 @@
       "link": "https://www.nytimes.com/2026/06/23/world/trump-us-colombia-europe-heat-world-cup.html"
     },
     {
-      "id": "news-23",
+      "id": "news-44",
       "headline": "US targets Cuba mining sector in move with implications for China-linked supply chains",
       "summary": "The Trump administration expanded its sanctions campaign against Cuba on Tuesday, targeting a state-owned mining company and other key economic entities in a move that comes as Washington seeks to build alternative supply chains for critical minerals and reduce reliance on geopolitical rivals.\nUS Se",
       "urgency": "important",
@@ -434,7 +812,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3358112/us-targets-cuba-mining-sector-move-implications-china-linked-supply-chains?utm_source=rss_feed"
     },
     {
-      "id": "news-24",
+      "id": "news-45",
       "headline": "Ukrainian Women Plead for News of Disabled Relatives Held by Russia",
       "summary": "Four years after Ukraine was invaded, many of the people who lived in institutional settings remain unaccounted for.",
       "urgency": "info",
@@ -452,7 +830,7 @@
       "link": "https://www.nytimes.com/2026/06/23/world/europe/ukraine-missing-children-russia.html"
     },
     {
-      "id": "news-25",
+      "id": "news-46",
       "headline": "More protests over Makoko evictions",
       "summary": "In tonight's edition, many waterfront communities in Lagos have lived through rounds of eviction only to see their land sold off to the highest bidder. Also, Sudan's army takes in Darfur paramilitary defectors, stirring anger. And speak to Ghanain lifestyle and creative pioneer Nuel Bans about how h",
       "urgency": "important",
@@ -470,7 +848,7 @@
       "link": "https://www.france24.com/en/more-protests-over-makoko-evictions"
     },
     {
-      "id": "news-26",
+      "id": "news-47",
       "headline": "Afghanistan: After war, violence now 'linked to social and economic pressures'",
       "summary": "\"Safety has not translated into propserity.\"Italian video journalist Silvia Boccardi tells #F24Spotlight violence linked to socioeconomic pressures continues to weigh heavily on daily life in #Afghanistan after the war.Watch the full interview ➡️ https://f24.my/C0fF",
       "urgency": "breaking",
@@ -488,7 +866,7 @@
       "link": "https://www.france24.com/en/video/20260623-afghanistan-after-war-violence-now-linked-to-social-and-economic-pressures"
     },
     {
-      "id": "news-27",
+      "id": "news-48",
       "headline": "Alibaba sues US military over labelling it a ‘Chinese military company’",
       "summary": "E-commerce giant says that claims of affiliation with Chinese military have &#039;no basis in fact or law&#039;.",
       "urgency": "info",
@@ -506,7 +884,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss"
     },
     {
-      "id": "news-28",
+      "id": "news-49",
       "headline": "Meta’s new cheaper AI glasses: Price, availability, where to buy and what’s changed",
       "summary": "Meta’s new cheaper AI glasses: Price, availability, where to buy and what’s changed",
       "urgency": "info",
@@ -524,7 +902,7 @@
       "link": "https://gulfnews.com/technology/metas-new-cheaper-ai-glasses-price-availability-where-to-buy-and-whats-changed-1.500584629"
     },
     {
-      "id": "news-29",
+      "id": "news-50",
       "headline": "Victims of 2024 Kenya police violence say compensation promise a 'smokescreen'",
       "summary": "&lt;p&gt;Two years ago, Gen-Z protests marked a new era for Kenyan politics, but led to dozens of deaths, and devastated families are unimpressed with government promises of compensation.&lt;/p&gt;\n&lt;p&gt;Memorial protests are planned on Thursday to mark two years since the country’s biggest show ",
       "urgency": "breaking",
@@ -542,7 +920,7 @@
       "link": "https://www.dawn.com/news/2010332/victims-of-2024-kenya-police-violence-say-compensation-promise-a-smokescreen"
     },
     {
-      "id": "news-30",
+      "id": "news-51",
       "headline": "Rastafarian man can’t sue prison guards who shaved him bald, US Supreme Court says",
       "summary": "The US Supreme Court refused on Tuesday to let a Rastafarian man sue state prison officials in Louisiana after guards held him down and shaved him bald in violation of his religious beliefs in a case brought under a federal law protecting incarcerated people from religious discrimination.\nThe Suprem",
       "urgency": "info",
@@ -560,7 +938,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3358111/rastafarian-man-cant-sue-prison-guards-who-shaved-him-bald-us-supreme-court-says?utm_source=rss_feed"
     },
     {
-      "id": "news-31",
+      "id": "news-52",
       "headline": "Trump disputes Iran’s rejection of nuclear inspectors",
       "summary": "President Trump pushed back on Iran’s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.",
       "urgency": "info",
@@ -578,7 +956,25 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-53",
+      "headline": "Without its missiles, Iran would be ‘just like Gaza,’ president says - Al Arabiya English",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd091Qm0wMDBhb2k1S2ZyU3ZCTEFZaVhJcFIzcTNlX3VzRzFtcE5FOWRMWktheGNkR0xmQWNyUW84bWY1QWpRNVd2X2FtX1R5cXdMSEo0Sy1hUWpyQXhOZHljUFQyVlA5dG1UTldsdkt5QnQyaDdkZndZUnNyTHZuRlRETDdfcE12LTNJWHBfdlFXOUl6dDVNMXlQRXVVTXhLQ21zYWNwMXRYQktKYk9rTGJzUjBaNVd",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Arabiya",
+          "logo": "https://www.google.com/s2/favicons?domain=alarabiya.net&sz=32",
+          "url": "https://english.alarabiya.net",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-06-23T20:08:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd091Qm0wMDBhb2k1S2ZyU3ZCTEFZaVhJcFIzcTNlX3VzRzFtcE5FOWRMWktheGNkR0xmQWNyUW84bWY1QWpRNVd2X2FtX1R5cXdMSEo0Sy1hUWpyQXhOZHljUFQyVlA5dG1UTldsdkt5QnQyaDdkZndZUnNyTHZuRlRETDdfcE12LTNJWHBfdlFXOUl6dDVNMXlQRXVVTXhLQ21zYWNwMXRYQktKYk9rTGJzUjBaNVdJYlZqeTZLVdIBxAFBVV95cUxNd0JidW1xV2ExbFRRMWJzS1RNUHZmMnJMUkNON0xxMm94N08wS2xWcTh5WC1FWlpiNDFwRXk1d1ByYXI0ZEJfLTNtcERmNmhwZFlKdkE1OUY0ZTAyRmhuTHg5dERLRjg1bWlFZG5ZMjhuQWhSMzBkR1F5aF9QN1d5aldLb3ZFU3N0ZDIyYW5HYkpiaUhHdGF4YnE4eFhpaFcwdkF1MVZtNWg1ekJ4S25ER25KVG9qTzhfUlduYUNwbmVKSXlu?oc=5"
+    },
+    {
+      "id": "news-54",
       "headline": "India prepares contingency plans due to weak monsoon season",
       "summary": "Monsoon rains so far have been 43 percent below average, which is expected to impact India&#039;s crops.",
       "urgency": "info",
@@ -596,7 +992,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/23/india-prepares-contingency-plans-due-to-weak-monsoon-season?traffic_source=rss"
     },
     {
-      "id": "news-33",
+      "id": "news-55",
       "headline": "United Kingdom: Burnham's shift from 'mayor-centric' to national politics",
       "summary": "From the archives:France24's Catherine Norris Trent weighs in on 2017 #AndyBurnham's proposal to shift some power from #Westminster to local governments shortly after becoming mayor of Greater Manchester.More on #F24Debate ➡️https://f24.my/C0VX",
       "urgency": "info",
@@ -614,7 +1010,7 @@
       "link": "https://www.france24.com/en/video/20260623-united-kingdom-burnham-s-shift-from-mayor-centric-to-national-politics"
     },
     {
-      "id": "news-34",
+      "id": "news-56",
       "headline": "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
       "summary": "Arriving in the UAE at the start of a Gulf tour, Rubio is seeking to advance the US-Iran deal with regional partners.",
       "urgency": "info",
@@ -632,7 +1028,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/rubio-begins-gulf-visit-in-the-uae-to-advance-us-iran-peace-deal?traffic_source=rss"
     },
     {
-      "id": "news-35",
+      "id": "news-57",
       "headline": "xQc suspended from Twitch after FIFA World Cup 2026 copyright claim explained",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131949703.cms\" /&gt;<![CDATA[Popular streamer xQc faced a temporary 48-hour suspension from Twitch after his channel received two copyright strikes. The action stemmed ",
       "urgency": "breaking",
@@ -650,7 +1046,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/xqc-suspended-from-twitch-after-fifa-world-cup-2026-copyright-claim-explained/articleshow/131949703.cms"
     },
     {
-      "id": "news-36",
+      "id": "news-58",
       "headline": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
       "summary": "The left-wing candidate has called for voting results from 119 consular offices to be nullified over a procedure change.",
       "urgency": "breaking",
@@ -668,7 +1064,7 @@
       "link": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss"
     },
     {
-      "id": "news-37",
+      "id": "news-59",
       "headline": "'Hands of friendship': Iran president calls for new regional security structure among Muslim nations",
       "summary": "&lt;p&gt;Iran’s President Masoud Pezeshkian on Tuesday called for a “united front” of Muslim nations, extending “hands of friendship” for a new regional security structure.&lt;/p&gt;\n&lt;hr /&gt;\n&lt;p&gt;&lt;strong&gt;Key developments&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Iranian president ",
       "urgency": "breaking",
@@ -686,7 +1082,7 @@
       "link": "https://www.dawn.com/news/2010220/hands-of-friendship-iran-president-calls-for-new-regional-security-structure-among-muslim-nations"
     },
     {
-      "id": "news-38",
+      "id": "news-60",
       "headline": "Iran’s president arrives in Pakistan for peace talks",
       "summary": "Iran’s president arrives in Pakistan for peace talks",
       "urgency": "info",
@@ -704,7 +1100,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss"
     },
     {
-      "id": "news-39",
+      "id": "news-61",
       "headline": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
       "summary": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, making clear to Iranians that their new leaders may be just as severe as those killed in the war.",
       "urgency": "breaking",
@@ -722,27 +1118,9 @@
       "link": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html"
     },
     {
-      "id": "news-40",
-      "headline": "US Senate votes to pass Iran war powers resolution, in blow to Trump",
-      "summary": "The resolution is the first to pass both the Senate and the House, though it is likely to face a presidential veto.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T19:50:29.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
-    },
-    {
-      "id": "news-41",
-      "headline": "England - Ghana live: The Three Lions push hard but the Black Stars hold firm",
-      "summary": "England face Ghana at Foxborough Stadium in a decisive Group L encounter, with both nations seeking to maintain their perfect starts. The clash between the Three Lions and Black Stars promises to be fiercely contested, with first place in the group on the line following victories in their opening ma",
+      "id": "news-62",
+      "headline": "England - Ghana: The Three Lions push hard but the Black Stars hold firm",
+      "summary": "England and Ghana cancelled each other out in a goalless draw at Foxborough Stadium, a result that leaves Group L finely poised with all four nations still harbouring knockout qualification hopes. Relive our live coverage.",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -758,7 +1136,7 @@
       "link": "https://www.france24.com/en/sport/20260623-england-ghana-live-three-lions-and-black-stars-battle-for-group-l-supremacy"
     },
     {
-      "id": "news-42",
+      "id": "news-63",
       "headline": "PTI rails against Adiala jail admin after another meeting with Imran denied",
       "summary": "&lt;p&gt;ISLAMABAD: The sisters of PTI founder Imran Khan and other party leaders were once again prevented from meeting him at Rawalpindi’s Adiala jail on Tuesday, as the party railed against the jail administration, claiming it had misled the court regarding power of attorney documents for the for",
       "urgency": "info",
@@ -776,7 +1154,7 @@
       "link": "https://www.dawn.com/news/2010336/pti-rails-against-adiala-jail-admin-after-another-meeting-with-imran-denied"
     },
     {
-      "id": "news-43",
+      "id": "news-64",
       "headline": "US says Iran can stay for two days before Egypt World Cup game",
       "summary": "Iran&#039;s team will still need to leave the US shortly after their third group-stage match against Egypt on Friday.",
       "urgency": "info",
@@ -794,7 +1172,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss"
     },
     {
-      "id": "news-44",
+      "id": "news-65",
       "headline": "Spanish proverb of the day on ingratitude, betrayal and expectation: 'Raise crows and they will pluck out your eyes'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131949508.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -812,7 +1190,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/spanish-proverb-of-the-day-on-ingratitude-betrayal-and-expectation-raise-crows-and-they-will-pluck-out-your-eyes/articleshow/131949508.cms"
     },
     {
-      "id": "news-45",
+      "id": "news-66",
       "headline": "Kylian Mbappé’s France vs Iraq World Cup highlight gets xQc suspended as FIFA issues copyright strike",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131949495.cms\" /&gt;<![CDATA[xQc received a temporary Twitch suspension after showing a five-second Kylian Mbappé highlight from France’s World Cup match against Iraq. ",
       "urgency": "breaking",
@@ -830,7 +1208,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/kylian-mbapps-france-vs-iraq-world-cup-highlight-gets-xqc-suspended-as-fifa-issues-copyright-strike/articleshow/131949495.cms"
     },
     {
-      "id": "news-46",
+      "id": "news-67",
       "headline": "Bank of India wins Rs 100 crore case against Nirav Modi",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131949339.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -848,7 +1226,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/bank-of-india-wins-rs-100-crore-case-against-nirav-modi/articleshow/131949339.cms"
     },
     {
-      "id": "news-47",
+      "id": "news-68",
       "headline": "Watch: IShowSpeed loses it as Cristiano Ronaldo scores his first goal of the 2026 World Cup",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131949341.cms\" /&gt;<![CDATA[Cristiano Ronaldo's first goal at the 2026 FIFA World Cup ignited an explosive reaction from superfan IShowSpeed, whose stadium celebration",
       "urgency": "info",
@@ -866,7 +1244,25 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/watch-ishowspeed-loses-it-as-cristiano-ronaldo-scores-his-first-goal-of-the-2026-world-cup/articleshow/131949341.cms"
     },
     {
-      "id": "news-48",
+      "id": "news-69",
+      "headline": "U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1Nd2paNC1kanF0d2V6aWlYd2tLYUpFLXRXRWVwUmN1MTNyYlNlR3dsNDFQNkc2ZDdGSVd3UXh5djQtWV9UNENCSnlydkEyNTh2Z2YtdDhaUGptVFVveFlOOTZvZTF5amhVMXF1X1hLVTdyNGxYZGc?oc=5\" target=\"_blank\"&gt;U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear I",
+      "urgency": "important",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-06-23T19:22:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Nd2paNC1kanF0d2V6aWlYd2tLYUpFLXRXRWVwUmN1MTNyYlNlR3dsNDFQNkc2ZDdGSVd3UXh5djQtWV9UNENCSnlydkEyNTh2Z2YtdDhaUGptVFVveFlOOTZvZTF5amhVMXF1X1hLVTdyNGxYZGc?oc=5"
+    },
+    {
+      "id": "news-70",
       "headline": "In Middle East, Rubio Says ‘No Country’ Can Charge for Hormuz Traffic",
       "summary": "The secretary of state dismissed Iran’s talk of charging ships to pass through the vital Persian Gulf portal as prohibited under international law.",
       "urgency": "info",
@@ -884,7 +1280,7 @@
       "link": "https://www.nytimes.com/2026/06/23/world/middleeast/rubio-strait-of-hormuz-charges-traffic.html"
     },
     {
-      "id": "news-49",
+      "id": "news-71",
       "headline": "Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026",
       "summary": "Cristiano Ronaldo becomes first player to score at six World Cup tournaments as Portugal thrash debutants Uzbekistan.",
       "urgency": "info",
@@ -902,7 +1298,7 @@
       "link": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-scores-twice-as-portugal-thrash-uzbekistan-5-0-at-world-cup-2026?traffic_source=rss"
     },
     {
-      "id": "news-50",
+      "id": "news-72",
       "headline": "UAE Rulers offer condolences to Qatar Emir over victims of Ras Laffan industrial accident",
       "summary": "Rulers of Emirates condole Qatari Emir over victims of Ras Laffan industrial zone incident",
       "urgency": "info",
@@ -920,7 +1316,7 @@
       "link": "https://gulfnews.com/uae/government/rulers-of-emirates-condole-qatari-emir-over-victims-of-ras-laffan-industrial-zone-incident-1.500584570"
     },
     {
-      "id": "news-51",
+      "id": "news-73",
       "headline": "Sharjah Ruler approves promotion of 1,519 military personnel",
       "summary": "Sharjah Ruler approves promotion of 1,519 military personnel",
       "urgency": "info",
@@ -938,7 +1334,7 @@
       "link": "https://gulfnews.com/uae/government/sharjah-ruler-approves-promotion-of-1519-military-personnel-1.500584312"
     },
     {
-      "id": "news-52",
+      "id": "news-74",
       "headline": "Displaced Lebanese return south under fragile ceasefire deal",
       "summary": "Displaced Lebanese are heading back south after a US-Iran backed ceasefire halted months of Israeli bombardment.",
       "urgency": "breaking",
@@ -956,7 +1352,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss"
     },
     {
-      "id": "news-53",
+      "id": "news-75",
       "headline": "World Cup 2026: Portugal and record breaking Cristiano Ronaldo outshine Uzbekistan",
       "summary": "World Cup 2026: Portugal and record breaking Cristiano Ronaldo outshine Uzbekistan",
       "urgency": "breaking",
@@ -974,7 +1370,7 @@
       "link": "https://www.france24.com/en/sport/20260623-world-cup-2026-portugal-and-record-breaking-cristiano-ronaldo-outshine-uzbekistan"
     },
     {
-      "id": "news-54",
+      "id": "news-76",
       "headline": "NAB to launch AI-based investigation system to probe financial crimes, white-collar offences",
       "summary": "&lt;p&gt;The National Accountability Bureau (NAB) has established an artificial intelligence-based investigation system, National Centre of Artificial Intelligence (&lt;a rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://ncai.pk/\"&gt;NCAI&lt;/a&gt;) Chairman Dr ",
       "urgency": "breaking",
@@ -992,7 +1388,7 @@
       "link": "https://www.dawn.com/news/2010341/nab-to-launch-ai-based-investigation-system-to-probe-financial-crimes-white-collar-offences"
     },
     {
-      "id": "news-55",
+      "id": "news-77",
       "headline": "UAE President receives ‘Make it in the Emirates’ delegation",
       "summary": "UAE President receives Make it in the Emirates delegation",
       "urgency": "info",
@@ -1010,7 +1406,7 @@
       "link": "https://gulfnews.com/uae/government/uae-president-receives-make-it-in-the-emirates-delegation-1.500584544"
     },
     {
-      "id": "news-56",
+      "id": "news-78",
       "headline": "Video: Israeli troops seen patrolling Syrian countryside",
       "summary": "Israeli troops and two Merkava tanks have been spotted in the Syrian countryside near Quneitra city.",
       "urgency": "info",
@@ -1028,7 +1424,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss"
     },
     {
-      "id": "news-57",
+      "id": "news-79",
       "headline": "Trisha’s viral birthday wish for Vijay: Why her message to the Tamil Nadu CM is trending amid rumours",
       "summary": "Trisha’s viral birthday wish for Vijay: Why her message to the Tamil Nadu CM is trending amid rumours",
       "urgency": "info",
@@ -1046,7 +1442,7 @@
       "link": "https://gulfnews.com/entertainment/south-indian/trishas-viral-birthday-wish-for-vijay-why-her-message-to-the-tamil-nadu-cm-is-trending-amid-rumours-1.500584588"
     },
     {
-      "id": "news-58",
+      "id": "news-80",
       "headline": "Sexual violence increasingly used as 'weapon of war' in Sudan, UN says",
       "summary": "The scale and brutality of the sexual attacks is unprecedented and aimed at terrorising communities, the UN says.",
       "urgency": "breaking",
@@ -1064,7 +1460,7 @@
       "link": "https://www.bbc.co.uk/news/articles/crel587qz8ro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-59",
+      "id": "news-81",
       "headline": "Afghan proverb of the day on why force is overrated: 'He who can be killed by sugar should not be killed by poison'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131948594.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1082,7 +1478,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/afghan-proverb-of-the-day-on-why-force-is-overrated-he-who-can-be-killed-by-sugar-should-not-be-killed-by-poison/articleshow/131948594.cms"
     },
     {
-      "id": "news-60",
+      "id": "news-82",
       "headline": "UAE’s success begins with service to people, says Al Marri",
       "summary": "UAE’s success begins with service to people, says Al Marri",
       "urgency": "info",
@@ -1100,7 +1496,7 @@
       "link": "https://gulfnews.com/uae/government/uaes-success-begins-with-service-to-people-says-al-marri-1.500584438"
     },
     {
-      "id": "news-61",
+      "id": "news-83",
       "headline": "'A very different Afghanistan: Violence now linked to socioeconomic pressures'",
       "summary": "François Picard is pleased to welcome Silvia Boccardi, freelance journalist based in Rome. Nearly five years after the Taliban's return to power, Afghanistan occupies an uneasy position in international politics. As European governments increasingly seek practical engagement with the authorities in ",
       "urgency": "info",
@@ -1118,7 +1514,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260623-a-very-different-afghanistan-violence-now-linked-to-socioeconomic-pressures"
     },
     {
-      "id": "news-62",
+      "id": "news-84",
       "headline": "GDRFA Dubai sets global benchmark in government communication",
       "summary": "GDRFA Dubai sets global benchmark in government communication",
       "urgency": "info",
@@ -1136,7 +1532,7 @@
       "link": "https://gulfnews.com/uae/government/gdrfa-dubai-sets-global-benchmark-in-government-communication-1.500584386"
     },
     {
-      "id": "news-63",
+      "id": "news-85",
       "headline": "How Mark Rutte of NATO Manages an Unpredictable Trump",
       "summary": "Secretary General Mark Rutte is headed to Washington. His style has at times frustrated the very European leaders who need him to hold the alliance together.",
       "urgency": "info",
@@ -1154,7 +1550,7 @@
       "link": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html"
     },
     {
-      "id": "news-64",
+      "id": "news-86",
       "headline": "National Guard Counterdrug Program Adapts to Evolving Criminal Threats",
       "summary": "The National Guard Counterdrug Program helps law enforcement connect investigations and share intelligence to stop sophisticated drug trafficking networks across the country.",
       "urgency": "info",
@@ -1172,43 +1568,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4524222/national-guard-counterdrug-program-adapts-to-evolving-criminal-threats/"
     },
     {
-      "id": "news-65",
-      "headline": "US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure",
-      "summary": "The US Supreme Court made it easier for US companies to seek compensation from Cuba&#039;s government for assets seized.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T18:35:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/economy/2026/6/23/us-supreme-court-oks-exxonmobil-lawsuit-over-castro-era-property-seizure?traffic_source=rss"
-    },
-    {
-      "id": "news-66",
-      "headline": "UAE President receives Chief of the General Staff of the Kuwaiti Armed Forces",
-      "summary": "UAE President receives Chief of the General Staff of the Kuwaiti Armed Forces",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T18:35:11.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/government/uae-president-receives-chief-of-the-general-staff-of-the-kuwaiti-armed-forces-1.500584568"
-    },
-    {
-      "id": "news-67",
+      "id": "news-87",
       "headline": "Achieving net-zero carbon emissions can reduce the intensity, duration, and frequency of heat waves",
       "summary": "Haxie Meyers-Belkin is pleased to welcome Dr. Chloe Brimacombe. She presents a clear and sobering analysis of the current European heatwave as both a meteorological event and a societal stress test. Her argument is that the exceptional temperatures affecting France are not merely unusual because of ",
       "urgency": "breaking",
@@ -1226,7 +1586,7 @@
       "link": "https://www.france24.com/en/achieving-net-zero-carbon-emissions-can-reduce-the-intensity-duration-and-frequency-of-heat-waves"
     },
     {
-      "id": "news-68",
+      "id": "news-88",
       "headline": "Ransom note says Nancy Guthrie is dead, prompting plea from daughter Samantha",
       "summary": "Today show host Savannah Guthrie made an emotional appeal to viewers on Tuesday to come forward with any information about her missing mother, a day after news organisations said a ransom note received months ago had indicated that she was dead.\n“We are in agony, and we cannot be at peace … We love ",
       "urgency": "breaking",
@@ -1244,25 +1604,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3358110/ransom-note-says-nancy-guthrie-dead-prompting-plea-daughter-samantha?utm_source=rss_feed"
     },
     {
-      "id": "news-69",
-      "headline": "US Supreme Court backs Trump policy on green card holder rights",
-      "summary": "Court rules 6-3 that suspicion alone justifies placing green card holders on immigration parole at border crossings.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T18:24:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights?traffic_source=rss"
-    },
-    {
-      "id": "news-70",
+      "id": "news-89",
       "headline": "US eases travel curbs on Iran World Cup team before next match",
       "summary": "US eases travel curbs on Iran World Cup team before next match",
       "urgency": "info",
@@ -1280,7 +1622,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/us-eases-travel-curbs-on-iran-world-cup-team-before-next-match-1.500584574"
     },
     {
-      "id": "news-71",
+      "id": "news-90",
       "headline": "‘A Terrible Inheritance’: Could Andy Burnham Succeed Where Starmer Failed?",
       "summary": "The likely successor to Prime Minister Keir Starmer will inherit the same challenges of economic stagnation and ascendant populism. Will a divided nation be prepared to give him time?",
       "urgency": "info",
@@ -1298,7 +1640,7 @@
       "link": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html"
     },
     {
-      "id": "news-72",
+      "id": "news-91",
       "headline": "Trump dismisses Iran’s rejection of nuclear inspections",
       "summary": "Iran’s Foreign Ministry said there was no plan for the IAEA to inspect its damaged nuclear facilities, a day after Vice President JD Vance said conversations with inspectors could happen imminently.",
       "urgency": "info",
@@ -1316,7 +1658,7 @@
       "link": "https://www.washingtonpost.com/world/2026/06/23/iran-says-no-nuclear-inspections-countering-vance-statement/"
     },
     {
-      "id": "news-73",
+      "id": "news-92",
       "headline": "Supreme Court order on Green Card holders: Border officials can deny re-entry of permanent citizens if they are accused of crime",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131947979.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1334,7 +1676,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/supreme-court-order-on-green-card-holders-border-officials-can-deny-re-entry-of-permanent-citizens-if-they-are-accused-of-crime/articleshow/131947979.cms"
     },
     {
-      "id": "news-74",
+      "id": "news-93",
       "headline": "Air conditioning for all? France divided over response to record-breaking heatwave",
       "summary": "The heat is on. Enough to make Parisians take the plunge into the once notoriously polluted Canal Saint Martin. France this Tuesday awakening from its hottest night on record, enough to test the tempers of city dwellers as they sizzle under the zinc roofs of top floor apartments built for a bygone a",
       "urgency": "breaking",
@@ -1352,25 +1694,7 @@
       "link": "https://www.france24.com/en/tv-shows/the-debate/20260623-air-conditioning-for-all-france-divided-over-response-to-record-breaking-heatwave"
     },
     {
-      "id": "news-75",
-      "headline": "Two Goals, Two Records Broken for Ronaldo",
-      "summary": "Two Goals, Two Records Broken for Ronaldo",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T18:12:45.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/football/world-cup/two-goals-two-records-broken-for-ronaldo-1.500584548"
-    },
-    {
-      "id": "news-76",
+      "id": "news-94",
       "headline": "At 41, Ronaldo makes World Cup history with a feat no player has ever achieved",
       "summary": "At 41, Ronaldo makes World Cup history with a feat no player has ever achieved",
       "urgency": "info",
@@ -1388,43 +1712,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/at-41-ronaldo-makes-world-cup-history-with-a-feat-no-player-has-ever-achieved-1.500584552"
     },
     {
-      "id": "news-77",
-      "headline": "Who’s being left out of the World Cup?",
-      "summary": "Can football’s biggest stage stay global as visa denials and border restrictions mount?",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T18:08:07.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/6/23/whos-being-left-out-of-the-world-cup?traffic_source=rss"
-    },
-    {
-      "id": "news-78",
-      "headline": "Pregnant Deepika Padukone calls ICC maternity policy a &apos;landmark moment&apos;",
-      "summary": "Pregnant Deepika Padukone calls ICC maternity policy a &apos;landmark moment&apos;",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T18:07:28.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/entertainment/bollywood/pregnant-deepika-padukone-calls-icc-maternity-policy-a-landmark-moment-1.500584546"
-    },
-    {
-      "id": "news-79",
+      "id": "news-95",
       "headline": "Ransom note claims Nancy Guthrie died after abduction",
       "summary": "On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\"",
       "urgency": "breaking",
@@ -1442,7 +1730,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-80",
+      "id": "news-96",
       "headline": "Pummelled by Ukraine, Russia says US hasn’t delivered on Trump-Putin ‘understandings’",
       "summary": "Russia has accused the ⁠US of failing to deliver on “understandings” reached between presidents Vladimir Putin and Donald Trump at a summit in Alaska last August, a shift that suggests growing frustration in Moscow.\nIn the space of three days, three senior Russian officials have said, without provid",
       "urgency": "breaking",
@@ -1460,43 +1748,7 @@
       "link": "https://www.scmp.com/news/world/russia-central-asia/article/3358109/pummelled-ukraine-russia-says-us-hasnt-delivered-trump-putin-understandings?utm_source=rss_feed"
     },
     {
-      "id": "news-81",
-      "headline": "Trump insists Iran has agreed to nuclear inspections in talks for war-ending deal - NBC News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk53QXItMndLYkxpdE1La0szUWhfLWg0Tkx3Z1diQUYxdWFPN0E5SnpxQ0hqdWZ3ZHBrUjlSZ0JUV0pqZkpjbnAxRHQ5YXdVR21fSTlPX19hMjRaOHlCRzFETmRUdi1qbERraGttaDF4UFlRaXlMbk9LVXh2aGgtQnd2dWRUUGlERE9hb3VIR2tvQXI5RVJPVTloNFNLZkxnbDViSEhPdmYxdw?oc=5\" target=\"_b",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:51:24.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk53QXItMndLYkxpdE1La0szUWhfLWg0Tkx3Z1diQUYxdWFPN0E5SnpxQ0hqdWZ3ZHBrUjlSZ0JUV0pqZkpjbnAxRHQ5YXdVR21fSTlPX19hMjRaOHlCRzFETmRUdi1qbERraGttaDF4UFlRaXlMbk9LVXh2aGgtQnd2dWRUUGlERE9hb3VIR2tvQXI5RVJPVTloNFNLZkxnbDViSEhPdmYxdw?oc=5"
-    },
-    {
-      "id": "news-82",
-      "headline": "Heatwave grips Europe: Eiffel Tower shuts early, Louvre shortens hours",
-      "summary": "Heatwave grips Europe: Eiffel Tower shuts early, Louvre shortens hours",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:46:56.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/europe/heatwave-grips-europe-eiffel-tower-shuts-early-louvre-shortens-hours-1.500584525"
-    },
-    {
-      "id": "news-83",
+      "id": "news-97",
       "headline": "Indian student, headed to US, sent back from Amsterdam, unaware that his F-1 visa had been revoked in 2025",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131945617.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1514,43 +1766,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/indian-student-headed-to-us-sent-back-from-amsterdam-unaware-that-his-f-1-visa-had-been-revoked-in-2025/articleshow/131945617.cms"
     },
     {
-      "id": "news-84",
-      "headline": "Why do the UK’s prime ministers keep resigning?",
-      "summary": "Keir Starmer is the latest to step down, after less than two years in office.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:36:04.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/23/why-do-the-uks-prime-ministers-keep-resigning?traffic_source=rss"
-    },
-    {
-      "id": "news-85",
-      "headline": "Israeli forces set olive trees on fire in occupied West Bank",
-      "summary": "Footage shows the aftermath of Israeli forces setting olive trees on fire in the small Palestinian village of Rummanah.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:35:30.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss"
-    },
-    {
-      "id": "news-86",
+      "id": "news-98",
       "headline": "Canadian police warn of possible copycat attacks after deadly shootout in Montreal",
       "summary": "&lt;p&gt;Assailant behind shooting that left three people dead wrote ‘incel’-like manifesto that was posted by a far-right outlet&lt;/p&gt;&lt;p&gt;Police in Canada are warning of possible copycat attacks after three people died in &lt;a href=\"https://www.theguardian.com/world/2026/jun/23/canada-mon",
       "urgency": "breaking",
@@ -1568,7 +1784,7 @@
       "link": "https://www.theguardian.com/world/2026/jun/23/canada-police-warn-copycat-attack-montreal-shooting"
     },
     {
-      "id": "news-87",
+      "id": "news-99",
       "headline": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
       "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
       "urgency": "info",
@@ -1584,222 +1800,6 @@
       "timestamp": "2026-06-23T17:30:44.000Z",
       "widgetType": "news",
       "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-88",
-      "headline": "Russia's New War Strategy: Flood Skies With Drones, Pierce Frontline With Troops, Trap Ukraine - WION",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUt6b1VzS2dDbDhvNUgwX2U0X3JKUFI0V0JyVmdtclR1YzNodnZfeWhncXFjejYxSGlYc0QxT2pDckdQLXRIalBzMU80RGI2c1NBMnVpZFZHUDhuOVFtc0taQi1Hc3RSWS1hcGVuMEpEa1gxU3NMUVc4SDJWaTViLWJqdHY1bm5pWlc3WEh0NXJKYWVPTnhVRjNOSTJJbXF2WVktN0ZObWVXTXVMZEtZNktBWWgyT0N",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:27:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUt6b1VzS2dDbDhvNUgwX2U0X3JKUFI0V0JyVmdtclR1YzNodnZfeWhncXFjejYxSGlYc0QxT2pDckdQLXRIalBzMU80RGI2c1NBMnVpZFZHUDhuOVFtc0taQi1Hc3RSWS1hcGVuMEpEa1gxU3NMUVc4SDJWaTViLWJqdHY1bm5pWlc3WEh0NXJKYWVPTnhVRjNOSTJJbXF2WVktN0ZObWVXTXVMZEtZNktBWWgyT0NnUWd3c2hNY3ZidDhUbFBValF2S1ZVOWswcnfSAdcBQVVfeXFMTV9xVF9sbjdOU2JVbjlhQ2lFVXVhbnpoVnBTMEk4bGFKMW1jT05aelQ5Q2pPanY5U1g1ak1TRUktRWJtd1lBYzJpQktNYU5LaXdpbjdJV2pCWG4yRVVTOUV2QmtiVG45ZW9FVUk1bTBtbmlLRTVicjNMdlh3WmhZbHNzZkFrNHhla2JqdHg4eXNVNWFqU3dEMHpfT3BjcEFnanY1aEdqbnhxUjYtS19kOXViX1o3NE1tNVFpdGpuSWxlMDdIb0w4Y0tjSllLdzhYRXdKRmlua0E?oc=5"
-    },
-    {
-      "id": "news-89",
-      "headline": "EU hosts Taliban officials for the first time in talks on deportations",
-      "summary": "The Taliban government is not recognised by any European country, despite this meeting in Brussels with EU officials.",
-      "urgency": "info",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:26:47.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss"
-    },
-    {
-      "id": "news-90",
-      "headline": "Irish company 'assisting in commission of crimes' by supplying alumina to Russia for Ukraine war",
-      "summary": "François Picard is pleased to welcome Wayne Jordash, President of Global Rights Compliance Foundation. He argues that the European Union's approach to alumina exports exposes a fundamental flaw: while seeking to constrain Russia's military-industrial capabilities through sanctions, European authorit",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:26:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260623-irish-company-assisting-in-commission-of-crimes-by-supplying-alumina-to-russia-for-ukraine-war"
-    },
-    {
-      "id": "news-91",
-      "headline": "U.N. Sets Plan to Evacuate Stranded Ships Out of Persian Gulf",
-      "summary": "The International Maritime Organization, working with multiple countries, said it has ensured that vessels can sail safely through the Strait of Hormuz after months of being idled.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:25:01.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/23/world/middleeast/imo-persian-gulf-stranded-ships.html"
-    },
-    {
-      "id": "news-92",
-      "headline": "Taliban delegation heads to Brussels for first EU talks focused on Afghan deportations",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131945009.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:18:33.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/south-asia/taliban-delegation-heads-to-brussels-for-first-eu-talks-focused-on-afghan-deportations/articleshow/131945009.cms"
-    },
-    {
-      "id": "news-93",
-      "headline": "A Historic First: Marine Corps Reserve Integrates Multidomain Assets During Exercise",
-      "summary": "The Marine Corps Reserve is actively deploying multidomain collection assets during an integration course for the first time in its history, marking a technological milestone that ensures the service remains an agile force prepared to dominate in complex, data-driven conflicts.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "US Pentagon",
-          "logo": "https://www.google.com/s2/favicons?domain=defense.gov&sz=32",
-          "url": "https://defense.gov",
-          "category": "government"
-        }
-      ],
-      "timestamp": "2026-06-23T17:05:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4524108/a-historic-first-marine-corps-reserve-integrates-multidomain-assets-during-exer/"
-    },
-    {
-      "id": "news-94",
-      "headline": "Israel, Lebanon to hold new round of US-hosted talks - dw.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGF1MERzZGI4Y0x3V2lEWFRWS0YyR3hGZUxOSFV2blJSdmtuSmFDU2Z6cERIVzVCZmt1MnVzSnlRRFhkY0lHbS1nNm5JMkpWTlBGeVRkRkxDVkRDREVmdUhUdl9Xdk9sY1Bqck9EUGVlWERKLS1iN1lpTDZ3MktrMUNPOWdfVXk3RkllX3pIZWU?oc=5\" target=\"_blank\"&gt;Israel, Lebanon to hold ne",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T17:02:28.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGF1MERzZGI4Y0x3V2lEWFRWS0YyR3hGZUxOSFV2blJSdmtuSmFDU2Z6cERIVzVCZmt1MnVzSnlRRFhkY0lHbS1nNm5JMkpWTlBGeVRkRkxDVkRDREVmdUhUdl9Xdk9sY1Bqck9EUGVlWERKLS1iN1lpTDZ3MktrMUNPOWdfVXk3RkllX3pIZWU?oc=5"
-    },
-    {
-      "id": "news-95",
-      "headline": "Trump touts Iran inspection deal as Tehran disputes terms",
-      "summary": "US President Donald Trump on Tuesday insisted that Iran has agreed to “highest level” nuclear inspections even as Iranian officials disputed his claim, exposing how much remains contested even with a tentative agreement in place.\n“Despite their protestations and false statements to the contrary … Ir",
-      "urgency": "important",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T16:54:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/us/article/3358108/trump-touts-iran-inspection-deal-tehran-disputes-terms?utm_source=rss_feed"
-    },
-    {
-      "id": "news-96",
-      "headline": "New twist in JPMorgan 'sex slave' lawsuit: Chirayu Rana wants to withdraw, Lorna Hajdini says you can't just walk away",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/131944294.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T16:49:17.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/new-twist-in-jpmorgan-sex-slave-lawsuit-chirayu-rana-wants-to-withdraw-lorna-hajdini-says-you-cant-just-walk-away/articleshow/131944294.cms"
-    },
-    {
-      "id": "news-97",
-      "headline": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE44aEZLRjFyQm1kZm93VXJ2b2psQmZjWmhnejdBS2Nla1lzM1JjYUdIRDFRTFpoQl85YnZBdEhOcU00bGg1QUpXMjVic2FqNmRxeVoxc2FEYUswUQ?oc=5\" target=\"_blank\"&gt;Israeli troops kill two in south Lebanon after lull in fighting, authorities say&lt;/a&gt;&amp;nbsp",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T16:47:45.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44aEZLRjFyQm1kZm93VXJ2b2psQmZjWmhnejdBS2Nla1lzM1JjYUdIRDFRTFpoQl85YnZBdEhOcU00bGg1QUpXMjVic2FqNmRxeVoxc2FEYUswUQ?oc=5"
-    },
-    {
-      "id": "news-98",
-      "headline": "Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy",
-      "summary": "A historian and others said that a video installation had incorrectly blamed Winston Churchill for a famine in colonial India.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T16:42:38.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html"
-    },
-    {
-      "id": "news-99",
-      "headline": "Return to the top: China’s LineShine beats US El Capitan in Top500 supercomputer rankings",
-      "summary": "China has reclaimed the world’s fastest supercomputer crown for the first time since 2017, according to the latest TOP500 rankings released at the International Supercomputing Conference in Hamburg, Germany, on Tuesday.\nLineShine, built by the National Supercomputing Centre in Shenzhen, achieved 2.1",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-06-23T16:37:44.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/science/article/3358107/return-top-chinas-lineshine-beats-us-el-capitan-top500-supercomputer-rankings?utm_source=rss_feed"
     }
   ],
   "financials": {
