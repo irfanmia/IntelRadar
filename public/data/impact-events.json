@@ -1,26 +1,33 @@
 {
-  "lastUpdated": "2026-07-04T13:35:46.513Z",
+  "lastUpdated": "2026-07-04T13:46:42.120Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 492,
-      "count": 308,
-      "breaking": 84,
-      "latest": "2026-07-04T13:22:15.000Z"
+      "score": 520,
+      "count": 326,
+      "breaking": 89,
+      "latest": "2026-07-04T13:45:23.000Z"
     },
     {
       "id": "middle-east",
-      "score": 318,
-      "count": 150,
-      "breaking": 81,
-      "latest": "2026-07-04T13:15:42.000Z"
+      "score": 369,
+      "count": 170,
+      "breaking": 97,
+      "latest": "2026-07-04T13:39:54.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 104,
-      "count": 40,
-      "breaking": 32,
+      "score": 133,
+      "count": 59,
+      "breaking": 36,
       "latest": "2026-07-04T13:13:52.000Z"
+    },
+    {
+      "id": "venezuela",
+      "score": 81,
+      "count": 46,
+      "breaking": 9,
+      "latest": "2026-07-04T08:41:14.000Z"
     },
     {
       "id": "sudan",
@@ -30,11 +37,18 @@
       "latest": "2026-07-04T12:43:43.000Z"
     },
     {
-      "id": "venezuela",
-      "score": 76,
-      "count": 44,
-      "breaking": 8,
-      "latest": "2026-07-04T08:41:14.000Z"
+      "id": "taliban-pakistan",
+      "score": 45,
+      "count": 21,
+      "breaking": 12,
+      "latest": "2026-07-02T22:09:11.000Z"
+    },
+    {
+      "id": "korea",
+      "score": 45,
+      "count": 21,
+      "breaking": 12,
+      "latest": "2026-06-27T23:10:39.000Z"
     },
     {
       "id": "china-taiwan",
@@ -49,20 +63,6 @@
       "count": 20,
       "breaking": 5,
       "latest": "2026-07-02T13:57:56.000Z"
-    },
-    {
-      "id": "korea",
-      "score": 1,
-      "count": 1,
-      "breaking": 0,
-      "latest": "2026-06-27T23:10:39.000Z"
-    },
-    {
-      "id": "taliban-pakistan",
-      "score": 1,
-      "count": 1,
-      "breaking": 0,
-      "latest": "2026-06-22T07:00:00.000Z"
     }
   ],
   "countryEvents": {
@@ -151,24 +151,24 @@
       "general"
     ],
     "pakistan": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "india": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "united-states": [
-      "korea",
       "middle-east",
       "ukraine-russia",
       "venezuela",
+      "korea",
       "china-taiwan",
       "general"
     ],
@@ -206,8 +206,8 @@
       "ukraine-russia"
     ],
     "china": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
@@ -272,22 +272,22 @@
       "general"
     ],
     "australia": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "japan": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "afghanistan": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
@@ -328,8 +328,8 @@
       "ukraine-russia"
     ],
     "bangladesh": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
