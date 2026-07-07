@@ -1,8 +1,62 @@
 {
-  "lastUpdated": "2026-07-07T20:10:11.967Z",
+  "lastUpdated": "2026-07-07T20:30:12.322Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Watch: Marine Le Pen confirms run for French presidency",
+      "summary": "The National Rally leader also said she will attempt to appeal an embezzlement conviction.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Europe",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-07T20:21:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "I.O.C. Lifts Russia’s Olympic Suspension, Clearing the Way for 2028",
+      "summary": "The International Olympic Committee “provisionally” removed the ban imposed in relation to Russia’s invasion of Ukraine. A previous ban for systematic doping had already ended.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-07T20:20:16.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/07/world/europe/russia-olympic-suspension-lifted.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "Africa's World Cup dream fades",
+      "summary": "In tonight's edition, Egypt were seconds away from a historic triumph against Argentina, only to watch their dream vanish in the cruelest fashion. Also, media in Accra claim Ghana has rebuffed Cyril Ramaphosa's request for a state visit over xenophobic attacks. And a single photograph has reignited ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-07T20:19:44.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/africa-s-world-cup-dream-fades"
+    },
+    {
+      "id": "news-3",
       "headline": "'It seems like the politics are starting to drown out some of the excellent football'",
       "summary": "Paris' public prosecutor said on Tuesday it had opened an investigation into a Paraguayan lawmaker's comments about France football captain Kylian Mbappe. Speaking with FRANCE 24's Mark Owen, Alexander Cooley is Claire Tow Professor of Political Science, Barnard College.",
       "urgency": "info",
@@ -20,7 +74,25 @@
       "link": "https://www.france24.com/en/it-seems-like-the-politics-are-starting-to-drown-out-some-of-the-excellent-football"
     },
     {
-      "id": "news-1",
+      "id": "news-4",
+      "headline": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+      "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-07T20:00:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-5",
       "headline": "Marine Le Pen to run for French presidency and appeal conviction in top court",
       "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
       "urgency": "info",
@@ -38,7 +110,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-2",
+      "id": "news-6",
       "headline": "Deadly  landslide buries tunnel construction site in India",
       "summary": "At least five people were killed after a massive landslide buried a tunnel construction site in Kerala",
       "urgency": "breaking",
@@ -56,7 +128,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss"
     },
     {
-      "id": "news-3",
+      "id": "news-7",
       "headline": "What was the VAR controversy in the second half of Argentina vs Egypt?",
       "summary": "A disallowed goal by VAR, a string of yellow cards for Egypt, and contrasting emotions from both captains capped the match.",
       "urgency": "info",
@@ -74,7 +146,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/7/why-was-the-second-half-of-the-argentina-vs-egypt-world-cup-game-controversial?traffic_source=rss"
     },
     {
-      "id": "news-4",
+      "id": "news-8",
       "headline": "&apos;It was a rigged game&apos;: Egypt&apos;s Zico blasts referee after Argentina defeat",
       "summary": "&apos;It was a rigged game&apos;: Egypt&apos;s Zico blasts referee after Argentina defeat",
       "urgency": "info",
@@ -92,25 +164,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/it-was-a-rigged-game-egypts-zico-blasts-referee-after-argentina-defeat-1.500600348"
     },
     {
-      "id": "news-5",
-      "headline": "I.O.C. Lifts Russia’s Olympic Suspension, Clearing the Way for 2028",
-      "summary": "The International Olympic Committee “provisionally” removed the ban imposed in relation to Russia’s invasion of Ukraine. A previous ban for systematic doping had already ended.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-07T19:34:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/07/world/europe/russia-olympic-suspension-lifted.html"
-    },
-    {
-      "id": "news-6",
+      "id": "news-9",
       "headline": "Woman suspected of Monaco bombing is found dead in Ukraine, authorities say",
       "summary": "The woman suspected of trying to kill a Ukrainian business tycoon in a bombing attack in Monaco last week was found dead in Ukraine with gunshot wounds to the head, Ukraine’s Security Service said on Tuesday. FRANCE 24's Morgan Ayre reports.",
       "urgency": "breaking",
@@ -128,7 +182,7 @@
       "link": "https://www.france24.com/en/woman-suspected-of-monaco-bombing-is-found-dead-in-ukraine-authorities-say"
     },
     {
-      "id": "news-7",
+      "id": "news-10",
       "headline": "France's Le Pen says still running for president, despite embezzlement conviction confirmed",
       "summary": "French far-right chief Marine Le Pen Tuesday said she was still standing for president next year, after an appeals court confirmed her embezzlement conviction but paved the way for her to run with a shorter ban from office. FRANCE 24's Mark Owen speaks with Dr Katy Brown, Fellow in Language and Soci",
       "urgency": "info",
@@ -146,7 +200,7 @@
       "link": "https://www.france24.com/en/france-s-le-pen-says-still-running-for-president-despite-embezzlement-conviction-confirmed"
     },
     {
-      "id": "news-8",
+      "id": "news-11",
       "headline": "In NATO’s Next Act, Can Europe Lead?",
       "summary": "The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.",
       "urgency": "important",
@@ -164,7 +218,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html"
     },
     {
-      "id": "news-9",
+      "id": "news-12",
       "headline": "Le Pen Says She Will Run for Presidency After Court Lifts Ban",
       "summary": "An appeals court confirmed Marine Le Pen’s embezzlement conviction, but shortened a ban on her eligibility for elected office. That means the French far-right leader can run for president in 2027.",
       "urgency": "info",
@@ -182,7 +236,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
     },
     {
-      "id": "news-10",
+      "id": "news-13",
       "headline": "Trump criticises NATO allies over Iran conflict support",
       "summary": "US President Donald Trump criticised NATO allies for refusing to back the United States during its conflict with Iran.",
       "urgency": "info",
@@ -200,7 +254,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss"
     },
     {
-      "id": "news-11",
+      "id": "news-14",
       "headline": "UAE strongly condemns hostile Iranian attack targeting Qatar’s Al Rakeyyat vessel",
       "summary": "UAE strongly condemns hostile Iranian attack targeting Qatar’s Al Rakeyyat vessel",
       "urgency": "breaking",
@@ -218,7 +272,7 @@
       "link": "https://gulfnews.com/uae/government/uae-strongly-condemns-hostile-iranian-attack-targeting-qatars-al-rakeyyat-vessel-2-1.500600259"
     },
     {
-      "id": "news-12",
+      "id": "news-15",
       "headline": "UK govt mulls emergency law to deport grooming gang ringleader to Pakistan",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132247300.cms\" /&gt;<![CDATA[Labour is exploring emergency legislation to deport a grooming gang leader. Shabir Ahmed, convicted of child rape, was released after servi",
       "urgency": "info",
@@ -236,7 +290,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/uk-govt-mulls-emergency-law-to-deport-grooming-gang-ringleader-to-pakistan/articleshow/132247300.cms"
     },
     {
-      "id": "news-13",
+      "id": "news-16",
       "headline": "Quote of the day by Michelle Obama: 'Failure is a feeling long before it becomes an actual result'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132247080.cms\" /&gt;<![CDATA[Quote of the day by Michelle Obama: In her 2018 memoir 'Becoming', Michelle Obama wrote about her childhood in Chicago. Her school Bryn Maw",
       "urgency": "important",
@@ -254,7 +308,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-michelle-obama-failure-is-a-feeling-long-before-it-becomes-an-actual-result/articleshow/132247080.cms"
     },
     {
-      "id": "news-14",
+      "id": "news-17",
       "headline": "The Symbols We Saw at Khamenei’s Funeral",
       "summary": "Abdi Latif Dahir, a Middle East correspondent for The Times, explains the messages behind recurring symbols at the dayslong funeral for Ayatollah Ali Khamenei.",
       "urgency": "info",
@@ -272,7 +326,7 @@
       "link": "https://www.nytimes.com/video/world/middleeast/100000011012446/the-symbols-we-saw-at-khameneis-funeral.html"
     },
     {
-      "id": "news-15",
+      "id": "news-18",
       "headline": "Saudi Arabia condemns Iran’s targeting of its tanker, Wedyan, in Hormuz - Al Arabiya English",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMkdjQi1jaHZiRDVkLURoVzVBaE03YWJYWmdfcFVISTNhWDM4Wmhyc2xJVTNnNTEwRnJWd2tiam9EblZQTXdRbnh0c0haaVY5M1lGUEViOS1fcEszN3h2TTZ0QzJGcE5FcG9FaXFFcWc5TG1iUmdqc090Z2xJN2hrS1U2U1JLVUpneG5RSFQ3aW1GVTJSUkU2M09jTE02bkJZQXFwRENxUkxvVS1PQ1B1dWpRT056TWV",
       "urgency": "info",
@@ -290,7 +344,7 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMkdjQi1jaHZiRDVkLURoVzVBaE03YWJYWmdfcFVISTNhWDM4Wmhyc2xJVTNnNTEwRnJWd2tiam9EblZQTXdRbnh0c0haaVY5M1lGUEViOS1fcEszN3h2TTZ0QzJGcE5FcG9FaXFFcWc5TG1iUmdqc090Z2xJN2hrS1U2U1JLVUpneG5RSFQ3aW1GVTJSUkU2M09jTE02bkJZQXFwRENxUkxvVS1PQ1B1dWpRT056TWVYcmNoaXdVTVNteURBWDEw0gHMAUFVX3lxTE1FRVVYd2YtVkNVbEZxSC1WWjdBM3V5OXdicUlZSTU1SG9kUUlBa21EcnJWdVU4OUFVTlFGZDlCZExzNWVzakZnRDQxS3l6UEZsd1BWQWhfYnJkMEl3RHNycFVjRWxVdEJrUjQ2N3BjUGNzajFrbUlNMmN3SHBhaWFnT2l5cWt5SkdnUjRBencyQlRWNEQzQnJ5SnV0cVB0V3BLd2dZcFg4blBORzhqajF2NE91QmRnajk3R3lRdTlnYVo0SG92MGIzbkpndA?oc=5"
     },
     {
-      "id": "news-16",
+      "id": "news-19",
       "headline": "Trump looms large as Nato grapples with challenge of rearming Europe",
       "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
       "urgency": "info",
@@ -308,7 +362,7 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-17",
+      "id": "news-20",
       "headline": "Enzo Fernandez’s historic header seals Argentina comeback and 3,000th World Cup goal",
       "summary": "Enzo Fernandez’s historic header seals Argentina comeback and 3,000th World Cup goal",
       "urgency": "info",
@@ -326,7 +380,7 @@
       "link": "https://gulfnews.com/sport/enzo-fernandezs-historic-header-seals-argentina-comeback-and-3000th-world-cup-goal-1.500600325"
     },
     {
-      "id": "news-18",
+      "id": "news-21",
       "headline": "Colombia’s president-elect suspends transition after outgoing leader Petro’s fraud claims",
       "summary": "Colombia’s president-elect Abelardo de la Espriella on Tuesday suspended the transition process with President Gustavo Petro and accused him of planning a coup to stay in power, after the outgoing leader refused to recognise results of the country’s election.\nPetro said on Monday that he refused to ",
       "urgency": "important",
@@ -344,7 +398,7 @@
       "link": "https://www.scmp.com/news/world/americas/article/3359779/colombias-president-elect-suspends-transition-after-outgoing-leader-petros-fraud-claims?utm_source=rss_feed"
     },
     {
-      "id": "news-19",
+      "id": "news-22",
       "headline": "Switzerland vs Colombia live: Manzambi out of World Cup last-16 tie in blow to Swiss",
       "summary": "Switzerland take on World Cup dark horses Colombia in Vancouver in the round of 16, stripped of injured 20-year-old breakout star Johan Manzambi. The winners will go on to face title holders Argentina, who survived an almighty scare against Egypt earlier today. Follow our liveblog for minute-by-minu",
       "urgency": "info",
@@ -362,7 +416,7 @@
       "link": "https://www.france24.com/en/sport/20260707-switzerland-vs-colombia-live-world-cup-last-16-tie-manzambi-injury"
     },
     {
-      "id": "news-20",
+      "id": "news-23",
       "headline": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
       "summary": "‘They brought me here to kill me’ says Gaza doctor in Israeli prison",
       "urgency": "info",
@@ -380,7 +434,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/they-brought-me-here-to-kill-me-says-gaza-doctor-in-israeli-prison?traffic_source=rss"
     },
     {
-      "id": "news-21",
+      "id": "news-24",
       "headline": "France’s Marine Le Pen must wear ankle tag after appeal ruling",
       "summary": "A French appeals court upheld Marine Le Pen&#039;s conviction for misusing European Parliament funds.",
       "urgency": "info",
@@ -398,7 +452,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/frances-marine-le-pen-must-wear-ankle-tag-after-appeal-ruling?traffic_source=rss"
     },
     {
-      "id": "news-22",
+      "id": "news-25",
       "headline": "FIFA World Cup 2026: Sheikh Mohammed celebrates Egypt&apos;s &apos;heroic&apos; match against Argentina",
       "summary": "FIFA World Cup 2026: Sheikh Mohammed celebrates Egypt&apos;s &apos;heroic&apos; match against Argentina",
       "urgency": "info",
@@ -416,7 +470,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-2026-sheikh-mohammed-celebrates-egypts-heroic-match-against-argentina-1.500600296"
     },
     {
-      "id": "news-23",
+      "id": "news-26",
       "headline": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
       "summary": "The country's main state TV channel displayed a message saying it was \"sorry\" for lying on Tuesday.",
       "urgency": "info",
@@ -434,7 +488,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-24",
+      "id": "news-27",
       "headline": "Argentina stage stunning late comeback to beat Egypt in World Cup last 16",
       "summary": "‌Holders Argentina survive huge scare to earn a 3-2 win ⁠over Egypt and reach the World Cup quarterfinals.",
       "urgency": "info",
@@ -452,7 +506,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/7/argentina-stage-stunning-late-comeback-to-beat-egypt-in-world-cup-last-16?traffic_source=rss"
     },
     {
-      "id": "news-25",
+      "id": "news-28",
       "headline": "Argentina Won the Match but Egypt Won Our Hearts",
       "summary": "Argentina Won the Match but Egypt Won Our Hearts",
       "urgency": "info",
@@ -470,7 +524,7 @@
       "link": "https://gulfnews.com/sport/argentina-won-the-match-but-egypt-won-our-hearts-1.500600312"
     },
     {
-      "id": "news-26",
+      "id": "news-29",
       "headline": "SpaceX shares slide as it joins the tech-heavy Nasdaq-100",
       "summary": "Musk-led company joined the index on Tuesday, less than a month after its stock market debut on June 12.",
       "urgency": "info",
@@ -488,7 +542,7 @@
       "link": "https://www.aljazeera.com/economy/2026/7/7/spacex-shares-slide-as-it-joins-the-tech-heavy-nasdaq-100?traffic_source=rss"
     },
     {
-      "id": "news-27",
+      "id": "news-30",
       "headline": "'She's a nice person but made a mistake': Trump says ties with Meloni 'soured' over Iran war",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132245777.cms\" /&gt;<![CDATA[US President Donald Trump described Italian Prime Minister Giorgia Meloni as nice but criticized her stance.  He stated her refusal to supp",
       "urgency": "breaking",
@@ -506,7 +560,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/shes-a-nice-person-but-made-a-mistake-trump-says-relationship-with-meloni-soured-over-iran-war/articleshow/132245777.cms"
     },
     {
-      "id": "news-28",
+      "id": "news-31",
       "headline": "World Cup 2026: FIFA's Balohun decision will \"send shockwaves through footbal\"",
       "summary": "🏆⚽\"This is going to send shockwaves through football.\"\n \nSport journalist Andreas Evagora assesses #FIFA's controversial decision to lift Folarin #Balogun's red card suspension after Trump's request for review. More on #F24Spotlight",
       "urgency": "info",
@@ -524,7 +578,7 @@
       "link": "https://www.france24.com/en/video/20260707-world-cup-2026-fifa-s-balohun-decision-will-send-shockwaves-through-footbal"
     },
     {
-      "id": "news-29",
+      "id": "news-32",
       "headline": "Have you ever faced harm or mistreatment in India? Why US visa officers ask this question to every candidate",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132245715.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -542,7 +596,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/have-you-ever-faced-harm-or-mistreatment-in-india-why-us-visa-officers-ask-this-question-to-every-candidate/articleshow/132245715.cms"
     },
     {
-      "id": "news-30",
+      "id": "news-33",
       "headline": "French far-right leader Le Pen says will run in 2027 presidential election",
       "summary": "Her announcement followed a court ruling that reduced the length of time she was banned from holding public office.",
       "urgency": "important",
@@ -560,7 +614,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/7/french-far-right-leader-le-pen-says-will-run-in-2027-presidential-election?traffic_source=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-34",
       "headline": "🔴Live: France's Le Pen says she will run for president, appeal to highest court in embezzlement case",
       "summary": "🔴Live: France's Le Pen says she will run for president, appeal to highest court in embezzlement case",
       "urgency": "info",
@@ -578,7 +632,7 @@
       "link": "https://www.france24.com/en/france/20260707-live-french-far-right-leader-marine-le-pen-faces-key-ruling-in-race-for-president"
     },
     {
-      "id": "news-32",
+      "id": "news-35",
       "headline": "No stopping Le Pen? French appeals court clears way for 2027 presidential run",
       "summary": "Did a court decision just alter the outcome a French presidential election that’s less than 300 days in the future? Marine Le Pen’s conviction for funnelling EU parliamentary staff funds to her far-right National Rally party. Watered down by half, her 30-months of ineligibility to run for public off",
       "urgency": "important",
@@ -596,7 +650,7 @@
       "link": "https://www.france24.com/en/tv-shows/the-debate/20260707-no-stopping-le-pen-french-appeals-court-clears-way-for-2027-presidential-run"
     },
     {
-      "id": "news-33",
+      "id": "news-36",
       "headline": "Farage Resigns and Says He Will Run Again in Special Election",
       "summary": "Nigel Farage, leader of the populist right-wing party Reform U.K., has come under increasing pressure after a series of revelations about undisclosed gifts and donations.",
       "urgency": "important",
@@ -614,7 +668,7 @@
       "link": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk"
     },
     {
-      "id": "news-34",
+      "id": "news-37",
       "headline": "Cardinal in Morocco steps back from duties after sexual assault claims",
       "summary": "At least five women have accused the archbishop of Rabat of sexual assault, according to an Agence France-Presse investigation, prompting the Spanish-born cleric to announce he was “stepping back” on Tuesday while the Vatican holds an inquiry.\nAgence France-Presse interviewed a retired woman involve",
       "urgency": "info",
@@ -632,7 +686,7 @@
       "link": "https://www.scmp.com/news/world/africa/article/3359778/cardinal-morocco-steps-back-duties-after-sexual-assault-claims?utm_source=rss_feed"
     },
     {
-      "id": "news-35",
+      "id": "news-38",
       "headline": "Netanyahu’s Christian comments ‘aimed at sowing strife’: Lebanese analysts - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlVsUEFWSTV0cGd3dWFTaXpxQVktb2RLTjE4NV9TSGF1am1EbDQ5bHg3REM0d3hKMnZ0NzV0MTFXNUtQN29QY29DYWdxV2VnWGdnUS0tUTVzMlhMcmlBczNIUFBpUWFGZlVRa3pKN3hZWmxLcEw1Q0lwQTJmREZya0xiYkNhcjZyZmpCVVJLb1hBU0x6TzNHVXUzODdkVUE4SDh0emxFbkJGRkJzSFlV0gG0AUFVX3l",
       "urgency": "info",
@@ -650,7 +704,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlVsUEFWSTV0cGd3dWFTaXpxQVktb2RLTjE4NV9TSGF1am1EbDQ5bHg3REM0d3hKMnZ0NzV0MTFXNUtQN29QY29DYWdxV2VnWGdnUS0tUTVzMlhMcmlBczNIUFBpUWFGZlVRa3pKN3hZWmxLcEw1Q0lwQTJmREZya0xiYkNhcjZyZmpCVVJLb1hBU0x6TzNHVXUzODdkVUE4SDh0emxFbkJGRkJzSFlV0gG0AUFVX3lxTE5TUk5Bb1JqTTZ3dHZQbF92MkNBQjhhTVBaaEUxSW5QN1VlemlJMUZaOVF5ME9FOElKVnhWSTJxU2U2U180VEJHdXdPV3ZKVnNHM3BkalZidkpEdlpnUWM5dDJ0VUI1RGQtSGcyTUZjTGg1SDRrWDlWZ0doUmRfQWNraHc4dVdSYXd6dE15b3h4dks3aUl6LUVlTUVhZDhyZ25TNW5yYUhjdlA1a09nanJ6c0tjeg?oc=5"
     },
     {
-      "id": "news-36",
+      "id": "news-39",
       "headline": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
       "summary": "Several hurt in Damascus blasts as Macron meets Syria&#039;s Sharaa",
       "urgency": "info",
@@ -668,7 +722,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss"
     },
     {
-      "id": "news-37",
+      "id": "news-40",
       "headline": "Prince Harry Loses Privacy Lawsuit Against Daily Mail Publisher",
       "summary": "The case brought by Harry and other celebrities against Associated Newspapers was one of several legal battles that the prince has fought against British tabloids in recent years.",
       "urgency": "info",
@@ -686,7 +740,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/europe/prince-harry-lawsuit-daily-mail-uk-associated-newspapers.html"
     },
     {
-      "id": "news-38",
+      "id": "news-41",
       "headline": "World Cup 2026: Messi’s Argentina fight back from brink of defeat to edge Egypt in thriller",
       "summary": "World Cup 2026: Messi’s Argentina fight back from brink of defeat to edge Egypt in thriller",
       "urgency": "info",
@@ -704,7 +758,7 @@
       "link": "https://www.france24.com/en/sport/20260707-world-cup-2026-messi-argentina-fight-back-from-brink-of-defeat-to-edge-egypt-in-thriller"
     },
     {
-      "id": "news-39",
+      "id": "news-42",
       "headline": "Trump still ‘disappointed’ with Nato, says US should control Greenland as summit kicks off",
       "summary": "US President Donald Trump doubled down on his criticism of Nato member states’ refusal to aid Washington’s military operation in the Middle East, while noting that his country would consider selling F-35 fighter jets to Turkey after years of deadlock.\nIn his meeting with Turkish President Recep Tayy",
       "urgency": "breaking",
@@ -722,7 +776,7 @@
       "link": "https://www.scmp.com/news/us/diplomacy/article/3359777/trump-still-disappointed-nato-says-us-should-control-greenland-summit-kicks?utm_source=rss_feed"
     },
     {
-      "id": "news-40",
+      "id": "news-43",
       "headline": "Bomb explosions injure 18 in Damascus during Macron's visit",
       "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
       "urgency": "breaking",
@@ -740,7 +794,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-41",
+      "id": "news-44",
       "headline": "🔴Live: Will she run for president or not? Marine Le Pen speaks after her appeal trial",
       "summary": "🔴Live: Will she run for president or not? Marine Le Pen speaks after her appeal trial",
       "urgency": "info",
@@ -758,7 +812,7 @@
       "link": "https://www.france24.com/en/france/20260707-live-french-far-right-leader-marine-le-pen-faces-key-ruling-in-race-for-president"
     },
     {
-      "id": "news-42",
+      "id": "news-45",
       "headline": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
       "urgency": "breaking",
@@ -776,7 +830,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-43",
+      "id": "news-46",
       "headline": "Man Arrested for Painting ‘Pam the Bird’ Graffiti on Bridge Tower in Melbourne",
       "summary": "An hourslong standoff with police ended after the man descended the 140-foot tower and surrendered. The graffiti resembled the “Pam the Bird” symbol which began appearing across the city in 2023.",
       "urgency": "info",
@@ -794,7 +848,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/australia/pam-bird-graffiti-melbourne-bridge.html"
     },
     {
-      "id": "news-44",
+      "id": "news-47",
       "headline": "Tornadoes kill 17 in central China as Typhoon Bavi looms offshore",
       "summary": "Severe rain and winds lash southern Guangxi and central Hubei provinces, with President Xi urging an &#039;all out&#039; response.",
       "urgency": "info",
@@ -812,7 +866,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/7/tornadoes-kill-17-in-central-china-as-typhoon-bavi-looms-offshore?traffic_source=rss"
     },
     {
-      "id": "news-45",
+      "id": "news-48",
       "headline": "How a Four-Generation Cuban Family Survives on $60 a Month",
       "summary": "The U.S. oil blockade has deepened a humanitarian crisis, forcing Cubans to lean on the island’s long tradition of community solidarity to provide a cushion.",
       "urgency": "important",
@@ -830,7 +884,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/americas/cuba-power-crisis-oil-blockade.html"
     },
     {
-      "id": "news-46",
+      "id": "news-49",
       "headline": "Manhattan high-rise evacuated as officials warn of potential collapse",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132244930.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -848,7 +902,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/manhattan-high-rise-evacuated-as-officials-warn-of-potential-collapse/articleshow/132244930.cms"
     },
     {
-      "id": "news-47",
+      "id": "news-50",
       "headline": "What to know about the electronic monitor Marine Le Pen must wear",
       "summary": "A Paris appeals court on Tuesday declared far-right leader Marine Le Pen guilty of embezzlement and ruled that she must wear an electronic ankle monitor even if she decides to run for the presidency. In France, electronic home detention prohibits a person from leaving their home, or another designat",
       "urgency": "info",
@@ -866,7 +920,7 @@
       "link": "https://www.france24.com/en/france/20260707-what-to-know-about-the-electronic-monitor-a-french-court-says-marine-le-pen-must-wear"
     },
     {
-      "id": "news-48",
+      "id": "news-51",
       "headline": "Farage Says He Will Resign From UK’s Parliament, Setting Off a By-Election",
       "summary": "Nigel Farage, leader of the populist right-wing party Reform U.K., has come under increasing pressure after a series of revelations about undisclosed gifts and donations.",
       "urgency": "important",
@@ -884,7 +938,7 @@
       "link": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk/nigel-farage-reform-uk"
     },
     {
-      "id": "news-49",
+      "id": "news-52",
       "headline": "Nurse allegedly sells baby for flat and cash, bride-to-be discovers truth 20 years later",
       "summary": "Nurse allegedly sells baby for flat and cash, bride-to-be discovers truth 20 years later",
       "urgency": "info",
@@ -902,7 +956,7 @@
       "link": "https://gulfnews.com/world/mena/nurse-allegedly-sells-baby-for-flat-and-cash-bride-to-be-discovers-truth-20-years-later-1.500600193"
     },
     {
-      "id": "news-50",
+      "id": "news-53",
       "headline": "Third tanker hit in Strait of Hormuz in 24 hours as Qatar blames Iran, raising fears over global energy route",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132243252.cms\" /&gt;<![CDATA[Commercial tankers faced escalating attacks in the Strait of Hormuz recently. Qatar blamed Iran for an unacceptable assault on its liquefie",
       "urgency": "breaking",
@@ -920,7 +974,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/third-tanker-hit-in-strait-of-hormuz-in-24-hours-as-qatar-blames-iran-raising-fears-over-global-energy-route/articleshow/132243252.cms"
     },
     {
-      "id": "news-51",
+      "id": "news-54",
       "headline": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
       "summary": "The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade",
       "urgency": "breaking",
@@ -938,7 +992,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss"
     },
     {
-      "id": "news-52",
+      "id": "news-55",
       "headline": "Utah moves to close boarding school where Paris Hilton says she was abused as a teenager",
       "summary": "The state of Utah has revoked the licence of a boarding school where socialite Paris Hilton said she was abused as a teenager, saying the school has “failed to provide applicable health and safety services for clients”.\nThe state’s action, which took effect on Monday, cites multiple non-compliance i",
       "urgency": "info",
@@ -956,7 +1010,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3359776/utah-moves-close-boarding-school-where-paris-hilton-says-she-was-abused-teenager?utm_source=rss_feed"
     },
     {
-      "id": "news-53",
+      "id": "news-56",
       "headline": "Venezuelans Criticize Own Government Response After Twin Earthquakes",
       "summary": "Venezuelans are publicly expressing their anger over their government’s disaster response, despite the risk of imprisonment.",
       "urgency": "important",
@@ -974,7 +1028,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/americas/venezuela-earthquakes-delcy-rodriguez-trump.html"
     },
     {
-      "id": "news-54",
+      "id": "news-57",
       "headline": "Preserving Japan's Aviation Heritage: Yokota Air Base Returns Historic Aircraft Artifacts",
       "summary": "The 374th Civil Engineer Squadron at Yokota Air Base, Japan, returned rare, WWII-era Imperial Japanese Army aircraft artifacts to the Japanese government after uncovering them during a base construction project.",
       "urgency": "info",
@@ -992,7 +1046,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4534617/preserving-japans-aviation-heritage-yokota-air-base-returns-historic-aircraft-a/"
     },
     {
-      "id": "news-55",
+      "id": "news-58",
       "headline": "South Africans line up for jobs after exodus of foreign workers",
       "summary": "Many South Africans are hoping to secure the jobs left vacant by the departure of foreigners",
       "urgency": "info",
@@ -1010,7 +1064,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/south-africans-line-up-for-jobs-after-exodus-of-foreign-workers?traffic_source=rss"
     },
     {
-      "id": "news-56",
+      "id": "news-59",
       "headline": "IOC lifts suspension, paves way for Russians to compete at LA 2028 Olympics",
       "summary": "No decision yet on whether Russia may display its flag, colours or have its anthem played at ​the Games.",
       "urgency": "info",
@@ -1028,7 +1082,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/7/ioc-lifts-suspension-paves-way-for-russians-to-compete-at-la-2028-olympics?traffic_source=rss"
     },
     {
-      "id": "news-57",
+      "id": "news-60",
       "headline": "Messi sets unwanted World Cup record as penalty conversion falls to 50%",
       "summary": "Messi sets unwanted World Cup record as penalty conversion falls to 50%",
       "urgency": "info",
@@ -1046,7 +1100,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/messi-sets-unwanted-world-cup-record-as-penalty-conversion-falls-to-50-1.500600205"
     },
     {
-      "id": "news-58",
+      "id": "news-61",
       "headline": "What happened in the first half of the Argentina vs Egypt World Cup match?",
       "summary": "Egypt score a goal and then save a Messi penalty to keep the reigning champions at bay in Atlanta.",
       "urgency": "info",
@@ -1064,7 +1118,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/7/what-happened-in-the-first-half-of-the-argentina-vs-egypt-world-cup-match?traffic_source=rss"
     },
     {
-      "id": "news-59",
+      "id": "news-62",
       "headline": "FIFA World Cup: Argentina beats Egypt 3-2, reaches quarter-finals",
       "summary": "FIFA World Cup: Argentina beats Egypt 3-2, reaches quarter-finals",
       "urgency": "info",
@@ -1082,7 +1136,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/fifa-world-cup-argentina-beats-egypt-3-2-reaches-quarter-finals-1.500600167"
     },
     {
-      "id": "news-60",
+      "id": "news-63",
       "headline": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 round of 16",
       "summary": "Live coverage and text updates from our commentary stream as Switzerland play Colombia in round of 16 knockout stage.",
       "urgency": "info",
@@ -1100,7 +1154,7 @@
       "link": "https://www.aljazeera.com/sports/liveblog/2026/7/7/live-switzerland-vs-colombia-fifa-world-cup-2026?traffic_source=rss"
     },
     {
-      "id": "news-61",
+      "id": "news-64",
       "headline": "U.S. gave Tehran details on Iranian asylum seekers, lawsuit alleges",
       "summary": "The claim, outlined in court papers, contends information shared with Iran could jeopardize the lives of pro-democracy protesters, religious minorities and LGTBQ people.",
       "urgency": "important",
@@ -1118,7 +1172,7 @@
       "link": "https://www.washingtonpost.com/national-security/2026/07/07/us-gave-iran-details-iranian-asylum-seekers-lawsuit-alleges/"
     },
     {
-      "id": "news-62",
+      "id": "news-65",
       "headline": "Nato launches defence projects to counter Russia and China",
       "summary": "Nato member states unveiled a series of defence initiatives on Tuesday aimed at strengthening weapons development, production and supply chains in response to security challenges posed by Russia and China.\nSpeaking at the Nato Summit Defence Industry Forum (NSDIF) on the first day of this year’s sum",
       "urgency": "important",
@@ -1136,7 +1190,7 @@
       "link": "https://www.scmp.com/news/us/article/3359775/nato-launches-defence-projects-counter-russia-and-china?utm_source=rss_feed"
     },
     {
-      "id": "news-63",
+      "id": "news-66",
       "headline": "US gave Tehran secret data on Iranian asylum seekers, lawsuit alleges",
       "summary": "A lawsuit claims the Trump administration is unlawfully giving confidential personal information to Iran about Iranians who applied for asylum to avoid “grave danger” in their native country.\nThe US is sharing private data with the Iranian government about asylum applicants including pro-democracy p",
       "urgency": "important",
@@ -1154,7 +1208,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3359774/us-gave-tehran-secret-data-iranian-asylum-seekers-lawsuit-alleges?utm_source=rss_feed"
     },
     {
-      "id": "news-64",
+      "id": "news-67",
       "headline": "UAE urges businesses to secure licences before screening FIFA World Cup matches",
       "summary": "UAE urges businesses to secure licences before screening FIFA World Cup matches",
       "urgency": "info",
@@ -1172,7 +1226,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/uae-urges-businesses-to-secure-licences-before-screening-fifa-world-cup-matches-1.500600175"
     },
     {
-      "id": "news-65",
+      "id": "news-68",
       "headline": "US trade deficit surges amid artificial intelligence spending boom",
       "summary": "Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.",
       "urgency": "info",
@@ -1190,7 +1244,7 @@
       "link": "https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom?traffic_source=rss"
     },
     {
-      "id": "news-66",
+      "id": "news-69",
       "headline": "Israel’s Netanyahu says he and Trump align on big things over Iran - Al Arabiya English",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSklZclktS3JvNjRWeDNYN3hwQmExV3B6cVRMX0ExTEEzS3lkM3lmRV9EdnRuMTJPdjhtcW1PQXRQT3dxeVJ5UXRkOXlFYmZOdkZ2ZWhPcHRfOXVtWHg1bnVDalQtR3RwajJMX050Y0FFUWdoUWFiOGpfb0F5cGxmMUl1UkxWaEc5OVpaWGY4aEdNNmZDX0dmOTVyZFB2czNTVmYxZHBZdFhvUlFlTkQ3WXYwck1UeGF",
       "urgency": "info",
@@ -1208,7 +1262,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSklZclktS3JvNjRWeDNYN3hwQmExV3B6cVRMX0ExTEEzS3lkM3lmRV9EdnRuMTJPdjhtcW1PQXRQT3dxeVJ5UXRkOXlFYmZOdkZ2ZWhPcHRfOXVtWHg1bnVDalQtR3RwajJMX050Y0FFUWdoUWFiOGpfb0F5cGxmMUl1UkxWaEc5OVpaWGY4aEdNNmZDX0dmOTVyZFB2czNTVmYxZHBZdFhvUlFlTkQ3WXYwck1UeGFvd052RnYxaDlvUdIBxwFBVV95cUxOYVJhdUMwR2pGczRLTVNtRHZqWmRlMW10OVp4OEVoRlQ5bTBkc3loSXlfY3JhTWF2RnR6bWJqV21oTFkxYU82UEZmcmZ1YUY0U2JMNm8wMDJORFY5ZUJQbWJxSmVLNXlieW95T3dKRGRZVXRwamhJdmkybGxWSzVhRHZXemNQY2t1M0hrQ3dDeU1tR3B4Skd3cGwwdjJiYnZHNEFkRk8tUkYwbm0xOXlDMkRkRkFJZkNlenhrUzlQeUpKVHo4Um5n?oc=5"
     },
     {
-      "id": "news-67",
+      "id": "news-70",
       "headline": "Ghana halts visit by South African president amid row over anti-migrant protests",
       "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
       "urgency": "important",
@@ -1226,7 +1280,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-68",
+      "id": "news-71",
       "headline": "Qatar condemns Iranian attack on LNG tanker near Strait of Hormuz - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPY09EYjkycFVkd2xiR3o4OUFpRUpzeFg0MC1zczF2bTRlTTgxOU9oenQ1Wm96VUtRcnJsbUNKc2FscTZUTzd1aWJZZFNnU21uY196NVhCM2Q0MTJjc0FZUUFlOUlEeVVTMnlHclU5Z3lHUXczYWVVRXJZZ1JzRGl1QVBDRnRMMWFQSjcwSDllb01Xc3NrUXNzVGZBc214eE5HLTFrWNIBqgFBVV95cUxNeUxUdWZqVlg",
       "urgency": "breaking",
@@ -1244,7 +1298,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY09EYjkycFVkd2xiR3o4OUFpRUpzeFg0MC1zczF2bTRlTTgxOU9oenQ1Wm96VUtRcnJsbUNKc2FscTZUTzd1aWJZZFNnU21uY196NVhCM2Q0MTJjc0FZUUFlOUlEeVVTMnlHclU5Z3lHUXczYWVVRXJZZ1JzRGl1QVBDRnRMMWFQSjcwSDllb01Xc3NrUXNzVGZBc214eE5HLTFrWNIBqgFBVV95cUxNeUxUdWZqVlg1bTR3Qk9kS3NZYWxpUTNHbFhUTUdJM0M4TEpnQTJFUXVDRlUtWl9CRUl2cnF6Uk1Ba2o0c1FTV3Fab3ZCN1RnQ2diMTAwQzZ4VEl5dWc0ZVVtaXJHdVBjTTlBMjVfRWtZMGEzQUVKUkFhTlh6alVOWHFBYnhxYkxzelFiMUNlanFCWnI1ckpJdUtFeVJLU0hpMkR5dU5NU19rQQ?oc=5"
     },
     {
-      "id": "news-69",
+      "id": "news-72",
       "headline": "What is E-2 visa? Immigration attorney says you don't need to start a business from scratch",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132243152.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1262,7 +1316,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/what-is-e-2-visa-immigration-attorney-says-you-dont-need-to-start-a-business-from-scratch/articleshow/132243152.cms"
     },
     {
-      "id": "news-70",
+      "id": "news-73",
       "headline": "Behind the scenes: Marine Le Pen's appeal verdict",
       "summary": "🇫🇷 ⚖️ #French far-right figurehead Marine #LePen was found guilty in a #Paris court ruling that upheld her embezzlement conviction but enabled her to run in the 2027 presidential ​race.\n \nFRANCE 24's Catherine Norris-Trent takes us behind the scenes at the courthouse ▶️",
       "urgency": "info",
@@ -1280,7 +1334,7 @@
       "link": "https://www.france24.com/en/video/20260707-marine-le-pen-convicted-in-appeal-trial-eligible-to-run-in-2027"
     },
     {
-      "id": "news-71",
+      "id": "news-74",
       "headline": "China: Rare tornadoes tear through central cities",
       "summary": "At least eight people were killed as two rare tornadoes wrought devastation in central China's Hubei province state media said on Tuesday, with winds of up to 149 kph (92.58 mph) ripping through buildings and overturning cars.",
       "urgency": "breaking",
@@ -1298,7 +1352,7 @@
       "link": "https://www.france24.com/en/video/20260707-china-rare-tornadoes-tear-through-central-cities"
     },
     {
-      "id": "news-72",
+      "id": "news-75",
       "headline": "Trump says will lift sanctions on Turkiye, ‘consider’ selling F-35s",
       "summary": "Announcement during Ankara meeting suggests pivot in US policy, despite opposition from Israel.",
       "urgency": "important",
@@ -1316,7 +1370,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s?traffic_source=rss"
     },
     {
-      "id": "news-73",
+      "id": "news-76",
       "headline": "Mads Pedersen wins fourth stage of Tour de France as Torstein Traeen takes yellow jersey",
       "summary": "Former world champion Mads Pedersen took the fourth stage of the Tour de France on Tuesday after a breakaway of more than 150 kilometres in sweltering 40C heat while Torstein Traeen claimed the coveted yellow jersey.",
       "urgency": "info",
@@ -1334,7 +1388,7 @@
       "link": "https://www.france24.com/en/sport/20260707-mads-pedersen-wins-fourth-stage-of-tour-de-france-as-torstein-traeen-takes-yellow-jersey"
     },
     {
-      "id": "news-74",
+      "id": "news-77",
       "headline": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
       "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
       "urgency": "info",
@@ -1352,25 +1406,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-75",
-      "headline": "UAE urges citizens to check passport validity before travelling abroad",
-      "summary": "UAE urges citizens to check passport validity before travelling abroad",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-07T16:09:29.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/uae-urges-citizens-to-check-passport-validity-before-travelling-abroad-1.500600148"
-    },
-    {
-      "id": "news-76",
+      "id": "news-78",
       "headline": "A Supreme Leader’s Final Crowds",
       "summary": "What you could see when Ayatollah Ali Khamenei’s coffin was being driven to a public space in Tehran.",
       "urgency": "info",
@@ -1388,7 +1424,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/middleeast/ayatollah-funeral-image.html"
     },
     {
-      "id": "news-77",
+      "id": "news-79",
       "headline": "Syria's reconstruction and economic policy will rely on Europe and Turkey",
       "summary": "French President Emmanuel Macron is the first Western European leader to have met with Syrian President Ahmed al-Sharaa in Damascus, in a landmark visit for the country's post-Assad era. A question is at the centre of the visit: How can Syria build itself back after years of wars? Marc Pierini, Visi",
       "urgency": "breaking",
@@ -1406,7 +1442,7 @@
       "link": "https://www.france24.com/en/syria-s-reconstruction-and-economic-policy-will-rely-on-europe-and-turkey"
     },
     {
-      "id": "news-78",
+      "id": "news-80",
       "headline": "Christians are not united for Israel",
       "summary": "The Christian Zionist narrative linking faith to support for Israel is deeply flawed. Evangelicals have begun to see it.",
       "urgency": "info",
@@ -1424,7 +1460,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/7/christians-are-not-united-for-israel?traffic_source=rss"
     },
     {
-      "id": "news-79",
+      "id": "news-81",
       "headline": "Customers seeking refunds during cooling-off period will need to pay admin fee",
       "summary": "Hong Kong customers seeking refunds under a proposed seven-day cooling-off period for prepaid beauty and fitness contracts will be required to pay an administrative fee to curb potential abuse of the mechanism, the government has said.\nAuthorities last week launched a two-month public consultation o",
       "urgency": "info",
@@ -1442,7 +1478,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3359772/customers-seeking-refunds-during-cooling-period-will-need-pay-admin-fee?utm_source=rss_feed"
     },
     {
-      "id": "news-80",
+      "id": "news-82",
       "headline": "Macron Continues With Syria Visit Despite Explosions Near His Hotel in Damascus",
       "summary": "President Emmanuel Macron of France signaled confidence in Syria’s leaders by staying overnight in the capital and carrying on with his visit despite blasts near his hotel.",
       "urgency": "breaking",
@@ -1460,7 +1496,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/middleeast/syria-explosions-macron-damascus-visit.html"
     },
     {
-      "id": "news-81",
+      "id": "news-83",
       "headline": "NATO Allies Show Trump They Are Trying to Pay Up for Defense",
       "summary": "Some countries are making significant progress on raising their military spending. A few are stretching the definition of military spending to try to meet their targets.",
       "urgency": "info",
@@ -1478,7 +1514,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/europe/nato-defense-spending-trump-rutte.html"
     },
     {
-      "id": "news-82",
+      "id": "news-84",
       "headline": "The USS Constitution Navigates Future",
       "summary": "For more than two centuries, the USS Constitution has relied on stars, the sea and paper charts to navigate. But as the vessel prepares for nine America 250 events, Old Ironsides is receiving a digital navigation upgrade courtesy of Naval Surface Warfare Center, Philadelphia Division.",
       "urgency": "breaking",
@@ -1496,7 +1532,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4534454/the-uss-constitution-navigates-future/"
     },
     {
-      "id": "news-83",
+      "id": "news-85",
       "headline": "Trump announces Turkey sanctions lift at Nato summit, signals possible F-35 fighter jet sale",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132242831.cms\" /&gt;<![CDATA[US President Donald Trump has taken a notable step by removing sanctions on Turkey and hinted at the sale of F-35 fighter jets to the natio",
       "urgency": "important",
@@ -1514,7 +1550,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/trump-announces-turkey-sanctions-lift-at-nato-summit-signals-possible-f-35-fighter-jet-sale/articleshow/132242831.cms"
     },
     {
-      "id": "news-84",
+      "id": "news-86",
       "headline": "As Messi Dominates the World Cup, a War Is Waged Over Maradona’s Image",
       "summary": "A multimillion-dollar battle for a soccer god’s brand is being waged across continents, burning investors and tearing his family apart.",
       "urgency": "breaking",
@@ -1532,7 +1568,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/americas/world-cup-argentina-maradona-trademark.html"
     },
     {
-      "id": "news-85",
+      "id": "news-87",
       "headline": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
       "summary": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
       "urgency": "info",
@@ -1550,7 +1586,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-86",
+      "id": "news-88",
       "headline": "At Nato summit, Trump berates European allies while pleasing Turkish host",
       "summary": "The NATO summit has opened on July 7, with many topics to be discussed. Trump has opened the possibility of the US selling F35 fighter jets after Turkey was booted out of the programme in 2019 over Ankara's purchase of a Russian system. Trump has also expressed annoyance at European Nato allies for ",
       "urgency": "important",
@@ -1568,7 +1604,7 @@
       "link": "https://www.france24.com/en/at-nato-summit-trump-berates-european-allies-while-pleasing-turkish-host"
     },
     {
-      "id": "news-87",
+      "id": "news-89",
       "headline": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
       "summary": "The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot.",
       "urgency": "breaking",
@@ -1586,7 +1622,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html"
     },
     {
-      "id": "news-88",
+      "id": "news-90",
       "headline": "Mass Mournings In Qom, Where Khamenei Ruled Supreme Over Iran’s Clerics",
       "summary": "The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government.",
       "urgency": "info",
@@ -1604,7 +1640,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html"
     },
     {
-      "id": "news-89",
+      "id": "news-91",
       "headline": "'The party of white-collar crime': French MPs react to Le Pen's conviction",
       "summary": "Marine Le Pen's conviction was a long-awaited decision as it will decide who will be representing the far-right party National rally in the 2027 presidential election. Following the announcement of her sentence, FRANCE 24's Carys Garland went to the National Assembly to see what MPs from the left, r",
       "urgency": "important",
@@ -1622,7 +1658,7 @@
       "link": "https://www.france24.com/en/the-party-of-white-collar-crime-french-mps-react-to-le-pen-s-conviction"
     },
     {
-      "id": "news-90",
+      "id": "news-92",
       "headline": "Estonia Won the War on Fentanyl. What Came Next Was Even Worse.",
       "summary": "By 2018, fentanyl overdoses in Estonia had plummeted. But powerful new drugs are appearing fast, with the authorities racing to respond.",
       "urgency": "breaking",
@@ -1640,7 +1676,7 @@
       "link": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html"
     },
     {
-      "id": "news-91",
+      "id": "news-93",
       "headline": "From fringe to mainstream: Is it still taboo to vote National Rally?",
       "summary": "The Marine Le Pen verdict is just the latest challenge for her National Rally party and its quest to be seen as a widely accepted, mainstream party. France24's Solange Mougin dives into the party's normalisation strategies. From \"dédiabolisation,\"  to softening anti-semitism rhetoric, to feminism, t",
       "urgency": "info",
@@ -1658,7 +1694,7 @@
       "link": "https://www.france24.com/en/how-france-s-far-right-national-rally-dediabolised-over-the-years"
     },
     {
-      "id": "news-92",
+      "id": "news-94",
       "headline": "Jail for Telangana cop who amassed illegal assets worth Rs3 billion",
       "summary": "Telangana cop jailed in Rs300-crore assets case",
       "urgency": "info",
@@ -1676,7 +1712,7 @@
       "link": "https://gulfnews.com/world/asia/india/jail-for-telangana-cop-who-amassed-illegal-assets-worth-rs300-crore-1.500599706"
     },
     {
-      "id": "news-93",
+      "id": "news-95",
       "headline": "Optimistic tone of Macron's visit doesn't hide precariousness of Syria's security",
       "summary": "At least 18 people have been wounded after a bomb went off near the Four Seasons in Damascus, the attack targeting the hotel where French president was staying, but had already left. A year after al-Sharaa's visit to Paris, the two leaders are eager to boost economic ties.",
       "urgency": "breaking",
@@ -1694,7 +1730,7 @@
       "link": "https://www.france24.com/en/optimistic-tone-of-macron-s-visit-doesn-t-hide-precariousness-of-syria-s-security"
     },
     {
-      "id": "news-94",
+      "id": "news-96",
       "headline": "Nigel Farage resigns as MP, will run in UK by-election",
       "summary": "Reform UK leader Nigel Farage says he will resign as an MP to trigger a by-election and stand again.",
       "urgency": "important",
@@ -1712,7 +1748,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/nigel-farage-resigns-as-mp-will-run-in-uk-by-election?traffic_source=rss"
     },
     {
-      "id": "news-95",
+      "id": "news-97",
       "headline": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
       "summary": "&lt;p&gt;Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally &lt;/p&gt;&lt;p&gt;A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.&lt;/p",
       "urgency": "info",
@@ -1730,25 +1766,7 @@
       "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds"
     },
     {
-      "id": "news-96",
-      "headline": "Hamas withdrawal from Gaza governance a bid to unblock 'deadlocked' peace plan",
-      "summary": "Nearly 20 years after taking power in Gaza, Hamas said on Monday it would hand over control of the territory to a committee of Palestinian technocrats. The move is a bid to get the ball rolling on the second phase of a peace plan backed by US President Donald Trump and wrest some control of the terr",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-07T15:14:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/middle-east/20260707-hamas-withdrawal-from-gaza-governance-a-bid-to-unblock-deadlocked-peace-plan"
-    },
-    {
-      "id": "news-97",
+      "id": "news-98",
       "headline": "How much does playing in the World Cup pay?",
       "summary": "How much does playing in the World Cup pay?",
       "urgency": "info",
@@ -1766,7 +1784,7 @@
       "link": "https://www.aljazeera.com/video/money-works/2026/7/7/how-much-does-playing-in-the-world-cup-pay?traffic_source=rss"
     },
     {
-      "id": "news-98",
+      "id": "news-99",
       "headline": "France's Marine Le Pen sentenced to house arrest, 2027 presidential bid remains uncertain",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132240805.cms\" /&gt;<![CDATA[Marine Le Pen faces house arrest and a ban from public office after a court ruling. This sentence could impact her presidential election bi",
       "urgency": "important",
@@ -1782,24 +1800,6 @@
       "timestamp": "2026-07-07T15:09:26.000Z",
       "widgetType": "news",
       "link": "https://timesofindia.indiatimes.com/world/europe/frances-marine-le-pen-sentenced-to-house-arrest-2027-presidential-bid-remains-uncertain/articleshow/132240805.cms"
-    },
-    {
-      "id": "news-99",
-      "headline": "Why China Fired a Long-Range Missile Into the Pacific",
-      "summary": "Beijing had long tested nuclear missiles only within its borders. A rare launch over an ocean shows it is determined to narrow the gap with the United States.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-07T15:08:24.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/07/world/asia/china-missile-test-submarine-pacific.html"
     }
   ],
   "financials": {
