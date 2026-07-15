@@ -1,8 +1,80 @@
 {
-  "lastUpdated": "2026-07-15T19:10:11.248Z",
+  "lastUpdated": "2026-07-15T19:30:10.405Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
+      "summary": "The United States launched fresh attacks against Iranian targets on Wednesday, hours after Iran targeted American military sites in the region. Neither side has shown signs of backing down in opening a new stage of the war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-15T19:25:25.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz"
+    },
+    {
+      "id": "news-1",
+      "headline": "'You cannot have a good assisted dying law without good palliative care'",
+      "summary": "For Spotlight, François Picard is pleased to welcome Anne Reynaud, Board Member of the Association for the Right to Die with Dignity. France's long awaited assisted dying legislation marks a profound shift in the country's approach to end of life care, but as Reynaud makes clear, the parliamentary v",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-15T19:24:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260715-you-cannot-have-a-good-assisted-dying-law-without-good-palliative-care"
+    },
+    {
+      "id": "news-2",
+      "headline": "France Votes to Allow Assisted Dying",
+      "summary": "Lawmakers approved a bill that will allow doctors to help terminally ill patients to die, adding France to a short list of nations that allow the practice.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-15T19:11:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html"
+    },
+    {
+      "id": "news-3",
+      "headline": "Quote of the day by Cyrus the Great: 'All men have their frailties; and whoever looks for a friend...'",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132423461.cms\" /&gt;<![CDATA[Cyrus the Great, an ancient king, cautioned against the pursuit of flawless friendships. He recognized that accepting human imperfections c",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T19:07:43.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/europe/quote-of-the-day-by-cyrus-the-great-all-men-have-their-frailties-and-whoever-looks-for-a-friend-without-imperfections-will-never-find-what-he-seeks-and-how-the-search-for-perfection-is-a-rejection-of-humanity-itself/articleshow/132423461.cms"
+    },
+    {
+      "id": "news-4",
       "headline": "US launches ‘wave of strikes’ on Iran, Tehran threatens to halt regional energy exports",
       "summary": "The US military on Wednesday launched rare daytime attacks on Iran, including a 90-minute wave of strikes, as it reimposed a naval blockade on Iranian ports. Tehran responded with strikes on “US military targets” in Gulf states and threatened to halt energy exports in the region.",
       "urgency": "breaking",
@@ -20,25 +92,7 @@
       "link": "https://www.france24.com/en/middle-east/20260715-us-launches-wave-of-strikes-on-iran-tehran-threatens-to-halt-regional-energy-exports"
     },
     {
-      "id": "news-1",
-      "headline": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
-      "summary": "The United States launched fresh attacks against Iranian targets on Wednesday, hours after Iran targeted American military sites in the region. Neither side has shown signs of backing down in opening a new stage of the war.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-15T19:05:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz"
-    },
-    {
-      "id": "news-2",
+      "id": "news-5",
       "headline": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
       "summary": "Air quality in Canada’s largest city was at times the worst in the world on Wednesday, as wildfires across Ontario sent smoke drifting into New York City and beyond.",
       "urgency": "info",
@@ -56,25 +110,43 @@
       "link": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html"
     },
     {
-      "id": "news-3",
-      "headline": "Crypto czar asks Jamia Darul Uloom to distinguish between speculative crypto, asset-backed tokens",
-      "summary": "&lt;p&gt;Pakistan Virtual Assets Regulatory Authority (PVARA) Chairman Bilal bin Saqib has asked Jamia Darul Uloom to draw a distinction between speculative cryptocurrencies and asset-backed digital tokens, its chief said on Wednesday.&lt;/p&gt;\n&lt;p&gt;The crypto czar told &lt;em&gt;Reuters&lt;/em",
+      "id": "news-6",
+      "headline": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
+      "summary": "Former colonel Ahmed Habib Ali is accused of supervising the manufacture of sarin gas bombs.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-15T18:58:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss"
+    },
+    {
+      "id": "news-7",
+      "headline": "European Athletics moves to curb on-screen sexualisation of female athletes",
+      "summary": "The guidelines are based on feedback from athletes who said certain camera shots can cause discomfort and distractions.",
       "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-15T18:50:51.000Z",
+      "timestamp": "2026-07-15T18:51:59.000Z",
       "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015697/crypto-czar-asks-jamia-darul-uloom-to-distinguish-between-speculative-crypto-asset-backed-tokens"
+      "link": "https://www.aljazeera.com/sports/2026/7/15/european-athletics-moves-to-curb-on-screen-sexualisation-of-female-athletes?traffic_source=rss"
     },
     {
-      "id": "news-4",
+      "id": "news-8",
       "headline": "Palestinian homes sealed off by Israeli military restrictions",
       "summary": "An Israeli military order imposed after a series of settler attacks has left families cut off from parts of their home.",
       "urgency": "breaking",
@@ -92,25 +164,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss"
     },
     {
-      "id": "news-5",
-      "headline": "France Votes to Allow Assisted Dying",
-      "summary": "Lawmakers approved a bill that will allow doctors to help terminally ill patients to die, adding France to a short list of nations that allow the practice.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-15T18:43:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html"
-    },
-    {
-      "id": "news-6",
+      "id": "news-9",
       "headline": "Iran threatens to block more trade routes as US launches fresh strikes",
       "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
       "urgency": "breaking",
@@ -128,7 +182,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-10",
       "headline": "US intelligence director pick refuses to acknowledge Trump loss in 2020",
       "summary": "Jay Clayton, often in circuitous fashion, avoided saying Joe Biden won 2020 race during his confirmation hearing.",
       "urgency": "info",
@@ -146,25 +200,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/15/us-intelligence-director-pick-refuses-to-acknowledge-trump-loss-in-2020?traffic_source=rss"
     },
     {
-      "id": "news-8",
-      "headline": "Holders of invalid, expired NICOPs barred from boarding flights to Pakistan: official",
-      "summary": "&lt;p&gt;ISLAMABAD: Pakistanis residing abroad who hold an invalid, expired or cancelled National Identity Card for Overseas Pakistanis (NICOP) will no longer be allowed to board flights to Pakistan, official sources said on Wednesday.&lt;/p&gt;\n&lt;p&gt;According to official sources, the government",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T18:37:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015698/holders-of-invalid-expired-nicops-barred-from-boarding-flights-to-pakistan-official"
-    },
-    {
-      "id": "news-9",
+      "id": "news-11",
       "headline": "Lebanon and Israel end sixth round of US-brokered talks",
       "summary": "A US official said the two sides made progress on a plan for Israel to withdraw from &#039;pilot zones&#039; in southern Lebanon.",
       "urgency": "info",
@@ -182,7 +218,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/15/lebanon-and-israel-end-sixth-round-of-us-brokered?traffic_source=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-12",
       "headline": "This billionaire lived six months a year on his 233-foot superyacht to avoid paying land taxes",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132420665.cms\" /&gt;<![CDATA[Innovative Microsoft engineer Charles Simonyi cleverly leveraged a bespoke superyacht to sidestep local taxation and stringent construction",
       "urgency": "breaking",
@@ -200,7 +236,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/this-tech-billionaire-lived-six-months-a-year-on-his-233-foot-superyacht-to-avoid-paying-property-taxes-on-land-in-california-and-new-york/articleshow/132420665.cms"
     },
     {
-      "id": "news-11",
+      "id": "news-13",
       "headline": "Abu Dhabi Police urge parents to closely supervise children at swimming pools",
       "summary": "Abu Dhabi Police urge parents to closely supervise children at swimming pools",
       "urgency": "info",
@@ -218,25 +254,7 @@
       "link": "https://gulfnews.com/uae/emergencies/abu-dhabi-police-urge-parents-to-closely-supervise-children-at-swimming-pools-1.500609255"
     },
     {
-      "id": "news-12",
-      "headline": "3 arrested in connection with young doctor's killing during robbery near Karachi's Teen Talwar",
-      "summary": "&lt;p&gt;KARACHI: Three suspects have been&lt;a href=\"https://www.dawn.com/news/2015224/jpmc-doctor-shot-dead-as-robbers-take-away-rs25m-in-clifton\"&gt; &lt;/a&gt;arrested in connection with the murder of a young doctor who was shot dead during a robbery near Teen Talwar in Karachi’s Clifton area, a",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T18:30:56.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015627/3-arrested-in-connection-with-young-doctors-killing-during-robbery-near-karachis-teen-talwar"
-    },
-    {
-      "id": "news-13",
+      "id": "news-14",
       "headline": "Iran unveils huge billboard showing Trump in coffin",
       "summary": "Iran has installed a billboard in the capital Tehran showing US President Donald Trump lying in a coffin.",
       "urgency": "info",
@@ -254,7 +272,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-unveils-huge-billboard-showing-trump-in-coffin?traffic_source=rss"
     },
     {
-      "id": "news-14",
+      "id": "news-15",
       "headline": "Prominent Moroccan journalist Ali Lmrabet released from custody",
       "summary": "Moroccan activists warn of an intensifying crackdown on regime critics after the arrest of a journalist and a rapper.",
       "urgency": "breaking",
@@ -270,24 +288,6 @@
       "timestamp": "2026-07-15T18:23:29.000Z",
       "widgetType": "news",
       "link": "https://www.aljazeera.com/news/2026/7/15/prominent-moroccan-journalist-ali-lmrabet-released-from-custody?traffic_source=rss"
-    },
-    {
-      "id": "news-15",
-      "headline": "DPM Dar to attend signing ceremony for China-led AI governance body in Shanghai: FO",
-      "summary": "&lt;p&gt;Deputy Prime Minister and Foreign Minister Ishaq Dar will travel to Shanghai from July 16-17 to attend the signing ceremony of the World Artificial Intelligence Cooperation Organisation (WAICO), the Foreign Office (FO) said in a statement on Wednesday.&lt;/p&gt;\n&lt;p&gt;According to the FO",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T18:16:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015680/dpm-dar-to-attend-signing-ceremony-for-china-led-ai-governance-body-in-shanghai-fo"
     },
     {
       "id": "news-16",
@@ -309,24 +309,6 @@
     },
     {
       "id": "news-17",
-      "headline": "At least 5 injured, including police official, in attack on Bannu police station",
-      "summary": "&lt;p&gt;BANNU: At least five people, including a police official, were injured on Wednesday after terrorists attacked a police station in Khyber Pakhtunkhwa’s Bannu district, triggering heavy retaliatory fire from security personnel.&lt;/p&gt;\n&lt;p&gt;Bannu District Police Officer Captain (retd) M",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T18:08:30.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015690/at-least-5-injured-including-police-official-in-attack-on-bannu-police-station"
-    },
-    {
-      "id": "news-18",
       "headline": "Following years of wildfires, Europe must 'diversify' landscapes and strengthen land management",
       "summary": "For Spotlight, François Picard is pleased to welcome Johan Sjöström, Senior Research Scientist at RISE Research Institutes of Sweden. He argues that the devastating wildfires affecting northern France are not an isolated anomaly but part of a \"new normal\" for Europe. His focus moves beyond extreme w",
       "urgency": "info",
@@ -344,25 +326,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260715-following-years-of-wildfires-europe-must-diversify-landscapes-develop-land-management-strategies"
     },
     {
-      "id": "news-19",
-      "headline": "FCC terms SC, IHC decisions on demolition of restaurants in Margalla Hills ‘grave miscarriage of justice’",
-      "summary": "&lt;p&gt;ISLAMABAD: The Federal Constitutional Court (FCC) on Wednesday ruled that earlier Supreme Court (SC) and Islamabad High Court (IHC) decisions that led to the demolition of Monal Restaurant and other commercial establishments within Margalla Hills National Park (MHNP) constituted an exceptio",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T18:05:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015678/fcc-terms-sc-ihc-decisions-on-demolition-of-restaurants-in-margalla-hills-grave-miscarriage-of-justice"
-    },
-    {
-      "id": "news-20",
+      "id": "news-18",
       "headline": "French parliament adopts landmark assisted-dying bill",
       "summary": "French lawmakers on Wednesday adopted ⁠a bill that will create a legal right to assisted dying for adults with incurable illnesses, capping an intense ethical and political debate.\nThe legislation will, under strict conditions, allow a person who requests it to receive a lethal substance. The substa",
       "urgency": "info",
@@ -380,7 +344,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3360724/french-parliament-adopts-landmark-assisted-dying-bill?utm_source=rss_feed"
     },
     {
-      "id": "news-21",
+      "id": "news-19",
       "headline": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
       "summary": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.",
       "urgency": "breaking",
@@ -398,7 +362,7 @@
       "link": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html"
     },
     {
-      "id": "news-22",
+      "id": "news-20",
       "headline": "Gas tanker explodes in fire near army barracks in Lebanon",
       "summary": "A gas tanker exploded after soaring temperatures sparked a fire near the Lebanese Army barracks in Hermel.",
       "urgency": "info",
@@ -416,7 +380,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/gas-tanker-explodes-in-fire-near-army-barracks-in-lebanon?traffic_source=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-21",
       "headline": "England-Argentina live: Kane and Messi battle for World Cup final spot",
       "summary": "England and Argentina clash in an eagerly awaited World Cup semi-final in Atlanta, with both nations seeking the last stage. The Three Lions and the Albiceleste bring history, rivalry, and star quality to this decisive encounter, with Harry Kane's England facing Lionel Messi's Argentina in a battle ",
       "urgency": "info",
@@ -434,25 +398,7 @@
       "link": "https://www.france24.com/en/sport/20260715-england-argentina-live-kane-and-messi-battle-for-world-cup-final-spot"
     },
     {
-      "id": "news-24",
-      "headline": "Drones, AI and white paint: Europe races to protect infrastructure from heat",
-      "summary": "&lt;p&gt;As Europe’s railways buckle under &lt;a href=\"https://www.dawn.com/news/2014162\"&gt;record heat&lt;/a&gt;, roads melt and power grids strain, countries are turning to an array of fixes for ageing infrastructure, from drones inspecting tracks and AI-powered sensors to a surprisingly simple t",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T17:53:09.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015675/drones-ai-and-white-paint-europe-races-to-protect-infrastructure-from-heat"
-    },
-    {
-      "id": "news-25",
+      "id": "news-22",
       "headline": "Right to die: French Parliament approves assisted dying bill after years of debate",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132422380.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -470,7 +416,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/right-to-die-french-parliament-approves-assisted-dying-bill-after-years-of-debate/articleshow/132422380.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-23",
       "headline": "EU accuses China of seeking to reshape global order in stark new strategy paper",
       "summary": "The European Union has accused China – along with Russia – of trying to “reshape the global order in line with their interests” and “fostering a return to a sphere-of-influence logic”, in an explosive new position paper that contains some of the bloc’s strongest ever official criticism of Beijing.\nT",
       "urgency": "breaking",
@@ -488,7 +434,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3360723/eu-accuses-china-seeking-reshape-global-order-stark-new-strategy-paper?utm_source=rss_feed"
     },
     {
-      "id": "news-27",
+      "id": "news-24",
       "headline": "Here’s the latest.",
       "summary": "Here’s the latest.",
       "urgency": "info",
@@ -506,7 +452,7 @@
       "link": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz/heres-the-latest"
     },
     {
-      "id": "news-28",
+      "id": "news-25",
       "headline": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
       "summary": "Rather than rally behind the tournament’s last Latin American team, other countries in the region are confronting Argentina’s fraught claims to its own identity.",
       "urgency": "info",
@@ -524,7 +470,7 @@
       "link": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html"
     },
     {
-      "id": "news-29",
+      "id": "news-26",
       "headline": "Mapping the latest US strikes across Iran - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2dKRE55SF9WbEEtTXRtaXNfLXBJTUREMWNXbkNlRDdOalppb0hRc3o2eGVoUnFqeW4xSHhxNGE1ejg5M0lZSzE2UTdlblEteU5QNlZEUjdEdFNPUUc5cTBpQXhlNUVnNWtPNHhvU2VoWmlqNHJ1TmdBNFZhUE5pRE5RWEt4eEVJUkHSAY8BQVVfeXFMT1R4LW04TmlvcUY5QnFMaGQ4YzNxV3NRb3JhSFNyWVRKZ21",
       "urgency": "breaking",
@@ -542,7 +488,7 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX2dKRE55SF9WbEEtTXRtaXNfLXBJTUREMWNXbkNlRDdOalppb0hRc3o2eGVoUnFqeW4xSHhxNGE1ejg5M0lZSzE2UTdlblEteU5QNlZEUjdEdFNPUUc5cTBpQXhlNUVnNWtPNHhvU2VoWmlqNHJ1TmdBNFZhUE5pRE5RWEt4eEVJUkHSAY8BQVVfeXFMT1R4LW04TmlvcUY5QnFMaGQ4YzNxV3NRb3JhSFNyWVRKZ21EU0ljNVNJV2xOajFta0wzYksxSWw5OWRCeXlobHZHV3hwRFZXaTg0eGZYTmYxMk9DaHNFcGpPQXpHRFAyX1Z4TFZialNDN2R1YS1kYjJibV9iYkR5QXJ1a3hUVEJNSER2S2luTEk?oc=5"
     },
     {
-      "id": "news-30",
+      "id": "news-27",
       "headline": "French MPs approve assisted dying law with strict rules after years of argument",
       "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
       "urgency": "info",
@@ -560,7 +506,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-28",
       "headline": "🔴 France’s lower house adopts final text of landmark right-to-die law",
       "summary": "🔴 France’s lower house adopts final text of landmark right-to-die law",
       "urgency": "info",
@@ -578,25 +524,7 @@
       "link": "https://www.france24.com/en/france/20260715-france-expected-to-pass-final-vote-on-assisted-dying-after-years-of-debate"
     },
     {
-      "id": "news-32",
-      "headline": "Italian Supreme Court upholds murder convictions of family members of Pakistani girl killed for refusing arranged marriage",
-      "summary": "&lt;p&gt;The Italian Supreme Court on Wednesday delivered its final verdict in the case of a young woman killed five years ago for refusing an arranged marriage, making final the murder convictions of five of her relatives, Italy’s leading news agency &lt;a rel=\"nofollow noopener noreferrer\" target=",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T17:20:07.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015686/italian-supreme-court-upholds-murder-convictions-of-family-members-of-pakistani-girl-killed-for-refusing-arranged-marriage"
-    },
-    {
-      "id": "news-33",
+      "id": "news-29",
       "headline": "Jones Act waiver extension on the table as Iran tensions threaten US fuel prices - report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132421196.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -614,7 +542,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/jones-act-waiver-extension-on-the-table-as-iran-tensions-threaten-us-fuel-prices-report/articleshow/132421196.cms"
     },
     {
-      "id": "news-34",
+      "id": "news-30",
       "headline": "Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing",
       "summary": "Blanche&#039;s actions have raised questions about the independence of the Department of Justice, which he currently leads.",
       "urgency": "info",
@@ -632,7 +560,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss"
     },
     {
-      "id": "news-35",
+      "id": "news-31",
       "headline": "Iran war: US launches fresh wave of strikes - DW.com",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1KZlpXUEF1U2xIRmxNOG5hbk5fR3dtYmhEQXFwM2FZaXRIMncxUXZLZnRnMnFHYlpZd3IxZEhwa2t1NWtjLXNFLXZyVXhSRHhoN1ZkRnJ5VWJ2a29CcTVicHVFVnhNU29pNS1GYUFIVDg5NWxvRXRfZGJnNzFKQWJRZkw?oc=5\" target=\"_blank\"&gt;Iran war: US launches fresh wave of strike",
       "urgency": "breaking",
@@ -650,7 +578,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLS1KZlpXUEF1U2xIRmxNOG5hbk5fR3dtYmhEQXFwM2FZaXRIMncxUXZLZnRnMnFHYlpZd3IxZEhwa2t1NWtjLXNFLXZyVXhSRHhoN1ZkRnJ5VWJ2a29CcTVicHVFVnhNU29pNS1GYUFIVDg5NWxvRXRfZGJnNzFKQWJRZkw?oc=5"
     },
     {
-      "id": "news-36",
+      "id": "news-32",
       "headline": "UK maintains green travel advice for UAE",
       "summary": "UK maintains green travel advice for UAE",
       "urgency": "info",
@@ -668,7 +596,7 @@
       "link": "https://gulfnews.com/uae/uk-maintains-green-travel-advice-for-uae-1.500609192"
     },
     {
-      "id": "news-37",
+      "id": "news-33",
       "headline": "U.S. Strikes Hit Greater Tunb Island in Strait of Hormuz",
       "summary": "The U.S. military said on Wednesday it had attacked Iranian cruise missile storage and launch sites on Greater Tunb, one of several small islands in the Strait of Hormuz subject to a decades-old territorial dispute.",
       "urgency": "breaking",
@@ -686,7 +614,7 @@
       "link": "https://www.nytimes.com/2026/07/15/world/middleeast/us-iran-hormuz-greater-tunb-island.html"
     },
     {
-      "id": "news-38",
+      "id": "news-34",
       "headline": "More people around the world now favour China over the US, Pew study suggests",
       "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
       "urgency": "info",
@@ -704,7 +632,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-39",
+      "id": "news-35",
       "headline": "Who is Kenichi Takano? Japanese man sentenced to 16 years for killing streamer Airi Sato during Tokyo livestream",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132421173.cms\" /&gt;<![CDATA[Kenichi Takano has been sentenced to 16 years in prison for killing 22-year-old streamer Airi Sato during her livestream in Tokyo. The cour",
       "urgency": "breaking",
@@ -722,7 +650,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-kenichi-takano-japanese-man-sentenced-to-16-years-for-killing-streamer-airi-sato-during-tokyo-livestream/articleshow/132421173.cms"
     },
     {
-      "id": "news-40",
+      "id": "news-36",
       "headline": "Global views of China and Xi improve as perceptions of US decline, Pew survey finds",
       "summary": "China’s global image has rebounded from its pandemic-era lows, with international views of both the country and President Xi Jinping improving as confidence in the United States has declined, according to a new Pew Research Centre survey.\nThe survey, released on Wednesday, polled more than 45,000 pe",
       "urgency": "info",
@@ -740,7 +668,7 @@
       "link": "https://www.scmp.com/news/us/diplomacy/article/3360722/global-views-china-and-xi-improve-perceptions-us-decline-pew-survey-finds?utm_source=rss_feed"
     },
     {
-      "id": "news-41",
+      "id": "news-37",
       "headline": "Why are right-wing parties gaining ground in Latin America?",
       "summary": "Several recent elections have strengthened conservative forces across parts of Latin America.",
       "urgency": "important",
@@ -758,7 +686,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/why-are-right-wing-parties-gaining-ground-in-latin-america?traffic_source=rss"
     },
     {
-      "id": "news-42",
+      "id": "news-38",
       "headline": "Argentine VP calls England ‘pirates’ ahead of World Cup semifinal clash",
       "summary": "Argentina vice president&#039;s remarks made ahead of the World Cup semifinal against England and amid sovereignty dispute.",
       "urgency": "info",
@@ -776,7 +704,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/15/argentine-vp-calls-england-pirates-ahead-of-world-cup-semifinal-clash?traffic_source=rss"
     },
     {
-      "id": "news-43",
+      "id": "news-39",
       "headline": "Cruise ship hotel left listing in China port after high tides",
       "summary": "A cruise ship-turned-luxury floating hotel that has been idle for about 14 years rolled onto its side while docked.",
       "urgency": "info",
@@ -794,7 +722,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/cruise-ship-hotel-left-listing-in-china-port-after-high-tides?traffic_source=rss"
     },
     {
-      "id": "news-44",
+      "id": "news-40",
       "headline": "Count Binface: The joke candidate that could enter the British Parliament",
       "summary": "Could an intergalactic space warrior become the #UK's newest member of #parliament? Now that he is the only likely challenger to Nigel #Farage's seat in the #Clacton-on-Sea by-election, the chances of him entering the House of Commons have never been this high.",
       "urgency": "breaking",
@@ -812,7 +740,7 @@
       "link": "https://www.france24.com/en/video/20260715-count-binface-the-joke-candidate-that-could-enter-the-british-parliament"
     },
     {
-      "id": "news-45",
+      "id": "news-41",
       "headline": "Five arrested after Hong Kong police raid independent bookshops",
       "summary": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
       "urgency": "info",
@@ -830,7 +758,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-46",
+      "id": "news-42",
       "headline": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
       "summary": "Ukraine&#039;s parliament is expected to vote for the next prime minister on Thursday.",
       "urgency": "info",
@@ -848,7 +776,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/15/zelenskyy-backs-state-energy-company-chief-koretskyi-for-new-pm?traffic_source=rss"
     },
     {
-      "id": "news-47",
+      "id": "news-43",
       "headline": "Norway’s Waerenskjold wins fastest Tour de France stage in history",
       "summary": "At an average speed of 50.91kph, Soren Waerenskjold&#039;s sprint was the fastest road stage in the 113 editions of the Tour.",
       "urgency": "info",
@@ -866,7 +794,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/15/norways-waerenskjold-wins-fastest-tour-de-france-stage-in-history?traffic_source=rss"
     },
     {
-      "id": "news-48",
+      "id": "news-44",
       "headline": "Trump and Iran signed a truce but still can’t agree on what its terms mean",
       "summary": "Ambiguous language on who controls the Strait of Hormuz has pushed the United States and Iran back toward war.",
       "urgency": "breaking",
@@ -884,7 +812,7 @@
       "link": "https://www.washingtonpost.com/world/2026/07/15/trump-iran-signed-truce-still-cant-agree-what-its-terms-mean/"
     },
     {
-      "id": "news-49",
+      "id": "news-45",
       "headline": "🇦🇲🇷🇺Armenia - Russia: Armenian apricots caught in a geopolitical battle",
       "summary": "In Armenia’s Ararat valley, apricots are getting swept into the centre of a geopolitical battle between Russia and the West. Angered at Yerevan's pivot away from Moscow, the Kremlin imposed bans and restrictions on the imports of a wide range of Armenian goods, including fruits, vegetables and flowe",
       "urgency": "important",
@@ -902,25 +830,7 @@
       "link": "https://www.france24.com/en/video/20260715-%F0%9F%87%A6%F0%9F%87%B2%F0%9F%87%B7%F0%9F%87%BAarmenia-russia-armenian-apricots-caught-in-a-geopolitical-battle"
     },
     {
-      "id": "news-50",
-      "headline": "ICC revamp of ODI, T20I World Cup formats may result in extra Pakistan-India clash",
-      "summary": "&lt;p&gt;The International Cricket Council (ICC) announced on Wednesday a &lt;a rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://www.icc-cricket.com/news/icc-revamp-formats-for-marquee-men-s-events\"&gt;revamped&lt;/a&gt; format for the men’s 2027 one-day intern",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T16:41:49.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015665/icc-revamp-of-odi-t20i-world-cup-formats-may-result-in-extra-pakistan-india-clash"
-    },
-    {
-      "id": "news-51",
+      "id": "news-46",
       "headline": "Music industry launches AI-generated content labels",
       "summary": "Music industry launches AI-generated content labels",
       "urgency": "info",
@@ -938,7 +848,7 @@
       "link": "https://gulfnews.com/entertainment/music/music-industry-launches-ai-generated-content-labels-2-1.500609189"
     },
     {
-      "id": "news-52",
+      "id": "news-47",
       "headline": "US-Iran: Why the cycle of war, talks, repeat?",
       "summary": "🇮🇷🇺🇸 Why keep reigniting the conflict?\n \nGerman Marshall Fund of the US' Carrie Lee argues the #IranWar persists because both sides seemingly believe continuous conflict gains them greater leverage in negotiations. More on #F24Debate➡️https://f24.my/C3TH",
       "urgency": "breaking",
@@ -956,7 +866,7 @@
       "link": "https://www.france24.com/en/video/20260715-us-iran-why-the-cycle-of-war-talks-repeat"
     },
     {
-      "id": "news-53",
+      "id": "news-48",
       "headline": "A scientist slipped into a pool beneath a US military base and found a 'demon cavefish'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132419368.cms\" /&gt;<![CDATA[In a remarkable finding, a scientist has uncovered a new species of eyeless fish in Bobcat Cave, aptly named the demon cavefish after a cha",
       "urgency": "info",
@@ -974,7 +884,7 @@
       "link": "https://timesofindia.indiatimes.com/science/a-scientist-slipped-into-a-pool-beneath-a-us-military-base-and-found-a-fish-later-named-demon-cavefish-after-the-demogorgon-from-stranger-things/articleshow/132419368.cms"
     },
     {
-      "id": "news-54",
+      "id": "news-49",
       "headline": "Europe: National elections may bring \"very different Coalition of the Willing next year\"",
       "summary": "🇺🇦 \"There could be very different representation at the coalition of the willing next year.\"\n \nKira Rudik assesses how political support for #Ukraine may shift with the results of key upcoming #European national elections. More on #F24Debate➡️https://f24.my/C3LG",
       "urgency": "important",
@@ -992,7 +902,7 @@
       "link": "https://www.france24.com/en/video/20260715-europe-national-elections-may-bring-very-different-coalition-of-the-willing-next-year"
     },
     {
-      "id": "news-55",
+      "id": "news-50",
       "headline": "Starmer bids MPs goodbye as British PM and pledges to support his successor",
       "summary": "Andy Burnham, who is set to formally replace Starmer on Monday, will become the UK’s seventh prime minister in a decade.",
       "urgency": "info",
@@ -1010,7 +920,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/15/starmer-bids-mps-goodbye-as-british-pm-and-pledges-to-support-his-successor?traffic_source=rss"
     },
     {
-      "id": "news-56",
+      "id": "news-51",
       "headline": "5,000 solar panels on an Alpine peak are producing three times more electricity thanks to snow reflection and colder temperatures",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417711.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1028,7 +938,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/5000-solar-panels-on-an-alpine-peak-are-producing-three-times-more-electricity-thanks-to-snow-reflection-and-colder-temperatures/articleshow/132417711.cms"
     },
     {
-      "id": "news-57",
+      "id": "news-52",
       "headline": "Does Marco Rubio control Venezuela?",
       "summary": "Does Marco Rubio covertly control Venezuela? A report from the New York Times suggests that the US Secretary of State now effectively controls the Latin American country's finances, the distribution of its natural resources and its government since the capture of Nicolas Maduro. FRANCE 24's Monte Fr",
       "urgency": "info",
@@ -1046,7 +956,7 @@
       "link": "https://www.france24.com/en/tv-shows/a-propos/20260715-does-marco-rubio-control-venezuela"
     },
     {
-      "id": "news-58",
+      "id": "news-53",
       "headline": "Father, mother, daughter killed in Israeli attack on Gaza home",
       "summary": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
       "urgency": "breaking",
@@ -1064,7 +974,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss"
     },
     {
-      "id": "news-59",
+      "id": "news-54",
       "headline": "Why the US is launching naval drones at Iran’s port city of Bandar Abbas",
       "summary": "The US has pounded Iran’s southern port city of Bandar Abbas since Tehran and Washington renewed missile strikes last week, including an unprecedented sea drone attack on a submarine maintenance facility. We take a look at why this city of more than half a million people has become a prime target fo",
       "urgency": "breaking",
@@ -1082,7 +992,7 @@
       "link": "https://www.france24.com/en/middle-east/20260715-why-the-us-is-launching-naval-drones-at-iran-s-port-city-of-bandar-abbas"
     },
     {
-      "id": "news-60",
+      "id": "news-55",
       "headline": "World Cup: Spain and Barcelona star Yamal’s home hit by attempted burglary",
       "summary": "Lamine Yamal&#039;s targeted home was formerly owned by Barca great Gerard Pique and Colombian music star Shakira.",
       "urgency": "info",
@@ -1100,7 +1010,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/15/world-cup-spain-and-barcelona-star-yamals-home-hit-by-attempted-burglary?traffic_source=rss"
     },
     {
-      "id": "news-61",
+      "id": "news-56",
       "headline": "As the US restarts war on Iran, is its weapons stockpile running low? - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmJPTkZYY2F2VkxhRS16dUVGOV95NXprUkFHUWdUWEpWTDU1aFZtMVNCc1pISGlHcGszLVQ4OTA1TEtyR1pSMEFIdDYydlVueWl1RDRmM0hmZm5uLV9BTXZhYVZFQjFxcjI0M1pGNnJmY1pDNzBrOXNoZUlsOE5YaWN2MXRmTXFKYzFkMlJKR3o2ZDN4VXlKaEc0U2VrM0w1WC0yUlkyUHA2M1R50gGyAUFVX3lxTFB",
       "urgency": "breaking",
@@ -1113,30 +1023,12 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-15T16:18:45.000Z",
+      "timestamp": "2026-07-15T16:21:57.000Z",
       "widgetType": "news",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmJPTkZYY2F2VkxhRS16dUVGOV95NXprUkFHUWdUWEpWTDU1aFZtMVNCc1pISGlHcGszLVQ4OTA1TEtyR1pSMEFIdDYydlVueWl1RDRmM0hmZm5uLV9BTXZhYVZFQjFxcjI0M1pGNnJmY1pDNzBrOXNoZUlsOE5YaWN2MXRmTXFKYzFkMlJKR3o2ZDN4VXlKaEc0U2VrM0w1WC0yUlkyUHA2M1R50gGyAUFVX3lxTFBmRVRlb0pMQXoxZll2Q2plYzR2aWZBbWhjaE45UkRaSlRxa2h0Nl9EMGNsR1g3dGd4c0RHOWY4RzVrZWZFRGpEdGZsQmZvYnRsWHczZHRpU0NpUFF0anNxUWFPY1U4NF93U0VRYmtfaWJjajYxc0JUU0FOckhHdFdEMU43QW8yaDF3ajNORlNkWm9sQ3U3YkprRVoyNnFDOERHZHhGaHJYemxPLVhpc244dFE?oc=5"
     },
     {
-      "id": "news-62",
-      "headline": "India-UK trade pact takes effect, cutting tariffs and boosting services trade",
-      "summary": "&lt;p&gt;India and Britain’s &lt;a href=\"https://www.dawn.com/news/1926311\"&gt;trade pact&lt;/a&gt; took effect on Wednesday, cutting tariffs on thousands of goods and expanding market access for services, firms and professionals in both countries.&lt;/p&gt;\n&lt;p&gt;The India-UK Comprehensive Econo",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T16:17:28.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015677/india-uk-trade-pact-takes-effect-cutting-tariffs-and-boosting-services-trade"
-    },
-    {
-      "id": "news-63",
+      "id": "news-57",
       "headline": "Tributes pour in as Sheikh Mohammed marks his 77th birthday",
       "summary": "Tributes pour in as Sheikh Mohammed marks his 77th birthday",
       "urgency": "info",
@@ -1154,7 +1046,7 @@
       "link": "https://gulfnews.com/uae/tributes-pour-in-as-sheikh-mohammed-marks-his-77th-birthday-1.500609171"
     },
     {
-      "id": "news-64",
+      "id": "news-58",
       "headline": "Revamped Cricket World Cup format could see an additional India-Pakistan match",
       "summary": "The 14-team 2027 ODI tournament in Africa will have a Super Seven stage but no quarterfinals.",
       "urgency": "info",
@@ -1172,7 +1064,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/15/revamped-cricket-world-cup-format-could-see-an-additional-india-pakistan-match?traffic_source=rss"
     },
     {
-      "id": "news-65",
+      "id": "news-59",
       "headline": "Atlanta police gear up for trouble at England vs Argentina World Cup match",
       "summary": "The host city will have advanced security in place as a proactive measure against any potential crowd trouble between fans.",
       "urgency": "info",
@@ -1190,7 +1082,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/15/atlanta-police-gear-up-for-trouble-at-england-vs-argentina-world-cup-match?traffic_source=rss"
     },
     {
-      "id": "news-66",
+      "id": "news-60",
       "headline": "The Odyssey: Matt Damon, Lupita Nyong’o, Anne Hathaway relive the epic",
       "summary": "In this edition, Critic Emma Jones tells us why Christopher Nolan’s take on the Greek epic was worth the wait – and the eye-watering budget – and how the themes of this ancient story still speak to contemporary audiences. The all-star cast includes Matt Damon as a world-weary Odysseus, Anne Hathaway",
       "urgency": "info",
@@ -1208,25 +1100,7 @@
       "link": "https://www.france24.com/en/tv-shows/arts24/20260715-the-odyssey-matt-damon-lupita-nyong-o-anne-hathaway-relive-the-epic"
     },
     {
-      "id": "news-67",
-      "headline": "Authorities increasing security around Saindak copper and gold mine in Balochistan: minister",
-      "summary": "&lt;p&gt;State Minister for Interior Tallal Chaudhry on Wednesday said authorities were stepping up security around the Saindak copper and gold mine in Balochistan after supply routes were disrupted in the region by terrorists, and the mine’s operator denied a report that the project could be forced",
-      "urgency": "breaking",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T16:11:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015683/authorities-increasing-security-around-saindak-copper-and-gold-mine-in-balochistan-minister"
-    },
-    {
-      "id": "news-68",
+      "id": "news-61",
       "headline": "Wildfires in Ontario make Toronto air quality worst in world",
       "summary": "&lt;p&gt;Environment Canada has issued health warnings after sky over city turns yellow&lt;/p&gt;&lt;p&gt;Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in cities across the north-east US.&lt;/",
       "urgency": "breaking",
@@ -1244,25 +1118,7 @@
       "link": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world"
     },
     {
-      "id": "news-69",
-      "headline": "Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen",
-      "summary": "A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-15T16:02:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss"
-    },
-    {
-      "id": "news-70",
+      "id": "news-62",
       "headline": "The travel power essentials worth packing",
       "summary": "The travel power essentials worth packing",
       "urgency": "info",
@@ -1280,7 +1136,7 @@
       "link": "https://gulfnews.com/best-buys/the-travel-power-essentials-worth-packing-1.500608425"
     },
     {
-      "id": "news-71",
+      "id": "news-63",
       "headline": "Greenland lost 105 billion tonnes of ice as darkening surface speeds melting",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132419160.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1298,7 +1154,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/greenland-lost-105-billion-tonnes-of-ice-in-one-year-but-scientists-say-its-darkening-surface-could-make-future-melting-worse/articleshow/132419160.cms"
     },
     {
-      "id": "news-72",
+      "id": "news-64",
       "headline": "Meet the millionaires investing in nature conservation",
       "summary": "In France, a handful of wealthy entrepreneurs are buying up hundreds of hectares of land with the goal of letting nature reclaim its rightful place. Among them is Rodolphe Landemaine, an artisan baker at the helm of 30 bakeries in France and Japan. He routinely opens the doors to his Normandy estate",
       "urgency": "info",
@@ -1316,7 +1172,7 @@
       "link": "https://www.france24.com/en/tv-shows/down-to-earth/20260715-meet-the-millionaires-investing-in-nature-conservation"
     },
     {
-      "id": "news-73",
+      "id": "news-65",
       "headline": "Bangladesh seizes $6.2b in assets linked to ex-PM Sheikh Hasina",
       "summary": "Bangladesh seizes $6.2b in assets linked to ex-PM Sheikh Hasina",
       "urgency": "info",
@@ -1334,25 +1190,7 @@
       "link": "https://gulfnews.com/world/asia/bangladesh-seizes-62b-in-assets-linked-to-ex-pm-sheikh-hasina-1.500609138"
     },
     {
-      "id": "news-74",
-      "headline": "Trump urges ICE to keep using traffic stops after deadly incidents",
-      "summary": "US president backs tactic despite agency announcing temporary pause after fatal shootings in Texas and Maine.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-15T15:41:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/15/trump-urges-ice-to-keep-using-traffic-stops-after-deadly-incidents?traffic_source=rss"
-    },
-    {
-      "id": "news-75",
+      "id": "news-66",
       "headline": "UK police arrest man over threat to shoot Reform leader Nigel Farage",
       "summary": "A man who threatened on social media in May to shoot Reform UK party leader Nigel Farage was arrested, London police said on Wednesday, as concerns grow over the security of politicians following the killing of Ann Widdecombe, a former member of parliament.\nThe man was arrested on Tuesday on suspici",
       "urgency": "info",
@@ -1370,7 +1208,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3360718/uk-police-arrest-man-over-threat-shoot-reform-leader-nigel-farage?utm_source=rss_feed"
     },
     {
-      "id": "news-76",
+      "id": "news-67",
       "headline": "He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela",
       "summary": "A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.",
       "urgency": "info",
@@ -1388,7 +1226,7 @@
       "link": "https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html"
     },
     {
-      "id": "news-77",
+      "id": "news-68",
       "headline": "Norwegian Soren Waerenskjold wins fastest ever Tour de France stage",
       "summary": "Norway's ​Soren Waerenskjold on Wednesday claimed ​his first stage victory, beating Belgian Jasper Philipsen in a ⁠mass sprint at the end of the ​161km 11th stage from Vichy to Nevers. At an average speed of 50.91kph, it was the fastest stage in the race's history.",
       "urgency": "info",
@@ -1406,7 +1244,7 @@
       "link": "https://www.france24.com/en/sport/20260715-waerenskjold-wins-fastest-ever-tour-de-france-stage"
     },
     {
-      "id": "news-78",
+      "id": "news-69",
       "headline": "Special police team to investigate killing of an anti-migrant leader in South Africa",
       "summary": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
       "urgency": "info",
@@ -1424,7 +1262,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-79",
+      "id": "news-70",
       "headline": "10 largest lake islands in the world: From Manitoulin Island to Idjwi",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132418815.cms\" /&gt;<![CDATA[Manitoulin Island in Canada is the world's largest freshwater lake island. René-Levasseur Island in Quebec was formed by a meteorite impact",
       "urgency": "info",
@@ -1442,7 +1280,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/10-largest-lake-islands-in-the-world-from-manitoulin-island-to-idjwi/articleshow/132418815.cms"
     },
     {
-      "id": "news-80",
+      "id": "news-71",
       "headline": "Dubai&apos;s Museum of the Future to close in September for major revamp",
       "summary": "Dubai&apos;s Museum of the Future to close in September for major revamp",
       "urgency": "info",
@@ -1460,7 +1298,7 @@
       "link": "https://gulfnews.com/uae/dubais-museum-of-the-future-to-close-in-september-for-major-revamp-1.500609124"
     },
     {
-      "id": "news-81",
+      "id": "news-72",
       "headline": "US woman arrested for sexually assaulting 2-year-old; identified by 'boobs' tattoo",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132419287.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1478,7 +1316,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/us-woman-arrested-for-sexually-assaulting-2-year-old-identified-by-boobs-tattoo/articleshow/132419287.cms"
     },
     {
-      "id": "news-82",
+      "id": "news-73",
       "headline": "Britain left a five-acre farm without crops; 15 years later, nature had turned it into...",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417891.cms\" /&gt;<![CDATA[An abandoned Norfolk farm field transformed into a vibrant wildflower meadow over a decade, as researchers monitored its evolution post-far",
       "urgency": "info",
@@ -1496,7 +1334,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/britain-left-a-five-acre-farm-without-crops-or-new-seeds-15-years-later-nature-had-turned-it-into-a-wildflower-rich-meadow/articleshow/132417891.cms"
     },
     {
-      "id": "news-83",
+      "id": "news-74",
       "headline": "Assisted dying bill 'almost anathema to France's right wing'",
       "summary": "French lawmakers will vote on Wednesday on a bill that ​would create a legal right to assisted dying for adults with incurable illnesses, capping an intense ethical and political debate. But the bill is highly controversial and has faced opposition in particular from France's right, explains France ",
       "urgency": "info",
@@ -1514,7 +1352,7 @@
       "link": "https://www.france24.com/en/video/20260715-assisted-dying-bill-almost-anathema-to-france-s-right-wing"
     },
     {
-      "id": "news-84",
+      "id": "news-75",
       "headline": "Indian truck driver Jashanpreet Singh jailed for nearly 5 years for deadly California crash",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132418938.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1532,7 +1370,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/indian-truck-driver-jashanpreet-singh-jailed-for-nearly-5-years-for-deadly-california-crash/articleshow/132418938.cms"
     },
     {
-      "id": "news-85",
+      "id": "news-76",
       "headline": "DSE candidates overcome physical challenges to achieve hard-earned results",
       "summary": "While a score of seven points out of a maximum of 42 in Hong Kong’s Diploma of Secondary Education (DSE) exams might seem low to some, for non-verbal student Tam Chun-yu it is a massive accomplishment, achieved by typing his answers with just one finger.\nAt the Hong Kong Red Cross John F. Kennedy Ce",
       "urgency": "info",
@@ -1550,7 +1388,7 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3360716/dse-candidates-overcome-physical-challenges-achieve-hard-earned-results?utm_source=rss_feed"
     },
     {
-      "id": "news-86",
+      "id": "news-77",
       "headline": "Trump admin sued by 9 environmental groups over definition of 'harm'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132418903.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1568,7 +1406,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/trump-admin-sued-by-9-environmental-groups-over-definition-of-harm/articleshow/132418903.cms"
     },
     {
-      "id": "news-87",
+      "id": "news-78",
       "headline": "Gibraltar and Spain end border checks in boost for businesses",
       "summary": "Thousands of people who travel every day between the southern tip of Spain and the British territory of Gibraltar will no longer have to cross a physical border, beginning on Wednesday. The official opening at midnight on Tuesday, after a border fence was removed, allows a new freedom of movement un",
       "urgency": "info",
@@ -1586,7 +1424,7 @@
       "link": "https://www.france24.com/en/video/20260715-gibraltar-and-spain-end-border-checks-in-boost-for-businesses"
     },
     {
-      "id": "news-88",
+      "id": "news-79",
       "headline": "'Promise Me, America': Joe Biden to release new memoir on November 17 after US midterm polls",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132418982.cms\" /&gt;<![CDATA[Joe Biden will release his new memoir, 'Promise Me, America,' on November 17.  The book reflects on his presidency and his decisions regard",
       "urgency": "important",
@@ -1604,25 +1442,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/promise-me-america-joe-biden-to-release-new-memoir-on-november-17-after-us-midterm-polls/articleshow/132418982.cms"
     },
     {
-      "id": "news-89",
-      "headline": "ADB formally appointed financial, transaction adviser for outsourcing Islamabad Airport operations",
-      "summary": "&lt;p&gt;ISLAMABAD: Pakistan on Wednesday formally appointed the Asian Development Bank (ADB) as the financial and transaction adviser for the outsourcing of Islamabad International Airport’s operations.&lt;/p&gt;\n&lt;p&gt;Last week, the Privatisation Commission Board &lt;a href=\"https://www.dawn.co",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-15T15:10:15.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2015671/adb-formally-appointed-financial-transaction-adviser-for-outsourcing-islamabad-airport-operations"
-    },
-    {
-      "id": "news-90",
+      "id": "news-80",
       "headline": "ICE ordered to suspend most vehicle stops after second deadly shooting",
       "summary": "Trump administration officials told Immigration and Customs Enforcement (ICE) officers to suspend most vehicle stops after two deadly shootings within a week, people familiar with the decision said Tuesday. The policy change came after an ICE officer shot and killed a Colombian driver Monday in Main",
       "urgency": "breaking",
@@ -1640,7 +1460,7 @@
       "link": "https://www.france24.com/en/video/20260715-ice-ordered-to-suspend-most-vehicle-stops-after-second-deadly-shooting"
     },
     {
-      "id": "news-91",
+      "id": "news-81",
       "headline": "Trump says ICE should continue traffic stops, contradicting earlier suspension",
       "summary": "US President Donald Trump on Wednesday said US Immigration and Customs Enforcement (ICE) should continue to use traffic stops despite a decision the previous day to suspend the practice. The ban on vehicle stops came after an ICE agent fatally shot a Colombian driver in Maine and another motorist wa",
       "urgency": "breaking",
@@ -1658,7 +1478,7 @@
       "link": "https://www.france24.com/en/americas/20260715-trump-says-ice-should-continue-traffic-stops-contradicting-new-ban"
     },
     {
-      "id": "news-92",
+      "id": "news-82",
       "headline": "Vietnam arrests 3 publishing bosses over controversial Ho Chi Minh book",
       "summary": "Police in Vietnam said on Wednesday they had arrested three executives of a publishing house that released a book on Ho Chi Minh, the revered founder of the country’s Communist Party.\nThe author of Stories with Thanh - A New Account of Light, former telecoms executive Nguyen Thanh Nam, was arrested ",
       "urgency": "info",
@@ -1676,7 +1496,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3360717/vietnam-arrests-3-publishing-bosses-over-controversial-ho-chi-minh-book?utm_source=rss_feed"
     },
     {
-      "id": "news-93",
+      "id": "news-83",
       "headline": "Greater gliders not as great at gliding as thought – but still look like magic carpets, experts say",
       "summary": "&lt;p&gt;While new study challenges assumptions about how far they travel, witnessing them in action still takes your breath away, scientists say&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese",
       "urgency": "breaking",
@@ -1694,7 +1514,7 @@
       "link": "https://www.theguardian.com/environment/2026/jul/16/greater-gliders-gliding-study"
     },
     {
-      "id": "news-94",
+      "id": "news-84",
       "headline": "Almost 145,000 Australians will lose support for autism under NDIS reforms, documents reveal",
       "summary": "&lt;p&gt;Internal estimates show 144,600 people will be taken off the scheme by 2030, many of them under 18&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7j",
       "urgency": "breaking",
@@ -1712,7 +1532,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/16/ndis-reforms-autism-almost-145000-australians-will-lose-support"
     },
     {
-      "id": "news-95",
+      "id": "news-85",
       "headline": "Albanese’s AI plan is admirable – but will face tech giants more powerful than most national governments",
       "summary": "&lt;p&gt;Challenges of regulating social media or stopping hate speech show these firms can set their own terms and prices for countries like Australia&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&g",
       "urgency": "breaking",
@@ -1730,7 +1550,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/16/albanese-ai-plan-tech-giants-regulating-social-media-analysis"
     },
     {
-      "id": "news-96",
+      "id": "news-86",
       "headline": "Albanese’s AI blueprint sparks calls for datacentre moratorium until new regulations in place",
       "summary": "&lt;p&gt;Prime minister’s plan will create energy regulations for datacentres in Australia&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;free app&l",
       "urgency": "breaking",
@@ -1748,7 +1568,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/16/albaneses-ai-blueprint-sparks-calls-for-datacentre-moratorium-until-new-regulations-in-place"
     },
     {
-      "id": "news-97",
+      "id": "news-87",
       "headline": "US-Iran war: is Trump falling into a Vietnam ‘quagmire’?",
       "summary": "Five months and at least two ceasefires into the US-Israeli war on Iran, hostilities have intensified again, with US President Donald Trump reimposing a naval blockade on Iranian ports and American forces trading fresh strikes with Tehran.\nThe renewed cycle is testing both Tehran’s resilience and Wa",
       "urgency": "breaking",
@@ -1766,7 +1586,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3360711/us-iran-war-trump-falling-vietnam-quagmire?utm_source=rss_feed"
     },
     {
-      "id": "news-98",
+      "id": "news-88",
       "headline": "Briton jailed in Iran given additional two-year sentence, family says",
       "summary": "The family ⁠of British ​couple Craig and Lindsay Foreman, who are serving a 10-year ​prison sentence in Iran on espionage charges that they deny, said on Wednesday that a judge had extended Craig Foreman's ​sentence ‌by two years for speaking to the ⁠media. The couple were arrested in 2025 while tra",
       "urgency": "info",
@@ -1784,22 +1604,202 @@
       "link": "https://www.france24.com/en/video/20260715-briton-jailed-in-iran-given-additional-two-year-sentence-family-says"
     },
     {
-      "id": "news-99",
-      "headline": "Argentina and England collide with World Cup final spot at stake",
-      "summary": "Lionel Messi's Argentina clash with England in a marquee World Cup semi-final on Wednesday, with Spain lying in wait after shattering French hopes of a third triumph. The fixture between two of the big beasts of global football is mouthwatering enough but is given added spice by long-standing politi",
+      "id": "news-89",
+      "headline": "Christmas tree troubles, new Pacific missile launch: 7 US-China relations reads",
+      "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing.\n1. US lawmakers push for fewer tax breaks to reduce reliance on China technology\n\nA growing numb",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:49:32.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/article/3360578/chinas-anthropic-snub-new-pacific-missile-launch-7-us-china-relations-reads?utm_source=rss_feed"
+    },
+    {
+      "id": "news-90",
+      "headline": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo - The New York Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTTzFkRHM1OE1GWE85SjVZWC10YTZtWW5aQVgybUJRTmlUdDFrdlh1cDZ3VXdKOXptODBZRnFMN2dBYjZTVXlYdmozTVRvVE5Bbkx5aDRqc2hmZFFFSFFYd0pKaDN1WjBlRjJsY2pubmplTXIyS2ZlZ2lDbHViV2dmdw?oc=5\" target=\"_blank\"&gt;For Israel, the U.S.-Iran Hostilities Have ",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:44:50.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVpTTzFkRHM1OE1GWE85SjVZWC10YTZtWW5aQVgybUJRTmlUdDFrdlh1cDZ3VXdKOXptODBZRnFMN2dBYjZTVXlYdmozTVRvVE5Bbkx5aDRqc2hmZFFFSFFYd0pKaDN1WjBlRjJsY2pubmplTXIyS2ZlZ2lDbHViV2dmdw?oc=5"
+    },
+    {
+      "id": "news-91",
+      "headline": "The Dutch police trained eagles to catch illegal drones, but the unusual experiment was later abandoned",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132416358.cms\" /&gt;<![CDATA[",
       "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:30:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/europe/the-dutch-police-trained-eagles-to-catch-illegal-drones-but-the-unusual-experiment-was-later-abandoned/articleshow/132416358.cms"
+    },
+    {
+      "id": "news-92",
+      "headline": "UAE President offers condolences to Emir of Qatar on passing of Sheikh Hamad bin Khalifa Al Thani",
+      "summary": "UAE President offers condolences to Emir of Qatar on passing of Sheikh Hamad bin Khalifa Al Thani",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:26:29.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/government/c18fntj-uae-president-offers-condolences-emir-qatar-1.500609061"
+    },
+    {
+      "id": "news-93",
+      "headline": "For Argentina, a World Cup Semifinal Against England Isn’t Just Soccer",
+      "summary": "Wednesday’s contest for a spot in the final carries the weight of a 1986 contentious clash, a war over the Falklands and a national mythology built around Diego Maradona.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-15T14:56:33.000Z",
+      "timestamp": "2026-07-15T14:20:36.000Z",
       "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260715-argentina-and-england-collide-with-world-cup-final-spot-at-stake"
+      "link": "https://www.nytimes.com/2026/07/15/world/americas/argentina-england-rivalry-world-cup.html"
+    },
+    {
+      "id": "news-94",
+      "headline": "Why was Washington reflecting pool drained again weeks after $14M renovation",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132417980.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:09:02.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/why-was-washington-reflecting-pool-drained-again-weeks-after-14m-renovation/articleshow/132417980.cms"
+    },
+    {
+      "id": "news-95",
+      "headline": "Brazen Japanese Bears Are Breaking Into Homes and Raiding Pantries",
+      "summary": "Climate change and shifting demographics are driving the country’s Asiatic black bears closer to humans.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:06:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/15/world/asia/japan-bear-home-break-in.html"
+    },
+    {
+      "id": "news-96",
+      "headline": "Australia to Impose Energy and Water Guardrails on Data Centers Amid A.I. Boom",
+      "summary": "The country will also seek to protect the rights of creators of work used to train artificial intelligence models, as it aims to impose parameters on the growing industry.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:03:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html"
+    },
+    {
+      "id": "news-97",
+      "headline": "CUHK launches first cross-border clinical trial centre in Nansha",
+      "summary": "The Chinese University of Hong Kong (CUHK) has set up its first clinical trial centre outside Hong Kong, teaming up with mainland Chinese authorities to strengthen research collaboration and help develop the Greater Bay Area into an international hub for medical innovation.\nThe Greater Bay Area Clin",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:03:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3360710/cuhk-launches-first-cross-border-clinical-trial-centre-nansha?utm_source=rss_feed"
+    },
+    {
+      "id": "news-98",
+      "headline": "Fijians predict when a cyclone is approaching using bees, breadfruit and ancient wisdom",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132416114.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T14:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/fijians-predict-when-a-cyclone-is-approaching-using-bees-breadfruit-and-ancient-wisdom/articleshow/132416114.cms"
+    },
+    {
+      "id": "news-99",
+      "headline": "Hong Kong woman guilty of throwing faeces onto air con, damaging security camera",
+      "summary": "A woman accused of splashing excrement onto a neighbour’s air conditioner and damaging their security camera in Hong Kong has been found guilty of criminal damage by throwing offensive matter onto private property.\nSuen Siu-fong, a 59-year-old housewife, was convicted of both charges at Eastern Cour",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-15T13:44:42.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/article/3360707/hong-kong-woman-guilty-throwing-faeces-air-con-damaging-security-camera?utm_source=rss_feed"
     }
   ],
   "financials": {
