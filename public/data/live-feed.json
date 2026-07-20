@@ -1,8 +1,782 @@
 {
-  "lastUpdated": "2026-07-20T16:51:59.171Z",
+  "lastUpdated": "2026-07-20T18:33:59.830Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Another U.S. Service Member Is Killed as Iran War Expands",
+      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:30:59.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
+    },
+    {
+      "id": "news-1",
+      "headline": "Govt decreases petrol price by Rs0.35, increases diesel by Rs5.71 per litre",
+      "summary": "&lt;p&gt;The government on Monday decreased the petrol price by Rs0.35 and increased the price of high-speed diesel by Rs5.71 per litre, to pass on the impact of fluctuating global prices following renewed regional hostilities in the Persian Gulf.&lt;/p&gt;\n&lt;p&gt;Following the changes, the price ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:28:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017065/govt-decreases-petrol-price-by-rs035-increases-diesel-by-rs571-per-litre"
+    },
+    {
+      "id": "news-2",
+      "headline": "Ukraine bombs warehouses, targeting Wildberries — Russia’s version of Amazon",
+      "summary": "Ukraine’s long-range drone attacks, including strikes this weekend on e-commerce warehouses, have undercut the Kremlin’s efforts to shield most Russian citizens from the war.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:22:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/07/20/ukraine-bombs-warehouses-targeting-wildberries-russias-version-amazon/"
+    },
+    {
+      "id": "news-3",
+      "headline": "Trump vows Iran will ‘pay’ for killing US soldiers",
+      "summary": "The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:21:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss"
+    },
+    {
+      "id": "news-4",
+      "headline": "Canadian wildfire smoke linked to fewer sightings of 40 bird species in New York",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132509867.cms\" /&gt;<![CDATA[A new University at Buffalo study has found that smoke from Canadian wildfires may have made many bird species harder to spot in New York S",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:18:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/40-bird-species-were-seen-less-often-in-new-york-when-canadian-wildfire-smoke-increased-after-scientists-matched-smoke-pollution-with-99000-bird-observations/articleshow/132509867.cms"
+    },
+    {
+      "id": "news-5",
+      "headline": "Man charged with murdering former British MP Ann Widdecombe",
+      "summary": "British prosecutors ⁠said on Monday ⁠that a 28-year-old ⁠man had been charged with murdering former government minister Ann Widdecombe, who was found dead at her home earlier this month.\nWiddecombe, 78, who was ‌a prominent member of Nigel Farage’s populist Reform UK, was found at her home in rural ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:16:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/article/3361259/man-charged-murdering-former-british-mp-ann-widdecombe?utm_source=rss_feed"
+    },
+    {
+      "id": "news-6",
+      "headline": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUN",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:16:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUNDemZRazNzOVF4V011ZWNXUUQ3Zw?oc=5"
+    },
+    {
+      "id": "news-7",
+      "headline": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
+      "summary": "Evidence suggests the ship on which three Indian sailors died was not moving when it was struck in the Gulf of Oman, but it had been engaged in risky offshore transfers of oil.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:13:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html"
+    },
+    {
+      "id": "news-8",
+      "headline": "Iran war live: Trump threatens more attacks on Iran if US soldiers killed - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHF3aV9CSGJTNDE1X1NWeUNnbkxKa2lmQnQ5LUtBTHF1QUJFUVUzb3QycktuMms1Y2dvczR2MENLeDhwU19SVXZFaGY1bDNNUENZd01nQnloVkFCanVSLXZ1MUs4NzdUdHlFdG9YNEFhWHVRLVdTcWl2WHpFRkZSYy1rZTI1QzhhZms5Y29tRWFZU0dMQnRDdUs1el9TQlFkV2NVOUFLSmQ2TS1wRHMtZUhoalkzWHV",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:12:03.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHF3aV9CSGJTNDE1X1NWeUNnbkxKa2lmQnQ5LUtBTHF1QUJFUVUzb3QycktuMms1Y2dvczR2MENLeDhwU19SVXZFaGY1bDNNUENZd01nQnloVkFCanVSLXZ1MUs4NzdUdHlFdG9YNEFhWHVRLVdTcWl2WHpFRkZSYy1rZTI1QzhhZms5Y29tRWFZU0dMQnRDdUs1el9TQlFkV2NVOUFLSmQ2TS1wRHMtZUhoalkzWHVrSXJJ0gHAAUFVX3lxTFAwX2wtLVpHZ1kwZ2VGTWYzbTdWSGtxZzViQUhrc2t0QUNySWVYaC1DQWJxNzRwWGh2b1c3VDB4T1ZCTXYtWjZ4dWJGcWE5YVc3U1NuUnBNbW1CLXJ2LU9fTkVDVmJEZzVIRWRXYllhMmFmMVRvdWlaRUVOY0RmMWE2dU1OUlJKRm1UZUJ3ZElGdVA4cHljNWlXRHNoUUs0TWNpelNpYm1BU0Z5dUN6SjVOS1RYenh0bUVNdWswRFJPWA?oc=5"
+    },
+    {
+      "id": "news-9",
+      "headline": "In Venezuela’s Rubble, a Search for the Family Pets",
+      "summary": "Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.",
+      "urgency": "info",
+      "topic": "venezuela",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:10:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html"
+    },
+    {
+      "id": "news-10",
+      "headline": "Yemen's Houthis declare maritime blockade of Saudi Arabia",
+      "summary": "&lt;p&gt;Yemen’s Houthi rebels announced a maritime embargo of Saudi Arabia on Monday, stepping up the US-Iran war as the rebels threatened the top oil exporter’s ability to bypass the Strait of Hormuz.&lt;/p&gt;\n&lt;p&gt;The group did not say how it planned to impose the embargo, whose declaration ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:10:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2016977/yemens-houthis-declare-maritime-blockade-of-saudi-arabia"
+    },
+    {
+      "id": "news-11",
+      "headline": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
+      "summary": "Youth-led protesters answer call of Cockroach Janta Party to demand accountability, sweeping reforms after exam scandal.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:10:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss"
+    },
+    {
+      "id": "news-12",
+      "headline": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:06:40.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/07/20/world/uk-prime-minister-burnham-starmer/heres-the-latest"
+    },
+    {
+      "id": "news-13",
+      "headline": "Trump dismisses NY Mayor Mamdani's threat to arrest Netanyahu",
+      "summary": "&lt;p&gt;US President Donald Trump on Monday vowed that Israeli Prime Minister Benjamin Netanyahu would not face arrest at a UN summit in New York, after the city’s new mayor &lt;a href=\"https://www.dawn.com/news/2016505\"&gt;said&lt;/a&gt; he was investigating the move.&lt;/p&gt;\n&lt;p&gt;Mayor Zohr",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:05:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017066/trump-dismisses-ny-mayor-mamdanis-threat-to-arrest-netanyahu"
+    },
+    {
+      "id": "news-14",
+      "headline": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+      "summary": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T18:01:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-15",
+      "headline": "Minnesota National Guard, Croatia Celebrate 30 Years of Partnership",
+      "summary": "Minnesota and Croatia celebrated the 30th anniversary of their partnership through the National Guard Bureau's State Partnership Program during Exercise Combat Power 26, near Slunj, Croatia.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "US Pentagon",
+          "logo": "https://www.google.com/s2/favicons?domain=defense.gov&sz=32",
+          "url": "https://defense.gov",
+          "category": "government"
+        }
+      ],
+      "timestamp": "2026-07-20T18:01:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4550271/minnesota-national-guard-croatia-celebrate-30-years-of-partnership/"
+    },
+    {
+      "id": "news-16",
+      "headline": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
+      "summary": "Young people angry about frequent leaks of college entrance tests present one of the biggest challenges in years to Prime Minister Narendra Modi.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:55:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html"
+    },
+    {
+      "id": "news-17",
+      "headline": "Hundreds protest in Delhi demanding restoration of autonomy for occupied Kashmir",
+      "summary": "&lt;p&gt;Hundreds of people led by the chief minister of India-occupied Kashmir (IoK) shouted slogans and staged a protest in the capital Delhi on Monday, demanding statehood for the region, seven years after it &lt;a href=\"https://www.dawn.com/news/1514652\"&gt;revoked&lt;/a&gt; the disputed region’",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:54:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017041/hundreds-protest-in-delhi-demanding-restoration-of-autonomy-for-occupied-kashmir"
+    },
+    {
+      "id": "news-18",
+      "headline": "Unlicensed doctor arrested in New York after woman dies from anti-ageing injection",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132520793.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:47:53.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/unlicensed-doctor-arrested-in-new-york-after-woman-dies-from-anti-ageing-injection/articleshow/132520793.cms"
+    },
+    {
+      "id": "news-19",
+      "headline": "Yemen's Houthis declare blockade on Saudi Arabia, raising Red Sea tensions - Middle East Eye",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1lDUkYxREVHNGR6bkZNd3p6c3hqQXBXVlJuOUxYd3RlcE1qUThoM2p1RWxrUEFYLUhjLTB0VzFjejFNV2xTdEdIQ0dialI5aU1JV2FxWXBuVzFfdzE4ZjBjWVNNSVhPdE5IeFp5cDBKV0c0LUVXUDVaVzRFajF1TmdVYTlMbmhUcmM3MEc0UFRxaVpxWUp2OWRpUzRZN0RGeG9ncURn?oc=5\" target=\"_blank\"&",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:43:06.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1lDUkYxREVHNGR6bkZNd3p6c3hqQXBXVlJuOUxYd3RlcE1qUThoM2p1RWxrUEFYLUhjLTB0VzFjejFNV2xTdEdIQ0dialI5aU1JV2FxWXBuVzFfdzE4ZjBjWVNNSVhPdE5IeFp5cDBKV0c0LUVXUDVaVzRFajF1TmdVYTlMbmhUcmM3MEc0UFRxaVpxWUp2OWRpUzRZN0RGeG9ncURn?oc=5"
+    },
+    {
+      "id": "news-20",
+      "headline": "'Will not be arrested in US': Trump responds to Mamdani's Netanyahu remarks",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132521500.cms\" /&gt;<![CDATA[Donald Trump stated Benjamin Netanyahu will not face arrest in the United States.  New York City Mayor Zohran Mamdani considered legal acti",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:40:59.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/will-not-be-arrested-in-us-trump-responds-to-mamdanis-netanyahu-remarks/articleshow/132521500.cms"
+    },
+    {
+      "id": "news-21",
+      "headline": "Outcry in Italy After Man Dies While Being Restrained by Police",
+      "summary": "The death of the man, a Moroccan resident of Italy, set off an outcry across the country and prompted comparisons to the death of George Floyd in the United States.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:40:40.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html"
+    },
+    {
+      "id": "news-22",
+      "headline": "Petrol prices climb as US–Iran tensions disrupt markets",
+      "summary": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:40:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss"
+    },
+    {
+      "id": "news-23",
+      "headline": "U.S., Iran trade strikes as Houthis declare blockade of Red Sea oil route",
+      "summary": "An intensifying cycle of violence has left at least three U.S. service members dead since the resumption of hostilities a week ago.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:35:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/07/20/iran-retaliates-against-us-strikes-gas-returns-4-gallon/"
+    },
+    {
+      "id": "news-24",
+      "headline": "Scientists found an anemone that can distinguish helpful bacteria from harmful bacteria without...",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132519130.cms\" /&gt;<![CDATA[Sea anemones distinguish helpful bacteria from harmful invaders without antibodies. Specialized cell structures engulf and destroy foreign ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:33:19.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/scientists-found-that-a-sea-anemone-can-distinguish-helpful-bacteria-from-harmful-bacteria-without-antibodies-or-immune-memory-cells/articleshow/132519130.cms"
+    },
+    {
+      "id": "news-25",
+      "headline": "Yemen's Houthis announce 'maritime embargo' against Saudi Arabia - BBC",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQ0tfRjhLY0N3N094a25WcVZLMkNrOTZlaWJCS2ZTb3ZTSGRTRkNKR05yd01HZkhFdENYSzFuNXlyQ2hvLVZ1ZTRDbjd1WTV3UWZWWnltbzBRQQ?oc=5\" target=\"_blank\"&gt;Yemen's Houthis announce 'maritime embargo' against Saudi Arabia&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;f",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:33:02.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQ0tfRjhLY0N3N094a25WcVZLMkNrOTZlaWJCS2ZTb3ZTSGRTRkNKR05yd01HZkhFdENYSzFuNXlyQ2hvLVZ1ZTRDbjd1WTV3UWZWWnltbzBRQQ?oc=5"
+    },
+    {
+      "id": "news-26",
+      "headline": "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
+      "summary": "Spain beat Argentina, but talking points remain. Should there be 48 or 64 teams? Hydration breaks? The &#039;dark arts&#039;?",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:31:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss"
+    },
+    {
+      "id": "news-27",
+      "headline": "Coast Guard Monitors Chinese Vessels in the Arctic",
+      "summary": "The Coast Guard recently monitored two Chinese research ships as they transited north through the U.S. exclusive economic zone and over the U.S. extended continental shelf in the Bering Sea.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "US Pentagon",
+          "logo": "https://www.google.com/s2/favicons?domain=defense.gov&sz=32",
+          "url": "https://defense.gov",
+          "category": "government"
+        }
+      ],
+      "timestamp": "2026-07-20T17:29:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4550235/coast-guard-monitors-chinese-vessels-in-the-arctic/"
+    },
+    {
+      "id": "news-28",
+      "headline": "Iran’s Interior Minister Eskandar Momeni arrives in Pakistan",
+      "summary": "&lt;p&gt;Iran’s Interior Minister Eskandar Momeni on Monday night arrived in Islamabad on an official visit.&lt;/p&gt;\n&lt;p&gt;Upon his arrival in Pakistan, the senior Iranian official was received by Interior Minister Mohsin Naqvi.&lt;/p&gt;\n&lt;p&gt;The visiting dignitary is accompanied by a high",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:27:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017051/irans-interior-minister-eskandar-momeni-arrives-in-pakistan"
+    },
+    {
+      "id": "news-29",
+      "headline": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+      "summary": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:27:16.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html"
+    },
+    {
+      "id": "news-30",
+      "headline": "Mary Honeyball praises forward-looking PM 'prepared to inject some optimism' into United Kingdom",
+      "summary": "François Picard is pleased to welcome Mary Honeyball, former Labour Member of the European Parliament from 2000 to 2019 representing London. She offers a cautiously optimistic assessment of the arrival of Andy Burnham to 10 Downing Street. She frames the moment less as a potential political reset af",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:26:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/mary-honeyball-praises-forward-looking-pm-prepared-to-inject-some-optimism-into-united-kingdom"
+    },
+    {
+      "id": "news-31",
+      "headline": "Hamas Names Khalil al-Hayya as Its New Leader",
+      "summary": "Seen as closer to Iran, Khalil al-Hayya served as the Palestinian militant group’s chief negotiator with Israel and the Trump administration during the Gaza war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:22:44.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html"
+    },
+    {
+      "id": "news-32",
+      "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:21:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-33",
+      "headline": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:20:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-34",
+      "headline": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
+      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Africa",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:16:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-35",
+      "headline": "Suspected Iranian strikes have targeted U.S. military in at least four countries.",
+      "summary": "Suspected Iranian strikes have targeted U.S. military in at least four countries.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:09:32.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/suspected-iranian-strikes-have-targeted-us-military-in-at-least-four-countries"
+    },
+    {
+      "id": "news-36",
+      "headline": "16 days after Nolan Wells' death, no one knows what exactly happened to the Mississippi footballer who went to Horn Island with friends",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132520592.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:07:53.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/16-days-after-nolan-wells-death-no-one-knows-what-exactly-happened-to-the-mississippi-footballer-who-went-to-horn-island-with-friends/articleshow/132520592.cms"
+    },
+    {
+      "id": "news-37",
+      "headline": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
+      "summary": "US judge hands life sentence to Ismael Zambada for leading one of Mexico&#039;s most violent drug cartels for decades.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:05:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss"
+    },
+    {
+      "id": "news-38",
+      "headline": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
+      "summary": "A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T17:01:56.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html"
+    },
+    {
+      "id": "news-39",
+      "headline": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
+      "summary": "For many fans, the World Cup victory cemented a belief that something promising — a cultural, economic and sports revival — is happening in the country.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T16:56:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
+    },
+    {
+      "id": "news-40",
+      "headline": "Hungary investigates deal with China’s BYD after ex-foreign minister takes job there",
+      "summary": "Hungary’s government announced an investigation on Monday into a large foreign investment by Chinese carmaker BYD negotiated by a former foreign minister who last week resigned from parliament to take an executive position at the company.\nPeter Szijjarto’s announcement last Wednesday that he would t",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-20T16:51:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/business/china-evs/article/3361258/hungary-investigates-deal-chinas-byd-after-ex-foreign-minister-takes-job-there?utm_source=rss_feed"
+    },
+    {
+      "id": "news-41",
+      "headline": "Spain team arrives home after winning the World Cup",
+      "summary": "World champions Spain have landed home carrying the World Cup trophy a day after defeating Argentina in the final.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T16:47:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/spain-team-arrives-home-after-winning-the-world-cup?traffic_source=rss"
+    },
+    {
+      "id": "news-42",
+      "headline": "Israeli air strike injures 14 in Gaza City",
+      "summary": "An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T16:45:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss"
+    },
+    {
+      "id": "news-43",
       "headline": "Philippine sailor injured during clash with Chinese coast guard",
       "summary": "A member of China’s coast guard is accused of injuring a Philippine sailor after striking him with a wooden baton.",
       "urgency": "info",
@@ -20,7 +794,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/philippine-sailor-injured-during-clash-with-chinese-coast-guard?traffic_source=rss"
     },
     {
-      "id": "news-1",
+      "id": "news-44",
       "headline": "Dubai Airport operating near full capacity despite regional conflict",
       "summary": "Dubai Airport operating near full capacity despite regional conflict",
       "urgency": "info",
@@ -38,7 +812,7 @@
       "link": "https://gulfnews.com/business/aviation/dubai-airport-operating-near-full-capacity-despite-regional-conflict-1.500614416"
     },
     {
-      "id": "news-2",
+      "id": "news-45",
       "headline": "Police block thousands of 'cockroach' protesters marching on India's parliament",
       "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
       "urgency": "important",
@@ -56,25 +830,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-3",
-      "headline": "Iran is fighting ‘full-scale war’ with US, Pezeshkian says – Middle East crisis live - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUN",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T16:26:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUNDemZRazNzOVF4V011ZWNXUUQ3Zw?oc=5"
-    },
-    {
-      "id": "news-4",
+      "id": "news-46",
       "headline": "'Cherry-picking numbers': Trump admin slams report claiming Pentagon withheld data on troop injuries in Iran war",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132519356.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -92,7 +848,25 @@
       "link": "https://timesofindia.indiatimes.com/world/us/cherry-picking-numbers-trump-admin-slams-report-claiming-pentagon-withheld-data-on-troop-injuries-in-iran-war/articleshow/132519356.cms"
     },
     {
-      "id": "news-5",
+      "id": "news-47",
+      "headline": "Iran says diplomatic efforts ongoing via mediators amid fighting with US - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVU9nQmJzX3FkYmpzNGh4d0Y5MUZ5eXZGbHU3OXhqTmpFZDNRS2pRQ3RwNlhIWGVIVVN4LVU4SzhOOVN6OGtYQ3lxSm5jY1A2dTVYVlF1R2c4ZE9LNERxYng2MHBpQURidkpTa0x5NjlSRnlPeW9YdTRXa1B5RlUzdHY2Q09Kd20xRGhsOG1rbFpGVVJ3Zy1La3F2ZGF2RjJhLTlfMTVUTVNTeGwwcjEwM2JHQdIBuAF",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T16:22:06.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVU9nQmJzX3FkYmpzNGh4d0Y5MUZ5eXZGbHU3OXhqTmpFZDNRS2pRQ3RwNlhIWGVIVVN4LVU4SzhOOVN6OGtYQ3lxSm5jY1A2dTVYVlF1R2c4ZE9LNERxYng2MHBpQURidkpTa0x5NjlSRnlPeW9YdTRXa1B5RlUzdHY2Q09Kd20xRGhsOG1rbFpGVVJ3Zy1La3F2ZGF2RjJhLTlfMTVUTVNTeGwwcjEwM2JHQdIBuAFBVV95cUxOZmVFM0piNlJoaGxybzhyVmdiMnVWWVpoQ1lyal93RTFQUlpUMEFaT0Z2T2hmX3RsdVpYRzBPNno0NWtxM0RrMUtzXzhFV3hjd0F1YWlMU2I4Nno4NVJkdEVUTjFLZzhFeWotcVdieWU4WjY4WU1ORWd6VzNCaHlHVURvYjBGS0JaUklXUW5kVkd3bkNPRzBNQ21FSEd2a0pweGJLSW9ERENyTHlTd1RMbE9TY01tOXgx?oc=5"
+    },
+    {
+      "id": "news-48",
       "headline": "Hajj Ministry Launches Multiple-Entry Umrah Visa Valid for One Year - وكالة الأنباء السعودية",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pZzRmLWlKRF9SZVU0aEl4bEZta2t3MDc0UGJMR2hTOFhJRi1ET0dIOGFRSS1fU0RnenVuWWgtU244QnZVRm9xT2hB?oc=5\" target=\"_blank\"&gt;Hajj Ministry Launches Multiple-Entry Umrah Visa Valid for One Year&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"",
       "urgency": "info",
@@ -110,7 +884,7 @@
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pZzRmLWlKRF9SZVU0aEl4bEZta2t3MDc0UGJMR2hTOFhJRi1ET0dIOGFRSS1fU0RnenVuWWgtU244QnZVRm9xT2hB?oc=5"
     },
     {
-      "id": "news-6",
+      "id": "news-49",
       "headline": "World champions Spain return home to heroes’ welcome",
       "summary": "World champions Spain return home to heroes’ welcome",
       "urgency": "info",
@@ -128,7 +902,7 @@
       "link": "https://gulfnews.com/sport/football/world-cup/world-champions-spain-return-home-to-heroes-welcome-1.500614445"
     },
     {
-      "id": "news-7",
+      "id": "news-50",
       "headline": "At least 25 killed as floods and landslides hit northern India",
       "summary": "Monsoon rains devastate communities, with rescue and relief operations intensifying and the death toll rising.",
       "urgency": "breaking",
@@ -146,7 +920,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/20/at-least-25-killed-as-floods-and-landslides-hit-northern-india?traffic_source=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-51",
       "headline": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
       "summary": "France’s Foreign Minister Jean-Noël Barrot on Monday said two French embassy officials had been subject to an “extremely serious act of intimidation” by Iranian security services in Iran the day before, having been held and interrogated for hours. One of them was also subjected to physical abuse, he",
       "urgency": "info",
@@ -164,7 +938,7 @@
       "link": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says"
     },
     {
-      "id": "news-9",
+      "id": "news-52",
       "headline": "Lebanon’s military starts ‘pilot zone’ takeover in south",
       "summary": "Implementation of the trilateral framework agreement between Israel, Lebanon and the US is to start in three villages.",
       "urgency": "info",
@@ -182,7 +956,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-53",
       "headline": "Houthis in Yemen Declare Red Sea Blockade on Saudi Arabia",
       "summary": "The Iran-backed Houthi militia, which controls parts of Yemen, has in the past blockaded the Red Sea by threatening a choke point crucial to Saudi oil exports and global shipping.",
       "urgency": "info",
@@ -200,43 +974,7 @@
       "link": "https://www.nytimes.com/2026/07/20/world/middleeast/yemen-houthis-saudi-arabia-red-sea-blockade.html"
     },
     {
-      "id": "news-11",
-      "headline": "Hamas Names Khalil al-Hayya as Its New Leader",
-      "summary": "Seen as closer to Iran, Khalil al-Hayya served as the Palestinian militant group’s chief negotiator with Israel and the Trump administration during the Gaza war.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T16:12:52.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html"
-    },
-    {
-      "id": "news-12",
-      "headline": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "summary": "An Iranian army spokesman asserts the war will continue until deterrence against further attacks has been achieved.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T16:12:07.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss"
-    },
-    {
-      "id": "news-13",
+      "id": "news-54",
       "headline": "Four Indian sailors killed as ship hit near Odesa",
       "summary": "Four Indians killed, one critically injured in attack on cargo vessel off Odesa port in Ukraine: MEA",
       "urgency": "breaking",
@@ -254,7 +992,7 @@
       "link": "https://gulfnews.com/world/asia/india/four-indian-sailors-killed-as-ship-hit-near-odesa-1.500614427"
     },
     {
-      "id": "news-14",
+      "id": "news-55",
       "headline": "Spain go back to the top of FIFA rankings, Morocco reach record high",
       "summary": "Norway saw the biggest jump in their rankings, climbing 12 spots to 19th after reaching the World Cup quarterfinals.",
       "urgency": "info",
@@ -272,25 +1010,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/20/spain-go-back-to-the-top-of-fifa-rankings-morocco-reach-a-record-high?traffic_source=rss"
     },
     {
-      "id": "news-15",
-      "headline": "Here’s the latest.",
-      "summary": "Here’s the latest.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T16:10:51.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/heres-the-latest"
-    },
-    {
-      "id": "news-16",
+      "id": "news-56",
       "headline": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
       "urgency": "breaking",
@@ -308,7 +1028,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-17",
+      "id": "news-57",
       "headline": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
       "summary": "Kevin Keegan, the iconic striker for Liverpool, Newcastle and England, was diagnosed with stage four cancer last year.",
       "urgency": "breaking",
@@ -326,7 +1046,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss"
     },
     {
-      "id": "news-18",
+      "id": "news-58",
       "headline": "Andy Burnham: ‘King of the North’ in No 10 Downing Street",
       "summary": "Andy Burnham: ‘King of the North’ in No 10 Downing Street",
       "urgency": "info",
@@ -344,7 +1064,7 @@
       "link": "https://gulfnews.com/world/europe/andy-burnham-king-of-the-north-in-no-10-downing-street-1.500614437"
     },
     {
-      "id": "news-19",
+      "id": "news-59",
       "headline": "Wife’s right to dower remains protected if marriage dissolved due to husband’s misconduct: LHC",
       "summary": "&lt;p&gt;LAHORE: The Lahore High Court (LHC) has ruled that a wife’s right to her dower (&lt;em&gt;Haq Mehr&lt;/em&gt;) remains protected if a marriage is dissolved due to the husband’s cruelty or misconduct, even if the family court formally terms the decree as “&lt;em&gt;Khula&lt;/em&gt;”.&lt;/p&g",
       "urgency": "breaking",
@@ -362,7 +1082,7 @@
       "link": "https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-dissolved-due-to-husbands-misconduct-lhc"
     },
     {
-      "id": "news-20",
+      "id": "news-60",
       "headline": "Andy Burnham becomes UK’s seventh prime minister in a decade",
       "summary": "Andy Burnham becomes UK’s seventh prime minister in a decade",
       "urgency": "info",
@@ -380,25 +1100,7 @@
       "link": "https://gulfnews.com/world/europe/andy-burnham-becomes-uks-seventh-prime-minister-in-a-decade-1.500614432"
     },
     {
-      "id": "news-21",
-      "headline": "Iran’s Interior Minister Eskandar Momeni arrives in Pakistan",
-      "summary": "&lt;p&gt;Iran’s Interior Minister Eskandar Momeni on Monday night arrived in Islamabad on an official visit.&lt;/p&gt;\n&lt;p&gt;Upon his arrival in Pakistan, the senior Iranian official was received by Interior Minister Mohsin Naqvi.&lt;/p&gt;\n&lt;p&gt;During his visit, Momeni will meet Prime Minist",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T16:04:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2017051/irans-interior-minister-eskandar-momeni-arrives-in-pakistan"
-    },
-    {
-      "id": "news-22",
+      "id": "news-61",
       "headline": "China, immigration, drugs: Behind US policy in Latin America",
       "summary": "Latin America analyst Brian Winter argues that Trump sees Venezuela as a foreign policy success… and Cuba may be next.",
       "urgency": "info",
@@ -416,7 +1118,7 @@
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/20/china-immigration-drugs-behind-us-policy-in-latin-america?traffic_source=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-62",
       "headline": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds",
       "summary": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;Research spanning 82 countries finds antibiotic resistance increased in every region between 2004 and 2022&lt;/p&gt;&lt;p&gt;Harry Booth has had a rough run through Australia’s coldest months. The 13-year-old has been in and out of hospital with a ran",
       "urgency": "info",
@@ -434,7 +1136,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds"
     },
     {
-      "id": "news-24",
+      "id": "news-63",
       "headline": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
       "summary": "Hamas has announced the election of Khalil al-Hayya as the new head of its political bureau.",
       "urgency": "important",
@@ -452,7 +1154,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/who-is-khalil-al-hayya-hamass-newly-elected-political-chief?traffic_source=rss"
     },
     {
-      "id": "news-25",
+      "id": "news-64",
       "headline": "Father saved for years so that I could study in America but...: Woman's 'American Dream' turns into 'Make in India'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132519261.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -470,25 +1172,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/father-saved-for-years-so-that-i-could-study-in-america-but-womans-american-dream-turns-into-make-in-india/articleshow/132519261.cms"
     },
     {
-      "id": "news-26",
-      "headline": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
-      "summary": "Thousands of mostly young people have been demonstrating against failings in the education system, including the scrapping of a college entrance test after questions were leaked.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T15:56:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html"
-    },
-    {
-      "id": "news-27",
+      "id": "news-65",
       "headline": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
       "summary": "&lt;p&gt;Officials say smoke from US fires has crossed border days after US president accused Canada of improper fire management&lt;/p&gt;&lt;p&gt;After days of acrid smoke from northern wildfires choking major US cities and inspiring Donald Trump to threaten Canada with tariffs, officials now say t",
       "urgency": "breaking",
@@ -506,7 +1190,7 @@
       "link": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs"
     },
     {
-      "id": "news-28",
+      "id": "news-66",
       "headline": "West Africa signs off $25bn mega gas-pipeline plan",
       "summary": "A 6,000km pipeline running along the Atlantic coast of 14 countries is to be built starting in 2028.",
       "urgency": "info",
@@ -524,7 +1208,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyr5rpglngo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-29",
+      "id": "news-67",
       "headline": "A U.K. prime minister takes charge promising to empower local officials",
       "summary": "Andy Burnham, until recently the mayor of Greater Manchester, promised to create a “circuit breaker” moment in the cycle of failure and cynicism that have plagued British politics for the past decade.",
       "urgency": "info",
@@ -542,7 +1226,7 @@
       "link": "https://www.washingtonpost.com/world/2026/07/20/andy-burnham-take-charge-uk-prime-minister-replacing-keir-starmer/"
     },
     {
-      "id": "news-30",
+      "id": "news-68",
       "headline": "'That is our challenge: to make politics work': Andy Burnham becomes UK PM",
       "summary": "Andy Burnham has become Britain's new prime minister. The nomination process unfolded on July 20th in London, with one outgoing Labour leader passing the baton to another. The hope is that Burnham will ease the leadership turnover, stabilising the country.",
       "urgency": "info",
@@ -560,7 +1244,7 @@
       "link": "https://www.france24.com/en/that-is-our-challenge-to-make-politics-work-andy-burnham-becomes-uk-pm"
     },
     {
-      "id": "news-31",
+      "id": "news-69",
       "headline": "US attacks deepen hardship, not dissent, in Iran's south",
       "summary": "&lt;p&gt;Opposition to Iran’s government has long simmered in the country’s impoverished south. But after bearing the brunt of US strikes this month, many residents are directing their anger at President Donald Trump ​and an air campaign they say has upended their lives.&lt;/p&gt;\n&lt;p&gt;Southern ",
       "urgency": "breaking",
@@ -578,10 +1262,10 @@
       "link": "https://www.dawn.com/news/2017049/us-attacks-deepen-hardship-not-dissent-in-irans-south"
     },
     {
-      "id": "news-32",
-      "headline": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlh3ZU9GWnhJaEdmckppM1pfcnBHTktKUGo4UTBJdXFxSDVZbkpjalRwZkYwdzRoRkpkM010WGlVbS1BaHlJYWZ2aXBrRG8tQTFieUpteEJ6eEFLZnhZUEFxaUh6dGM2UU1GQmxGeEs4Y0pEQ2JDS2I1VXU5eG5mNmNrc1RWdTNYYXczYk5FQldkMnY0WTR0bmhyR09JUmpIS1ZwUGlRb1dzc2vSAbABQVVfeXFMT0R",
-      "urgency": "info",
+      "id": "news-70",
+      "headline": "Yemen's Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - ABC News - Breaking News, Latest News and Videos",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnJSbldfQVlZN29WaHdaSkl1VnJTLWRfazR1WENzNy1OYXdieVJhX3gwUl9vVWw4TkoyN2Q5MEVNYWZnZkJJMm51QUloMTFSN2NMWEtaRE9vdXhobjI3OG9zalBEUjJzcEhvVDRSSEtfb2dlSkFHRVc0NTUtNjRlYzdKbVQzNjNLVnFYX1ZmdGozYmRKM3BuRzJCVTBTVmhldURiRzRlb2x2OWvSAbABQVVfeXFMTlB",
+      "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
@@ -591,12 +1275,30 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-20T15:41:38.000Z",
+      "timestamp": "2026-07-20T15:45:13.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlh3ZU9GWnhJaEdmckppM1pfcnBHTktKUGo4UTBJdXFxSDVZbkpjalRwZkYwdzRoRkpkM010WGlVbS1BaHlJYWZ2aXBrRG8tQTFieUpteEJ6eEFLZnhZUEFxaUh6dGM2UU1GQmxGeEs4Y0pEQ2JDS2I1VXU5eG5mNmNrc1RWdTNYYXczYk5FQldkMnY0WTR0bmhyR09JUmpIS1ZwUGlRb1dzc2vSAbABQVVfeXFMT0REVGlRRTlTemlnVGNSLURmekY3ekg1M3I4RTRRU1h2bnRibG9yUUZ3dURBLWFQQ0MtSzJSYzB6TFBHYTFKMXQ3NVJLR1IzaEhrdTNQUkVjZkdYWlNfT1BITnJqUGtReTd4V21lREhUZTEyYzFRSUtwZEZUVERFVEo4QkExRkJMVURySzg3cXhzVEtpVFpCZ01HaTBGNXlTNjRrbE0tODdZcWRFZE9xX2M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnJSbldfQVlZN29WaHdaSkl1VnJTLWRfazR1WENzNy1OYXdieVJhX3gwUl9vVWw4TkoyN2Q5MEVNYWZnZkJJMm51QUloMTFSN2NMWEtaRE9vdXhobjI3OG9zalBEUjJzcEhvVDRSSEtfb2dlSkFHRVc0NTUtNjRlYzdKbVQzNjNLVnFYX1ZmdGozYmRKM3BuRzJCVTBTVmhldURiRzRlb2x2OWvSAbABQVVfeXFMTlBxc1JqeEFiWmxFbGQ0OFF3VTZmR05tdDNtcDFmeWVzZDU5bWNIZHAyLWdJNUwyQmE1TS1yQ3FQTzFCbFE4R0U0Y0JmeU5mdk9PMGRwVExnS2J3dE1MbDdJbFBKWkttbHVKRnlqTW1Hc25QTTNndW1qbC1WMXF6X0IxRmVkLVFMcTVhTGRuX3dVUTRjT2VGTTVkZjlEdGlEY1d0TEhXSm1iNFFuTUpISWs?oc=5"
     },
     {
-      "id": "news-33",
+      "id": "news-71",
+      "headline": "'This Must End': Lawmakers Demand Termination of Iran War After Three U.S. Service Members Killed - Time Magazine",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3YyakowakhTWFl2Ym8tUTZaS2dXdy04Q0FSdlhFWjc4dWF2RkFGaUFCVFVMMnFGMXd5ZzJHc1l4dXBYc1JZYWI2LXFjdkg1eE5iV3o0NHN6Mmc1a1dUNERESElpUHhBc0JTZXR4TlRUbVZLVThYX29FZnk1c2xvNXhkSy1kVVFmTDVnUE5JQ1BLUmQ5RXo3ZnBEZUpUcHRwWWJ3a19ISFk?oc=5\" target=\"_blan",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T15:43:14.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3YyakowakhTWFl2Ym8tUTZaS2dXdy04Q0FSdlhFWjc4dWF2RkFGaUFCVFVMMnFGMXd5ZzJHc1l4dXBYc1JZYWI2LXFjdkg1eE5iV3o0NHN6Mmc1a1dUNERESElpUHhBc0JTZXR4TlRUbVZLVThYX29FZnk1c2xvNXhkSy1kVVFmTDVnUE5JQ1BLUmQ5RXo3ZnBEZUpUcHRwWWJ3a19ISFk?oc=5"
+    },
+    {
+      "id": "news-72",
       "headline": "Andy Burnham: Who is the new UK prime minister?",
       "summary": "🇬🇧 Andy Burnham succeeds Keir #Starmer as UK Prime Minister. The former #Manchester mayor has pledged to tackle the cost of living, expand devolution and reform the social care system.",
       "urgency": "info",
@@ -614,7 +1316,7 @@
       "link": "https://www.france24.com/en/andy-burnham-who-is-the-new-uk-prime-minister"
     },
     {
-      "id": "news-34",
+      "id": "news-73",
       "headline": "US jails Mexican drug kingpin ‘El Mayo’ for life",
       "summary": "Mexican drug kingpin Ismael “El Mayo” Zambada was sentenced on Monday to life in prison in the US, after a plea ‌deal last year in which he admitted to shipping millions of kilograms of cocaine over decades as leader of the violent Sinaloa Cartel.\nUS District Judge Brian Cogan handed down the senten",
       "urgency": "info",
@@ -632,7 +1334,25 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3361256/us-jails-mexican-drug-kingpin-el-mayo-life?utm_source=rss_feed"
     },
     {
-      "id": "news-35",
+      "id": "news-74",
+      "headline": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlh3ZU9GWnhJaEdmckppM1pfcnBHTktKUGo4UTBJdXFxSDVZbkpjalRwZkYwdzRoRkpkM010WGlVbS1BaHlJYWZ2aXBrRG8tQTFieUpteEJ6eEFLZnhZUEFxaUh6dGM2UU1GQmxGeEs4Y0pEQ2JDS2I1VXU5eG5mNmNrc1RWdTNYYXczYk5FQldkMnY0WTR0bmhyR09JUmpIS1ZwUGlRb1dzc2vSAbABQVVfeXFMT0R",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-20T15:40:27.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlh3ZU9GWnhJaEdmckppM1pfcnBHTktKUGo4UTBJdXFxSDVZbkpjalRwZkYwdzRoRkpkM010WGlVbS1BaHlJYWZ2aXBrRG8tQTFieUpteEJ6eEFLZnhZUEFxaUh6dGM2UU1GQmxGeEs4Y0pEQ2JDS2I1VXU5eG5mNmNrc1RWdTNYYXczYk5FQldkMnY0WTR0bmhyR09JUmpIS1ZwUGlRb1dzc2vSAbABQVVfeXFMT0REVGlRRTlTemlnVGNSLURmekY3ekg1M3I4RTRRU1h2bnRibG9yUUZ3dURBLWFQQ0MtSzJSYzB6TFBHYTFKMXQ3NVJLR1IzaEhrdTNQUkVjZkdYWlNfT1BITnJqUGtReTd4V21lREhUZTEyYzFRSUtwZEZUVERFVEo4QkExRkJMVURySzg3cXhzVEtpVFpCZ01HaTBGNXlTNjRrbE0tODdZcWRFZE9xX2M?oc=5"
+    },
+    {
+      "id": "news-75",
       "headline": "A human-bred aquarium fish prized for its bright colour has escaped into a Philippines crater lake",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132516374.cms\" /&gt;<![CDATA[Flowerhorn cichlids, bred by humans, have found their way into Lake Sampaloc, a crater lake in the Philippines. Their presence poses a sign",
       "urgency": "info",
@@ -650,25 +1370,7 @@
       "link": "https://timesofindia.indiatimes.com/science/a-human-bred-aquarium-fish-prized-for-its-bright-colour-and-head-hump-has-escaped-into-a-philippines-crater-lake-where-scientists-fear-it-may-threaten-native-biodiversity/articleshow/132516374.cms"
     },
     {
-      "id": "news-36",
-      "headline": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
-      "summary": "For many fans, the World Cup victory cemented a belief that something promising — a cultural, economic and sports revival — is happening in the country.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T15:38:54.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html"
-    },
-    {
-      "id": "news-37",
+      "id": "news-76",
       "headline": "Fears over Gulf shipping and water rise as US-Iran trade strikes",
       "summary": "The United States and Iran have continued to exchange fire on July 20th, raising fears for Gulf shipping and water supplies in the region. After Kuwait reported Iranian attacks on water and electricity plants as well as oil facilities over the weekend, Bahrain said Iran this Monday, July 20th attack",
       "urgency": "breaking",
@@ -686,7 +1388,7 @@
       "link": "https://www.france24.com/en/video/20260720-fears-over-gulf-shipping-and-water-rise-as-us-iran-trade-strikes"
     },
     {
-      "id": "news-38",
+      "id": "news-77",
       "headline": "In 1918, an empire collapsed and a 137-carat diamond vanished. More than a century later, its whereabouts may finally be known",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132518262.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -704,7 +1406,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1918-an-empire-collapsed-and-a-137-carat-diamond-vanished-more-than-a-century-later-its-whereabouts-may-finally-be-known/articleshow/132518262.cms"
     },
     {
-      "id": "news-39",
+      "id": "news-78",
       "headline": "Trump scores own-goal as World Cup overflows with politics",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132518683.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -722,7 +1424,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/trump-scores-own-goal-as-world-cup-overflows-with-politics/articleshow/132518683.cms"
     },
     {
-      "id": "news-40",
+      "id": "news-79",
       "headline": "Iran war: US conducts strikes for 9th night in a row - DW.com",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi0zUlByVmtyRkFtTHBDM1BhNUt0eGNPVG5ocG5nOHRPUFpWcmZzVGxEeFN5XzdkZTNRSkVvclBnam1LdjZkSTF1VG93Zl9XdDIwRDdlcmpzRC0yQk9KTk5zYVg2VFNlSUlxMUh6elZCU0twZnV3ZUFLMU1sUTdxeHJmMjdGREd0RHIzLVR4WnY?oc=5\" target=\"_blank\"&gt;Iran war: US conducts stri",
       "urgency": "breaking",
@@ -740,7 +1442,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi0zUlByVmtyRkFtTHBDM1BhNUt0eGNPVG5ocG5nOHRPUFpWcmZzVGxEeFN5XzdkZTNRSkVvclBnam1LdjZkSTF1VG93Zl9XdDIwRDdlcmpzRC0yQk9KTk5zYVg2VFNlSUlxMUh6elZCU0twZnV3ZUFLMU1sUTdxeHJmMjdGREd0RHIzLVR4WnY?oc=5"
     },
     {
-      "id": "news-41",
+      "id": "news-80",
       "headline": "Ebola death toll in DRC surges to at least 930 as outbreak continues spread",
       "summary": "Ebola spreading faster than any previous outbreak in DRC, with 37 new deaths recorded over just 24 hours at the weekend.",
       "urgency": "info",
@@ -758,7 +1460,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/20/ebola-death-toll-in-drc-surges-to-at-least-930-as-outbreak-gathers-pace?traffic_source=rss"
     },
     {
-      "id": "news-42",
+      "id": "news-81",
       "headline": "How wild snapdragons tune colors for bees",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132518533.cms\" /&gt;<![CDATA[Wild snapdragons showcase an impressive ability to adjust their petal colors with the help of seven genes, aimed at attracting bees. These ",
       "urgency": "info",
@@ -776,7 +1478,7 @@
       "link": "https://timesofindia.indiatimes.com/science/how-wild-snapdragons-fine-tune-their-shades-to-attract-bees-even-the-smallest-change-decide-which-genes-survive/articleshow/132518533.cms"
     },
     {
-      "id": "news-43",
+      "id": "news-82",
       "headline": "PML-N MPA seeks ban on appointment of dual nationals to government service",
       "summary": "&lt;p&gt;LAHORE: A resolution has been submitted to the Punjab Assembly seeking a ban on the appointment of dual nationals to government service, arguing that holding citizenship of another country raises concerns over allegiance and access to sensitive state information.&lt;/p&gt;\n&lt;p&gt;The reso",
       "urgency": "breaking",
@@ -794,7 +1496,7 @@
       "link": "https://www.dawn.com/news/2017045/pml-n-mpa-seeks-ban-on-appointment-of-dual-nationals-to-government-service"
     },
     {
-      "id": "news-44",
+      "id": "news-83",
       "headline": "Al Ansari Financial Services expands Western Union partnership across Bahrain and Kuwait",
       "summary": "Al Ansari Financial Services expands Western Union partnership across Bahrain and Kuwait",
       "urgency": "info",
@@ -812,7 +1514,7 @@
       "link": "https://gulfnews.com/business/corporate-news/al-ansari-financial-services-expands-western-union-partnership-across-bahrain-and-kuwait-1.500614391"
     },
     {
-      "id": "news-45",
+      "id": "news-84",
       "headline": "Andy Burnham becomes UK PM, says Britain needs to 'regain stability'",
       "summary": "&lt;p&gt;Britain’s King Charles III on Monday appointed Andy Burnham as prime minister after outgoing Keir Starmer officially tendered his resignation, the palace said.&lt;/p&gt;\n&lt;p&gt;“Andrew Burnham MP accepted The King’s offer and kissed hands upon his appointment as Prime Minister,” Buckingha",
       "urgency": "breaking",
@@ -830,7 +1532,7 @@
       "link": "https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability"
     },
     {
-      "id": "news-46",
+      "id": "news-85",
       "headline": "Houthis Declare Naval Blockade on Saudi Arabia: Bab al-Mandeb Shutdown Threatens 5 Million Barrels of Oil a Day - Defence Security Asia",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzR3X2xpOWNFanVPUkhLaWQ4d1BVU1BqbVdoSmZOZmlSV3UxdG5Ia0lLaUhpcmRwNExSZ3h2YjRyalJ2a0RjcEVpZUNVYzl1X05BQTljTllmVnpwU3YwQWhrNUg0T0szb0t0dnhJMGNJYklNengybkNGVzNENkxFSmhpcDk1b1hRTFVxLTY5Q0lQR05nR3ZrU090Yw?oc=5\" target=\"_blank\"&gt;Houthis Dec",
       "urgency": "info",
@@ -848,7 +1550,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzR3X2xpOWNFanVPUkhLaWQ4d1BVU1BqbVdoSmZOZmlSV3UxdG5Ia0lLaUhpcmRwNExSZ3h2YjRyalJ2a0RjcEVpZUNVYzl1X05BQTljTllmVnpwU3YwQWhrNUg0T0szb0t0dnhJMGNJYklNengybkNGVzNENkxFSmhpcDk1b1hRTFVxLTY5Q0lQR05nR3ZrU090Yw?oc=5"
     },
     {
-      "id": "news-47",
+      "id": "news-86",
       "headline": "Ukrainian drones strike Russian FSB coordination center in occupied Kherson Oblast, SBU says - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFd5ak9KX2w2NnVibnFOSHpjeGpidl9QcEZiLWE5My0xQU56R1gzMk5faE55Yk9WZi1BT2g0QlprQ0c3WU9Pb2hlY2hVdGs0RUZVZTlqM0ktZHVHMGhzYkNDcWxmdzZNMlB4S3hDb0xMRmZrVmp0aUN3LUpzbUhkeW9IZjJ1ZWl2eUZ6YXNqNmtNWTVFcjJLMGVhVzZyWWg0Z1g1RF95WGFfWURKQkJRUGNPeTNma3Y",
       "urgency": "breaking",
@@ -866,7 +1568,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFd5ak9KX2w2NnVibnFOSHpjeGpidl9QcEZiLWE5My0xQU56R1gzMk5faE55Yk9WZi1BT2g0QlprQ0c3WU9Pb2hlY2hVdGs0RUZVZTlqM0ktZHVHMGhzYkNDcWxmdzZNMlB4S3hDb0xMRmZrVmp0aUN3LUpzbUhkeW9IZjJ1ZWl2eUZ6YXNqNmtNWTVFcjJLMGVhVzZyWWg0Z1g1RF95WGFfWURKQkJRUGNPeTNma3Ytelk3MA?oc=5"
     },
     {
-      "id": "news-48",
+      "id": "news-87",
       "headline": "A 200% jump in response: Dubai Police’s AI platform is transforming protection",
       "summary": "A 200% jump in response: Dubai Police’s AI platform is transforming protection",
       "urgency": "info",
@@ -884,7 +1586,7 @@
       "link": "https://gulfnews.com/uae/government/a-200-jump-in-response-dubai-polices-ai-platform-is-transforming-protection-1.500614371"
     },
     {
-      "id": "news-49",
+      "id": "news-88",
       "headline": "Rafid call exposes stolen vehicle after crash in Sharjah",
       "summary": "Rafid call exposes stolen vehicle after crash in Sharjah",
       "urgency": "info",
@@ -902,7 +1604,7 @@
       "link": "https://gulfnews.com/uae/rafid-call-exposes-stolen-vehicle-after-crash-in-sharjah-1.500614321"
     },
     {
-      "id": "news-50",
+      "id": "news-89",
       "headline": "More than 190,000 Emiratis now employed by UAE private sector",
       "summary": "More than 190,000 Emiratis now employed by UAE private sector",
       "urgency": "info",
@@ -920,7 +1622,7 @@
       "link": "https://gulfnews.com/uae/more-than-190000-emiratis-now-employed-by-uae-private-sector-1.500614308"
     },
     {
-      "id": "news-51",
+      "id": "news-90",
       "headline": "Australian ski resorts smash July climate records with temperatures 12C above average",
       "summary": "&lt;p&gt;Resorts in NSW and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areas&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a hre",
       "urgency": "breaking",
@@ -938,7 +1640,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average"
     },
     {
-      "id": "news-52",
+      "id": "news-91",
       "headline": "Manufacturing union says Australia’s tax system is ‘rigged’ in bold manifesto ahead of Labor conference",
       "summary": "&lt;p&gt;AMWU calls for wealth and inheritance taxes, free education and more revenue from gas companies as it outlines ‘working-class agenda’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a",
       "urgency": "breaking",
@@ -956,7 +1658,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/21/manufacturing-union-says-australias-tax-system-is-rigged-in-bold-manifesto-ahead-of-labor-conference"
     },
     {
-      "id": "news-53",
+      "id": "news-92",
       "headline": "At-home STI test pulled from Australian shelves after failing to detect infections",
       "summary": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;TGA finds Touch Biotechnology test for chlamydia and gonorrhoea ‘is not reliable’ and has affected an unspecified number of people&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt",
       "urgency": "breaking",
@@ -974,7 +1676,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/21/tga-suspension-touch-biotechnology-home-sti-test"
     },
     {
-      "id": "news-54",
+      "id": "news-93",
       "headline": "Canada eyes new avenues for trade, economic cooperation with Pakistan as FM Anand visits Islamabad",
       "summary": "&lt;p&gt;Canada’s Foreign Minister Anita Anand on Monday expressed her country’s interest in exploring new avenues for trade and bilateral cooperation with Pakistan as she met with Prime Minister Shehbaz Sharif in Islamabad.&lt;/p&gt;\n&lt;p&gt;Anand is on a one-day official visit to Pakistan, during",
       "urgency": "breaking",
@@ -992,7 +1694,7 @@
       "link": "https://www.dawn.com/news/2017004/canada-eyes-new-avenues-for-trade-economic-cooperation-with-pakistan-as-fm-anand-visits-islamabad"
     },
     {
-      "id": "news-55",
+      "id": "news-94",
       "headline": "KP approaches FCC, challenges years-long extension of 7th NFC Award after Fata merger",
       "summary": "&lt;p&gt;ISLAMABAD: With a staggering Rs964 billion claim on the Federal Consolidated Fund (FCF), the Khyber Pakhtunkhwa government has filed a constitutional petition in the Federal Constitutional Court (FCC), challenging the continued extension of the 7th National Finance Commission (NFC) Award de",
       "urgency": "breaking",
@@ -1010,25 +1712,7 @@
       "link": "https://www.dawn.com/news/2017040/kp-approaches-fcc-challenges-years-long-extension-of-7th-nfc-award-after-fata-merger"
     },
     {
-      "id": "news-56",
-      "headline": "Iran says fighting 'full-scale war' with United States",
-      "summary": "&lt;p&gt;Iran is fighting a “full-scale war” with the United States, its president said on Monday, as Washington expanded its strikes across the Islamic republic including a city hosting a nuclear power plant.&lt;/p&gt;\n&lt;p&gt;Iran kept up its own attacks across the region in response, with its Re",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:59:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2016977/iran-says-fighting-full-scale-war-with-united-states"
-    },
-    {
-      "id": "news-57",
+      "id": "news-95",
       "headline": "Xi's US trip appears on track even as Trump's election interference claims inject fresh strain",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132518428.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -1046,7 +1730,7 @@
       "link": "https://timesofindia.indiatimes.com/world/china/xis-us-trip-appears-on-track-even-as-trumps-election-interference-claims-inject-fresh-strain/articleshow/132518428.cms"
     },
     {
-      "id": "news-58",
+      "id": "news-96",
       "headline": "Andy Burnham pledges end to political instability as he becomes UK PM",
       "summary": "Britain&#039;s seventh PM in a decade pledged major changes in bid to see off populist forces that are making large gains.",
       "urgency": "info",
@@ -1064,25 +1748,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss"
     },
     {
-      "id": "news-59",
-      "headline": "Saudi Arabia launches 90-day multiple entry Umrah visa with 1-year validity - Khaleej Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGpWM3J6V3RsRHFKMHNxWXVnY3F6elphOEFpVzhhWDNjbUw3U3d4RnBnVnRuQndzVEMzTVVkdFFzal90YzlMdV9DYkx1SmE5RHNJT0Nsdjc2MGxmZHNHTXdpTERoNnhhbXoxVl9hRVM3QWdYSjBST0kxUVNBNkRTeWpleTd6c2cwdFBMVGNfTmFtMjZlZ3dFTTJmZjIxUVE4eGpJTVNnNkhOTlVlYUthcXdCbWQxM1N",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Khaleej Times",
-          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
-          "url": "https://khaleejtimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:49:09.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGpWM3J6V3RsRHFKMHNxWXVnY3F6elphOEFpVzhhWDNjbUw3U3d4RnBnVnRuQndzVEMzTVVkdFFzal90YzlMdV9DYkx1SmE5RHNJT0Nsdjc2MGxmZHNHTXdpTERoNnhhbXoxVl9hRVM3QWdYSjBST0kxUVNBNkRTeWpleTd6c2cwdFBMVGNfTmFtMjZlZ3dFTTJmZjIxUVE4eGpJTVNnNkhOTlVlYUthcXdCbWQxM1Ns0gHAAUFVX3lxTE1xZDgzeEJOWDZROWFyTTBwTVB3ZEhVUW1waHZUZmNZYjl6ODV2MExBclJMbmVpZFpuX21CeFFHVGF4bkVFVlpEYVFXQlZIM1JidVFLYlJweVRhX0xtSWRnQlF5bnFQRTZOaHpJOU4wTFVvWm9lSEt1VThFa1NaQXl3eDJOV0hIRlFGYnVjbGtYbGxVUHdGTzVSSHpjTXZlbEk1d2ZtOS0tbExaanRFTTlxZmNDUmcwd25nX0RDMkRWSw?oc=5"
-    },
-    {
-      "id": "news-60",
+      "id": "news-97",
       "headline": "Expanded 2026 North American World Cup: Spain's 'diligent' performance to Messi's enduring legacy",
       "summary": "Eve Irvine is pleased to welcome Robbie Knock, Lead Commentator and sports journalist. The 2026 FIFA World Cup will be remembered not only for Spain's triumph on the pitch but also for the way football became enmeshed in politics, entertainment, institutional scrutiny, and the closing chapter of one",
       "urgency": "info",
@@ -1100,43 +1766,7 @@
       "link": "https://www.france24.com/en/expanded-2026-north-american-world-cup-spain-s-diligent-performance-to-messi-s-enduring-legacy"
     },
     {
-      "id": "news-61",
-      "headline": "What are ‘civilian’ sites in international law and where have US, Iran hit? - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDd3cGpLc0JGVHNQSURkTTF2TTBfbDI3dXhQRDZNa1JPb0NzNUxtUkNsaUFuN1VPd1JWSkpSdU5QVXJqTThIaV9yX2pVZDByakE5bEtPa3RkQWFWdnI0QWhEX2dpUXEtZHR1c1loUGhnR2M2NTdaMURNOVpPOUFlZDBYakEzRzNhek1URzZYWlUwaHRRVTYwLTNmMHRuT0kyVUwwVENPQVVPaUQ0SkgzVjNB0gG3AUF",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:40:05.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDd3cGpLc0JGVHNQSURkTTF2TTBfbDI3dXhQRDZNa1JPb0NzNUxtUkNsaUFuN1VPd1JWSkpSdU5QVXJqTThIaV9yX2pVZDByakE5bEtPa3RkQWFWdnI0QWhEX2dpUXEtZHR1c1loUGhnR2M2NTdaMURNOVpPOUFlZDBYakEzRzNhek1URzZYWlUwaHRRVTYwLTNmMHRuT0kyVUwwVENPQVVPaUQ0SkgzVjNB0gG3AUFVX3lxTFBHSmpQWEktVFk2NFExejVyTXZCNlRVOWtnZ08wWHluZVNRb0gxengxeXBMNDZzOFVYaEtZRm1MUWRLOUJZdXRnMm44RkNSZDNfUUFRU1h3eEVnSXhJdVlhR1ZON2tpWXBYUGx0ZmlDMWxDSXp6RW9xUzhNZUtsdlBfSDdZcDgteFJueWVZZlQwQVY2b1RxR3dIdFlsVjBnc2ZYcjZVS2RoVDUzLTVRd3htZk5XWjBXWQ?oc=5"
-    },
-    {
-      "id": "news-62",
-      "headline": "Another U.S. Service Member Is Killed as Iran War Expands",
-      "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:39:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
-    },
-    {
-      "id": "news-63",
+      "id": "news-98",
       "headline": "Newcastle, Liverpool and England legend Keegan dies",
       "summary": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer.",
       "urgency": "info",
@@ -1154,652 +1784,22 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-64",
-      "headline": "A floating 'igloo' research station has left France for Arctic, where it will drift with polar ice",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132515527.cms\" /&gt;<![CDATA[A floating research station shaped like a giant aluminium igloo has left France on a two-year Arctic mission to study biodiversity and the ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:37:06.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-floating-igloo-research-station-has-left-france-for-the-arctic-where-it-will-drift-with-polar-ice-to-study-climate-change-and-life-in-one-of-earths-harshest-environments/articleshow/132515527.cms"
-    },
-    {
-      "id": "news-65",
-      "headline": "What we know about US soldiers killed in Iran war, and Iranian casualties",
-      "summary": "Trump has expressed sadness and vowed to hit Iran &#039;very hard&#039; to honour killed US soldiers.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:34:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss"
-    },
-    {
-      "id": "news-66",
-      "headline": "After years of living in a trailer, a couple self-built their 3,600-square-foot home for $410K",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132514450.cms\" /&gt;<![CDATA[Allison Brown and her husband spent six years living in a 1,500-square-foot trailer in South Dakota to keep their housing costs low and sav",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:34:42.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/real-estate/after-years-of-living-in-a-trailer-a-couple-self-built-their-3600-square-foot-dream-home-for-410k-saving-up-to-350k-after-contractors-quoted-as-much-as-800k/articleshow/132514450.cms"
-    },
-    {
-      "id": "news-67",
-      "headline": "Archaeologists uncover 7,000-year-old fish traps that rewrite the story of life before farming in Scandinavia",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132518057.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:33:32.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/archaeologists-uncover-7000-year-old-fish-traps-that-rewrite-the-story-of-life-before-farming-in-scandinavia/articleshow/132518057.cms"
-    },
-    {
-      "id": "news-68",
-      "headline": "Ukraine fires 400 missiles at Moscow after deadly Russian attacks",
-      "summary": "Ukraine fired more than 400 drones toward Moscow in its latest major attack on the Russian capital on July 20. The blitz came hours after Russia bombarded Kyiv and other Ukrainian cities with ballistic missiles in a relentless cycle of tit-for-tat strikes.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:31:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/ukraine-fires-400-missiles-on-moscow-after-deadly-russian-attacks"
-    },
-    {
-      "id": "news-69",
-      "headline": "Burnham Advocates Closer EU Relationship: Big Gains Will Only Come from Rejoining the Single Market",
-      "summary": "Annette Young is pleased to welcome Tim Bale, a Professor of Politics at Queen Mary University in London. Andy Burnham inherits the Labour leadership at a moment when Britain's political debate is defined less by ideology than by structural constraints. Professor Bale argues that Burnham's success w",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:31:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/burnham-advocates-closer-eu-relationship-big-gains-will-only-come-from-rejoining-the-single-market"
-    },
-    {
-      "id": "news-70",
-      "headline": "Nepal's Re 1 coin gets a makeover: Controversial Kalapani-Lipulekh-Limpiyadhura map removed",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132517585.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:26:46.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/south-asia/nepals-re-1-coin-gets-a-makeover-controversial-kalapani-lipulekh-limpiyadhura-map-removed/articleshow/132517585.cms"
-    },
-    {
-      "id": "news-71",
-      "headline": "Hundreds protest in Delhi demanding statehood for occupied Kashmir",
-      "summary": "&lt;p&gt;Hundreds of people led by the chief minister of India-occupied Kashmir (IoK) shouted slogans and staged a protest in the capital Delhi on Monday, demanding statehood for the region, seven years after it &lt;a href=\"https://www.dawn.com/news/1514652\"&gt;revoked&lt;/a&gt; the disputed region’",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:24:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2017041/hundreds-protest-in-delhi-demanding-statehood-for-occupied-kashmir"
-    },
-    {
-      "id": "news-72",
-      "headline": "Houthis announce naval blockade on Saudi Arabia amid rising Red Sea tensions - AnewZ",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDByZXFyTWo3SXdsWWdiOEg1X0FCbmtLQzVJdlJFX2Q0cDExSUZSZXhDOXpnNk1YTHBEZTZ6Q1B3SEVhTHh4TDBCalJLU0Jkd3JnallLM2V6Z2VrTVF6VFpISXZCTHJhS2xZRWxTMHpTd1lKUEktUHVwNXpZTDdTTFc4SlFqR2VkQUE?oc=5\" target=\"_blank\"&gt;Houthis announce naval blockade on",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:24:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDByZXFyTWo3SXdsWWdiOEg1X0FCbmtLQzVJdlJFX2Q0cDExSUZSZXhDOXpnNk1YTHBEZTZ6Q1B3SEVhTHh4TDBCalJLU0Jkd3JnallLM2V6Z2VrTVF6VFpISXZCTHJhS2xZRWxTMHpTd1lKUEktUHVwNXpZTDdTTFc4SlFqR2VkQUE?oc=5"
-    },
-    {
-      "id": "news-73",
-      "headline": "California city manager arrested over alleged yacht burglary weeks after taking office",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132517503.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:22:08.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/california-city-manager-arrested-over-alleged-yacht-burglary-weeks-after-taking-office/articleshow/132517503.cms"
-    },
-    {
-      "id": "news-74",
-      "headline": "Iran war live: Yemen’s Houthis announce maritime blockade of Saudi Arabia - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHF3aV9CSGJTNDE1X1NWeUNnbkxKa2lmQnQ5LUtBTHF1QUJFUVUzb3QycktuMms1Y2dvczR2MENLeDhwU19SVXZFaGY1bDNNUENZd01nQnloVkFCanVSLXZ1MUs4NzdUdHlFdG9YNEFhWHVRLVdTcWl2WHpFRkZSYy1rZTI1QzhhZms5Y29tRWFZU0dMQnRDdUs1el9TQlFkV2NVOUFLSmQ2TS1wRHMtZUhoalkzWHV",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:21:40.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHF3aV9CSGJTNDE1X1NWeUNnbkxKa2lmQnQ5LUtBTHF1QUJFUVUzb3QycktuMms1Y2dvczR2MENLeDhwU19SVXZFaGY1bDNNUENZd01nQnloVkFCanVSLXZ1MUs4NzdUdHlFdG9YNEFhWHVRLVdTcWl2WHpFRkZSYy1rZTI1QzhhZms5Y29tRWFZU0dMQnRDdUs1el9TQlFkV2NVOUFLSmQ2TS1wRHMtZUhoalkzWHVrSXJJ0gHAAUFVX3lxTFAwX2wtLVpHZ1kwZ2VGTWYzbTdWSGtxZzViQUhrc2t0QUNySWVYaC1DQWJxNzRwWGh2b1c3VDB4T1ZCTXYtWjZ4dWJGcWE5YVc3U1NuUnBNbW1CLXJ2LU9fTkVDVmJEZzVIRWRXYllhMmFmMVRvdWlaRUVOY0RmMWE2dU1OUlJKRm1UZUJ3ZElGdVA4cHljNWlXRHNoUUs0TWNpelNpYm1BU0Z5dUN6SjVOS1RYenh0bUVNdWswRFJPWA?oc=5"
-    },
-    {
-      "id": "news-75",
-      "headline": "Scientists marked this coral reef as dead in the 1960s; underwater drones found it alive...",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132516959.cms\" /&gt;<![CDATA[After being presumed extinct for sixty years, a remarkable coral reef off West Africa has been rediscovered, thriving with an array of fish",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:19:04.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/science/scientists-marked-this-west-african-coral-reef-as-probably-dead-in-the-1960s-underwater-drones-found-it-alive-more-than-50-metres-below-the-sea/articleshow/132516959.cms"
-    },
-    {
-      "id": "news-76",
-      "headline": "Yemen's Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - CP24",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGdKS0ZaY0kxaXFBeElybUJnaXpvSl9TU2JzU1pCeFN4aGFpbnVCN2lwazR2OUdSOW1RQWs0ekctbmFsdWZRVlZfTV9fYUltZ1l5MmJMZEJCTWppQUd4Y0k4VzBJQ0E2emx5V09EY194M2dUb0R1bzh4a3hGdDR0Wk1BSnJhNVpLQ0NOLVlBbGw0ODFXcEFDNnI2UHJ0OWllY1ZxMmM1TDFGNGh6bGVfNzZnU3RUZUV",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:17:15.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGdKS0ZaY0kxaXFBeElybUJnaXpvSl9TU2JzU1pCeFN4aGFpbnVCN2lwazR2OUdSOW1RQWs0ekctbmFsdWZRVlZfTV9fYUltZ1l5MmJMZEJCTWppQUd4Y0k4VzBJQ0E2emx5V09EY194M2dUb0R1bzh4a3hGdDR0Wk1BSnJhNVpLQ0NOLVlBbGw0ODFXcEFDNnI2UHJ0OWllY1ZxMmM1TDFGNGh6bGVfNzZnU3RUZUVteGhDT1B6eDAwcEV5ZUE?oc=5"
-    },
-    {
-      "id": "news-77",
-      "headline": "Residents evacuated as the south of France burns",
-      "summary": "Fast-moving wildfires in the southern French region of the Var have pushed many people from their homes. Over 600 firefighters have been used to try contain the blaze. It comes as temperatures surge past 40 degrees celsius, with an orange heatwave alert issued for Monday, July 20th.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:14:11.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260720-residents-evacuated-as-the-south-of-france-burns"
-    },
-    {
-      "id": "news-78",
-      "headline": "DSP Mohammed Siraj meets Telangana&apos;s top cop",
-      "summary": "DSP Mohammed Siraj meets Telangana&apos;s top cop",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:09:19.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/cricket/dsp-mohammed-siraj-meets-telanganas-top-cop-1.500614305"
-    },
-    {
-      "id": "news-79",
-      "headline": "UAE strongly condemns renewed Iranian hostile attacks on Bahrain and Kuwait",
-      "summary": "UAE strongly condemns renewed Iranian hostile attacks on Bahrain and Kuwait",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:09:02.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/government/uae-strongly-condemns-renewed-iranian-hostile-attacks-on-bahrain-and-kuwait-1.500614300"
-    },
-    {
-      "id": "news-80",
-      "headline": "How a Houthi blockade in the Red Sea tightens Iran's grip on global energy supplies - The Economic Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbjZ2YXdwUk9VUGJUdUJCejViT1ZIaEo0R0hCbVB3M2t3RG5peXRDdVZleEdKMTJZaGlXTmJWM1hHWXpDWXIxTFJib1N4MVZiOEZXQzVyMWt2SnU5c0pxYTVzUGRwWG1TOU00bkhWVEdPLVdOS3FQVjk4OUpKNnM3NzFrcktIUDNqZnpsaHhRTlVMdUpRQkdBcGp3SGRnZUVKU2wtampOTG5hSVJ2TVk5dXNhRnVrM09",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:05:41.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbjZ2YXdwUk9VUGJUdUJCejViT1ZIaEo0R0hCbVB3M2t3RG5peXRDdVZleEdKMTJZaGlXTmJWM1hHWXpDWXIxTFJib1N4MVZiOEZXQzVyMWt2SnU5c0pxYTVzUGRwWG1TOU00bkhWVEdPLVdOS3FQVjk4OUpKNnM3NzFrcktIUDNqZnpsaHhRTlVMdUpRQkdBcGp3SGRnZUVKU2wtampOTG5hSVJ2TVk5dXNhRnVrM09RRVRSeVNiYlo2aGRaMHNOcl9PcGVwdXItZ19uMVBMWjQybDBtVllKX2VsQVR4TEZLS19nWlJYZWJFd2VHVXpiWFpn0gH_AUFVX3lxTE83Wmd2Y3pQazljOHhkbF9SV3k3ZmFNT1RGT1JSWUtsc19KdEJJUzRmZGFmWE1TX052RzFhUXNHbkR5UV9OanhwYXVOdDEyYWc4enNoNm4ydDdEUWZ6cUJzZndGVDNub0NxTkcyRHBIRE9YeVBzdGUySzByS3VOVUQtODVheXFzNXlCNExackwzQjBVLUhFV0VrTGtZVnJQb2VxVGppaTBjenV3TmlBMlpBejhFVlFkQnAzbXhkWS00NlRtMGI3ZlNmTGNtUDJXb3dNVGN5ZVRBbWRjT3dGb0E1T1gwaTlKZGg2YWxLbjQycGUwcXpZb1FzWUlRR0x1SQ?oc=5"
-    },
-    {
-      "id": "news-81",
-      "headline": "How state actors are exploiting climate crises to spread disinformation",
-      "summary": "The number of extreme weather events is on the rise, and some states are taking advantage of these climate crises to spread disinformation. A report by France's Institute for International and Strategic Affairs (IRIS) says that climate disinformation has become a “tool for destabilisation”.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:04:09.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/europe/20260720-foreign-state-actors-exploiting-climate-crises-spread-disinformation"
-    },
-    {
-      "id": "news-82",
-      "headline": "Houthis impose Saudi naval blockade, opening new front in US-Iran war - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjR",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:02:17.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5"
-    },
-    {
-      "id": "news-83",
-      "headline": "Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News - Khaleej Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fYk8tWjBWRG9iZzVYQWtsRTQxaXpwVDY4OHVmV3ZDd055V2ptWVQzcURXVlN0WGFyUE4xdlFBYWxBcTQ?oc=5\" target=\"_blank\"&gt;Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News&lt;/a&gt;&amp;nbsp;&amp;nbs",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Khaleej Times",
-          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
-          "url": "https://khaleejtimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:01:39.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fYk8tWjBWRG9iZzVYQWtsRTQxaXpwVDY4OHVmV3ZDd055V2ptWVQzcURXVlN0WGFyUE4xdlFBYWxBcTQ?oc=5"
-    },
-    {
-      "id": "news-84",
-      "headline": "What Spain&apos;s World Cup win can teach healthcare marketing",
-      "summary": "What Spain&apos;s World Cup win can teach healthcare marketing",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:01:26.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/gn-focus/what-spains-world-cup-win-can-teach-healthcare-marketing-1.500614293"
-    },
-    {
-      "id": "news-85",
-      "headline": "Can Europe win a trade war with China? It may depend on how victory is defined",
-      "summary": "As trade tensions with China reach boiling point, EU officials are ramping up engagement with Beijing in search of an off-ramp.\nQuietly behind the scenes, though, Europe is preparing for a trade war. In Brussels, a steely determination has set in to ensure the bloc’s manufacturing heartlands are not",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:00:18.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3361174/can-europe-win-trade-war-china-it-may-depend-how-victory-defined?utm_source=rss_feed"
-    },
-    {
-      "id": "news-86",
-      "headline": "Why China’s open-weight AI model Kimi K3 is sparking anxiety in Silicon Valley",
-      "summary": "Chinese start-up Moonshot AI’s Kimi K3 has narrowed the country’s artificial intelligence gap with the US to “a matter of weeks”, fuelling jitters in Silicon Valley over its lead in frontier AI as China doubles down on its open-source strategy.\nThe Beijing-based unicorn released the Kimi K3, a massi",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:00:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/tech/tech-war/article/3361142/why-chinas-open-weight-ai-model-kimi-k3-sparking-anxiety-silicon-valley?utm_source=rss_feed"
-    },
-    {
-      "id": "news-87",
-      "headline": "Did Spain edit Trump out? Cropped World Cup Victory photo ignites social media debate",
-      "summary": "Did Spain edit Trump out? Cropped World Cup Victory photo ignites social media debate",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:59:43.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/football/world-cup/did-spain-edit-trump-out-cropped-world-cup-victory-photo-ignites-social-media-debate-1.500614276"
-    },
-    {
-      "id": "news-88",
-      "headline": "FIFA World Cup heroes Spain return home ahead of victory parade",
-      "summary": "&lt;p&gt;Spain’s newly crowned &lt;a href=\"https://www.dawn.com/news/2016732\"&gt;FIFA World Cup champions&lt;/a&gt; on Monday arrived back in Madrid, where a million fans are expected to greet them after a night of raucous celebrations across the country.&lt;/p&gt;\n&lt;p&gt;Spain captain Rodri held ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:59:03.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2017043/fifa-world-cup-heroes-spain-return-home-ahead-of-victory-parade"
-    },
-    {
-      "id": "news-89",
-      "headline": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
-      "summary": "Iranian foreign ministry officials and Secretary of State Marco Rubio signaled openness to resume negotiations but declined to provide any new details.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:58:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html"
-    },
-    {
-      "id": "news-90",
-      "headline": "Yemen’s Houthis to Impose Maritime Blockade on Saudi Arabia - Insurance Journal",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oMHAyd1hnX0FXbnR5RHo0N1RucTkyb0RZZmM5eDlucm9uRG50UTFuREdvTHB1YmZfbGZYYlg0RHV3Z1Z2b2NOT0R4aUx6SllZcGExYmZpTEhXU2dOYkVoQ1dwSS0yd19rNHJWcF9lZEZ5dmFMR3FxaXZhVTdzQQ?oc=5\" target=\"_blank\"&gt;Yemen’s Houthis to Impose Maritime Blockade on Saud",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:58:26.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oMHAyd1hnX0FXbnR5RHo0N1RucTkyb0RZZmM5eDlucm9uRG50UTFuREdvTHB1YmZfbGZYYlg0RHV3Z1Z2b2NOT0R4aUx6SllZcGExYmZpTEhXU2dOYkVoQ1dwSS0yd19rNHJWcF9lZEZ5dmFMR3FxaXZhVTdzQQ?oc=5"
-    },
-    {
-      "id": "news-91",
-      "headline": "Petro to give farewell speech amid Colombia transfer-of-power tensions",
-      "summary": "The outgoing president has called for protests as he continues to dispute the results of last month&#039;s election.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:56:58.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/20/petro-to-give-farewell-speech-amid-colombia-transfer-of-power-tensions?traffic_source=rss"
-    },
-    {
-      "id": "news-92",
-      "headline": "After getting a new PM, the UK waits for his government and first policies",
-      "summary": "Former Manchester mayor Andy Burnham has become the UK's new prime minister, the seventh in a decade, following Keir Starmer's resignation on July 20. In his first speech, he has vowed to start a ten-year plan for Britain. His government and his first policies will quickly be announced. FRANCE 24's ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:55:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/after-getting-a-new-pm-the-uk-waits-for-his-government-and-first-policies"
-    },
-    {
-      "id": "news-93",
-      "headline": "Chinese and Philippine maritime forces clash at Second Thomas Shoal",
-      "summary": "Beijing and Manila have exchanged fresh accusations over a clash in the South China Sea, just as China’s top diplomat is due to attend the Asean foreign ministers’ meeting in the Philippines.\nOn social media late on Monday, the China Coast Guard said that at around 9am that morning as a small Chines",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:52:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3361250/chinese-and-philippine-maritime-forces-clash-second-thomas-shoal?utm_source=rss_feed"
-    },
-    {
-      "id": "news-94",
-      "headline": "2 days to Galaxy unpacked: Samsung&apos;s countdown begins with a new shape",
-      "summary": "2 days to Galaxy unpacked: Samsung&apos;s countdown begins with a new shape",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:48:00.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/gn-reach/2-days-to-galaxy-unpacked-samsungs-countdown-begins-with-a-new-shape-2-1.500614095"
-    },
-    {
-      "id": "news-95",
-      "headline": "FedEx CEO Raj Subramaniam grabbed the opportunity that his roommate rejected: He can't come but can I send my resume?",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132517128.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:42:23.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/fedex-ceo-raj-subramaniam-grabbed-the-opportunity-that-his-roommate-rejected-he-cant-come-but-can-i-send-my-resume/articleshow/132517128.cms"
-    },
-    {
-      "id": "news-96",
-      "headline": "World Sports Summit hosts leaders and stars at a World Cup dinner in New York",
-      "summary": "World Sports Summit hosts leaders and stars at a World Cup dinner in New York",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:38:40.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/uae-sport/world-sports-summit-hosts-leaders-and-stars-at-a-world-cup-dinner-in-new-york-1.500614271"
-    },
-    {
-      "id": "news-97",
-      "headline": "Hamas says Khalil Al Hayya elected as group&apos;s new chief",
-      "summary": "Hamas says Khalil Al Hayya elected as group&apos;s new chief",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:38:37.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/hamas-says-khalil-al-hayya-elected-as-groups-new-chief-1.500614272"
-    },
-    {
-      "id": "news-98",
-      "headline": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
-      "summary": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T13:37:51.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html"
-    },
-    {
       "id": "news-99",
-      "headline": "Illinois farmers are making up to $200,000 a year without growing more crops as solar companies offer long-term leases worth up to $2,000 per acre",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132516820.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
+      "headline": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
+      "summary": "The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.",
+      "urgency": "breaking",
+      "topic": "middle-east",
       "sources": [
         {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-20T13:33:38.000Z",
+      "timestamp": "2026-07-20T14:37:16.000Z",
       "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/illinois-farmers-are-making-up-to-200000-a-year-without-growing-more-crops-as-solar-companies-offer-long-term-leases-worth-up-to-2000-per-acre/articleshow/132516820.cms"
+      "link": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss"
     }
   ],
   "financials": {
