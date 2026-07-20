@@ -1,40 +1,33 @@
 {
-  "lastUpdated": "2026-07-20T02:30:33.893Z",
+  "lastUpdated": "2026-07-20T02:50:34.789Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 460,
-      "count": 287,
-      "breaking": 80,
-      "latest": "2026-07-20T02:24:45.000Z"
+      "score": 375,
+      "count": 253,
+      "breaking": 57,
+      "latest": "2026-07-20T02:35:04.000Z"
     },
     {
       "id": "middle-east",
-      "score": 395,
-      "count": 172,
-      "breaking": 111,
-      "latest": "2026-07-20T02:04:29.000Z"
+      "score": 357,
+      "count": 157,
+      "breaking": 100,
+      "latest": "2026-07-20T02:42:48.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 130,
-      "count": 58,
-      "breaking": 35,
+      "score": 96,
+      "count": 46,
+      "breaking": 24,
       "latest": "2026-07-20T00:19:12.000Z"
     },
     {
       "id": "sudan",
-      "score": 73,
-      "count": 31,
-      "breaking": 21,
-      "latest": "2026-07-17T12:00:00.000Z"
-    },
-    {
-      "id": "venezuela",
-      "score": 69,
-      "count": 39,
-      "breaking": 9,
-      "latest": "2026-07-16T12:00:00.000Z"
+      "score": 50,
+      "count": 22,
+      "breaking": 14,
+      "latest": "2026-07-14T07:00:00.000Z"
     },
     {
       "id": "korea",
@@ -44,6 +37,13 @@
       "latest": "2026-07-17T22:14:12.000Z"
     },
     {
+      "id": "venezuela",
+      "score": 43,
+      "count": 28,
+      "breaking": 4,
+      "latest": "2026-07-15T18:38:00.000Z"
+    },
+    {
       "id": "taliban-pakistan",
       "score": 41,
       "count": 21,
@@ -51,18 +51,18 @@
       "latest": "2026-07-15T13:40:01.000Z"
     },
     {
-      "id": "sahel",
-      "score": 34,
-      "count": 21,
-      "breaking": 6,
-      "latest": "2026-07-15T07:00:00.000Z"
-    },
-    {
       "id": "china-taiwan",
       "score": 32,
       "count": 20,
       "breaking": 5,
       "latest": "2026-07-17T21:42:31.000Z"
+    },
+    {
+      "id": "sahel",
+      "score": 31,
+      "count": 20,
+      "breaking": 5,
+      "latest": "2026-07-15T07:00:00.000Z"
     }
   ],
   "countryEvents": {
@@ -167,8 +167,8 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
-      "venezuela",
       "korea",
+      "venezuela",
       "china-taiwan",
       "general"
     ],
