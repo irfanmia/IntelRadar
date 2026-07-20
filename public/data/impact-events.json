@@ -1,61 +1,68 @@
 {
-  "lastUpdated": "2026-07-20T20:45:32.828Z",
+  "lastUpdated": "2026-07-20T21:02:46.865Z",
   "globalRanking": [
     {
-      "id": "middle-east",
-      "score": 248,
-      "count": 104,
-      "breaking": 71,
-      "latest": "2026-07-20T19:46:09.000Z"
+      "id": "general",
+      "score": 532,
+      "count": 312,
+      "breaking": 99,
+      "latest": "2026-07-20T20:56:23.000Z"
     },
     {
-      "id": "general",
-      "score": 199,
-      "count": 96,
-      "breaking": 46,
-      "latest": "2026-07-20T20:14:46.000Z"
+      "id": "middle-east",
+      "score": 398,
+      "count": 177,
+      "breaking": 110,
+      "latest": "2026-07-20T20:56:59.000Z"
     },
     {
       "id": "ukraine-russia",
+      "score": 132,
+      "count": 58,
+      "breaking": 36,
+      "latest": "2026-07-20T18:55:43.000Z"
+    },
+    {
+      "id": "sudan",
       "score": 70,
-      "count": 28,
-      "breaking": 21,
-      "latest": "2026-07-19T12:00:00.000Z"
+      "count": 30,
+      "breaking": 20,
+      "latest": "2026-07-20T03:34:25.000Z"
     },
     {
       "id": "venezuela",
-      "score": 54,
-      "count": 33,
-      "breaking": 6,
-      "latest": "2026-07-20T12:00:00.000Z"
+      "score": 69,
+      "count": 41,
+      "breaking": 7,
+      "latest": "2026-07-20T18:51:24.000Z"
+    },
+    {
+      "id": "korea",
+      "score": 45,
+      "count": 21,
+      "breaking": 12,
+      "latest": "2026-07-17T22:14:12.000Z"
     },
     {
       "id": "taliban-pakistan",
-      "score": 43,
-      "count": 21,
+      "score": 44,
+      "count": 22,
       "breaking": 11,
       "latest": "2026-07-20T11:32:13.000Z"
     },
     {
-      "id": "china-taiwan",
-      "score": 34,
-      "count": 20,
+      "id": "sahel",
+      "score": 35,
+      "count": 22,
       "breaking": 6,
-      "latest": "2026-07-17T21:42:31.000Z"
+      "latest": "2026-07-20T20:17:09.000Z"
     },
     {
-      "id": "sahel",
-      "score": 34,
+      "id": "china-taiwan",
+      "score": 35,
       "count": 21,
       "breaking": 6,
-      "latest": "2026-07-15T07:00:00.000Z"
-    },
-    {
-      "id": "sudan",
-      "score": 23,
-      "count": 9,
-      "breaking": 7,
-      "latest": "2026-07-17T12:00:00.000Z"
+      "latest": "2026-07-20T12:00:20.000Z"
     }
   ],
   "countryEvents": {
@@ -102,8 +109,8 @@
     ],
     "saudi-arabia": [
       "middle-east",
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "ukraine-russia"
     ],
@@ -158,10 +165,10 @@
       "ukraine-russia"
     ],
     "united-states": [
-      "korea",
       "middle-east",
       "ukraine-russia",
       "venezuela",
+      "korea",
       "china-taiwan",
       "general"
     ],
@@ -183,8 +190,8 @@
     ],
     "ukraine": [
       "ukraine-russia",
-      "middle-east",
-      "general"
+      "general",
+      "middle-east"
     ],
     "russia": [
       "middle-east",
@@ -194,13 +201,13 @@
     "taiwan": [
       "korea",
       "china-taiwan",
-      "middle-east",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "china": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
@@ -208,15 +215,15 @@
     "south-korea": [
       "korea",
       "china-taiwan",
-      "middle-east",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "north-korea": [
       "korea",
       "china-taiwan",
-      "middle-east",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "venezuela": [
@@ -227,23 +234,23 @@
     ],
     "sudan": [
       "middle-east",
-      "sahel",
       "sudan",
+      "sahel",
       "general",
       "ukraine-russia"
     ],
     "nigeria": [
-      "sahel",
       "sudan",
-      "middle-east",
+      "sahel",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "kenya": [
-      "sahel",
       "sudan",
-      "middle-east",
+      "sahel",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "south-africa": [
@@ -265,15 +272,15 @@
       "general"
     ],
     "australia": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "japan": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
@@ -286,8 +293,8 @@
     ],
     "colombia": [
       "venezuela",
-      "middle-east",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "algeria": [
@@ -310,8 +317,8 @@
     ],
     "ethiopia": [
       "sudan",
-      "middle-east",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "somalia": [
@@ -393,38 +400,38 @@
       "ukraine-russia"
     ],
     "south-sudan": [
-      "sahel",
       "sudan",
-      "middle-east",
+      "sahel",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "mali": [
-      "sahel",
       "sudan",
-      "middle-east",
+      "sahel",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "niger": [
-      "sahel",
       "sudan",
-      "middle-east",
+      "sahel",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "burkina-faso": [
-      "sahel",
       "sudan",
-      "middle-east",
+      "sahel",
       "general",
+      "middle-east",
       "ukraine-russia"
     ],
     "democratic-republic-of-congo": [
-      "sahel",
       "sudan",
-      "middle-east",
+      "sahel",
       "general",
+      "middle-east",
       "ukraine-russia"
     ]
   }
