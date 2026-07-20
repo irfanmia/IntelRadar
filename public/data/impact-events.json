@@ -1,33 +1,61 @@
 {
-  "lastUpdated": "2026-07-19T23:58:07.798Z",
+  "lastUpdated": "2026-07-20T01:25:23.339Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 287,
-      "count": 168,
-      "breaking": 55,
-      "latest": "2026-07-19T23:35:06.000Z"
+      "score": 450,
+      "count": 282,
+      "breaking": 78,
+      "latest": "2026-07-20T01:04:48.000Z"
     },
     {
       "id": "middle-east",
-      "score": 157,
-      "count": 70,
-      "breaking": 43,
-      "latest": "2026-07-19T23:30:05.000Z"
+      "score": 386,
+      "count": 169,
+      "breaking": 108,
+      "latest": "2026-07-20T00:38:02.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 81,
-      "count": 33,
-      "breaking": 24,
-      "latest": "2026-07-19T18:26:40.000Z"
+      "score": 125,
+      "count": 56,
+      "breaking": 34,
+      "latest": "2026-07-20T00:19:12.000Z"
+    },
+    {
+      "id": "sudan",
+      "score": 73,
+      "count": 31,
+      "breaking": 21,
+      "latest": "2026-07-17T12:00:00.000Z"
+    },
+    {
+      "id": "venezuela",
+      "score": 69,
+      "count": 39,
+      "breaking": 9,
+      "latest": "2026-07-16T12:00:00.000Z"
     },
     {
       "id": "korea",
-      "score": 46,
-      "count": 20,
+      "score": 47,
+      "count": 21,
       "breaking": 13,
-      "latest": "2026-06-08T21:56:15.000Z"
+      "latest": "2026-07-17T22:14:12.000Z"
+    },
+    {
+      "id": "taliban-pakistan",
+      "score": 41,
+      "count": 21,
+      "breaking": 10,
+      "latest": "2026-07-15T13:40:01.000Z"
+    },
+    {
+      "id": "sahel",
+      "score": 34,
+      "count": 21,
+      "breaking": 6,
+      "latest": "2026-07-15T07:00:00.000Z"
     },
     {
       "id": "china-taiwan",
@@ -35,27 +63,6 @@
       "count": 20,
       "breaking": 5,
       "latest": "2026-07-17T21:42:31.000Z"
-    },
-    {
-      "id": "venezuela",
-      "score": 30,
-      "count": 13,
-      "breaking": 5,
-      "latest": "2026-07-16T12:00:00.000Z"
-    },
-    {
-      "id": "sudan",
-      "score": 23,
-      "count": 9,
-      "breaking": 7,
-      "latest": "2026-07-17T12:00:00.000Z"
-    },
-    {
-      "id": "sahel",
-      "score": 3,
-      "count": 1,
-      "breaking": 1,
-      "latest": "2026-07-14T12:00:00.000Z"
     }
   ],
   "countryEvents": {
@@ -144,15 +151,15 @@
       "general"
     ],
     "pakistan": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "india": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "china-taiwan",
       "general",
       "ukraine-russia"
@@ -160,9 +167,9 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
+      "venezuela",
       "korea",
       "china-taiwan",
-      "venezuela",
       "general"
     ],
     "united-kingdom": [
@@ -279,8 +286,8 @@
       "ukraine-russia"
     ],
     "afghanistan": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
@@ -321,8 +328,8 @@
       "ukraine-russia"
     ],
     "bangladesh": [
-      "taliban-pakistan",
       "middle-east",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
