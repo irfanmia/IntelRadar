@@ -1,8 +1,926 @@
 {
-  "lastUpdated": "2026-07-21T12:38:45.196Z",
+  "lastUpdated": "2026-07-21T13:32:06.247Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "A Family’s Daring Escape From North Korea",
+      "summary": "Their resolve for freedom hardened during the pandemic, when they lived through a crippling food shortage and were forced to witness frequent public executions.",
+      "urgency": "info",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:30:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html"
+    },
+    {
+      "id": "news-1",
+      "headline": "Diamond smile: Singapore jails Indian man for gem in mouth theft",
+      "summary": "&lt;p&gt;A Singapore court sentenced an Indian tourist to more than two years in jail over a failed bid to steal a diamond by hiding it in his accomplice’s mouth.&lt;/p&gt;\n&lt;p&gt;Mangroliya Manojkumar Kurjibhai, 41, and his accomplice visited a jewellery store in Singapore’s Chinatown on June 19 ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:28:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017279/diamond-smile-singapore-jails-indian-man-for-gem-in-mouth-theft"
+    },
+    {
+      "id": "news-2",
+      "headline": "Ukraine plunges into political crisis as anger over defence minister's dismissal grows",
+      "summary": "Street protests were held for a fifth day on July 19 in Ukraine, over the firing of Defense Minister Mykhailo Fedorov. Fedorov was dismissed following frequent clashes with top Army general Oleksandr Syrsky, sparking indignation particularly among young Ukrainians, who credit the tech-savvy 35-year ",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:23:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/ukraine-plunges-into-political-crisis-as-anger-over-defence-minister-s-dismissal-grows"
+    },
+    {
+      "id": "news-3",
+      "headline": "Asia’s oil buyers face US$100-per-barrel risk as Houthis threaten Saudi blockade",
+      "summary": "Asia’s oil buyers are facing the risk of a second maritime chokepoint being disrupted after Iran-aligned Houthi militants threatened to impose a naval blockade on Saudi Arabia, even as shipments through the Strait of Hormuz remain severely disrupted by the US-Iran conflict.\nAnalysts said any serious",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:20:24.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/week-asia/politics/article/3361381/asias-oil-buyers-face-us100-barrel-risk-houthis-threaten-saudi-blockade?utm_source=rss_feed"
+    },
+    {
+      "id": "news-4",
+      "headline": "PML-N supremo Nawaz kicks off party's election campaign in AJK",
+      "summary": "&lt;p&gt;The PML-N on Tuesday formally kicked off its election campaign in Azad Jammu and Kashmir (AJK), with party supremo Nawaz Sharif addressing supporters in the regional capital.&lt;/p&gt;\n&lt;p&gt;Flanked by Punjab Chief Minister Maryam Nawaz, the ex-premier began his address by noting that he",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:19:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-partys-election-campaign-in-ajk"
+    },
+    {
+      "id": "news-5",
+      "headline": "UAE, India seek new food partnerships at Andhra Pradesh forum",
+      "summary": "UAE, India seek new food partnerships at Andhra Pradesh forum",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:17:48.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/markets/uae-india-seek-new-food-partnerships-at-andhra-pradesh-forum-1.500615416"
+    },
+    {
+      "id": "news-6",
+      "headline": "Suspect in German mass shooting kills himself in jail",
+      "summary": "A man suspected of fatally shooting six child welfare workers at a shelter for mothers in Stade in northern Germany last month died by suicide in jail on Tuesday, officials said.\nThe suspect, who has been partially identified in German media as 45-year-old Fatih Khan G., was found dead by jail staff",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:14:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/europe/article/3361380/suspect-german-mass-shooting-kills-himself-jail?utm_source=rss_feed"
+    },
+    {
+      "id": "news-7",
+      "headline": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
+      "summary": "&lt;p&gt;Mark Carney says Canada has made proposals to resolve dispute as tariffs are due to be imposed on wide range of goods&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:14:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+    },
+    {
+      "id": "news-8",
+      "headline": "Trump Is Squeezing Canada. Don’t Expect Carney to Roll Over.",
+      "summary": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:13:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html"
+    },
+    {
+      "id": "news-9",
+      "headline": "India vs Pakistan clash scheduled in Asian Legends League: When will it happen?",
+      "summary": "India vs Pakistan clash scheduled in Asian Legends League: When will it happen?",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:08:04.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/cricket/india-vs-pakistan-clash-scheduled-in-asian-legends-league-when-will-it-happen-1.500615285"
+    },
+    {
+      "id": "news-10",
+      "headline": "Nadra official goes missing in Karachi, family approaches police for his recovery",
+      "summary": "&lt;p&gt;KARACHI: The family of a missing National Database and Registration Authority (Nadra) official approached police on Tuesday with an application for his recovery.&lt;/p&gt;\n&lt;p&gt;The application, seen by &lt;em&gt;Dawn&lt;/em&gt;, addressed Sindh Inspector General of Police (IG) Javed Ala",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:04:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017263/nadra-official-goes-missing-in-karachi-family-approaches-police-for-his-recovery"
+    },
+    {
+      "id": "news-11",
+      "headline": "Fresh US Strikes on Houthi Targets Raise Stakes in Red Sea Crisis - Morocco World News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzFEQUJkZmZNU1V3QmtUYmQyREloUVZVUVB2MUZqQTZ4bW5xeWhqVGcweHFBOEJzT3VucTgtYWw5MTgxRjVxbl9KRWtXYmdLaW1oV0ZaQ1BfLTRaazcxUFBkOE5Ia3RiTTN5Q0t0TDdzeVhra19pYlpUd1NsalVfT2ttZk5kTGtibjhxTDJIMl9FMzFEUlhVaGl5bE1HVVp3ZXdiLVdFUG5JYVNQWEsyc1daTDc?oc=",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:03:47.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzFEQUJkZmZNU1V3QmtUYmQyREloUVZVUVB2MUZqQTZ4bW5xeWhqVGcweHFBOEJzT3VucTgtYWw5MTgxRjVxbl9KRWtXYmdLaW1oV0ZaQ1BfLTRaazcxUFBkOE5Ia3RiTTN5Q0t0TDdzeVhra19pYlpUd1NsalVfT2ttZk5kTGtibjhxTDJIMl9FMzFEUlhVaGl5bE1HVVp3ZXdiLVdFUG5JYVNQWEsyc1daTDc?oc=5"
+    },
+    {
+      "id": "news-12",
+      "headline": "A Red Sea blockade threatens a new front in U.S.-Iran war - The Washington Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtLcUJfSEVjZ1I4WTU2cnNYenZrVVlBUEFHLXJSVTJZUjg5UzBuT094dVlYV1A1bjlVQXZDek91ZzlkelRvLWhOd1MwX3kwR3ZCOS1XbWF2M2xITHRtV0w2bVVnMmkyWkpQd2ZxWFJIcGVoN3dtNU9ndi1VOEo0Z2s5cE5BOW9KRktySHBvN0xGUlg4d2JGWlpJWmNVQQ?oc=5\" target=\"_blank\"&gt;A Red S",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:03:17.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEtLcUJfSEVjZ1I4WTU2cnNYenZrVVlBUEFHLXJSVTJZUjg5UzBuT094dVlYV1A1bjlVQXZDek91ZzlkelRvLWhOd1MwX3kwR3ZCOS1XbWF2M2xITHRtV0w2bVVnMmkyWkpQd2ZxWFJIcGVoN3dtNU9ndi1VOEo0Z2s5cE5BOW9KRktySHBvN0xGUlg4d2JGWlpJWmNVQQ?oc=5"
+    },
+    {
+      "id": "news-13",
+      "headline": "UK’s Burnham eyes lower energy bills in first move as PM",
+      "summary": "British Prime Minister Andy Burnham said on Tuesday he would cut taxes ⁠on electricity bills, the first of several early moves to signal his intent to ease a cost-of-living crisis and quell anger over successive governments’ failure to bring change.\nOn his second day in his new job, Burnham said his",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:01:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/europe/article/3361379/uks-burnham-eyes-lower-energy-bills-first-move-pm?utm_source=rss_feed"
+    },
+    {
+      "id": "news-14",
+      "headline": "Strait of Hormuz crisis raises global oil supply risks despite UAE exports, warns IEA",
+      "summary": "Strait of Hormuz crisis raises global oil supply risks despite UAE exports, warns IEA",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:01:07.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/energy/strait-of-hormuz-crisis-raises-global-oil-supply-risks-despite-uae-exports-warns-iea-1.500615398"
+    },
+    {
+      "id": "news-15",
+      "headline": "Taiwan opens door to Starlink – but now it must wait to see if Elon Musk is ready to enter",
+      "summary": "Taiwan has cleared the way for overseas satellite internet providers such as Starlink to operate on the island – a move analysts said could strengthen military and civilian communications if conventional networks were disrupted in a conflict with mainland China.\nOn Tuesday, the island’s legislature ",
+      "urgency": "info",
+      "topic": "china-taiwan",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T13:00:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/military/article/3361364/taiwan-opens-door-starlink-now-it-must-wait-see-if-elon-musk-ready-enter?utm_source=rss_feed"
+    },
+    {
+      "id": "news-16",
+      "headline": "Baby trafficking ringleader jailed for 7 years",
+      "summary": "An Indonesian court has sentenced Lie Siu Luan to seven years in prison for leading a baby trafficking ring.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:59:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss"
+    },
+    {
+      "id": "news-17",
+      "headline": "Fake images circulate of Spanish World Cup players draped in Palestinian flags",
+      "summary": "An image generated by artificial intelligence shows Spanish footballer Lamine Yamal celebrating his World Cup win while draped in a Palestinian flag. People have also been circulating an image of player Pedro Porro, who they falsely claim is wearing a Palestinian flag around his waist.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:58:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/sport/20260721-fake-images-circulate-spanish-world-cup-players-draped-palestinian-flags"
+    },
+    {
+      "id": "news-18",
+      "headline": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway - Marine Insight",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzE1U1RtQ2FFOEJScEdsZHFibV9KeEx5ZVR4MTdQcTJxeW9KejNDSTQ0OHkyRkM1M1lSV0NURzYtenNaYzNzUGNGRXEteGlLTFB0S3ZOWFV4SDNGX0ZTYmhTYW0yemRFbXV6R1RyRDlhT2xSbFphYktzcmtXWkliVmhGNUxPZGxqd2RCRkVYa01vS3ZoeW1DSFNGMXVrQ1J3cnJWYl9oMzR1UQ?oc=5\" target=\"_b",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:57:48.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTzE1U1RtQ2FFOEJScEdsZHFibV9KeEx5ZVR4MTdQcTJxeW9KejNDSTQ0OHkyRkM1M1lSV0NURzYtenNaYzNzUGNGRXEteGlLTFB0S3ZOWFV4SDNGX0ZTYmhTYW0yemRFbXV6R1RyRDlhT2xSbFphYktzcmtXWkliVmhGNUxPZGxqd2RCRkVYa01vS3ZoeW1DSFNGMXVrQ1J3cnJWYl9oMzR1UQ?oc=5"
+    },
+    {
+      "id": "news-19",
+      "headline": "Passenger on Dubai-Manila flight arrested over pending anti-violence case",
+      "summary": "Passenger on Dubai-Manila flight arrested over pending anti-violence case",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:57:31.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/philippines/passenger-on-dubai-manila-flight-arrested-over-pending-anti-violence-case-1.500615359"
+    },
+    {
+      "id": "news-20",
+      "headline": "KSE-100 makes marginal gains as global energy uncertainty weighs on early rally",
+      "summary": "&lt;p&gt;The Pakistan Stock Exchange’s (PSX) benchmark index on Tuesday made marginal gains as investor sentiment remained cautious over uncertainty surrounding global energy markets.&lt;/p&gt;\n&lt;p&gt;The KSE-100 index opened in the green, soaring by 2,442.72 points to reach an intraday high of 17",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:56:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017214/kse-100-makes-marginal-gains-as-global-energy-uncertainty-weighs-on-early-rally"
+    },
+    {
+      "id": "news-21",
+      "headline": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
+      "summary": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:56:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss"
+    },
+    {
+      "id": "news-22",
+      "headline": "Philippines taps combat veteran to lead armed forces amid regional tensions",
+      "summary": "Philippine President Ferdinand Marcos Jnr has appointed army chief Lieutenant General Antonio G. Nafarrete as the next head of the armed forces, placing a veteran of the country’s internal conflicts in charge before a sensitive election in the Muslim south and amid continued maritime tensions with C",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:55:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/week-asia/people/article/3361378/philippines-taps-combat-veteran-lead-armed-forces-amid-regional-tensions?utm_source=rss_feed"
+    },
+    {
+      "id": "news-23",
+      "headline": "How Virat Kohli helped PV Sindhu regain her form",
+      "summary": "How Virat Kohli helped PV Sindhu regain her form",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:52:09.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/how-virat-kohli-helped-pv-sindhu-regain-her-form-1.500615392"
+    },
+    {
+      "id": "news-24",
+      "headline": "Parent-school contract in the UAE: What every parent needs to know",
+      "summary": "Parent-school contract in the UAE: What every parent needs to know",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:50:58.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/ask-gulf-news/parent-school-contract-in-the-uae-what-every-parent-needs-to-know-1.500615355"
+    },
+    {
+      "id": "news-25",
+      "headline": "How Two Brothers Dug for Dead Relatives: With a Shovel and a Kitchen Knife",
+      "summary": "After Venezuela’s devastating earthquakes, Winder and Deivi Delfín dug every day for 26 days to find the bodies of their mother, brother and grandmother.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:48:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html"
+    },
+    {
+      "id": "news-26",
+      "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:48:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-27",
+      "headline": "Iranian interior minister meets PM Shehbaz in Islamabad",
+      "summary": "&lt;p&gt;Iran’s interior minister, Eskandar Momeni, held a meeting with Prime Minister Shehbaz Sharif at the PM House in Islamabad on Tuesday.&lt;/p&gt;\n&lt;p&gt;According to an X post by the PM’s Office (PMO), the meeting between the two has commenced. The statement did not elaborate any further on",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:47:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017273/iranian-interior-minister-meets-pm-shehbaz-in-islamabad"
+    },
+    {
+      "id": "news-28",
+      "headline": "How &apos;Aura by Sree&apos; is winning over Dubai’s dessert lovers, one donut at a time",
+      "summary": "How &apos;Aura by Sree&apos; is winning over Dubai’s dessert lovers, one donut at a time",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:44:38.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/lifestyle/how-aura-by-sree-is-winning-over-dubais-dessert-lovers-one-donut-at-a-time-1.500584072"
+    },
+    {
+      "id": "news-29",
+      "headline": "Zhipu shares surge 37% as firm builds giant data centre powered by Chinese chips",
+      "summary": "Shares of Chinese AI giant Z.ai soared 37 per cent in Hong Kong on Tuesday to close at HK$1,219 (US$155), after the company recently completed a giant data centre powered entirely by Chinese chips.\nAlso known as Zhipu, the firm’s share prices rebounded after a week-long drop of more than 40 per cent",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:42:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/tech/big-tech/article/3361374/zai-shares-surge-37-firm-builds-giant-data-centre-powered-chinese-chips?utm_source=rss_feed"
+    },
+    {
+      "id": "news-30",
+      "headline": "Etihad adds more Paris cargo capacity for medicines, fresh food and high-value goods",
+      "summary": "Etihad adds more Paris cargo capacity for medicines, fresh food and high-value goods",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:39:51.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/etihad-adds-more-paris-cargo-capacity-for-medicines-fresh-food-and-high-value-goods-1.500615341"
+    },
+    {
+      "id": "news-31",
+      "headline": "Hungary prosecutors raid data servers of Viktor Orban's Fidesz, party says",
+      "summary": "Hungary's former ruling Fidesz party said prosecutors \"showed up unannounced\" and raided its data servers on Tuesday. The claim comes as Prime Minister Peter Magyar presses ahead with anti-corruption reforms following his landslide election victory over Orban in April.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:38:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260721-hungary-prosecutors-raid-data-servers-of-viktor-orban-s-fidesz-party-says"
+    },
+    {
+      "id": "news-32",
+      "headline": "Iran war: Look beyond stocks to understand state of economy, experts say - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0d2Y2JpZGJmeTJKWk50ZHBSVzA5aEJqdUNfZUtkREkxMWw0QnVpendibms0ek51Y3ZPcm8wSV90ZE1Ja0pIZ1I2c09qY2tlQW1PYXpwV1dOX1JlemxRMGpjUGZvQnVmWXdNT2I2SmhfSTFQcEpJbWx0WFJjT1VwcU9pTXoxZzJKT1h2VVVtajZPX3VPRWpFV3R3Z21iaEpRdG9CWlp0ajBIMGNGcFcxd2FXNkTSAbo",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:35:33.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0d2Y2JpZGJmeTJKWk50ZHBSVzA5aEJqdUNfZUtkREkxMWw0QnVpendibms0ek51Y3ZPcm8wSV90ZE1Ja0pIZ1I2c09qY2tlQW1PYXpwV1dOX1JlemxRMGpjUGZvQnVmWXdNT2I2SmhfSTFQcEpJbWx0WFJjT1VwcU9pTXoxZzJKT1h2VVVtajZPX3VPRWpFV3R3Z21iaEpRdG9CWlp0ajBIMGNGcFcxd2FXNkTSAboBQVVfeXFMUGVCUWlJd0ctcnBJbEpzWmM4alI4WFhJWnBkc0thV1dRb2prUndRSEVTRURhLWNzR1JMaktDQ0JQc1NKOXA3UjJTT284aVRRT05VWkZQQk5Ya3ZjdkxzeDUxcDFIbGVCZ1hlem1vTnNrUDBENWk5WVNTR0JnbUFYUHY1NF8zeXNKbHJ3TWt4dUhsMGh5cm5LZTZXaUZLUUNHaU5VWHdrSHJpS183dWs3dDdaVkxRbE93ZGpR?oc=5"
+    },
+    {
+      "id": "news-33",
+      "headline": "Court grants post-arrest bail to podcast host Rehan Tariq in blasphemy case",
+      "summary": "&lt;p&gt;LAHORE: A sessions court on Tuesday granted post-arrest bail to podcast host Rehan Tariq in a case registered under the &lt;a href=\"https://www.dawn.com/trends/blasphemy/2\"&gt;blasphemy&lt;/a&gt; laws and the Prevention of Electronic Crimes Act, 2016 (&lt;a href=\"https://www.dawn.com/trends",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:34:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017270/court-grants-post-arrest-bail-to-podcast-host-rehan-tariq-in-blasphemy-case"
+    },
+    {
+      "id": "news-34",
+      "headline": "Row escalates in Ukraine over army chief's future",
+      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
+      "urgency": "important",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:33:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-35",
+      "headline": "UAE platform simplifies hiring for creative talent",
+      "summary": "UAE platform simplifies hiring for creative talent",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:32:12.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/uae-platform-simplifies-hiring-for-creative-talent-1.500615357"
+    },
+    {
+      "id": "news-36",
+      "headline": "Europe’s incoherent ‘China threat’ posture is a threat to itself",
+      "summary": "The China threat has landed in Brussels. A new European Union position paper accuses Beijing of amplifying security threats, posing “a critical long-term strategic challenge” and reviving “sphere-of-influence logic” to reshape the global order.\nBeijing is cast as an enabler of Russia’s invasion of U",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:30:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3361196/europes-incoherent-china-threat-posture-threat-itself?utm_source=rss_feed"
+    },
+    {
+      "id": "news-37",
+      "headline": "California deploys 400 goats and sheep as 'firefighters' to eat an invasive weed fuelling wildfires and threatening native ecosystems",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132536552.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:30:02.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/california-deploys-400-goats-and-sheep-as-firefighters-to-eat-an-invasive-weed-fuelling-wildfires-and-threatening-native-ecosystems/articleshow/132536552.cms"
+    },
+    {
+      "id": "news-38",
+      "headline": "Archaeologists discover hidden 5,000-year-old 'fairy houses' in Italy",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132536049.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:30:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/europe/archaeologists-discover-three-hidden-5000-year-old-fairy-houses-on-an-ancient-hillside-in-italy/articleshow/132536049.cms"
+    },
+    {
+      "id": "news-39",
+      "headline": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:26:56.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html"
+    },
+    {
+      "id": "news-40",
+      "headline": "Russian warship carried out firing exercise off Plymouth coast",
+      "summary": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Europe",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:21:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-41",
+      "headline": "144 dead or missing off Mauritania trying to reach Europe, UN agency says",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132536320.cms\" /&gt;<![CDATA[",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:20:13.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/144-dead-or-missing-off-mauritania-trying-to-reach-europe-un-agency-says/articleshow/132536320.cms"
+    },
+    {
+      "id": "news-42",
+      "headline": "Ukraine strikes Russian fighter jet, air defenses in Kursk Oblast, General staff says - The Kyiv Independent",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXlwbjZMaV82V3FYMDB4T2FPYjI4RVpJYTBNTXlQRnVTZlhHSENqdzVqOXhRa01TOUE3YW9XZmZFNnVESlZRNUd6Yy1EM09scUlfZmdPUHBSb3RoQy1pN1prMVd2aDRUcE91UDBKbEw1eFE1Si1uOEVYTjhWY0JOY214ZjhIb3RMRVNHSlJVaFV3bU9LLUcwaTZTdDU2WTh5bHVSOTI1d3VnMFM1MHlaZGhONjNwNEt",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Kyiv Independent",
+          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
+          "url": "https://kyivindependent.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:19:27.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXlwbjZMaV82V3FYMDB4T2FPYjI4RVpJYTBNTXlQRnVTZlhHSENqdzVqOXhRa01TOUE3YW9XZmZFNnVESlZRNUd6Yy1EM09scUlfZmdPUHBSb3RoQy1pN1prMVd2aDRUcE91UDBKbEw1eFE1Si1uOEVYTjhWY0JOY214ZjhIb3RMRVNHSlJVaFV3bU9LLUcwaTZTdDU2WTh5bHVSOTI1d3VnMFM1MHlaZGhONjNwNEtzVHVzYVloSnh6OVVLZGpWYmhjN0FzOGI3?oc=5"
+    },
+    {
+      "id": "news-43",
+      "headline": "Chinese AI agent outperforms Anthropic’s Claude Code in autonomous research",
+      "summary": "A Chinese artificial intelligence (AI) system has topped an international ranking for autonomous scientific research, pulling ahead of Anthropic’s Claude Code and other top agents.\nAs of Tuesday, the Zhejiang University-led Qiushi Engine held the top overall spot on the ResearchClawBench leaderboard",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:17:32.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/science/article/3361370/chinese-ai-agent-outperforms-anthropics-claude-code-autonomous-research?utm_source=rss_feed"
+    },
+    {
+      "id": "news-44",
+      "headline": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:14:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz/heres-the-latest"
+    },
+    {
+      "id": "news-45",
+      "headline": "Sharjah Executive Council adopts policy to develop warehouse permit issuance rules",
+      "summary": "Sharjah Executive Council adopts policy to develop warehouse permit issuance rules",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:13:21.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/government/sharjah-executive-council-adopts-policy-to-develop-warehouse-permit-issuance-rules-1.500615262"
+    },
+    {
+      "id": "news-46",
+      "headline": "Internet personality ‘Mr Ho’ jailed for 2 months over stabbing wife several times",
+      "summary": "An elderly Hong Kong man known on the internet as “Mr Ho” has been jailed for two months for stabbing his much younger wife upon learning she was returning to mainland China after their relationship turned sour.\nThe District Court sentenced 79-year-old Ho Huen in his absence on Tuesday after learnin",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:13:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361368/internet-personality-mr-ho-jailed-2-months-over-stabbing-wife-several-times?utm_source=rss_feed"
+    },
+    {
+      "id": "news-47",
+      "headline": "Chinese Oil Tanker U-Turns in Red Sea After Houthi Attack Threat - Bloomberg.com",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGlsUjFqOVZmeURyX2MxQzUtOXVNdVdDaFg3OXU0NjRSMWRnNTNVN1oxeF9HWTdNbzhuRW5OZm1Ed3pZVFpZeTFtS1FRM1J4TFQ5eUJwNDlCM1JJeEM1c2o3dU9BNmNyRWxGa21mQ25Ec1JxeldKT1pDdXlRRE90S1R2RURFWDFsTko3TGxfRkVEVFBPa0ZWT2JVdDNHazczcU1xMnlFZGZzbTNhX2xVdHhxbU94QQ?",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:12:34.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGlsUjFqOVZmeURyX2MxQzUtOXVNdVdDaFg3OXU0NjRSMWRnNTNVN1oxeF9HWTdNbzhuRW5OZm1Ed3pZVFpZeTFtS1FRM1J4TFQ5eUJwNDlCM1JJeEM1c2o3dU9BNmNyRWxGa21mQ25Ec1JxeldKT1pDdXlRRE90S1R2RURFWDFsTko3TGxfRkVEVFBPa0ZWT2JVdDNHazczcU1xMnlFZGZzbTNhX2xVdHhxbU94QQ?oc=5"
+    },
+    {
+      "id": "news-48",
+      "headline": "Good news for family Green Card applicants in August visa bulletin, bad news for employment-based candidates; EB-1 may become unavailable",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132536269.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:11:42.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/good-news-for-family-green-card-applicants-in-august-visa-bulletin-bad-news-for-employment-based-candidates-eb-1-may-become-unavailable/articleshow/132536269.cms"
+    },
+    {
+      "id": "news-49",
+      "headline": "Indonesia further cuts budget of president’s free meals scheme",
+      "summary": "Indonesia ⁠has further reduced its ⁠budget for President Prabowo Subianto’s ⁠signature free school meals programme to 229 trillion rupiah (US$12.81 billion) from 268 trillion rupiah and more cuts are possible, senior officials running the project said on Tuesday.\nThe programme is Prabowo’s most impo",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:10:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3361366/indonesia-further-cuts-budget-presidents-free-meals-scheme?utm_source=rss_feed"
+    },
+    {
+      "id": "news-50",
+      "headline": "AJK election commissioner says polls to be held in three phases beginning July 27",
+      "summary": "&lt;p&gt;MUZAFFARABAD: The Azad Jammu and Kashmir (AJK) Election Commission on Tuesday announced that elections in the region, which were &lt;a href=\"https://www.dawn.com/news/2005383\"&gt;originally slated &lt;/a&gt;for July 27, would now be held in three phases ending on August 10.&lt;/p&gt;\n&lt;p&",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:05:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017254/ajk-election-commissioner-says-polls-to-be-held-in-three-phases-beginning-july-27"
+    },
+    {
+      "id": "news-51",
       "headline": "How a 64-team World Cup could transform football’s economics",
       "summary": "Spain, Portugal and Morocco are the cohosts of the 2030 edition, but we await confirmation of 48 or 64 competitors.",
       "urgency": "info",
@@ -20,7 +938,169 @@
       "link": "https://www.aljazeera.com/sports/2026/7/21/how-a-64-team-world-cup-could-transform-footballs-economics?traffic_source=rss"
     },
     {
-      "id": "news-1",
+      "id": "news-52",
+      "headline": "Iranian forces target Bahrain and Kuwait after US hits Iran's south - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:03:37.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5"
+    },
+    {
+      "id": "news-53",
+      "headline": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+      "summary": "Bernard Antwi Boasiako, known as \"Chairman Wontumi\", was also fined more than $10,000 (£7,450).",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:02:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-54",
+      "headline": "53 dolphins stranded in just two days in Massachusetts due to receding tides, now rescuers have safely returned 19 to the sea",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132535970.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:01:49.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/53-dolphins-stranded-in-just-two-days-in-massachusetts-due-to-receding-tides-now-rescuers-have-safely-returned-19-to-the-sea/articleshow/132535970.cms"
+    },
+    {
+      "id": "news-55",
+      "headline": "Why only a handful of cockroach species out of nearly 4,600 chose to live with humans",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132536052.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:01:31.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/why-only-a-handful-of-cockroach-species-out-of-nearly-4600-chose-to-live-with-humans/articleshow/132536052.cms"
+    },
+    {
+      "id": "news-56",
+      "headline": "UN says 144 migrants and refugees reported dead or missing off the coast of Mauritania",
+      "summary": "The UN refugee agency said Tuesday that 144 people were reported dead or missing following \"tragic maritime incidents\" off the coast of Mauritania last week. Two children who were brought safely ashore from one of the sinking boats had lost all of their families during the journey from Gambia.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:01:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/africa/20260721-un-says-144-migrants-and-refugees-reported-dead-or-missing-off-the-coast-of-mauritania"
+    },
+    {
+      "id": "news-57",
+      "headline": "Burnham, UK’s New Prime Minister, Starts With Electricity Tax Cut",
+      "summary": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:01:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html"
+    },
+    {
+      "id": "news-58",
+      "headline": "Best hair dryers on amazon.ae 2026: Fast drying for every budget",
+      "summary": "Best hair dryers on amazon.ae 2026: Fast drying for every budget",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T12:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/best-buys/best-hair-dryers-on-amazonae-2026-fast-drying-for-every-budget-1.500602324"
+    },
+    {
+      "id": "news-59",
+      "headline": "Creatine: New brain fuel for sleep-deprived minds? What studies show",
+      "summary": "Creatine: New brain fuel for sleep-deprived minds? What studies show",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:56:38.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/lifestyle/creatine-new-brain-fuel-for-sleep-deprived-minds-what-study-shows-1.500466626"
+    },
+    {
+      "id": "news-60",
+      "headline": "Retrial ordered after Hong Kong judge caught plagiarising again in ruling",
+      "summary": "A Hong Kong High Court judge previously reprimanded for plagiarism has been found to have done so again, after an appeal court determined that almost 95 per cent of a previous judgment was lifted from the defendant’s counsel.\nIn a ruling dated July 15, which came to light on Tuesday, a panel of thre",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:55:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361365/retrial-ordered-after-hong-kong-judge-caught-plagiarising-again-ruling?utm_source=rss_feed"
+    },
+    {
+      "id": "news-61",
       "headline": "India’s ‘cockroach’ protest movement halts marches after police violence",
       "summary": "Leaders of the movement say they will continue campaigning but will not stage another march through New Delhi.",
       "urgency": "important",
@@ -38,25 +1118,133 @@
       "link": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss"
     },
     {
-      "id": "news-2",
-      "headline": "Trump Administration and Iran Officials Risk a Wider War They Cannot Afford - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1FraDNxV2Rla0F4TEZsY1JoSWkxX28zNW9pSks4WU4tWl9QTmZrNU8xekVOYmNaWnd4UGk1NklWODkycUpUMXA0UEhQQVdZd3RZWDNYWTV2R2ZrNGhzXzZaY2ZpMmFYVVdoN1NaOG13NlY2WTBERENhNURrM1hvdzFKa2NtRDFaNmVCMV9jaw?oc=5\" target=\"_blank\"&gt;Trump Administration and Ir",
+      "id": "news-62",
+      "headline": "Bahrain says intercepted Iranian air attacks - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idWxQRVlkSWFYX3BUQnI2ckgyYmFVRENGLVNCeV9aMlMwdGNBTk95ZVotOFVJZ2NoVDRuYmpvaUVnZDZ0NHRIVDI2aUxFT3NkREVZX29jZm1vOV80dUE?oc=5\" target=\"_blank\"&gt;Bahrain says intercepted Iranian air attacks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:48:45.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idWxQRVlkSWFYX3BUQnI2ckgyYmFVRENGLVNCeV9aMlMwdGNBTk95ZVotOFVJZ2NoVDRuYmpvaUVnZDZ0NHRIVDI2aUxFT3NkREVZX29jZm1vOV80dUE?oc=5"
+    },
+    {
+      "id": "news-63",
+      "headline": "US visa duration changes: Key rules Indian students should know before September 15",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132535289.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:47:14.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-student-visa-rules-are-changing-on-september-15-who-could-be-affected-and-how/articleshow/132535289.cms"
+    },
+    {
+      "id": "news-64",
+      "headline": "First Nations groups devastated by Canada’s wildfires say government did not help",
+      "summary": "&lt;p&gt;Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threat&lt;/p&gt;&lt;p&gt;Fast-moving wildfires have burned two First Nations communities in Canada to the ground, as members said they were left to self-evacuate witho",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-21T11:33:12.000Z",
+      "timestamp": "2026-07-21T11:45:30.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1FraDNxV2Rla0F4TEZsY1JoSWkxX28zNW9pSks4WU4tWl9QTmZrNU8xekVOYmNaWnd4UGk1NklWODkycUpUMXA0UEhQQVdZd3RZWDNYWTV2R2ZrNGhzXzZaY2ZpMmFYVVdoN1NaOG13NlY2WTBERENhNURrM1hvdzFKa2NtRDFaNmVCMV9jaw?oc=5"
+      "link": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government"
     },
     {
-      "id": "news-3",
+      "id": "news-65",
+      "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:42:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-66",
+      "headline": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
+      "summary": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:40:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-67",
+      "headline": "In 1879, a French postman picked up a strange stone. Over the next 33 years, he built one of Europe's most extraordinary palaces by hand",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132535525.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:40:18.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/europe/in-1879-a-french-postman-picked-up-a-strange-stone-over-the-next-33-years-he-built-one-of-europes-most-extraordinary-palaces-by-hand/articleshow/132535525.cms"
+    },
+    {
+      "id": "news-68",
+      "headline": "Modi vows tougher action as paper leak row deepens",
+      "summary": "Modi vows tougher action as paper leak row deepens",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:38:32.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/india/modi-vows-tougher-action-as-paper-leak-row-deepens-1.500615265"
+    },
+    {
+      "id": "news-69",
       "headline": "Hunger is falling but is still higher than pre-COVID levels: UN report",
       "summary": "Global hunger has declined, yet millions of people are still going hungry.",
       "urgency": "info",
@@ -74,7 +1262,79 @@
       "link": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss"
     },
     {
-      "id": "news-4",
+      "id": "news-70",
+      "headline": "Top moments from the FIFA World Cup 2026",
+      "summary": "Top moments from the FIFA World Cup 2026",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:31:55.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/football/world-cup/top-moments-from-the-fifa-world-cup-2026-1.500615248"
+    },
+    {
+      "id": "news-71",
+      "headline": "DRC president agrees to open national dialogue amid mounting political pressure",
+      "summary": "In the Democratic Republic of Congo, President Felix Tshisekedi has agreed to open national talks with the political opposition. The move comes as the Tshisekedi administration experiences intensified political pressure over its proposal to amend the constitution. The agreement to engage in an open ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:30:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260721-drc-president-tshisekedi-agrees-to-open-national-dialogue-amid-mounting-political-pressure"
+    },
+    {
+      "id": "news-72",
+      "headline": "What can China learn from the US sea drone strike on an Iranian submarine base?",
+      "summary": "Chinese military analysts are urging the People’s Liberation Army (PLA) to rapidly strengthen harbour defences after the United States carried out its first combat strike using unmanned surface vessels (USVs) to destroy an Iranian submarine.\nUS Central Command released footage on July 13 of what it ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:30:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/military/article/3361313/what-can-china-learn-us-sea-drone-strike-iranian-submarine-base?utm_source=rss_feed"
+    },
+    {
+      "id": "news-73",
+      "headline": "From fitness tracker to fashion statement: Why wearable tech is getting stylish",
+      "summary": "From fitness tracker to fashion statement: Why wearable tech is getting stylish",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:26:22.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/lifestyle/from-fitness-tracker-to-fashion-accessory-why-wearable-tech-is-getting-a-stylish-makeover-1.500615187"
+    },
+    {
+      "id": "news-74",
       "headline": "Hamas’s new leader must bridge a movement divided over Iran",
       "summary": "After a one-vote victory, Khalil al-Hayya must reconcile rival currents while preserving Hamas’s independence.",
       "urgency": "info",
@@ -92,7 +1352,43 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss"
     },
     {
-      "id": "news-5",
+      "id": "news-75",
+      "headline": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+      "summary": "A \"state of catastrophe\" has been declared in Coquimbo and Huasco following the downpour.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC LatAm",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:21:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-76",
+      "headline": "🔴Middle East live: Kuwait accuses Iran of again attacking critical power and desalination plants",
+      "summary": "🔴Middle East live: Kuwait accuses Iran of again attacking critical power and desalination plants",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:13:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah"
+    },
+    {
+      "id": "news-77",
       "headline": "‘Won’t back down’: Indian student protesters return after police crackdown",
       "summary": "More than 100 students injured in police action against thousands of demonstrators during march on parliament.",
       "urgency": "important",
@@ -110,7 +1406,43 @@
       "link": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss"
     },
     {
-      "id": "news-6",
+      "id": "news-78",
+      "headline": "Saudi govt launches multiple-entry Umrah visa with one-year validity",
+      "summary": "&lt;p&gt;The Saudi Ministry of Haj and Umrah has launched a multiple-entry Umrah visa with one-year validity from the date of issuance, through which pilgrims will be able to enter the kingdom multiple times, with a cumulative stay of up to 90 days each year, state-run &lt;em&gt;Saudi Press Agency&l",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:10:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017249/saudi-govt-launches-multiple-entry-umrah-visa-with-one-year-validity"
+    },
+    {
+      "id": "news-79",
+      "headline": "UAE residents&apos; update: Latest on Iran attacks, flight cancellations and travel advisories",
+      "summary": "UAE residents&apos; update: Latest on Iran attacks, flight cancellations and travel advisories",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T11:10:15.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/uae-residents-update-latest-on-iran-attacks-flight-cancellations-and-travel-advisories-1.500615183"
+    },
+    {
+      "id": "news-80",
       "headline": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
       "summary": "Aoun is in Washington, DC seeking US backing to end the fighting and secure an Israeli withdrawal from southern Lebanon.",
       "urgency": "info",
@@ -128,1689 +1460,375 @@
       "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss"
     },
     {
-      "id": "news-7",
-      "headline": "Arizona’s primary elections: Which US races to watch and why they matter",
-      "summary": "From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T10:28:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss"
-    },
-    {
-      "id": "news-8",
-      "headline": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
-      "summary": "The Lebanese president is seeking Washington&#039;s support for his agenda, including diplomacy with Israel.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T10:27:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss"
-    },
-    {
-      "id": "news-9",
-      "headline": "FIFA World Cup 2026: Who had the most goals and assists at the tournament?",
-      "summary": "FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T10:25:18.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss"
-    },
-    {
-      "id": "news-10",
-      "headline": "Can AI systems make moral decisions in war?",
-      "summary": "As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T10:21:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss"
-    },
-    {
-      "id": "news-11",
-      "headline": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
-      "summary": "Burnham is attempting to act quickly ​to deliver on promises to tackle the UK&#039;s cost-of-living crisis.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T10:20:22.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/21/andy-burnham-to-cut-taxes-on-electricity-bills-announces-new-uk-cabinet?traffic_source=rss"
-    },
-    {
-      "id": "news-12",
-      "headline": "Australian MP interrupts tough interview to yell at dog",
-      "summary": "Australian politician Barnaby Joyce interrupted a live TV interview to shout at his dog.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T10:19:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/australian-mp-interrupts-tough-interview-to-yell-at-dog?traffic_source=rss"
-    },
-    {
-      "id": "news-13",
-      "headline": "Another U.S. Service Member Is Killed as Iran War Expands - The New York Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmViUUFFckx5RUFieFpDdVFUb2hrazdyVkJuRUFfcXpEQV9xbURPal9ucHY2a2pjV0p5d3lEMFZGR01VekxzanpkZUZoQ0Z2WHdzZF8tbEZqeThTUDU3c3pVd2tRMG5tX1c3T1dyRDlOSkZjRnl4eGtFeHFKNTlRbA?oc=5\" target=\"_blank\"&gt;Another U.S. Service Member Is Killed as Iran W",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T10:06:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmViUUFFckx5RUFieFpDdVFUb2hrazdyVkJuRUFfcXpEQV9xbURPal9ucHY2a2pjV0p5d3lEMFZGR01VekxzanpkZUZoQ0Z2WHdzZF8tbEZqeThTUDU3c3pVd2tRMG5tX1c3T1dyRDlOSkZjRnl4eGtFeHFKNTlRbA?oc=5"
-    },
-    {
-      "id": "news-14",
-      "headline": "Huge fire at Ukraine shopping centre after Russian drone strike",
-      "summary": "A fire engulfed a shopping centre in Ukraine&#039;s Sumy after Russian drone strikes hit the building.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T09:52:56.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss"
-    },
-    {
-      "id": "news-15",
-      "headline": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
-      "summary": "Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T09:48:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss"
-    },
-    {
-      "id": "news-16",
-      "headline": "Almost 100 troops injured in recent weeks, Pentagon admits, as Iran launches reprisals on US allies - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGRld2lfUmNjeFhHQkU2dEphMDF5MUp2QnNHeUk1MDYzX2E1bVU2WkpOWlVXWXgwdjNsMHdIMEFkbDdPYl9BMFFDdEd0QThMdHM0SHpBVl8xbXVwMXZDeXFmUmZJRVVZblpVeTRMc2ZTcmZQX05fQWpxeW12V3JiX0xlNE54WHFIV2tkaUxkZmdpWnRDdmlYU1RlU0Q?oc=5\" target=\"_blank\"&gt;Almost 100",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T09:37:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGRld2lfUmNjeFhHQkU2dEphMDF5MUp2QnNHeUk1MDYzX2E1bVU2WkpOWlVXWXgwdjNsMHdIMEFkbDdPYl9BMFFDdEd0QThMdHM0SHpBVl8xbXVwMXZDeXFmUmZJRVVZblpVeTRMc2ZTcmZQX05fQWpxeW12V3JiX0xlNE54WHFIV2tkaUxkZmdpWnRDdmlYU1RlU0Q?oc=5"
-    },
-    {
-      "id": "news-17",
-      "headline": "Philippine Foreign Secretary says ASEAN must work together",
-      "summary": "Philippine Foreign Secretary says ASEAN must work together",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T09:18:50.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss"
-    },
-    {
-      "id": "news-18",
-      "headline": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest? - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcE1qSkpPVGFzd0I0UUlwaTM3TnVUT3gtZF9XMDBUTlFsWU1wNGJRMEMwNFYteVdqd1c5dFVTdi1UOGQ0NjlpLTBEbFRVQTJlc2FUbHBsNmxzX3ljN25WYnZrS0M5OHU2Z1dGWTZFdDgtVnYwcC1jWWxKcTVWNDVKaDdxaE5wLV8yWW9tY2JRdndfeGw0T1FjS1hMa2d3ajV0LUtiQVBtR1d5Y2ZQ0gGyAUFVX3lxTE5",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T09:08:24.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcE1qSkpPVGFzd0I0UUlwaTM3TnVUT3gtZF9XMDBUTlFsWU1wNGJRMEMwNFYteVdqd1c5dFVTdi1UOGQ0NjlpLTBEbFRVQTJlc2FUbHBsNmxzX3ljN25WYnZrS0M5OHU2Z1dGWTZFdDgtVnYwcC1jWWxKcTVWNDVKaDdxaE5wLV8yWW9tY2JRdndfeGw0T1FjS1hMa2d3ajV0LUtiQVBtR1d5Y2ZQ0gGyAUFVX3lxTE5TRW5aRGItcGZRZ0E0MDF3VEpBWE93Y0dvaEc2cDlCTGRzTGlJeExrY0k2MVNPRmtZSVlud1JFcDlYMWp2R1JrakV2Y05xZ0ZZZnJpZGVYQUszM0tZSEtjZklESjNXOEVHN1ZSYjlfX21LQXFuSV9MODJEUHpucGd6aXdnbmQxenlmZ2FoUTU4RGxnUzYwMzFFUjVyQlhiMTA4S3FOQnVVMGYzeVpZWXh3eWc?oc=5"
-    },
-    {
-      "id": "news-19",
-      "headline": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
-      "summary": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T08:56:19.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss"
-    },
-    {
-      "id": "news-20",
-      "headline": "Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics",
-      "summary": "Farage&#039;s crisis after revelations of substantial crypto donations prompts broader political questions over donor clout.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T08:51:19.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/21/farage-reform-in-trouble-as-uk-braces-for-crypto-influence-in-politics?traffic_source=rss"
-    },
-    {
-      "id": "news-21",
-      "headline": "Israeli forces open fire on children in Syrian village",
-      "summary": "Israeli forces open fire on children in Syrian village",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T08:39:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss"
-    },
-    {
-      "id": "news-22",
-      "headline": "What are ‘civilian’ sites in international law and where have US, Iran hit? - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDd3cGpLc0JGVHNQSURkTTF2TTBfbDI3dXhQRDZNa1JPb0NzNUxtUkNsaUFuN1VPd1JWSkpSdU5QVXJqTThIaV9yX2pVZDByakE5bEtPa3RkQWFWdnI0QWhEX2dpUXEtZHR1c1loUGhnR2M2NTdaMURNOVpPOUFlZDBYakEzRzNhek1URzZYWlUwaHRRVTYwLTNmMHRuT0kyVUwwVENPQVVPaUQ0SkgzVjNB0gG3AUF",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T07:02:31.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDd3cGpLc0JGVHNQSURkTTF2TTBfbDI3dXhQRDZNa1JPb0NzNUxtUkNsaUFuN1VPd1JWSkpSdU5QVXJqTThIaV9yX2pVZDByakE5bEtPa3RkQWFWdnI0QWhEX2dpUXEtZHR1c1loUGhnR2M2NTdaMURNOVpPOUFlZDBYakEzRzNhek1URzZYWlUwaHRRVTYwLTNmMHRuT0kyVUwwVENPQVVPaUQ0SkgzVjNB0gG3AUFVX3lxTFBHSmpQWEktVFk2NFExejVyTXZCNlRVOWtnZ08wWHluZVNRb0gxengxeXBMNDZzOFVYaEtZRm1MUWRLOUJZdXRnMm44RkNSZDNfUUFRU1h3eEVnSXhJdVlhR1ZON2tpWXBYUGx0ZmlDMWxDSXp6RW9xUzhNZUtsdlBfSDdZcDgteFJueWVZZlQwQVY2b1RxR3dIdFlsVjBnc2ZYcjZVS2RoVDUzLTVRd3htZk5XWjBXWQ?oc=5"
-    },
-    {
-      "id": "news-23",
-      "headline": "Lebanon's president will meet with Trump in Washington to push for Israeli troop withdrawal - The New Indian Express",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGxyZDZBUWF6SVNOVFhDdWh0c3FsYUM2VDY2WGFvLU80dzMzUjNBNmVHX0NmbGhWUllBMm92YndxRmlrbTVhb2ZhQzR2ZEFYa1R5bkVCM2Z4ZHZhMXlKTW9YNVZSRGZOUmtidElEV05tV2ItYjEtZ1E0LVRiTzQyMnpyZ1BvbkF6Wk1ZTFJlNFo4VU5YVGw2eFdmZlBzRVFpSXRlTkdRVzMySHc0bWQzekxDdUtXSVp",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T05:34:21.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGxyZDZBUWF6SVNOVFhDdWh0c3FsYUM2VDY2WGFvLU80dzMzUjNBNmVHX0NmbGhWUllBMm92YndxRmlrbTVhb2ZhQzR2ZEFYa1R5bkVCM2Z4ZHZhMXlKTW9YNVZSRGZOUmtidElEV05tV2ItYjEtZ1E0LVRiTzQyMnpyZ1BvbkF6Wk1ZTFJlNFo4VU5YVGw2eFdmZlBzRVFpSXRlTkdRVzMySHc0bWQzekxDdUtXSVpXeWQ3Z0FBa0kxMklzd254V2VGYXZ4NVpfd3dLNWhfNjjSAeYBQVVfeXFMTnEyTzdjZ1JXSTNoWkV3MzB4ZHhITmxfbUpBelFlQzJZRFBUZUlibV9mRU5mSlNpUkNBSzlrWkJsNUdZN1FqZVdEVDFPbW5WdW9FeVMtZWR2V1lXYTItdzdRdXQ0RUJ3ckxOLUZnX2dVQ1ctMXNyZUlyYjhXWngzZF9DeWlqLUJaU1NfUW1nWmlLM0p6dk5LWEZoclJiTVI5WkpTd29fU1RRbFYzZzFvYmNpQjZjWS1QOXRNQmpxT0lIR1lZbDBSckdwYzh2emJjc042WVV1N0xyZ2c1dkRoZG9tYXFET0E?oc=5"
-    },
-    {
-      "id": "news-24",
-      "headline": "Iran says it attacked Amazon infrastructure in Bahrain - CNBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEw4M2VDTUNuRDN3anF6bXQyb2JtUnI0bTBPV19INldFQy1xcHh2Vm9yeEZTd3hoSVYyYTEyZ29YVEtodmkzT3JTNWR1SkxPekpJZFJ4NXNRWW5PZ0lNSjFLN1hWOTNwRzA0TFIyWERDenBIR040bGZlU0ZsalVYSFZ3Z1RlOEZicGx0Q0FyX1U3LWRjcVp4bWVwMDl6alVVWFd1NDdyNNIBrAFBVV95cUxOaVBSUmZ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T05:13:14.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTEw4M2VDTUNuRDN3anF6bXQyb2JtUnI0bTBPV19INldFQy1xcHh2Vm9yeEZTd3hoSVYyYTEyZ29YVEtodmkzT3JTNWR1SkxPekpJZFJ4NXNRWW5PZ0lNSjFLN1hWOTNwRzA0TFIyWERDenBIR040bGZlU0ZsalVYSFZ3Z1RlOEZicGx0Q0FyX1U3LWRjcVp4bWVwMDl6alVVWFd1NDdyNNIBrAFBVV95cUxOaVBSUmZ5TlNCRDd1aEdqcE1QRms4UFh2SHNISFEwUm5fLXZZem92aVR5bFhxZDIzVmdIWlBvVTU5OWEtS3JBTFNLYUt4OUxsVUkyMnNFbGdGR25Pd18tUmpmUnNXcUg1Z1F5NFhBUUFXc29KOHlWbzlvdTk0ODMyeUx3RmtTS1J5OTVHejJGa1Atc2dGV0F2T0ljeEVaa09fQ2d0cDNwc0R3UnVV?oc=5"
-    },
-    {
-      "id": "news-25",
-      "headline": "July 20, 2026 — US completes more strikes against Iran after Trump warning to Tehran - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNkw0Q1VPUDBXanZUeUtTZFpFYmV1ZWJwazYzd29VY1dKM19EMmJsdEFCNFg5cU94MFZNNS1JbjZxRWZFd0p1T2NpWkNlWGl5M2FTa1hRa1dsTm1wNjZraHBzOXhBVnlYT2ZGcGhR?oc=5\" target=\"_blank\"&gt;July 20, 2026 — US completes more strikes against Iran after Trump warnin",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T04:09:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vNkw0Q1VPUDBXanZUeUtTZFpFYmV1ZWJwazYzd29VY1dKM19EMmJsdEFCNFg5cU94MFZNNS1JbjZxRWZFd0p1T2NpWkNlWGl5M2FTa1hRa1dsTm1wNjZraHBzOXhBVnlYT2ZGcGhR?oc=5"
-    },
-    {
-      "id": "news-26",
-      "headline": "US attacks Iran for 10th consecutive night - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUh0VUFhQy00V0hoRUU0bnctN2V2aFM1N1FkeXVJUGdpTTlwRnhQOHV5dFFFdXFmS2dTN1ZQQWlYR3pSb0RPYkRGS2NySGl2MU5PRnVEWmFKLXF6RktkQTBDQzFvcEFfYTZsd2lOQ3M0WExtQUNTbnZUSWxzRU10UW1wVXpHc1h5anVidkg5YW1JVU0zNXdIVWl2b9IBoAFBVV95cUxNVHRfZUFKdTR6NWlGVlZNUjN",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T03:32:04.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUh0VUFhQy00V0hoRUU0bnctN2V2aFM1N1FkeXVJUGdpTTlwRnhQOHV5dFFFdXFmS2dTN1ZQQWlYR3pSb0RPYkRGS2NySGl2MU5PRnVEWmFKLXF6RktkQTBDQzFvcEFfYTZsd2lOQ3M0WExtQUNTbnZUSWxzRU10UW1wVXpHc1h5anVidkg5YW1JVU0zNXdIVWl2b9IBoAFBVV95cUxNVHRfZUFKdTR6NWlGVlZNUjN1RFQ1TG44TmNCQVNtNjdCaldMREkzZklKYVN4cE0tanlwRU85d19UZGd2aVJuNTFfNkxFclhDaFpwejcyMXgtWUxRVE44SndnOFFCeWd4c1hVSllrMjVQRWFYb3B3R3IzMkFNQlppVE5wb1pXV1dRSkFEZVhXYUFQb0NkNzZmQnhQS2xnMndm?oc=5"
-    },
-    {
-      "id": "news-27",
-      "headline": "Iran mediators push new ceasefire as Trump eyes all-out war - Axios",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1BU2NwU0RESnRaNHR5OTBTeVRHVFVyZ2hMbFRiTjdsQnlyZXBtcjRTOVhxZ3A3Z2QtUHFyeU91QzExejdUNUxzSEZaalZfX2JGa0Q2TWZWaUc1bGpTcFpEVzZzNXZQSlU2RnlfckF4U1BRZ2ZzLTg1QUhob0hmUQ?oc=5\" target=\"_blank\"&gt;Iran mediators push new ceasefire as Trump eyes all",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-21T02:32:21.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BU2NwU0RESnRaNHR5OTBTeVRHVFVyZ2hMbFRiTjdsQnlyZXBtcjRTOVhxZ3A3Z2QtUHFyeU91QzExejdUNUxzSEZaalZfX2JGa0Q2TWZWaUc1bGpTcFpEVzZzNXZQSlU2RnlfckF4U1BRZ2ZzLTg1QUhob0hmUQ?oc=5"
-    },
-    {
-      "id": "news-28",
-      "headline": "Iran war updates: US launches new attacks; Houthis announce Saudi blockade - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHF3aV9CSGJTNDE1X1NWeUNnbkxKa2lmQnQ5LUtBTHF1QUJFUVUzb3QycktuMms1Y2dvczR2MENLeDhwU19SVXZFaGY1bDNNUENZd01nQnloVkFCanVSLXZ1MUs4NzdUdHlFdG9YNEFhWHVRLVdTcWl2WHpFRkZSYy1rZTI1QzhhZms5Y29tRWFZU0dMQnRDdUs1el9TQlFkV2NVOUFLSmQ2TS1wRHMtZUhoalkzWHV",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T23:27:06.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHF3aV9CSGJTNDE1X1NWeUNnbkxKa2lmQnQ5LUtBTHF1QUJFUVUzb3QycktuMms1Y2dvczR2MENLeDhwU19SVXZFaGY1bDNNUENZd01nQnloVkFCanVSLXZ1MUs4NzdUdHlFdG9YNEFhWHVRLVdTcWl2WHpFRkZSYy1rZTI1QzhhZms5Y29tRWFZU0dMQnRDdUs1el9TQlFkV2NVOUFLSmQ2TS1wRHMtZUhoalkzWHVrSXJJ0gHAAUFVX3lxTFAwX2wtLVpHZ1kwZ2VGTWYzbTdWSGtxZzViQUhrc2t0QUNySWVYaC1DQWJxNzRwWGh2b1c3VDB4T1ZCTXYtWjZ4dWJGcWE5YVc3U1NuUnBNbW1CLXJ2LU9fTkVDVmJEZzVIRWRXYllhMmFmMVRvdWlaRUVOY0RmMWE2dU1OUlJKRm1UZUJ3ZElGdVA4cHljNWlXRHNoUUs0TWNpelNpYm1BU0Z5dUN6SjVOS1RYenh0bUVNdWswRFJPWA?oc=5"
-    },
-    {
-      "id": "news-29",
-      "headline": "US launches 10th round of strikes as Iran says it is in ‘full-scale war’ - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqYURIaDAySDVzVnJYZ2kzMVN5WjJLeUNxc3NKZmNRWS1NZGZ2RVp3Vkt3VWxBMFpDb1RoV1YzTWxsQ2RoVWN0UUhfQ09oQkM0T00zbElUV0tWbVNQVDVoNGo4TGZCeEt4Y1c5T2pwcFFKcEJUeVA3eGJNRnNLMDJqLW8xR1ZwcGV4dXdWSExpa3M?oc=5\" target=\"_blank\"&gt;US launches 10th round",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T20:19:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2lqYURIaDAySDVzVnJYZ2kzMVN5WjJLeUNxc3NKZmNRWS1NZGZ2RVp3Vkt3VWxBMFpDb1RoV1YzTWxsQ2RoVWN0UUhfQ09oQkM0T00zbElUV0tWbVNQVDVoNGo4TGZCeEt4Y1c5T2pwcFFKcEJUeVA3eGJNRnNLMDJqLW8xR1ZwcGV4dXdWSExpa3M?oc=5"
-    },
-    {
-      "id": "news-30",
-      "headline": "Hamas names Khalil al-Hayya as new overall leader - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWLXpYSnlybVF0WnFsbzNDM1BNS1JybG96cllNOW1fQkltc1NHZ3h5dldBR2E3R0FBU09rcHU3TmVsdzZpVEZtUHZCOTQ2aTh6WVJNLThNX2xTdw?oc=5\" target=\"_blank\"&gt;Hamas names Khalil al-Hayya as new overall leader&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T14:02:31.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWLXpYSnlybVF0WnFsbzNDM1BNS1JybG96cllNOW1fQkltc1NHZ3h5dldBR2E3R0FBU09rcHU3TmVsdzZpVEZtUHZCOTQ2aTh6WVJNLThNX2xTdw?oc=5"
-    },
-    {
-      "id": "news-31",
-      "headline": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, &amp; Conflict - Encyclopedia Britannica",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\"&gt;2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, &amp; Conflict&lt;/a",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T05:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5"
-    },
-    {
-      "id": "news-32",
-      "headline": "July 19, 2026 - US begins ninth night of strikes, Iran claims new wave of missiles launched - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE44bXlOcmpkb0k1N2ZtY2htQTFydkdHUXZ2THZMS3NGTEY3RXJKS1NiYVNuUUlKVGpzX0MzaElmbHZ5TDQ2MGhweGRPOWFnOHk2SWJiTThFVmluRjY3SGdFMGVKdzE1VFZNam5SdnNn?oc=5\" target=\"_blank\"&gt;July 19, 2026 - US begins ninth night of strikes, Iran claims new wave of",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T04:50:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44bXlOcmpkb0k1N2ZtY2htQTFydkdHUXZ2THZMS3NGTEY3RXJKS1NiYVNuUUlKVGpzX0MzaElmbHZ5TDQ2MGhweGRPOWFnOHk2SWJiTThFVmluRjY3SGdFMGVKdzE1VFZNam5SdnNn?oc=5"
-    },
-    {
-      "id": "news-33",
-      "headline": "Iran war updates: US attacks nuclear site; Kuwait desalination plant hit - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0x3a0wzS2pXQVZJdHBKUTVyRjNncVV1cGtrLWdjWGRDVDFMV3l2YWkxN2E3bE8xWmpXV2kxN0pqdHdpanMyamZIdjB0ZDhGUWtXbmVPQjcySlZRT2dEdWJ0Qks0aVM3WkVuQXlYUTVybW0xSHdNcENlRFc2Z2pKQ2NDOHZHN1ZIblR3RmplVDJsVjAtTzB6am5ZVHZ5T3U1NHhrOUtJbTNpRV9zRFR2VUNPZjFRYkH",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T00:11:40.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0x3a0wzS2pXQVZJdHBKUTVyRjNncVV1cGtrLWdjWGRDVDFMV3l2YWkxN2E3bE8xWmpXV2kxN0pqdHdpanMyamZIdjB0ZDhGUWtXbmVPQjcySlZRT2dEdWJ0Qks0aVM3WkVuQXlYUTVybW0xSHdNcENlRFc2Z2pKQ2NDOHZHN1ZIblR3RmplVDJsVjAtTzB6am5ZVHZ5T3U1NHhrOUtJbTNpRV9zRFR2VUNPZjFRYkHSAbwBQVVfeXFMUGNmdVE0ZTFwOU5EclpJZm9pS0s2NjhvWkRmUHlwVWMzaXlaOFZPOG1iUXQ5aWVFamZjbldSMjVyR251ZzNOLWx6RUlFaTNWSFA5eTc4eTdtMm5ib3BTZEkxZk9wLUl0WVlVMHBUOHBjWi1qM1puc05oTzFwcWV1X25GTmx6TzNweER2SE1DbXg0SkVYSzNwaklkcGZYWE9tamE3M2xjZzZ0WWpBVmRESjlqNFIwcGR6NG9mRXo?oc=5"
-    },
-    {
-      "id": "news-34",
-      "headline": "US issues ‘worldwide caution’ for American citizens – as it happened - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUN",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-20T00:01:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYlNIOVRycE5IMVc1QVBrRGlTRTJ6Ty1jRW1CRFhGMGl2RWUzWGJ6ODZVT1NsMjZBdzBobVU4cG5hdGlYSkVZTzdyVUl4YmlDU0JCeEpMajB2czlZZjltY1RtVDlnRHNoWGQtdHZxVkNuZzB2Q0FJU0RkNW1kak5fTGFnTmFVRmtzb1dkTHJrWmh0NUpUUTVjRFlFU0tDR3Ffa3NlX3ZwSlNzb20zczZsaExlN2p5dUNDemZRazNzOVF4V011ZWNXUUQ3Zw?oc=5"
-    },
-    {
-      "id": "news-35",
-      "headline": "July 18, 2026 – US-Iran war news - CNN",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5\" target=\"_blank\"&gt;July 18, 2026 – US-Iran war news&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font co",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-19T08:29:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGlzV0M5eFNoa21PNkMyc0xxNmZTOEpMOU5Lek9MNFpvOUc0a21SbkpMOFpjbXhzVEtMU0o3SG42UHZjUl8wMHdvSzcxbE1lbzE5dnBhaDRtbFRINzVxLWdpQ1l1Z0YtRG9yejdR?oc=5"
-    },
-    {
-      "id": "news-36",
-      "headline": "Trump and Xi aim for stable US-China ties amid Taiwan tensions - Crypto Briefing",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkU0Q0dtcDgxLXVFcWZqTE1XMTBzeEJDRnA4bDZ6OE85VFR5Y01TaW81UUlNMnp1MWEyTkljVzJadWhpTWtoXzNyU2FXb0dQMVdFaTc0Vmkyd19KT0pBMEkzclNjM1pRdkgxUTQxOXM2T1lLdjk4UG9OZmlnY05OREFMbkZyejRmNUctTUhjQUhVOVdO?oc=5\" target=\"_blank\"&gt;Trump and Xi aim for ",
-      "urgency": "info",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-17T21:42:31.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQkU0Q0dtcDgxLXVFcWZqTE1XMTBzeEJDRnA4bDZ6OE85VFR5Y01TaW81UUlNMnp1MWEyTkljVzJadWhpTWtoXzNyU2FXb0dQMVdFaTc0Vmkyd19KT0pBMEkzclNjM1pRdkgxUTQxOXM2T1lLdjk4UG9OZmlnY05OREFMbkZyejRmNUctTUhjQUhVOVdO?oc=5"
-    },
-    {
-      "id": "news-37",
-      "headline": "Central Sahel (Burkina Faso, Mali and Niger) - Global Centre for the Responsibility to Protect",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdUYxUEltWHlDS0lzRnRvWmFOZXhzbGhUOGh2c2Ywb05qaTNQZFgzSWU3QjVIN1NBYnVtclBBSWxfMmt5b19ReHU1LXhRZnZWRmdZ?oc=5\" target=\"_blank\"&gt;Central Sahel (Burkina Faso, Mali and Niger)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Global ",
-      "urgency": "info",
-      "topic": "sahel",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-15T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdUYxUEltWHlDS0lzRnRvWmFOZXhzbGhUOGh2c2Ywb05qaTNQZFgzSWU3QjVIN1NBYnVtclBBSWxfMmt5b19ReHU1LXhRZnZWRmdZ?oc=5"
-    },
-    {
-      "id": "news-38",
-      "headline": "Israeli-Palestinian Conflict Timeline | CFR Education - Council on Foreign Relations",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVm5tcGl3dXp2Q2hfdDJueGFRY1NCbF9kMldaU3ZxdEY4OEc1bkdsMURNUzZEUFlfblBoRVFWR1ZqeWNxQ3FXY3lnNG5ZYkJzVFZOZ2ZYNVF6MEVFSjZQaUY3aktfeTJER19BbE1nR1RKc1ZUcm5RcTJ2S1dLQ0tiYmJJdzVCaTltenJB?oc=5\" target=\"_blank\"&gt;Israeli-Palestinian Conflict Time",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-14T10:08:43.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVm5tcGl3dXp2Q2hfdDJueGFRY1NCbF9kMldaU3ZxdEY4OEc1bkdsMURNUzZEUFlfblBoRVFWR1ZqeWNxQ3FXY3lnNG5ZYkJzVFZOZ2ZYNVF6MEVFSjZQaUY3aktfeTJER19BbE1nR1RKc1ZUcm5RcTJ2S1dLQ0tiYmJJdzVCaTltenJB?oc=5"
-    },
-    {
-      "id": "news-39",
-      "headline": "US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5\" target=\"_blank\"&gt;US and Iran e",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-10T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5"
-    },
-    {
-      "id": "news-40",
-      "headline": "Sahel collapse, Mali conflict - GIS Reports",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1qZVU2ZkdGUVJVX1ZSZGlMS1VXaXNjTlhvX2p0U3JEWXZ4RktBYmJJUjFwbkd3aURFVWJTV25SdjhOSEtCQWRMaHJMVkxwemU0bWRUWVNsaDBNcWNwMjUyVTdsSUZ6TjhseFRsS25HOXBndw?oc=5\" target=\"_blank\"&gt;Sahel collapse, Mali conflict&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font",
-      "urgency": "important",
-      "topic": "sahel",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-10T06:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZVU2ZkdGUVJVX1ZSZGlMS1VXaXNjTlhvX2p0U3JEWXZ4RktBYmJJUjFwbkd3aURFVWJTV25SdjhOSEtCQWRMaHJMVkxwemU0bWRUWVNsaDBNcWNwMjUyVTdsSUZ6TjhseFRsS25HOXBndw?oc=5"
-    },
-    {
-      "id": "news-41",
-      "headline": "Lebanon: Israeli attacks killing children, wiping out families must be investigated as war crimes - Amnesty International",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeDlnS1RuNTZwbG9WR053SW9iWDVTam5vdjVKOE1QbFNWY1JfMmUydl8yLUw4UndaXzFEeTBFMzF3VzVkc2FRd3BkaEtRbjRkT1E2aHVNX1dCc2hvbnREVktESDdiVER1d2ExNEVHa0RIY29NY3ZIcHRZLUhYYWhzdmZXMUI3WnNLVWpGdlV4Vk1OWmpNaDBBa1Vva0RMNEJUcHBueG9CNlV2bktWcnd5T0V2akhYeGt",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-09T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeDlnS1RuNTZwbG9WR053SW9iWDVTam5vdjVKOE1QbFNWY1JfMmUydl8yLUw4UndaXzFEeTBFMzF3VzVkc2FRd3BkaEtRbjRkT1E2aHVNX1dCc2hvbnREVktESDdiVER1d2ExNEVHa0RIY29NY3ZIcHRZLUhYYWhzdmZXMUI3WnNLVWpGdlV4Vk1OWmpNaDBBa1Vva0RMNEJUcHBueG9CNlV2bktWcnd5T0V2akhYeGtaYnJLdU5WQWFvcVNuQWJlcWppT3pudXo3cS1wYnJkd1RiaW8?oc=5"
-    },
-    {
-      "id": "news-42",
-      "headline": "Hamas dissolves its government in Gaza to transfer power to a UN-backed committee - AP News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQW81TnNaY1YwT3NlaUtUODNiS1hzU3pTbTdGNUlhWl9DQ0M3NHllS2R2bDRCZGpRWllYS3loRDZ6RklsbHRiYS1EbFBXRnBxUVpsNlhaVDJzX1FON2VPU0NVTHd6bXhfQXpsaWZXdmx6a00xLURKNUR3QUpUcDVhay1FUnJ3ZFVnUGxoRzkxWmVHSm5aSS0zN25EUXZ6RjhJT1ZjRjlJQlY?oc=5\" target=\"_blan",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-06T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQW81TnNaY1YwT3NlaUtUODNiS1hzU3pTbTdGNUlhWl9DQ0M3NHllS2R2bDRCZGpRWllYS3loRDZ6RklsbHRiYS1EbFBXRnBxUVpsNlhaVDJzX1FON2VPU0NVTHd6bXhfQXpsaWZXdmx6a00xLURKNUR3QUpUcDVhay1FUnJ3ZFVnUGxoRzkxWmVHSm5aSS0zN25EUXZ6RjhJT1ZjRjlJQlY?oc=5"
-    },
-    {
-      "id": "news-43",
-      "headline": "Gaza's future remains uncertain as Palestinians and Israelis mark 1,000 days of war - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNVU9BdVdaOVlkZEZPODloSFZ4Z0xvZHo1Xzh3TmlvOXRLa0xhTlR6eE1Wa2RxeTVpZUlCR2dZbzlGUzdvQXpMdE9hMWVhd0lnb2VhMV9lY0phSV9CYXFTOENzclJTSkp5clN1ZFRGZUhSSkFiRDNJSm9IeVFCOGg2TmJGaWJuWlpGa2c1NWhuLXV3Nk1ySXVQYUlnelFkZGdneDI0Ym11NU1GWm5ZZkFMMHhXZEQyNWv",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-02T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVU9BdVdaOVlkZEZPODloSFZ4Z0xvZHo1Xzh3TmlvOXRLa0xhTlR6eE1Wa2RxeTVpZUlCR2dZbzlGUzdvQXpMdE9hMWVhd0lnb2VhMV9lY0phSV9CYXFTOENzclJTSkp5clN1ZFRGZUhSSkFiRDNJSm9IeVFCOGg2TmJGaWJuWlpGa2c1NWhuLXV3Nk1ySXVQYUlnelFkZGdneDI0Ym11NU1GWm5ZZkFMMHhXZEQyNWvSAbwBQVVfeXFMTUt4Uzk5Vlk3RUxQUzFzdkM3Ynd2UXBfc3BoZ2dvTVFRMFMyYUJVZ3hZUVQydDYzY0hWN0FIeW5QSVJYanpOZ1k1akhpcFk2cG5vVzNKU0ptZ1VrWmFCekFrMFRHc2V2TXdta25NakMyRVJfZHJTazRVOU9wY2JBdnduZ09IT1dlS3BUS25FX0VXeThyTmV0elphSnNibFgwc0J5TUctV1dEMmtYSkllU0NoUFpBZEp0MXlaWW0?oc=5"
-    },
-    {
-      "id": "news-44",
-      "headline": "Ousting Maduro, Trump vowed US would run Venezuela. Quakes put that to a test. - The Christian Science Monitor",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVdzeUotN054Qm56bjAzejd6cDlOdVhPNUZvVzJWeDZPdGhhS0hfMEJoSGRXcU41djc2am9wdWg3dFMwNWY5MUR5OVNVQWZwenRucXd4VUNaUWxPVlUwWkpVY0dZM0dtZEU5QjdERHNVNWZxOVZldUYycEFleFdZMlczVWxDY3JFYzVSX05ZY1VTYkVvZGp5NjJ4VFl5LUlQMjI2Q2J5dVIxZ19hN3ZlWkZaY9IBzAF",
-      "urgency": "info",
-      "topic": "venezuela",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-02T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOVdzeUotN054Qm56bjAzejd6cDlOdVhPNUZvVzJWeDZPdGhhS0hfMEJoSGRXcU41djc2am9wdWg3dFMwNWY5MUR5OVNVQWZwenRucXd4VUNaUWxPVlUwWkpVY0dZM0dtZEU5QjdERHNVNWZxOVZldUYycEFleFdZMlczVWxDY3JFYzVSX05ZY1VTYkVvZGp5NjJ4VFl5LUlQMjI2Q2J5dVIxZ19hN3ZlWkZaY9IBzAFBVV95cUxPRlREMUpEbkNHYXB5R241YmNQbXdBVEttU1AxeHR0WWhKc1FrdU9UT0M3RDc2OU1JRnEwWVN5UlpMREFtbTltWFhIZG15RE1RQ1M2aWhQa1J6T014TUxKYmRaRVMxZkdSMFBRdzJ0SC1BU3BDTE5GdDdORE1YdW5uV1RZWWVhcmxGWE10UXZ0SUxfVkZSbDBGR09rWVlrUmtIeUNwc2hnSV96QXNrSUsyRkVETzFJTjFGY1UzQ2Y4Q3Z5QzMzQXRzdDM5Vmw?oc=5"
-    },
-    {
-      "id": "news-45",
-      "headline": "Burkina Faso/Mali/Niger: Withdrawal from the Rome Statute consecrates impunity and threatens to deny victims of war crimes justice and reparations - Amnesty International",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZ1VmR3p5M1NYOXZqOU5HbWZXdWIyUV9VVGxzS3dISUpBamtNWTRORTdnWk5FTFFZX2twVlliRnhJeEFVLWJhSmE1dS1JXzdFV2t6TlZaamNVeGQ4OEt2OGVueHNYOHQ5MDZTTnFrUUdsaFRX?oc=5\" target=\"_blank\"&gt;Burkina Faso/Mali/Niger: Withdrawal from the Rome Statute consecr",
-      "urgency": "breaking",
-      "topic": "sahel",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-02T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZ1VmR3p5M1NYOXZqOU5HbWZXdWIyUV9VVGxzS3dISUpBamtNWTRORTdnWk5FTFFZX2twVlliRnhJeEFVLWJhSmE1dS1JXzdFV2t6TlZaamNVeGQ4OEt2OGVueHNYOHQ5MDZTTnFrUUdsaFRX?oc=5"
-    },
-    {
-      "id": "news-46",
-      "headline": "Drama Diplomacy - China Media Project",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQOU1fbUk2SVN6Zmx0THc2dnc0M1ZaRlJHMGZIN1NfZ1BrWjcwOXMzczBYSnhUT3NMT1I3MW01YmpLLUFJUzRpZVo5b3FGa3ZsZEVYU0xiRTBLc3IzRjRsSUhuOWJyemJx?oc=5\" target=\"_blank\"&gt;Drama Diplomacy&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;China Me",
-      "urgency": "info",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-01T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQOU1fbUk2SVN6Zmx0THc2dnc0M1ZaRlJHMGZIN1NfZ1BrWjcwOXMzczBYSnhUT3NMT1I3MW01YmpLLUFJUzRpZVo5b3FGa3ZsZEVYU0xiRTBLc3IzRjRsSUhuOWJyemJx?oc=5"
-    },
-    {
-      "id": "news-47",
-      "headline": "Israel-Lebanon deal may entrench stalemate rather than end war, analysts say - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQzVPS3VRVGFsSElBdURJN0sxVEZaalUtNGpETS1FQXJLNkhkeTJ5M1VaR19HcmpoZXpWY3FhX0F2S2RLWjlMNVM1UWJzbllJcGZic3VnLVJYMWMtRk1GcVFGa2RZREpvY3JadXJScDZCVVdwRmYwY0lPVGRiOVQyLWI4MUJnY28zWW43TmJoRUM5dkRaUUpwRGhUNFB5MWVDV3hCY1lDUHJzUVpsSXI3QUlwR0puQkU",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-30T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQzVPS3VRVGFsSElBdURJN0sxVEZaalUtNGpETS1FQXJLNkhkeTJ5M1VaR19HcmpoZXpWY3FhX0F2S2RLWjlMNVM1UWJzbllJcGZic3VnLVJYMWMtRk1GcVFGa2RZREpvY3JadXJScDZCVVdwRmYwY0lPVGRiOVQyLWI4MUJnY28zWW43TmJoRUM5dkRaUUpwRGhUNFB5MWVDV3hCY1lDUHJzUVpsSXI3QUlwR0puQkU0R3BMMXFHTm9hUmU0QURWTQ?oc=5"
-    },
-    {
-      "id": "news-48",
-      "headline": "State Department announces 'total compliance' from Venezuelan government in relief efforts after Maduro arrest - Fox News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTRvRjB4OTdxdjBEaGRZYmtjd1ppbXZfLVRTMDZLdTRnOUhfLWNfUWF1VHJFR0NaaHVJa1p4ZE9oYlNFejRzYjYzU1JQazBOU0w5ODAzWVFfbkdfUmlzaVlGU2lWN3VIdTdpVlNMQ1BfWkJLREtxa09odU91cVpybUkyRFRGSm51WU5WMWlxRTJkZkk0T3FMYUdHZ25NdHl2Ty10YndDLWlNZlRnbGFPMkJJQV9sZnp",
-      "urgency": "info",
-      "topic": "venezuela",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-30T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTRvRjB4OTdxdjBEaGRZYmtjd1ppbXZfLVRTMDZLdTRnOUhfLWNfUWF1VHJFR0NaaHVJa1p4ZE9oYlNFejRzYjYzU1JQazBOU0w5ODAzWVFfbkdfUmlzaVlGU2lWN3VIdTdpVlNMQ1BfWkJLREtxa09odU91cVpybUkyRFRGSm51WU5WMWlxRTJkZkk0T3FMYUdHZ25NdHl2Ty10YndDLWlNZlRnbGFPMkJJQV9sZnpoN0VuUVFTX1E3emp4YlE?oc=5"
-    },
-    {
-      "id": "news-49",
-      "headline": "Iran threatens \"complete halt\" to talks after trading strikes with U.S.; Washington official says talks to continue - CBS News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGcxeHZmSjcwLVpBNmxlaWQ4aG11Ynd6U3pqbGhkM09BTmxuYXBtczBhR3NGQWxVYU1WWGlVTGU1QlhHWVJOdDhWRHJoQ2hMcGZyb013NGVpR3NzQ004RUJWd2JQWDFYVG1SZUhVOUI0UldOWGdQRnRTWW5FVThLdG9LeHk2a0l3d0tZSmhnVXkxZ1hSOTNHcFcwaTJKaUxmZEE?oc=5\" target=\"_blank\"&gt;Ir",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-28T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGcxeHZmSjcwLVpBNmxlaWQ4aG11Ynd6U3pqbGhkM09BTmxuYXBtczBhR3NGQWxVYU1WWGlVTGU1QlhHWVJOdDhWRHJoQ2hMcGZyb013NGVpR3NzQ004RUJWd2JQWDFYVG1SZUhVOUI0UldOWGdQRnRTWW5FVThLdG9LeHk2a0l3d0tZSmhnVXkxZ1hSOTNHcFcwaTJKaUxmZEE?oc=5"
-    },
-    {
-      "id": "news-50",
-      "headline": "Israeli army says it destroyed Hezbollah tunnel in southern Lebanon - France 24",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZXRCRVp5WnNnXzVvM1dRYmJPV2FodEs2LWpVWFFNM1lkQm5uSEVKODZfSENNWFR2YkNZdFkxMlVUZXN1emxnSS1lcGk2VXNCZjBUWC1JVFVfNDV1VDZzM0pFRGtDemhacmhUeEFVeWpwZnBieHphd203TVQ1dG1mNnQtWElld3J1cjdtLVFKcEdMY3czQkhMeUZZb1NobzRfaDRmUlVzcDB6MGNFZ25HNzk2NkJlUW1",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-28T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZXRCRVp5WnNnXzVvM1dRYmJPV2FodEs2LWpVWFFNM1lkQm5uSEVKODZfSENNWFR2YkNZdFkxMlVUZXN1emxnSS1lcGk2VXNCZjBUWC1JVFVfNDV1VDZzM0pFRGtDemhacmhUeEFVeWpwZnBieHphd203TVQ1dG1mNnQtWElld3J1cjdtLVFKcEdMY3czQkhMeUZZb1NobzRfaDRmUlVzcDB6MGNFZ25HNzk2NkJlUW1ueV9RVkgyNTdmdm84d3hkVkZCQldxUWVtUGp2bmptdi04UQ?oc=5"
-    },
-    {
-      "id": "news-51",
-      "headline": "Israel strikes Lebanon, testing days-old peace deal - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0gxOUhHMlZ5TUhsMkxMN3hkWDgzT0ZYVzFaTDRIMTNVZlpjdzJSWDgxaVpZOFBNeEtocm5YWE1waEhadmJadnFzUGNfVmU5MGl6aEVjZDJZLWNUSm44Vl95UTVlMVVoOWZoM2tVMjFDd0FfbHpSbFdDTjF6YklUQnhoTFlYempLR3Z2c0t5QlpMUWRlSnfSAZsBQVVfeXFMTmhkNG5kaU80dDBmemNmT2dDLXBzX3p",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-28T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0gxOUhHMlZ5TUhsMkxMN3hkWDgzT0ZYVzFaTDRIMTNVZlpjdzJSWDgxaVpZOFBNeEtocm5YWE1waEhadmJadnFzUGNfVmU5MGl6aEVjZDJZLWNUSm44Vl95UTVlMVVoOWZoM2tVMjFDd0FfbHpSbFdDTjF6YklUQnhoTFlYempLR3Z2c0t5QlpMUWRlSnfSAZsBQVVfeXFMTmhkNG5kaU80dDBmemNmT2dDLXBzX3pob0piSUpxbVVadHVVNEZuc2xFTG5BWnpDZkFaVDEwT0YzUDJRY2VYd2ZkdDBNT2FXMG84MVZsOUhBcmZIcnBTV0VQVUdrQWJ1MDRHRGdoVUFuc2M1TGNIYWJYc3l4dUJ5WWs3d05zWE5WZnUySHRMRkhYN0NQSVZvV3VmMms?oc=5"
-    },
-    {
-      "id": "news-52",
-      "headline": "Israel strikes southern Lebanon as Hezbollah condemns new deal - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsVHVPNndVQ3hQLTF6aUJDNnJ5RmVjdlFOeWhHS1VMYUo2X0UyZDQ5Vm5Jd1ZzeURPX21lMnJNNHUtTFBqMmRXU0F2QXFxWEp0ZU1Db1JCOUx5dw?oc=5\" target=\"_blank\"&gt;Israel strikes southern Lebanon as Hezbollah condemns new deal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;fon",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-27T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsVHVPNndVQ3hQLTF6aUJDNnJ5RmVjdlFOeWhHS1VMYUo2X0UyZDQ5Vm5Jd1ZzeURPX21lMnJNNHUtTFBqMmRXU0F2QXFxWEp0ZU1Db1JCOUx5dw?oc=5"
-    },
-    {
-      "id": "news-53",
-      "headline": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWtiMUI4NktLVWg4WjVHQTd5emRGX0hkMXVOaW5FWjlSN3Q2WGZJcmVSa1A0WEFUZ21MUDlpRXBHMzBGSm9hN1NPalJpMEdPWmE5X1hDY2U1WXN1cFp6N0dXRHMyNGJpdEc5YzdSb1c5aWkxU2FUVGpaMllDdDJmSk9rVFhETUZHaDh5UVJaSTNGTW9sY3dxVHdJa0NJVXhlV1pzWjR0X3ZOclNBeV8zSUxB0gG3AUF",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-27T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWtiMUI4NktLVWg4WjVHQTd5emRGX0hkMXVOaW5FWjlSN3Q2WGZJcmVSa1A0WEFUZ21MUDlpRXBHMzBGSm9hN1NPalJpMEdPWmE5X1hDY2U1WXN1cFp6N0dXRHMyNGJpdEc5YzdSb1c5aWkxU2FUVGpaMllDdDJmSk9rVFhETUZHaDh5UVJaSTNGTW9sY3dxVHdJa0NJVXhlV1pzWjR0X3ZOclNBeV8zSUxB0gG3AUFVX3lxTE9LRU9jNV9teVhSVG1YVWVJYzlCVVpybXZUS3R6YnR6SFlVMTdGM19mZkhIeHVkOEVjaWhibGFCTUw4YXN3dkJLcElzZF9uVE9pT3llaC00ZVFIUUs1cHR1WmFZNC1CN21sWGNfdkpVUHV4Y2hoRkxWSzRFWk5VYTlIMWJiaHl3RDB3dXZ5T2JKX2FYelJsZTVTNllQN2pIN25YZFdaa1prbjN2TGRPM2g1d2FTSXFRTQ?oc=5"
-    },
-    {
-      "id": "news-54",
-      "headline": "Lebanon's deal with Israel requires Hezbollah to disarm. That might be difficult - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1A2Y1B0dnlpaE0yWmZqa0JCa3NxR3RwaHZsaTRhSExnd2JPMk4yTEFaQzRmTTc2eE9VM2U2RE1taVRlQnppNVJMUVBWUXRrU2tOcUt0RmJMNUMxZmM5dmh4LTM4ZFVCeHRsb1MzdlltX0FVQXZ1T3pYMGlnSTFHUDl4WDR1YVNOcGN6cXE4Q1pSSjFsLWJpTjN4RVhCSHZ6Q3FLZFJIQlk2ZzczYXdyRV9tVdIBuAF",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-27T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1A2Y1B0dnlpaE0yWmZqa0JCa3NxR3RwaHZsaTRhSExnd2JPMk4yTEFaQzRmTTc2eE9VM2U2RE1taVRlQnppNVJMUVBWUXRrU2tOcUt0RmJMNUMxZmM5dmh4LTM4ZFVCeHRsb1MzdlltX0FVQXZ1T3pYMGlnSTFHUDl4WDR1YVNOcGN6cXE4Q1pSSjFsLWJpTjN4RVhCSHZ6Q3FLZFJIQlk2ZzczYXdyRV9tVdIBuAFBVV95cUxNUmZGYzVhUTRFSWRjUUFMSmdlODNHRHJDZkdwZWtYTlotdkhGZGwzVjIzT20wTnAyeDRKdTJSVEFHMWVCNXNJLTJnWVMtSjNRZHFMRDRhbWZZelV5YV9aQzhETkpkYTVubjUybnZIaGFQeHRDV0QyNk8zTVhoYVg5Z2pQZE9jenhpQ1RVOFNrSERHSHpjRWpRNnFuajBfNVp2X0Z2YXBIM3ZtdlVfWnVGLVVXRUdxR052?oc=5"
-    },
-    {
-      "id": "news-55",
-      "headline": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVF",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-27T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVFWMWszUg?oc=5"
-    },
-    {
-      "id": "news-56",
-      "headline": "Israel orders troops to prepare for 'extended stay' in Lebanon - France 24",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0FiblBBeDJQaUo1clllYmRWYXJzTFE5NnZzUndVWlhGWEJuMl9hVkx6bkRFUG9fQUlEMnp4Y0U3cVlOSFFtZVA0Y3dNYUNYN0k5R0o4dGJfWWwzWVMwejczNlVkVXY2MlBQLXRpMVcyU3FzWXI0aTdtV3NnQWxRdXhJb0toNFJCUFFMWWtSQkYzVjViZnhtUlJ1QzB4TDdlS1VtNXNpa2Y?oc=5\" target=\"_blan",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-26T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0FiblBBeDJQaUo1clllYmRWYXJzTFE5NnZzUndVWlhGWEJuMl9hVkx6bkRFUG9fQUlEMnp4Y0U3cVlOSFFtZVA0Y3dNYUNYN0k5R0o4dGJfWWwzWVMwejczNlVkVXY2MlBQLXRpMVcyU3FzWXI0aTdtV3NnQWxRdXhJb0toNFJCUFFMWWtSQkYzVjViZnhtUlJ1QzB4TDdlS1VtNXNpa2Y?oc=5"
-    },
-    {
-      "id": "news-57",
-      "headline": "Taiwan Military Drills Show U.S.-China Rivalry Persists in the Pacific After Trump's Defeat in Middle East - Left Voice",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2lnMGJQa3FLdlVJU0xycGQxdVR4cUtrTlZ5MWZHd1N2aEh3My1DMXN0MHlCY2UtV3ZNWmFIMEx3SW0wT2pITzlOdjA5dnVXak84eF83aDRJN0RmbWEtMVhVYVpmb1NzdEVQdFZyZ0RXdkFhSWhibTloOHdqRkFkZURxUVp2UmUzajV4UjFzWHczbzJYV2NCNEVoUDFpelRtTlNxc2I1X3BPcmd3LXQ5UW5ZT2Rpalo",
-      "urgency": "info",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-25T15:50:05.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2lnMGJQa3FLdlVJU0xycGQxdVR4cUtrTlZ5MWZHd1N2aEh3My1DMXN0MHlCY2UtV3ZNWmFIMEx3SW0wT2pITzlOdjA5dnVXak84eF83aDRJN0RmbWEtMVhVYVpmb1NzdEVQdFZyZ0RXdkFhSWhibTloOHdqRkFkZURxUVp2UmUzajV4UjFzWHczbzJYV2NCNEVoUDFpelRtTlNxc2I1X3BPcmd3LXQ5UW5ZT2Rpalo4dko1VE55M0kweDl1UnpqVlZR?oc=5"
-    },
-    {
-      "id": "news-58",
-      "headline": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVk3Yko3T1c0bUE0OW9iWmFoUTVZQUpockxQamlPZW10QjgxZnUtMzgwRUJfNDZHdVl1Nm1ic1FneFdPU2RuX3RvRXlqYVRFVzR5SDAtNG1uZ21Gd0Jyc1hOckxEOFdFSEhyUzNVbEZ1dHVRMEV5OWt2UGxObWxuMXYwWmZ5X2cwNlU0QjJHeWhQbVFNOVBva2Y0dGRHZFlsQmpzOERjRkZBZ3ZoTmVYWFByNlpfQWP",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-24T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVk3Yko3T1c0bUE0OW9iWmFoUTVZQUpockxQamlPZW10QjgxZnUtMzgwRUJfNDZHdVl1Nm1ic1FneFdPU2RuX3RvRXlqYVRFVzR5SDAtNG1uZ21Gd0Jyc1hOckxEOFdFSEhyUzNVbEZ1dHVRMEV5OWt2UGxObWxuMXYwWmZ5X2cwNlU0QjJHeWhQbVFNOVBva2Y0dGRHZFlsQmpzOERjRkZBZ3ZoTmVYWFByNlpfQWPSAbwBQVVfeXFMTVRTZHROTW5XcFFQQzNCWEEwYUFWY2lrYVFGMFIxOG1oMDJrVlVHbURKT211a185dG5aWFo3NEJ4RDBMYXZSZ1cxWm5oZUpBRUtOYW5ZVnJ3SU5RM2wxVFprTHU2bVp1WUg2SDJPU1lZMFpzVUJiamxILVVLc1NWMmRNVnJSMU5vWGJ2ZjAyek9WQjd5LVRIUEhyMkdoLVctNlZFY2d4Q0xDNDBsNUhPaW1SM2hPNW81YUI4WWE?oc=5"
-    },
-    {
-      "id": "news-59",
-      "headline": "Taiwan Warns China Attack Response Time Is Shrinking Amid Rising Military Pressure - Modern Diplomacy",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzEzYzlSU3RIUkhocHB3MnNQc0JtN2ozNXdqMTkxRFkxclB4NWthdmVrUjVReUU5eE5MNnRvejExSE1wd1lMODRCMG5xTjJzU0hXdlc0cEdrY3dwd2JYWkxYV3N4Q2M2aVNqNWFZeUJGOG00UWoxRDlzUjVPd3IyeG0wRTF6bEdycFJJS1pWQXMxYjE3dERmcjFTOUdwZDYteG5iRWdHT0J4VFhTdzl1VXh0LXJvVzV",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-24T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzEzYzlSU3RIUkhocHB3MnNQc0JtN2ozNXdqMTkxRFkxclB4NWthdmVrUjVReUU5eE5MNnRvejExSE1wd1lMODRCMG5xTjJzU0hXdlc0cEdrY3dwd2JYWkxYV3N4Q2M2aVNqNWFZeUJGOG00UWoxRDlzUjVPd3IyeG0wRTF6bEdycFJJS1pWQXMxYjE3dERmcjFTOUdwZDYteG5iRWdHT0J4VFhTdzl1VXh0LXJvVzVRSmNMMDNB?oc=5"
-    },
-    {
-      "id": "news-60",
-      "headline": "Taiwan prepares for rapid China attack across Taiwan Strait - IDNFinancials.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWU5qbGxWWU1tSHF1TnpCUEctcUZoNXdCc2ROclRfU3djdzBHcEc0S0s4UnIzYUw0N0RjNGRYN0o1alpESmwwaFY4aEQ4S1lNN0lxa0RVeFViaDJEZV9XcGttanNKWGpON0hleW94bGw4WU5PUDFpU1JaY3NOZHRwaTRXQ3EtOEk4VFdoOVZVTDlwNHZwTTRlV29FeHN3ZlRDdlE?oc=5\" target=\"_blank\"&gt;Ta",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-24T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWU5qbGxWWU1tSHF1TnpCUEctcUZoNXdCc2ROclRfU3djdzBHcEc0S0s4UnIzYUw0N0RjNGRYN0o1alpESmwwaFY4aEQ4S1lNN0lxa0RVeFViaDJEZV9XcGttanNKWGpON0hleW94bGw4WU5PUDFpU1JaY3NOZHRwaTRXQ3EtOEk4VFdoOVZVTDlwNHZwTTRlV29FeHN3ZlRDdlE?oc=5"
-    },
-    {
-      "id": "news-61",
-      "headline": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rc2gxbTJwcDNyUnN2Wlp5bjhSX29hb3ZDdnRWaGxMNXFFa3JlRDhBRk5ObW1JMDA3ZUIycGtCMlJEeU9HeThvRGZXYWI4SzBkSXpIajh4bkZEQQ?oc=5\" target=\"_blank\"&gt;UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rc2gxbTJwcDNyUnN2Wlp5bjhSX29hb3ZDdnRWaGxMNXFFa3JlRDhBRk5ObW1JMDA3ZUIycGtCMlJEeU9HeThvRGZXYWI4SzBkSXpIajh4bkZEQQ?oc=5"
-    },
-    {
-      "id": "news-62",
-      "headline": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE44aEZLRjFyQm1kZm93VXJ2b2psQmZjWmhnejdBS2Nla1lzM1JjYUdIRDFRTFpoQl85YnZBdEhOcU00bGg1QUpXMjVic2FqNmRxeVoxc2FEYUswUQ?oc=5\" target=\"_blank\"&gt;Israeli troops kill two in south Lebanon after lull in fighting, authorities say&lt;/a&gt;&amp;nbsp",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-23T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44aEZLRjFyQm1kZm93VXJ2b2psQmZjWmhnejdBS2Nla1lzM1JjYUdIRDFRTFpoQl85YnZBdEhOcU00bGg1QUpXMjVic2FqNmRxeVoxc2FEYUswUQ?oc=5"
-    },
-    {
-      "id": "news-63",
-      "headline": "Israel, Hezbollah agree to ceasefire in Lebanon, U.S. official says - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5\" ta",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-19T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5"
-    },
-    {
-      "id": "news-64",
-      "headline": "Taiwan presses Washington for billions in weapons as China tensions grow - The Independent",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVByTmtuN1ZlN3VxZWxNckRQRTBkRzFfdVFrdzdDYVRBcGJ2SVBVc1QyM2UtNUZEVVdxcWlXSnFkSUNnZjZjVVdZWjJHbnRyWGJTOU93a2ZNVHF2RUNFNElTRG5jR1FocTVlUnljYWVpTHZQRG1HTC04em5vMVoxdUI1MHo3Vi1N?oc=5\" target=\"_blank\"&gt;Taiwan presses Washington for billion",
-      "urgency": "info",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-18T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVByTmtuN1ZlN3VxZWxNckRQRTBkRzFfdVFrdzdDYVRBcGJ2SVBVc1QyM2UtNUZEVVdxcWlXSnFkSUNnZjZjVVdZWjJHbnRyWGJTOU93a2ZNVHF2RUNFNElTRG5jR1FocTVlUnljYWVpTHZQRG1HTC04em5vMVoxdUI1MHo3Vi1N?oc=5"
-    },
-    {
-      "id": "news-65",
-      "headline": "Israel uses ‘battlefield evidence’ to prosecute Palestinians abroad - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQUIzak5NZ3U5YjhQYWNHM3ZDUzZlR1JQVTgyclBGbmpRanlOVEdkNExKOTdSeWVDUjZWNFBjOFlNaFpFSm5SbVpGQ1UxT002MndmM1lHRVZIc1ZjY1FLLXpFZmVIb2RtTUNwaGRKejJaUjVnWmV6WndFaFlRcjQ4ZUJnN0MtTFl0ZU5vLUVHTy0wNVNrRUE3WEgxOWFyR3c5dFBtQlVSQXRmd9IBrwFBVV95cUxQdnF",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-16T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQUIzak5NZ3U5YjhQYWNHM3ZDUzZlR1JQVTgyclBGbmpRanlOVEdkNExKOTdSeWVDUjZWNFBjOFlNaFpFSm5SbVpGQ1UxT002MndmM1lHRVZIc1ZjY1FLLXpFZmVIb2RtTUNwaGRKejJaUjVnWmV6WndFaFlRcjQ4ZUJnN0MtTFl0ZU5vLUVHTy0wNVNrRUE3WEgxOWFyR3c5dFBtQlVSQXRmd9IBrwFBVV95cUxQdnF3NHMtbGhEMk1rWVVzcWpjU3pSMVdoRmhtTDJoTEx3WW80Q0owdzRqVWU2UWhGeUt1QUFlWXBpQWJiTVhVM05EZjlpcHN1bFU3NHFDVXZLUUhzZEY2ZnB0WWY5Q0xTTEpwZFRMODB4cTRYWGlOOUdZdmI0YXpKSl9nMkVsRk9fcVB0UDNDRzBkQW45aF9vcjUza0lqX2FGMkt0alhkb0dQNGl6Z2ZB?oc=5"
-    },
-    {
-      "id": "news-66",
-      "headline": "Israeli strikes kill four in southern Lebanon amid ceasefire talks - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3hkQVh4TUlGcWJ2RFlDY20xZkdEVHNPNjJhTGpISlotZW01Q19yaWFZcF9yVjhjLVZ5TTdlRHZTMjkzNlNUQ2dJSnpXMnNSbWd2bmpwQjdmbHo4RlpJNjJnc0lNUThlSUhMNGRELUcxRGkwS1dUZTF0OTRJRGxQcXlubEpqQ2R1VFNGQ0RSMzZUZUxELWJ3cHp2bFJtWVktcDZOeEhDRWhWWTjSAbABQVVfeXFMUEg",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-16T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3hkQVh4TUlGcWJ2RFlDY20xZkdEVHNPNjJhTGpISlotZW01Q19yaWFZcF9yVjhjLVZ5TTdlRHZTMjkzNlNUQ2dJSnpXMnNSbWd2bmpwQjdmbHo4RlpJNjJnc0lNUThlSUhMNGRELUcxRGkwS1dUZTF0OTRJRGxQcXlubEpqQ2R1VFNGQ0RSMzZUZUxELWJ3cHp2bFJtWVktcDZOeEhDRWhWWTjSAbABQVVfeXFMUEg5aUZkbkk1U1RIcWtUT0Jkd09yMVk3RWk4eVRxWVhFcmg3LWJnMmk2cFUwSUdmT3Jqckc1NG5LbV9xUnZ6MHh3cVA1WjhtTVk3WUJPX19WRDVfUE5hU0hkd25jMGZ1NWZjMXFielF2N3pYN0dxUmVoc1BHTTY1aGU5b0RNV01JSUdQaEZldVRJQXl5c051WEo3X2RYRWFPOHFSc0hHc1dlLWZNclhWWTA?oc=5"
-    },
-    {
-      "id": "news-67",
-      "headline": "Israel continues strikes in Beirut’s southern suburbs, killing 3 - NBC News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWVGYzFPMUVlWmZwSUV5RElUVXNHWmI4RWt4SEVoalVyel9DRmNDLWYxQXBteGtnelhEblpVbG81c2sxTTgzcF9vMGhXck1xZUpYZWxqTFduemtLOUs4MUJuVWU4WDFIdllvOWNmT0x3cTIyVC1HVnM0RXlkWm83bjBpTFI4aDV0QS1laGpqX1JBNGx0QTBFUXhiTHYxREE?oc=5\" target=\"_blank\"&gt;Israel",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-14T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWVGYzFPMUVlWmZwSUV5RElUVXNHWmI4RWt4SEVoalVyel9DRmNDLWYxQXBteGtnelhEblpVbG81c2sxTTgzcF9vMGhXck1xZUpYZWxqTFduemtLOUs4MUJuVWU4WDFIdllvOWNmT0x3cTIyVC1HVnM0RXlkWm83bjBpTFI4aDV0QS1laGpqX1JBNGx0QTBFUXhiTHYxREE?oc=5"
-    },
-    {
-      "id": "news-68",
-      "headline": "Israeli strikes in southern Lebanon kill 17, reports say - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RVXJpUWc0WEdOYnBnVUlON1Z2MHYwUjhnZ194cUV1bzFwZTE1dTVjQ2Njd2JocVZJLWpvN3QwaGhKRzBaM1hGbDVlbTFNM3JsRmZ0ZnE0LWZRZw?oc=5\" target=\"_blank\"&gt;Israeli strikes in southern Lebanon kill 17, reports say&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font colo",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-10T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RVXJpUWc0WEdOYnBnVUlON1Z2MHYwUjhnZ194cUV1bzFwZTE1dTVjQ2Njd2JocVZJLWpvN3QwaGhKRzBaM1hGbDVlbTFNM3JsRmZ0ZnE0LWZRZw?oc=5"
-    },
-    {
-      "id": "news-69",
-      "headline": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0wX3RHekljcUp3WGFnTXJpSW12Q2JkMGNpSTlKd0dNSHRPS0pHVUFnMk5lOVRDWVZkNkhTZG8xZlo4aTQ3WEJNRzJYN2lpdmlEY0dDMl9aZlloeGo0NXh4amozY1ZDeHV6UHdSeUZWMHI5UzZORjl5SA?oc=5\" target=\"_blank\"&gt;The vanishing of Nicolás Maduro: how the former dictator is",
-      "urgency": "info",
-      "topic": "venezuela",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-10T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wX3RHekljcUp3WGFnTXJpSW12Q2JkMGNpSTlKd0dNSHRPS0pHVUFnMk5lOVRDWVZkNkhTZG8xZlo4aTQ3WEJNRzJYN2lpdmlEY0dDMl9aZlloeGo0NXh4amozY1ZDeHV6UHdSeUZWMHI5UzZORjl5SA?oc=5"
-    },
-    {
-      "id": "news-70",
-      "headline": "Iran war updates: Trump claims Iran shot down helicopter, vows to ‘respond’ - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTk1sMDhuN1Y0S0dtS3hsMWdlZUp5NGVWcnhZSmEya3VLYXBOM29DTzkzTjNIWWdIMUNVWjBVWkNWQnRnYWZnRUcwSmQ3bDU3QlN5Rndub2dWNUc1dHA1Z0c1RXlPT1lhbWVpRlFnV3ZjSml2MW45ZmlDbXU5clhNQmlmZ3RwbmtqQkFFMHZLOS1LVkVpSnhsTHpoMjNTOXltMl95QXEyZ25rd9IBrwFBVV95cUxNOG1",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-09T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTk1sMDhuN1Y0S0dtS3hsMWdlZUp5NGVWcnhZSmEya3VLYXBOM29DTzkzTjNIWWdIMUNVWjBVWkNWQnRnYWZnRUcwSmQ3bDU3QlN5Rndub2dWNUc1dHA1Z0c1RXlPT1lhbWVpRlFnV3ZjSml2MW45ZmlDbXU5clhNQmlmZ3RwbmtqQkFFMHZLOS1LVkVpSnhsTHpoMjNTOXltMl95QXEyZ25rd9IBrwFBVV95cUxNOG1fSlNOY2JPQUF4c3hFSF9hZ25YdHp4SzNzai1oZXhHNjlIbkhhV21CMnRUVkxBbXg5WVpURUFEYVdkUDhjNEJRUXp1WmxtWFRHajRabktYbV9ab013cmcwb29nYmJ5N3hWbE93SThJclNIRzVzUEhWc3IzbEVPRkplUTlldk5yMTJPdTFFM3ZhRUU5WFhzQWxoQ09OOWNndEVVVFVGSThYY2Vndi13?oc=5"
-    },
-    {
-      "id": "news-71",
-      "headline": "Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators - UN News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JdDhjRzNhNXY2NmtsU2p5UnBXdUxtbWktWFgzUHhvdGJvZUkxSnc4N08wZ3NVNHo0cFlPZ25nWUMtTVg3bHFHOHJPa0hxNDI4aWJxbk83OA?oc=5\" target=\"_blank\"&gt;Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators&lt;/a",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-09T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JdDhjRzNhNXY2NmtsU2p5UnBXdUxtbWktWFgzUHhvdGJvZUkxSnc4N08wZ3NVNHo0cFlPZ25nWUMtTVg3bHFHOHJPa0hxNDI4aWJxbk83OA?oc=5"
-    },
-    {
-      "id": "news-72",
-      "headline": "Iran war updates: Tehran says US seeking no ceasefire or dialogue - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckwzaWlod3dWNDIyX0dILXNhaXNBUnVOSG9VU245MHBTT2RkajBsQ2RidHRrMDdEQW4xc2h5NkFhbDcxQ3l1MGkzVzZLOGlOS2JGdjZBR2JOVmZwZFFaR0o4TGl4V2l2Nk1MVmpkdWVJU0ZJQWVqNmVialczOEt6aUZnMzRRV2FDQnBRZ3FBWllsWGNUSzRXU243X3hpblZhM25nYWZENXN3WHJyYkpqNlRqVmZENWl",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-08T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPckwzaWlod3dWNDIyX0dILXNhaXNBUnVOSG9VU245MHBTT2RkajBsQ2RidHRrMDdEQW4xc2h5NkFhbDcxQ3l1MGkzVzZLOGlOS2JGdjZBR2JOVmZwZFFaR0o4TGl4V2l2Nk1MVmpkdWVJU0ZJQWVqNmVialczOEt6aUZnMzRRV2FDQnBRZ3FBWllsWGNUSzRXU243X3hpblZhM25nYWZENXN3WHJyYkpqNlRqVmZENWlrWGxtRlg3azjSAcYBQVVfeXFMTUdNcDNObDZwcl95bkxtTVhqeU5GcHd1SnFMblhuLUkwTXI1eG0tUmNoSkpBRDJUYXhPRzNCbng2QmNFbUpDZFgxeFJ4cDI2eDdzb0ZoV2hCWVlQblBsQmtrai1KWERiRjhsMjFncnQ0VHUzY2NKNlFrZ2lOWElRUEVBQVFGMnExdzVDYU53TXFCeHVIejQwOXVROW9EenprbEFXTFFid3FWT3ZTMXpiU1FsZFozVU1maFdmUnlTalMyZjBhWm13?oc=5"
-    },
-    {
-      "id": "news-73",
-      "headline": "Israel kills 13 in Gaza as Egypt hosts renewed ‘ceasefire’ talks - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMENQaXk1aTc4OGZMRUtJdkNpYWRrYldsdk1yNl9ZTDhVQVRFTERvRUF0bnJFVkZDdllVRzNWTllpdEtuV3JHSXRFd3l2TmdSbjBlYzhZNDc5alFNMVNQR1pGbUlrZDV4Q2E1azdWUU5oVkFOQjhOODZSN2ZDYmpaV21IT3pSMjdRVWJtNnlvc0JIVERuV0QySW1oWi1pQ0ZNbmI2NW9abFp5OHZ4R0HSAbMBQVVfeXF",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMENQaXk1aTc4OGZMRUtJdkNpYWRrYldsdk1yNl9ZTDhVQVRFTERvRUF0bnJFVkZDdllVRzNWTllpdEtuV3JHSXRFd3l2TmdSbjBlYzhZNDc5alFNMVNQR1pGbUlrZDV4Q2E1azdWUU5oVkFOQjhOODZSN2ZDYmpaV21IT3pSMjdRVWJtNnlvc0JIVERuV0QySW1oWi1pQ0ZNbmI2NW9abFp5OHZ4R0HSAbMBQVVfeXFMUDdqUjhiMGpESjdCLTNzWGRyT0ZDd0p0UElwWGp6ZVdmRWk5dXVoZlJUZU9RaXVpZ25xa3BkN1RRMzF2eW9NUUFITGV0b0NzS0FabmlMbzc1TlNVUUZqSU5Fd005aDNnQkJGcnBxVFJCTHFhNklNbHhBMjc5Y0VUT3ExQnZ4OFZDcldpQ204d1FtY28ySHRlcXJhYm1JbUg1endDaFZvYWJ0X3RuWTI0bVMycmc?oc=5"
-    },
-    {
-      "id": "news-74",
-      "headline": "The European Union Has a $2 Trillion Taiwan Problem - Bloomberg.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDVPbS0tOEFiQXlkbzZQU0FyeDU3OG1IRnEyclJwOWNOdVlGdDQ4bmpDWkZkeVhZQlRzNFk1NndzVUFuNmFWcVMzQ3Zqa2c2Nld0UU5pTUIxVXZTRVFCTkVHZVBKSVJFZFFLNzVqR1pFRmEyN1NKRGpDQWxJemtQZW5zQjBfR0xHNlRGZ1lSZVVuTENBZ3l1bU5KRDd0WGdYa3pFSHFaamM?oc=5\" target=\"_blan",
-      "urgency": "info",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-07T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDVPbS0tOEFiQXlkbzZQU0FyeDU3OG1IRnEyclJwOWNOdVlGdDQ4bmpDWkZkeVhZQlRzNFk1NndzVUFuNmFWcVMzQ3Zqa2c2Nld0UU5pTUIxVXZTRVFCTkVHZVBKSVJFZFFLNzVqR1pFRmEyN1NKRGpDQWxJemtQZW5zQjBfR0xHNlRGZ1lSZVVuTENBZ3l1bU5KRDd0WGdYa3pFSHFaamM?oc=5"
-    },
-    {
-      "id": "news-75",
-      "headline": "Israeli attacks across Gaza kill at least 10 Palestinians - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVVCN1BuajhTaThlbGlEbWg0RWtab0hWcnhvMXg3OXBhaXFMS2NOLWpvdnFDVUdaME5tb001ZzR5bnc3TDI5MVZWTmxjbkdOeDlQY2pOdkN1TW1LMk9rZnBYUzRjRU1JbVB0NmJrcWJJRkxabTlHNGxxX1o4c2IySWh3UXhuWlpRUU81Vmdjc0tUMUdjSzBYRk1TOHlDMmhpLXfSAacBQVVfeXFMTllya1lDVk1ZeFR",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-06T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVVCN1BuajhTaThlbGlEbWg0RWtab0hWcnhvMXg3OXBhaXFMS2NOLWpvdnFDVUdaME5tb001ZzR5bnc3TDI5MVZWTmxjbkdOeDlQY2pOdkN1TW1LMk9rZnBYUzRjRU1JbVB0NmJrcWJJRkxabTlHNGxxX1o4c2IySWh3UXhuWlpRUU81Vmdjc0tUMUdjSzBYRk1TOHlDMmhpLXfSAacBQVVfeXFMTllya1lDVk1ZeFR5UFFhWHNYUEliOEc5Mlg4Ym9VZUVBckpnS1FSOWVfaXotR1dtZ2F2Y0Q1SlNWbFRxLVV4RmNHdWZCR0FqbmlvT1NxUmtEX1pSOHV1bXpZUjVLLWxjbFAzZnJuVUwtZGVWNlNROXJEcDdBcEVMTi1vYWhrX1JHanNoU3Fld3hPU1RzeDZ5NE1kN3lFWXpmNE1CVUE3SzA?oc=5"
-    },
-    {
-      "id": "news-76",
-      "headline": "After the Invasion: China Considers the Problem of Ruling Taiwan - War on the Rocks",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dpQUJQZHVHU3k4NU1jTDZCS0VoZkR4Sk9fUHUxWlpxMFpvMy1WeXFmVHR0TlhMQW1WSEd6dHdSd0N6Tkd3c2FjRzA1Q1dhV3I3bG9GWEU5Rm1ubnZJNExTZzlyM1hkQUE4aTR4MVBSTEg0Z0NFTXRtN3J5eFBWVW9jQmJjdVpNRHZhbDNEZ1J0dlAw?oc=5\" target=\"_blank\"&gt;After the Invasion: C",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-05T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dpQUJQZHVHU3k4NU1jTDZCS0VoZkR4Sk9fUHUxWlpxMFpvMy1WeXFmVHR0TlhMQW1WSEd6dHdSd0N6Tkd3c2FjRzA1Q1dhV3I3bG9GWEU5Rm1ubnZJNExTZzlyM1hkQUE4aTR4MVBSTEg0Z0NFTXRtN3J5eFBWVW9jQmJjdVpNRHZhbDNEZ1J0dlAw?oc=5"
-    },
-    {
-      "id": "news-77",
-      "headline": "U.S. and Iran launch new attacks in Persian Gulf - NBC News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNV195UHZJZ2NFWWs1c0tqT21IdTlyb2F4YVNtWWNSNHFWbDJmMDVqWVJMXzBjaV9QUTVHOXBHc3VrYzJkQnlrQm8xM3cwa2s1ZmJTajY0RE5Vd2Nnak9IQ3dLcE05bmE4d1ZTVmgtTExWQkFHVlpZYVB0QTh2TjdNNGJ4dW9BM2txdTl4VmFXRm9ZREVGWUJ4b3JUSEp3SVphQlViQ05ITk9TS05O?oc=5\" target=\"",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-03T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV195UHZJZ2NFWWs1c0tqT21IdTlyb2F4YVNtWWNSNHFWbDJmMDVqWVJMXzBjaV9QUTVHOXBHc3VrYzJkQnlrQm8xM3cwa2s1ZmJTajY0RE5Vd2Nnak9IQ3dLcE05bmE4d1ZTVmgtTExWQkFHVlpZYVB0QTh2TjdNNGJ4dW9BM2txdTl4VmFXRm9ZREVGWUJ4b3JUSEp3SVphQlViQ05ITk9TS05O?oc=5"
-    },
-    {
-      "id": "news-78",
-      "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSFJuTDNIQXUzOFVWYjV3U1piUlRwamFOTHp4WnE3WXRGSFpfX0hvMnAyRFd0eXBJY0tuM3AwQnZWUW1tV281TmhYWDlLSGcwMkZnX1VSam5Edw?oc=5\" target=\"_blank\"&gt;Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan&lt;/a&",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-06-02T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSFJuTDNIQXUzOFVWYjV3U1piUlRwamFOTHp4WnE3WXRGSFpfX0hvMnAyRFd0eXBJY0tuM3AwQnZWUW1tV281TmhYWDlLSGcwMkZnX1VSam5Edw?oc=5"
-    },
-    {
-      "id": "news-79",
-      "headline": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnpBWnZINGo1aU12NnEtczN6TWh3RWVVMlNMNlpZVGRWM193WFZPR183ZUZ5Tm9TandfYXM4OTZ1U3dnLW5mSml5Vk1OV0pKbWtUd19KVGs3NUNiVGpqV0VvNXNBZUlXc0lTV2tscWdnLTJ4TjBiQXhBcXA2b21yRTE1NExOOUV5dXhmaVBHR1RvTW8xWml4NXBBNDhmVnYwODZKWWpvcmw2WGlqTm9ZeWJMbjVQOGs",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-29T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnpBWnZINGo1aU12NnEtczN6TWh3RWVVMlNMNlpZVGRWM193WFZPR183ZUZ5Tm9TandfYXM4OTZ1U3dnLW5mSml5Vk1OV0pKbWtUd19KVGs3NUNiVGpqV0VvNXNBZUlXc0lTV2tscWdnLTJ4TjBiQXhBcXA2b21yRTE1NExOOUV5dXhmaVBHR1RvTW8xWml4NXBBNDhmVnYwODZKWWpvcmw2WGlqTm9ZeWJMbjVQOGswU0JSS1Ztdw?oc=5"
-    },
-    {
-      "id": "news-80",
-      "headline": "Taiwan Conflict Could Trigger Nuclear Crisis Between United States and China - Modern Diplomacy",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlNYdlotbE5yX0xoNUxDNldnSjU1akl3enVYYndRdXlVZkkzeWZJa2dYVE5KRWFkU01nY0RvbDVyU2Y0QTZGR3ltTUxrZk4zSDVtMEU3V0lVSEMtaFNsTEhYaXVkc1lobFM4dUVCNkN6UjR6REdpVjFoS0s0ZnMwaWVLYWN5NzJuYXE4Q0FuNUYzQVlpQ3BuZlVhOHpKYTRQbHdYdG5VdVlhZGJIWFdiNW9jWXVxQQ?",
-      "urgency": "important",
-      "topic": "china-taiwan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-28T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlNYdlotbE5yX0xoNUxDNldnSjU1akl3enVYYndRdXlVZkkzeWZJa2dYVE5KRWFkU01nY0RvbDVyU2Y0QTZGR3ltTUxrZk4zSDVtMEU3V0lVSEMtaFNsTEhYaXVkc1lobFM4dUVCNkN6UjR6REdpVjFoS0s0ZnMwaWVLYWN5NzJuYXE4Q0FuNUYzQVlpQ3BuZlVhOHpKYTRQbHdYdG5VdVlhZGJIWFdiNW9jWXVxQQ?oc=5"
-    },
-    {
       "id": "news-81",
-      "headline": "Mohammed Odeh: Israeli strike in Gaza kills new head of Hamas's military wing - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2RwMkU0cmowYUpqU3k0RGkyQzVhWXFxQ2lyYkR4NlBERVFlQ2ZPTS15NUZXenI0TERnVnBDdERTZDBNT216cjdOb0tnbFlZbEp0eXQzdkwwZw?oc=5\" target=\"_blank\"&gt;Mohammed Odeh: Israeli strike in Gaza kills new head of Hamas's military wing&lt;/a&gt;&amp;nbsp;&a",
-      "urgency": "breaking",
-      "topic": "middle-east",
+      "headline": "'A lot of aspirations, a lot of priorities, but already criticism' for new UK government",
+      "summary": "The UK has a new prime minister and a new government that seem eager to get started on its promise to change the path the country is on. Ahead of a first cabinet meeting, a cut in the VAT on energy bills has been announced, as cost of living as come out as one of the government's main priorities. Bu",
+      "urgency": "info",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-27T07:00:00.000Z",
+      "timestamp": "2026-07-21T11:06:26.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2RwMkU0cmowYUpqU3k0RGkyQzVhWXFxQ2lyYkR4NlBERVFlQ2ZPTS15NUZXenI0TERnVnBDdERTZDBNT216cjdOb0tnbFlZbEp0eXQzdkwwZw?oc=5"
+      "link": "https://www.france24.com/en/a-lot-of-aspirations-a-lot-of-priorities-but-already-criticism-for-new-uk-government"
     },
     {
       "id": "news-82",
-      "headline": "Israel and Hezbollah clash along strategic river after overnight strikes across Lebanon - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTRjRU5uVFpPeXVCdHVPd2stSWJvVkctN2Roc1FoQWFGYXNiVFQ4MV9NYVN6SGJCWk03Y295MV9EcEVSTEdNQkx4aXJKQjFpZWprMFN3aXlIMnA2eW9CX2owYWtBV3dRc3RQSTVRVDBNSUtsdktWTDBMdTg4TE01X0hRVDFjMFpITDJNbGVEaHhYZnNHTEltNGQ1MUpJNWNYblI5RWtNRmtFajZRczB0RllUV3lzQU9",
+      "headline": "SC adjourns hearing on Imaan, Hadi's plea against IHC decision on sentence suspension",
+      "summary": "&lt;p&gt;ISLAMABAD: As the Supreme Court (SC) on Tuesday adjourned the hearing in the controversial social media posts case against Imaan Zainab Mazari-Hazir and her husband Hadi Ali Chattha, senior lawyers and well-wishers celebrated incarcerated Imaan’s birthday outside court premises.&lt;/p&gt;\n&",
       "urgency": "breaking",
-      "topic": "middle-east",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-26T07:00:00.000Z",
+      "timestamp": "2026-07-21T11:05:06.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTRjRU5uVFpPeXVCdHVPd2stSWJvVkctN2Roc1FoQWFGYXNiVFQ4MV9NYVN6SGJCWk03Y295MV9EcEVSTEdNQkx4aXJKQjFpZWprMFN3aXlIMnA2eW9CX2owYWtBV3dRc3RQSTVRVDBNSUtsdktWTDBMdTg4TE01X0hRVDFjMFpITDJNbGVEaHhYZnNHTEltNGQ1MUpJNWNYblI5RWtNRmtFajZRczB0RllUV3lzQU9qZXRta2ZZQdIBxAFBVV95cUxPN3RwQ2tON1lHMDllYnBfdWxfNFgzWUVhNVRLM0RGZmFVTEk1ZFh2NEgxT3dKTzRKbzRjcEFTbFZTYmZYVWJ3VS0tYXAyd3FGT2VxRkI0N21oak9pd1ZMWUpVU3kxRm02Y1V0T01YbHpzbnhLaWxOTnJUOUdOcF9MZE5iSmgtRFV4b1A3emNVa2g4cGs4TWs4MlhjbGdaSlZmcDZRTVdYMVdCRF9lV2NwNEwwQW5FaEloZVl4Vnc5R3BiSlM1?oc=5"
+      "link": "https://www.dawn.com/news/2017251/sc-adjourns-hearing-on-imaan-hadis-plea-against-ihc-decision-on-sentence-suspension"
     },
     {
       "id": "news-83",
-      "headline": "Taiwan monitors ‘unprovoked’ Chinese combat patrol near island - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkVIa2Nfbk1RZHFUd0hsV1k3aDZzQ0xoaGhJb2FhN2piNFFMSFJoR2ZVZFlhNmRFVGJuNEZBR3BYRjNpVkVWSVFGa0Z6cWxNSXlRVVpZanA1QkpJVU9OVkFLVlRPYkRWNTIyaUhsOEZNRDZNTlZaTG01bUVPVDhDUjJwLUVKN3hEUTZuNklfM0VWR2kxQ2EtSmw0S2xDY2lRN2800gGoAUFVX3lxTE1XTGJHNTdEOWh",
+      "headline": "Ex-Hong Kong fencer jailed 41 months for role in laundering HK$10.6 million",
+      "summary": "A former Hong Kong fencer has been sentenced to three years and four months in prison for laundering more than HK$10 million (US$1.27 million), saying in mitigation that he opened the mule accounts to “make a quick buck”.\nThe District Court on Tuesday heard the guilty pleas from Chiu Man-to, 26, who",
       "urgency": "info",
-      "topic": "china-taiwan",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-26T07:00:00.000Z",
+      "timestamp": "2026-07-21T11:02:35.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkVIa2Nfbk1RZHFUd0hsV1k3aDZzQ0xoaGhJb2FhN2piNFFMSFJoR2ZVZFlhNmRFVGJuNEZBR3BYRjNpVkVWSVFGa0Z6cWxNSXlRVVpZanA1QkpJVU9OVkFLVlRPYkRWNTIyaUhsOEZNRDZNTlZaTG01bUVPVDhDUjJwLUVKN3hEUTZuNklfM0VWR2kxQ2EtSmw0S2xDY2lRN2800gGoAUFVX3lxTE1XTGJHNTdEOWhCYndmd3R6SjNFZGR6anhLQkJiOFhJWU8yb2JBVGNIb3RqNUJWano4M284UG03SHpBMVlJSUZJSHVJb2F4Q290ZGtlZklQUDVCUEV4MFdhS0Rld1l3V1J2emJvRkJjTXZ2Vlh1eVg0WHdBbm45WE9SNldUNHpDbzhFckQyNWdfWkpWMzdJNVVyZVUyU3lrVk9rcWVpTnpkNA?oc=5"
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361361/ex-hong-kong-fencer-jailed-41-months-role-laundering-hk106-million?utm_source=rss_feed"
     },
     {
       "id": "news-84",
-      "headline": "China vs Taiwan: The Geography of an Unfinished War - The Jerusalem Strategic Tribune",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBlVmpxVlZEWXJrd0R0V0U5SS1WNmNPbTJndUN0aDBHbEMyT0hDSHF4OVZVNmFRWERTUzRIQVUxSnJjYlJUb01kdXM4RmgyU1hCbGlxM21HSTFvZzdSZnl1blVJakM3c3Q5ZHpWbEl4aURFbzJJcWJLM0UwUVBBdw?oc=5\" target=\"_blank\"&gt;China vs Taiwan: The Geography of an Unfinished War",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
+      "headline": "Visa types explained: e-Visa, ETA and visa on arrival — what travellers need to know",
+      "summary": "Visa types explained: e-Visa, ETA and visa on arrival — what travellers need to know",
+      "urgency": "info",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-22T11:12:13.000Z",
+      "timestamp": "2026-07-21T11:02:02.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlVmpxVlZEWXJrd0R0V0U5SS1WNmNPbTJndUN0aDBHbEMyT0hDSHF4OVZVNmFRWERTUzRIQVUxSnJjYlJUb01kdXM4RmgyU1hCbGlxM21HSTFvZzdSZnl1blVJakM3c3Q5ZHpWbEl4aURFbzJJcWJLM0UwUVBBdw?oc=5"
+      "link": "https://gulfnews.com/uae/visa-types-explained-e-visa-eta-and-visa-on-arrival-what-travellers-need-to-know-1.500615205"
     },
     {
       "id": "news-85",
-      "headline": "Trump’s Taiwan Threats: US Arms Freeze, China Tensions, and Taiwan’s Military Future - Modern Diplomacy",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2JkNUxVd2pJVzVoSVdSLW1jTUhtWGxNY0lNbjRDUXRpeWYwWVpVdE5Ia09ORlhQWm8tcUFQdHl4eUZJdEE0RXFzLVZadm1UTjRabndLbUpOMlhtSElIQmVfV0E0WkFjWGFaYmF6TlBDX014ZTAzSmY0cWwxWlI4YVZGUWNkLTBXVnlyVDZTb2M5OGM4cXNHYnBBY0d6bU4weWZ3QXprcU5fV0lQZU1iQ21XOEl5U1d",
+      "headline": "In Venezuela’s Rubble, a Search for the Family Pets",
+      "summary": "Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.",
       "urgency": "info",
-      "topic": "china-taiwan",
+      "topic": "venezuela",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-22T07:00:00.000Z",
+      "timestamp": "2026-07-21T11:01:44.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2JkNUxVd2pJVzVoSVdSLW1jTUhtWGxNY0lNbjRDUXRpeWYwWVpVdE5Ia09ORlhQWm8tcUFQdHl4eUZJdEE0RXFzLVZadm1UTjRabndLbUpOMlhtSElIQmVfV0E0WkFjWGFaYmF6TlBDX014ZTAzSmY0cWwxWlI4YVZGUWNkLTBXVnlyVDZTb2M5OGM4cXNHYnBBY0d6bU4weWZ3QXprcU5fV0lQZU1iQ21XOEl5U1dJYXc?oc=5"
+      "link": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html"
     },
     {
       "id": "news-86",
-      "headline": "Federal prosecutors open new criminal probe into Maduro, sources say - CBS News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYU1DTEZuOXZfZ0tYZmZyOEM1LV9ta2xnVHJJWU1wakhNXzVKNGdqM252ZHVYNkJHVlp6bk9yaUVzNWR2bHJIMnlKUkdxeVhEWVF2RXAza09FYmttSjRNNEtSbnRuaUp4UzBfUEpkUUFyWVFZVlU0YXdrZ1pfWHhQQ29idUF0UjVHUU5WTE0tUFlPeUVKYlpxT1dsTkV1QdIBowFBVV95cUxPYmVyTHZnMDNpQkZqNjZ",
-      "urgency": "info",
-      "topic": "venezuela",
+      "headline": "Bologna's protesters call for accountability after man dies during police arrest",
+      "summary": "Clashes broke out between security personnel and protesters in the Italian city of Bologna. Demonstrators out on the street, calling for accountability after a man died whilst being detained by police. The incident drawing comparisons with the murder of George Floyd in the United States. \n \nSome vie",
+      "urgency": "important",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-19T07:00:00.000Z",
+      "timestamp": "2026-07-21T11:00:53.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU1DTEZuOXZfZ0tYZmZyOEM1LV9ta2xnVHJJWU1wakhNXzVKNGdqM252ZHVYNkJHVlp6bk9yaUVzNWR2bHJIMnlKUkdxeVhEWVF2RXAza09FYmttSjRNNEtSbnRuaUp4UzBfUEpkUUFyWVFZVlU0YXdrZ1pfWHhQQ29idUF0UjVHUU5WTE0tUFlPeUVKYlpxT1dsTkV1QdIBowFBVV95cUxPYmVyTHZnMDNpQkZqNjZ4X3B6QXhLU1VDZkZnNUViYzgzTVdSemJDU0hqZ29xUkVMeEdPT2xsWXVUUXNfM0dvcDI1dmx5Z3FQSkQ0eUlueEk4d2gzZDV6dG9fcDRjRkpjVzRoejFmQlJ6SG5GYTZNblpoOHZLakw4MjZGcmRDWXlPN21YcGZQT1hiNDZqcUg3cFZqOXgxVFpVTVV3?oc=5"
+      "link": "https://www.france24.com/en/bologna-s-protesters-call-for-accountability-after-man-dies-during-police-arrest"
     },
     {
       "id": "news-87",
-      "headline": "Chaos in the Sahel: After Mali, is it Burkina Faso and Niger’s turn? - International Institute for Counter-Terrorism",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaM0ppYi10MkE4MmRjY3ltdElpbF8zbGJuNkRJXzFqUU05eHdIaHZYRllXeEl4M1VueGx5NUV3RGNNLXAyWG1Wa1QtT2xIQm10NXUxeEpKOE92N3lDRmc?oc=5\" target=\"_blank\"&gt;Chaos in the Sahel: After Mali, is it Burkina Faso and Niger’s turn?&lt;/a&gt;&amp;nbsp;&amp;n",
+      "headline": "US biotech firm developing therapies for infant brain injuries plans Hong Kong listing",
+      "summary": "A US-headquartered biotech firm plans to seek a primary listing in Hong Kong, joining a swelling pipeline of artificial intelligence-powered medical players raising capital in the city.\nAxiom Biosciences, which develops experimental therapies for newborns with severe brain injuries by using AI, is t",
       "urgency": "info",
-      "topic": "sahel",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-19T07:00:00.000Z",
+      "timestamp": "2026-07-21T11:00:09.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaM0ppYi10MkE4MmRjY3ltdElpbF8zbGJuNkRJXzFqUU05eHdIaHZYRllXeEl4M1VueGx5NUV3RGNNLXAyWG1Wa1QtT2xIQm10NXUxeEpKOE92N3lDRmc?oc=5"
+      "link": "https://www.scmp.com/business/banking-finance/article/3361283/us-biotech-firm-developing-therapies-infant-brain-injuries-plans-hong-kong-listing?utm_source=rss_feed"
     },
     {
       "id": "news-88",
-      "headline": "Venezuela deports Maduro ally to U.S. for criminal proceedings - PBS",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1V5WUs4UGpVcUhWb2JYbVJOYjlRMkVHMmtFUDUwRU8xZXRTZ0NmOF9ydWhOQmJRTU5FMG0tVXdnY1h3ZTdTaUppYkxjakkyMTRqMmQ1emUxak1YMThFVnUzVEJDY0xhOWxhQVVLZUg5SWVaY3RSam9JNEgwcnBHaGFXQ2FrYzhSdjZoMHZtaWt4bEkxdFJmVkdyUnnSAaIBQVVfeXFMTlhpdXJNWEhUUE9waTZVMkd",
+      "headline": "France could become first EU country to ban social media for under-15s",
+      "summary": "If the bill passes both the lower house and the senate, France is expected to become the first EU nation to ban social media for those under 15. Solange Mougin has more on the ban and how it wll work. Championed by Emmanuel Macron, it comes on the heels of similar bans in Australia and Indonesia and",
       "urgency": "info",
-      "topic": "venezuela",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-17T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:56:05.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1V5WUs4UGpVcUhWb2JYbVJOYjlRMkVHMmtFUDUwRU8xZXRTZ0NmOF9ydWhOQmJRTU5FMG0tVXdnY1h3ZTdTaUppYkxjakkyMTRqMmQ1emUxak1YMThFVnUzVEJDY0xhOWxhQVVLZUg5SWVaY3RSam9JNEgwcnBHaGFXQ2FrYzhSdjZoMHZtaWt4bEkxdFJmVkdyUnnSAaIBQVVfeXFMTlhpdXJNWEhUUE9waTZVMkdPZ0FVYzJHYUY3Z2pFMm1RMzZZMHQ4ZF9wWDVKMUpFUXlrbDh6SGxKQ1ZHdDBGMFhYSmkyZXNUd1YxejIzNVNZYkFrakN2dnNvT2tSLXlrZENxcmV2UjR5ek5telFPSmg5TTFNeGlPSWlPTW9xUWgyVlFtYzhwZE5MUjB5anF5Rl9RMzBzeUVuNl9n?oc=5"
+      "link": "https://www.france24.com/en/france-could-become-first-eu-country-to-ban-social-media-for-under-15s"
     },
     {
       "id": "news-89",
-      "headline": "The Sahel: history repeats itself - Atalayar",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEQ3Rzl3V0huQ0poVGd4VndOTzlXRGNvemtfS0pBcllmTWZHdkduclZJNk1rYVVqdmhwOVpGbHNubmJWckdMaDhhTVpIdTBUaFNxTkRLVlo5RElDV2daeHhlSFdhQkthTTFZSjA5OFFCZ3RBV3NkVHlvV0loU0M1T0x1RVlGRlMwM1lTcXlXLTBUbnBHbVpvU0RpUlRTcDFQeVFlcjh30gGrAUFVX3lxTFBFNmxOSDl",
-      "urgency": "info",
-      "topic": "sahel",
+      "headline": "What to know about the West African economic summit seeking regional reform",
+      "summary": "The 69th ECOWAS summit was held on July 19th in Freetown, Sierra Leone.The outgoing Chair of the ECOWAS Conference of Heads of State and Government, Julius Maada Bio, set the tone by calling for “far-reaching changes” within the West African economic organisation.The meeting was also marked by the S",
+      "urgency": "important",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-17T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:55:54.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEQ3Rzl3V0huQ0poVGd4VndOTzlXRGNvemtfS0pBcllmTWZHdkduclZJNk1rYVVqdmhwOVpGbHNubmJWckdMaDhhTVpIdTBUaFNxTkRLVlo5RElDV2daeHhlSFdhQkthTTFZSjA5OFFCZ3RBV3NkVHlvV0loU0M1T0x1RVlGRlMwM1lTcXlXLTBUbnBHbVpvU0RpUlRTcDFQeVFlcjh30gGrAUFVX3lxTFBFNmxOSDlhWTFKcWNYWF9ZemZtX3NyS0hkc0FGdHpBUFNTSmlaSEFhVUV4ZFBuZS16SmlmUzdKOFgxRndqdFBMZlNKTERsbzRHSF91Y2UxSC1BanFZeEZzeV9pTkU0eUFnSEFkLTBjeTJxZ1BhRm9WVXJobE5SblNvN2dKdVpnakczUTNTdTVuR25vWTVpaEt2Q0U3a3NGVldvOVliNFROa25CUQ?oc=5"
+      "link": "https://www.france24.com/en/video/20260721-what-to-know-about-the-west-african-economic-summit-seeking-regional-reform"
     },
     {
       "id": "news-90",
-      "headline": "Venezuela says it deported Alex Saab, a key Maduro ally, to face legal proceedings in the U.S. - CBS News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0tPS3pSNXRUaVhmZEl3U1Y3eUFsNTg4WXdDdm9FRlV3U245NkVMdGdVSV9nekN1THlPUlo0OVZ1bXM5enZsd09LaDkxUlFmanhqcG9RVDA1czA5Q09MWmZEQnNuQlJqNlVTdWFpZ3ZmYUFUMmM2RUp1aG5DZmxrU2JR0gGHAUFVX3lxTE5fejd2bVVXajBsV1g4Nm0yaHlURVNyNlB2Z0x4NjZrM1otaXZDblpEUE5",
+      "headline": "Scientists deploy robot birds in Wyoming's Grand Teton National Park to lure a critically declining local sage-grouse population away from an airport and revive its numbers",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132534016.cms\" /&gt;<![CDATA[",
       "urgency": "info",
-      "topic": "venezuela",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-16T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:55:27.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0tPS3pSNXRUaVhmZEl3U1Y3eUFsNTg4WXdDdm9FRlV3U245NkVMdGdVSV9nekN1THlPUlo0OVZ1bXM5enZsd09LaDkxUlFmanhqcG9RVDA1czA5Q09MWmZEQnNuQlJqNlVTdWFpZ3ZmYUFUMmM2RUp1aG5DZmxrU2JR0gGHAUFVX3lxTE5fejd2bVVXajBsV1g4Nm0yaHlURVNyNlB2Z0x4NjZrM1otaXZDblpEUE5lUE9OcGE3dDR4SlE2LWs3YkxuNzBSdTNCblhNM2VQdnU0NkNHVUFHaHNDVjZRVERSTTE2Y01YbFBZWUxIU1BydVJCMGlkeE1UbmJWOFdZZWFKS1VPWQ?oc=5"
+      "link": "https://timesofindia.indiatimes.com/world/us/scientists-deploy-robot-birds-in-wyomings-grand-teton-national-park-to-lure-a-critically-declining-local-sage-grouse-population-away-from-an-airport-and-revive-its-numbers/articleshow/132534016.cms"
     },
     {
       "id": "news-91",
-      "headline": "China's Xi warns Trump about creating 'conflict' over Taiwan. Why the island is a flashpoint between the world's most powerful nations. - Yahoo",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNVHJDMlp2STlCVHBzWXNGTlV5WnlfRV9vVlBfendzNzR0LUFoYzZFRTNqejFiVDhSQ01JVzhVME1NdWkxZjlDTFBlalpvNENMTEZ5QmdHakpHZHRKVXlqejZPdUl2VWROMWZYWWNLM1hUX3I4bjMxT0w2dVBuZjRjbDJBcDBIM2lLS1VNT0psREpabkVXSWsta1hsa0NPVlc4dVFmRWFTdjZUQjNMNVJubVRPRGZ6V3M",
-      "urgency": "breaking",
-      "topic": "china-taiwan",
+      "headline": "EU lawmakers arrive in China for high-stakes talks to manage mounting tensions",
+      "summary": "A European Parliament delegation is on a three-day visit to China to manage strained ties amid escalating trade friction, geopolitical uncertainty and expanding EU import curbs.\nThe eight-member delegation from the European Parliament’s Committee on Foreign Affairs, led by committee chairman David M",
+      "urgency": "info",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-15T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:48:30.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVHJDMlp2STlCVHBzWXNGTlV5WnlfRV9vVlBfendzNzR0LUFoYzZFRTNqejFiVDhSQ01JVzhVME1NdWkxZjlDTFBlalpvNENMTEZ5QmdHakpHZHRKVXlqejZPdUl2VWROMWZYWWNLM1hUX3I4bjMxT0w2dVBuZjRjbDJBcDBIM2lLS1VNT0psREpabkVXSWsta1hsa0NPVlc4dVFmRWFTdjZUQjNMNVJubVRPRGZ6V3MxS3JQQXJxejA2bWwyLUdEQ1h3UnZjQVoyMm52VUdLNEpKM3A2dFd5dlFKZEFGdlBUdmU0aDVidFBCazhCTkFncHR4cWRPUXNUNnZ6RmFaMVN3VnVMUm5VS1lDNEdIbk0?oc=5"
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3361354/eu-lawmakers-arrive-china-high-stakes-talks-manage-mounting-tensions?utm_source=rss_feed"
     },
     {
       "id": "news-92",
-      "headline": "Israel steps up attacks on Gaza since Iran truce, as military says Hamas rearming - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3dnX0wtWFJNMHk3STdHX0hFaXJOYkFHVEhWamxaWnNwbUd6UVROd21xX3ZkZjB0VVlESDc4NlVuZUtiRXVFdnVXUlhwdE5HcTZGNG5VdnUzOF90UjlIR1MzeGhvU2d2c2pTOVpzZDc3WnpsX1luYTJjRGdRNVhHT1FjS2U4SDV0UjJoVWI2UkZnOE9LVFY0VFM0VEdkN3FyNTJSbHJVZ3FtQTJoblVPRmRWSDJsYk5",
-      "urgency": "breaking",
+      "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "urgency": "info",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-13T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:43:48.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3dnX0wtWFJNMHk3STdHX0hFaXJOYkFHVEhWamxaWnNwbUd6UVROd21xX3ZkZjB0VVlESDc4NlVuZUtiRXVFdnVXUlhwdE5HcTZGNG5VdnUzOF90UjlIR1MzeGhvU2d2c2pTOVpzZDc3WnpsX1luYTJjRGdRNVhHT1FjS2U4SDV0UjJoVWI2UkZnOE9LVFY0VFM0VEdkN3FyNTJSbHJVZ3FtQTJoblVPRmRWSDJsYk5kMlZ2Y0Z3MGV2LUx5eC1n?oc=5"
+      "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "id": "news-93",
-      "headline": "Hamas must disarm, not ‘disappear’ from Gaza: Board of Peace’s Mladenov - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHBObGRiLVE5Z003dDRKcllndmhKYzZESUpydDExNTNFajRDbnhoQ3RCaFR4bkNMYmJibGlvTENienZVbkNONllXX3FneEMzVDNva3VrYVcwODVHNEJKWmdKT0ZMRE9iQUdGVEV0MTM4eTVjMmVtRFp6VmVMXzdaZXU2UWRMWWtwMlExN3FkbGFtcVdQSzRmWXlvVHJMUTktX0tqb01WdG1SZDRIa29Ca1pMQdIBuAF",
+      "headline": "Will Indonesia’s decision to join China-led AI body complicate US ties?",
+      "summary": "Indonesia’s decision to join a new China-led artificial intelligence body has raised questions about how far Jakarta can push its digital ambitions without complicating its ties with Washington.\nFor Indonesia, membership in the World Artificial Intelligence Cooperation Organisation (Waico) offers a ",
       "urgency": "info",
-      "topic": "middle-east",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-13T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:41:55.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHBObGRiLVE5Z003dDRKcllndmhKYzZESUpydDExNTNFajRDbnhoQ3RCaFR4bkNMYmJibGlvTENienZVbkNONllXX3FneEMzVDNva3VrYVcwODVHNEJKWmdKT0ZMRE9iQUdGVEV0MTM4eTVjMmVtRFp6VmVMXzdaZXU2UWRMWWtwMlExN3FkbGFtcVdQSzRmWXlvVHJMUTktX0tqb01WdG1SZDRIa29Ca1pMQdIBuAFBVV95cUxPTFZIMURUeEs3NlREZUtldGk3YkZvZkR4WWY4SkVncExYdEstc0ZfeDhtNGp6QVZwalpWWXJBdXh6VFFSQldwMC1PalJmYVZJRWtCNEpVSWZqVzQ1NmlSak1IYzNqWFZnRVE3aThBTzNaVnZpRkM0RFBOMzhMNGt2YzlBdU04QmkzcE5ObGkxaEJYRGF1em1HbnNreTJZT0t0YWkwbEhQTUJ2TDExUW1iRzRBWU9ZVDZV?oc=5"
+      "link": "https://www.scmp.com/week-asia/politics/article/3361356/will-indonesias-decision-join-china-led-ai-body-complicate-us-ties?utm_source=rss_feed"
     },
     {
       "id": "news-94",
-      "headline": "Fears of renewed Gaza war as Hamas disarmament talks stall - BBC",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SFNhenBxZ3ozTzBaUnRWQ0xiQW1kc01iQzVqa2V4U3pXYUEwOEk1ckhmbWVnUXgzZ2JkZnltZkIzRi1BNTZrcWJPVjVCM2JIZ0w2REpENG9SUQ?oc=5\" target=\"_blank\"&gt;Fears of renewed Gaza war as Hamas disarmament talks stall&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font co",
-      "urgency": "breaking",
-      "topic": "middle-east",
+      "headline": "Mosquito spraying backfires as 84% develop resistance in US neighbourhoods",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132534007.cms\" /&gt;<![CDATA[New research indicates mosquito spraying is causing insect resistance.  Genetic markers for resistance are now widespread across many resid",
+      "urgency": "info",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-07T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:41:04.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02SFNhenBxZ3ozTzBaUnRWQ0xiQW1kc01iQzVqa2V4U3pXYUEwOEk1ckhmbWVnUXgzZ2JkZnltZkIzRi1BNTZrcWJPVjVCM2JIZ0w2REpENG9SUQ?oc=5"
+      "link": "https://timesofindia.indiatimes.com/world/us/us-and-world/wealthy-us-neighbourhoods-paid-to-spray-mosquitoes-by-2023-the-insects-had-evolved-resistance-across-84-of-sampled-blocks-and-know-what-they-became-capable-of/articleshow/132534007.cms"
     },
     {
       "id": "news-95",
-      "headline": "Burkina Faso, Mali and Western Niger - Humanitarian Overview (As of 29 April 2026) - ReliefWeb",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbW5NOGpWVHUxWEZKMTVNTEROV0JEa01xdVFVLUFXTjJRemtRR25sWEtJMDJ4VTAyUEJBclBsTUNZaEdDV0VmenZXQnRZUDVBRGw0WXBabHpId1dqdkxDdEZoTVFVRFdyTWxQMW54TUVvdHRXSFp3U29uRzhxSjdaUWV1UlVBWGFnQnUtRm1GRlJNemdON2JjSGREQS1Xbzh3MlB5LW9qNEQtZzJzS1gwVmE0RQ?oc=5",
+      "headline": "Setting the record straight on Balochistan's 'accession' and charting a path for its future",
+      "summary": "&lt;p&gt;One claim that resurfaces periodically in public debate over Balochistan’s accession to Pakistan is that the Instrument of Accession of the Khanate of Kalat is evidence of Balochistan’s accession as a whole. This conflates a single princely state with the entire province, and it is worth ex",
       "urgency": "info",
-      "topic": "sahel",
+      "topic": "taliban-pakistan",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-05-06T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:35:25.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbW5NOGpWVHUxWEZKMTVNTEROV0JEa01xdVFVLUFXTjJRemtRR25sWEtJMDJ4VTAyUEJBclBsTUNZaEdDV0VmenZXQnRZUDVBRGw0WXBabHpId1dqdkxDdEZoTVFVRFdyTWxQMW54TUVvdHRXSFp3U29uRzhxSjdaUWV1UlVBWGFnQnUtRm1GRlJNemdON2JjSGREQS1Xbzh3MlB5LW9qNEQtZzJzS1gwVmE0RQ?oc=5"
+      "link": "https://www.dawn.com/news/2017250/setting-the-record-straight-on-balochistans-accession-and-charting-a-path-for-its-future"
     },
     {
       "id": "news-96",
-      "headline": "Violent Extremism in the Sahel | Global Conflict Tracker - Council on Foreign Relations",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUxBdm9lLS1yQ2tiRkRBVjZYRUxfNmw3aHFYYl82dERySGlKb0NsbVdRZk5ZNExfTGwteW1IZnROVEgwMVBoNFlNbndMRHVwOVFEYVVhTjl0bkIxZVcyaktyMGF0OVVMSFhZcUJpR2QtLVowSUozc2pkM1ZJUGN4NnR3?oc=5\" target=\"_blank\"&gt;Violent Extremism in the Sahel | Global Confl",
-      "urgency": "info",
-      "topic": "sahel",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-05-05T07:00:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUxBdm9lLS1yQ2tiRkRBVjZYRUxfNmw3aHFYYl82dERySGlKb0NsbVdRZk5ZNExfTGwteW1IZnROVEgwMVBoNFlNbndMRHVwOVFEYVVhTjl0bkIxZVcyaktyMGF0OVVMSFhZcUJpR2QtLVowSUozc2pkM1ZJUGN4NnR3?oc=5"
-    },
-    {
-      "id": "news-97",
-      "headline": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFFKbUswdW5WYXY5cEphX2JGVHRQSDA2NXRZQWtOSzFtZUhHQ1YteTlxSEJJbjBGS1RvRVdFd2l1VUlXRFE3Skh5SFY1b253QkFMSG9ka2NHT1VUTHJjeUlJSFJlSVQ5bGRJRVJBVDliQ2Q4N2FlMDh0alJSMURwbkRMVUxfdHBfaTgxMTUzOTQ0bGQ3X1J3UnpvaW9hRmg4WlcyamQ2RTQyR2xWQUtPTldR0gG3AUF",
+      "headline": "Lebanese Troops Deploy in Israeli-Held Village Under New Cease-Fire Plan",
+      "summary": "The Israeli military withdrew from the village under a U.S.-brokered deal to transfer control of occupied areas back to Lebanon after months of war. But Hezbollah has rejected the truce.",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-03T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:35:13.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFFKbUswdW5WYXY5cEphX2JGVHRQSDA2NXRZQWtOSzFtZUhHQ1YteTlxSEJJbjBGS1RvRVdFd2l1VUlXRFE3Skh5SFY1b253QkFMSG9ka2NHT1VUTHJjeUlJSFJlSVQ5bGRJRVJBVDliQ2Q4N2FlMDh0alJSMURwbkRMVUxfdHBfaTgxMTUzOTQ0bGQ3X1J3UnpvaW9hRmg4WlcyamQ2RTQyR2xWQUtPTldR0gG3AUFVX3lxTFBBTWE4TjBIXzFtb0xPN2c1WmdodUlsQzV3M1otYW1JNXVfMXZyQkRlLTdoMDdxMzFXYm04eXpIN1d3MlNCejFmT1A5WXN5WkprRHR3dVh2U1FYMVdoQXVJbktXenJHNjNpcWNwSzdvUDV2ZG5tQW1wZmwyZ25aZGduVUpwRzdnU1BIc210eU93Qm1nMDNlLW4wZHdCeW5uV05FZmx0V2dYRkVaZF9WUFBxN1RGMkVjbw?oc=5"
+      "link": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html"
+    },
+    {
+      "id": "news-97",
+      "headline": "Monsoon rains kill 12 in KP in past 3 days; nationwide flood warning issued",
+      "summary": "&lt;p&gt;The &lt;a href=\"https://www.dawn.com/news/2016353\"&gt;ongoing torrential rainfall&lt;/a&gt; in Khyber Pakhtunkhwa has killed 12 people in three days, while 18 people have been injured, the Provincial Disaster Management Authority (PDMA) said on Tuesday.&lt;/p&gt;\n&lt;p&gt;Power supply has b",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-21T10:31:52.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2017248/monsoon-rains-kill-12-in-kp-in-past-3-days-nationwide-flood-warning-issued"
     },
     {
       "id": "news-98",
-      "headline": "Niger, Burkina Faso Launch Airstrikes in Mali as AES Deploys 15,000 Troops | Firstpost Africa - Firstpost",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS0tERHByQm5jS0ZSMmVuRE9UY3QwaC0zUTh4Q28zdl9xam5vUnVnVlFZZzlwU1NsR1BKWnR5OGh1Ulc4V1Q1WlUtN2RSMFFuRlNTRFZfVzJ5eUxaT3ZIcTFXY1M3VVc2ZzdOY0RLVmFOQXVTaWlMSGFYNW11b0xmV1ZhaWc5bE1rNFJ6c0N1YzVkQy1xR19XUzdRZmNiR3Z0VlMwUUdnMER2bHVuWGtubFZVeTdvajd",
-      "urgency": "breaking",
-      "topic": "sahel",
+      "headline": "All you need to know about Wafcon 2026",
+      "summary": "Find out the favourites, format and kick-off times for the delayed 2026 Women's Africa Cup of Nations in Morocco, which starts on 26 July.",
+      "urgency": "info",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
+          "name": "BBC Africa",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-05-02T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:30:09.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS0tERHByQm5jS0ZSMmVuRE9UY3QwaC0zUTh4Q28zdl9xam5vUnVnVlFZZzlwU1NsR1BKWnR5OGh1Ulc4V1Q1WlUtN2RSMFFuRlNTRFZfVzJ5eUxaT3ZIcTFXY1M3VVc2ZzdOY0RLVmFOQXVTaWlMSGFYNW11b0xmV1ZhaWc5bE1rNFJ6c0N1YzVkQy1xR19XUzdRZmNiR3Z0VlMwUUdnMER2bHVuWGtubFZVeTdvajdkaGtyZE5zTVR3dUd5TFk2a1BQaFNGbzZtbmpUMVRPZXA0d1JWeWtxYmEweXpBbXPSAewBQVVfeXFMT0VHdlhJYzNZcWdGbnlxWEc4UU1CUmtvVURQc2Z0cUdjX0tFRjdsaFIxTDNoVFRVSnF4dmFhbTB1aTFMd1hBVGROZ0o3NC1CSUM5QXppOXBFRkJxTGtnb3g3dXpDcFFpNWdOWk5xUzBMUmNJb0Nxb1hxVkJERG9Bam01TEY4N0hVYWlFcDNBYVRYaW9wdHdKNEZwaW5HWko3YmhPemhUenVVSjVQVGUtYzZhRnNnNDJ0eG96bG5LNTU3bjZHMERsVEFBSzhQT1puT09kZ2xEVEo0c0ZZZXp2U08xODFKd0dzUG9lQXY?oc=5"
+      "link": "https://www.bbc.co.uk/sport/football/articles/c89kd259jvyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "id": "news-99",
-      "headline": "Mali attacks spotlight the growing reach of militants across West Africa - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5GbGlmRVdDYjZYTkxxU1FXN2k4TTdHeVhsN3NqQnd5WFhhNFIwQjNVWjhKV0lGSmFJdEItbkJicHNRN2p0QjMzWW1EY1daZkNCRGRCeUt3VXVXbUxVVHY4QktjWklNQmJ6YWdNRGF6RWNWMGM?oc=5\" target=\"_blank\"&gt;Mali attacks spotlight the growing reach of militants across West ",
-      "urgency": "breaking",
-      "topic": "sahel",
+      "headline": "Tower of London will open 25,000 architectural drawings to the public for the first time",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132532218.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-04-30T07:00:00.000Z",
+      "timestamp": "2026-07-21T10:30:00.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GbGlmRVdDYjZYTkxxU1FXN2k4TTdHeVhsN3NqQnd5WFhhNFIwQjNVWjhKV0lGSmFJdEItbkJicHNRN2p0QjMzWW1EY1daZkNCRGRCeUt3VXVXbUxVVHY4QktjWklNQmJ6YWdNRGF6RWNWMGM?oc=5"
+      "link": "https://timesofindia.indiatimes.com/world/uk/the-tower-of-london-will-open-25000-architectural-drawings-to-the-public-for-the-first-time-after-nearly-1000-years/articleshow/132532218.cms"
     }
   ],
   "financials": {
     "exchangeRates": {
       "USD": 1,
-      "AED": 3.67,
+      "AED": 3.6725,
       "SAR": 3.75,
-      "GBP": 0.79,
-      "INR": 83.1,
-      "JPY": 150.2,
-      "EUR": 0.92
+      "GBP": 0.744372,
+      "INR": 96.528884,
+      "JPY": 162.468102,
+      "EUR": 0.875778,
+      "PKR": 277.872401,
+      "EGP": 51.091837,
+      "TRY": 47.188679,
+      "CAD": 1.405478,
+      "AUD": 1.428577,
+      "BRL": 5.098788,
+      "ZAR": 16.50659,
+      "NGN": 1378.690236,
+      "KES": 129.298593,
+      "JOD": 0.709,
+      "LBP": 89500,
+      "IQD": 1309.009979,
+      "QAR": 3.64,
+      "KWD": 0.309203,
+      "BHD": 0.376,
+      "OMR": 0.384497,
+      "ILS": 3.053087,
+      "KRW": 1478.632435
     },
     "gold": {
       "label": "Gold (USD/oz)",
