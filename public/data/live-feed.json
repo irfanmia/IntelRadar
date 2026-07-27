@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T14:50:15.472Z",
+  "lastUpdated": "2026-07-27T15:20:24.221Z",
   "news": [
     {
       "id": "news-0",
@@ -15,12 +15,228 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-27T14:45:50.000Z",
+      "timestamp": "2026-07-27T15:16:33.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions"
     },
     {
       "id": "news-1",
+      "headline": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T15:12:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions/heres-the-latest"
+    },
+    {
+      "id": "news-2",
+      "headline": "Oil price dives as US and Iran pause attacks",
+      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T15:08:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-3",
+      "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "summary": "Police say two suspects were shooting at each other and one of them is in custody and one at large.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T15:08:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-4",
+      "headline": "Secret tape recordings and ‘sham’ payments: the Liberals’ internal ideological war laid bare",
+      "summary": "&lt;p&gt;The NSW anti-corruption watchdog has begun a public inquiry into allegations of branch stacking, illegal donations, and interference with preselections&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news emai",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T15:00:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/28/nsw-liberals-icac-operation-rosny-secret-tape-recordings-ntwnfb"
+    },
+    {
+      "id": "news-5",
+      "headline": "Pauline Hanson and Malcolm Roberts deride family law system, calling DV a ‘weapon’ and court a ‘slaughterhouse’",
+      "summary": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Resurfaced comments by the One Nation leader underline her criticism of paid family violence leave and domestic violence support groups&lt;/p&gt;&lt;p&gt;Pauline Hanson told a podcast last year she believed “your employer should not be responsible” fo",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T15:00:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/27/pauline-hanson-labels-dv-a-weapon-while-malcolm-roberts-calls-family-court-a-slaughterhouse-ntwnfb"
+    },
+    {
+      "id": "news-6",
+      "headline": "Trump, tariffs and ties with China at stake in Brazilian presidential race",
+      "summary": "With less than three months to go until Brazil’s presidential election, China is closely watching a high-stakes political duel between a Beijing-friendly incumbent and his pro-Washington challenger.\nBrazilian President Luiz Inacio Lula da Silva, who maintains close ties with Beijing, is seeking a fo",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-27T15:00:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3362030/trump-tariffs-and-ties-china-stake-brazilian-presidential-race?utm_source=rss_feed"
+    },
+    {
+      "id": "news-7",
+      "headline": "'I spent the night coughing': Wildfire smoke leaves Bordeaux residents struggling to breathe",
+      "summary": "A dense blanket of smoke has hung over Bordeaux since last Friday as a massive wildfire burns its way through southwestern France. As the flames creep closer to the city, FRANCE 24 met residents stunned by the scale of the disaster and fearful of what comes next.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T14:58:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/france/20260727-i-spent-the-night-coughing-wildfire-smoke-leaves-bordeaux-residents-struggling-to-breathe"
+    },
+    {
+      "id": "news-8",
+      "headline": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+      "summary": "Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T14:56:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
+    },
+    {
+      "id": "news-9",
+      "headline": "live Bab el-Mandeb shipping slumps after Houthi attacks on Saudi oil sites - AnewZ",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVdVczhwSnNKSzdFZVhYQUZmZXJXaDdBS2RBVEtOVmx5VXg3dzNDdTV6b2EtRC1DazNUVXp1bkhyaThLUDAySTBHbWg5aXVfU2hoMVU1S1B2aGdrbm0xVjFoREwtRlZScHMyaE9uTTRWaVVvWGRKYWZtTi1mWFNTRGRDTDhkeUVPOUVTUTVMYml3enpZODI5RGRSMzgtRDhWal9rUHE1NnRqT1Q2eFhsWA?oc=5\" ta",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T14:55:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVdVczhwSnNKSzdFZVhYQUZmZXJXaDdBS2RBVEtOVmx5VXg3dzNDdTV6b2EtRC1DazNUVXp1bkhyaThLUDAySTBHbWg5aXVfU2hoMVU1S1B2aGdrbm0xVjFoREwtRlZScHMyaE9uTTRWaVVvWGRKYWZtTi1mWFNTRGRDTDhkeUVPOUVTUTVMYml3enpZODI5RGRSMzgtRDhWal9rUHE1NnRqT1Q2eFhsWA?oc=5"
+    },
+    {
+      "id": "news-10",
+      "headline": "Tunisia bars family, lawyers from seeing Ghannouchi after prison collapse",
+      "summary": "No word on jailed Tunisian opposition leader Ghannouchi for 11 days, his son tells Al Jazeera.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T14:52:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/7/27/tunisia-bars-family-lawyers-from-seeing-ghannouchi-after-prison-collapse?traffic_source=rss"
+    },
+    {
+      "id": "news-11",
+      "headline": "New rule for asylum seekers in the US: 'No interview, straight deportation', DHS calls it 'second chance'",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132664529.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-07-27T14:50:13.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/new-rule-for-asylum-seekers-in-the-us-no-interview-straight-deportation-dhs-calls-it-second-chance/articleshow/132664529.cms"
+    },
+    {
+      "id": "news-12",
+      "headline": "Ukraine: How the front line moved to recruitment offices [ANALYSIS] - TVP World",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3dqVk4tM1BOSlY4UkNjZTJ5a2Z6VWtzNlE2bFlCWk53QXpSb3p2V0huaGQxRXNQREJZWXZvSUdyR0ZhSE85R2hVTlZiZTlKbzl5UEZYMHBFcXI3TV9oVDRydW4tVXNTUndWMHFIelA0Sm9BdEJXUUU1ajM4NzkzTVJHSzJ4VFRSNkpQZGtuSWZWZw?oc=5\" target=\"_blank\"&gt;Ukraine: How the front ",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-27T14:44:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3dqVk4tM1BOSlY4UkNjZTJ5a2Z6VWtzNlE2bFlCWk53QXpSb3p2V0huaGQxRXNQREJZWXZvSUdyR0ZhSE85R2hVTlZiZTlKbzl5UEZYMHBFcXI3TV9oVDRydW4tVXNTUndWMHFIelA0Sm9BdEJXUUU1ajM4NzkzTVJHSzJ4VFRSNkpQZGtuSWZWZw?oc=5"
+    },
+    {
+      "id": "news-13",
       "headline": "Saudi Arabia says it intercepted drones from Iraq as Houthis target oil sites",
       "summary": "Saudi Arabia said it intercepted drones launched by Iran-backed militias from Iraq targeting oil facilities and Riyadh on Monday, while Yemen's Houthi rebels claimed separate drone strikes on the kingdom's oil infrastructure. The attacks mark a renewed escalation involving Saudi Arabia despite a rec",
       "urgency": "breaking",
@@ -38,7 +254,7 @@
       "link": "https://www.france24.com/en/middle-east/20260727-saudi-arabia-says-it-intercepted-drones-from-iraq-as-houthis-target-oil-sites"
     },
     {
-      "id": "news-2",
+      "id": "news-14",
       "headline": "Spain races to contain blazes before new heatwave",
       "summary": "Spain has two crucial days in front of it to bring wildfires under control before weather conditions worsen, authorities said Monday, as Prime Minister Pedro Sanchez called on citizens to \"exercise extreme caution\" ahead of a new heatwave. FRANCE 24's Sarah Morris reports.",
       "urgency": "info",
@@ -56,7 +272,7 @@
       "link": "https://www.france24.com/en/video/20260727-spain-races-to-contain-blazes-before-new-heatwave"
     },
     {
-      "id": "news-3",
+      "id": "news-15",
       "headline": "Second man arrested in 2023 murder of Indian-origin food delivery driver in Canada",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132664204.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -74,7 +290,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/second-man-arrested-in-2023-murder-of-indian-origin-food-delivery-driver-in-canada/articleshow/132664204.cms"
     },
     {
-      "id": "news-4",
+      "id": "news-16",
       "headline": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
       "summary": "The Iran-backed Houthi militia in Yemen has seized on a vulnerable moment for neighboring Saudi Arabia, which does not want another war. The group hopes to force political concessions in Yemen that could give it more authority and more access to resources.",
       "urgency": "breaking",
@@ -92,7 +308,7 @@
       "link": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html"
     },
     {
-      "id": "news-5",
+      "id": "news-17",
       "headline": "From Moonshot to Enflame: how Tencent is betting big on China’s AI champions",
       "summary": "Tencent Holdings is quietly reallocating its venture capital bets away from legacy internet assets to double down on China’s highest-profile artificial intelligence champions.\nWhile the tech giant’s sprawling portfolio spans mobile gaming, e-commerce and consumer goods globally, its AI strategy has ",
       "urgency": "info",
@@ -110,7 +326,7 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3362013/moonshot-enflame-how-tencent-betting-big-chinas-ai-champions?utm_source=rss_feed"
     },
     {
-      "id": "news-6",
+      "id": "news-18",
       "headline": "South Africa investigates death of Nigerian who collapsed during arrest",
       "summary": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
       "urgency": "important",
@@ -128,7 +344,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-19",
       "headline": "Honduras’s Hernandez returns home after Trump pardon: How it happened",
       "summary": "Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him.",
       "urgency": "info",
@@ -146,25 +362,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/27/hondurass-hernandez-returns-home-after-trump-pardon-how-it-happened?traffic_source=rss"
     },
     {
-      "id": "news-8",
-      "headline": "Oil price dives as US and Iran pause attacks",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T14:22:24.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-9",
+      "id": "news-20",
       "headline": "Devastating European wildfires in maps - and how they're being tackled",
       "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
       "urgency": "info",
@@ -182,7 +380,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-21",
       "headline": "Abu Dhabi Finance Week to return in December as UAE capital targets bigger role in global finance",
       "summary": "Abu Dhabi Finance Week to return in December as UAE capital targets bigger role in global finance",
       "urgency": "info",
@@ -200,7 +398,7 @@
       "link": "https://gulfnews.com/uae/government/abu-dhabi-finance-week-to-return-in-december-as-uae-capital-targets-bigger-role-in-global-finance-1.500621801"
     },
     {
-      "id": "news-11",
+      "id": "news-22",
       "headline": "Arvind Kejriwal announces town hall to rally support on E20 issue",
       "summary": "Arvind Kejriwal announces town hall to rally support on E20 issue",
       "urgency": "info",
@@ -218,7 +416,7 @@
       "link": "https://gulfnews.com/world/asia/india/arvind-kejriwal-announces-town-hall-to-rally-support-on-e20-issue-1.500621806"
     },
     {
-      "id": "news-12",
+      "id": "news-23",
       "headline": "Philippines’ Marcos uses national address to promise relief, but funding questions loom",
       "summary": "Philippine President Ferdinand Marcos Jnr used his 2026 State of the Nation Address (Sona) on Monday to promise relief from taxes, electricity charges and high rice prices, while pledging to pursue corruption cases linked to a flood-control scandal that has battered his administration.\nBut while ana",
       "urgency": "info",
@@ -236,7 +434,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3362035/philippines-marcos-uses-national-address-promise-relief-funding-questions-loom?utm_source=rss_feed"
     },
     {
-      "id": "news-13",
+      "id": "news-24",
       "headline": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
       "summary": "Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.",
       "urgency": "info",
@@ -254,7 +452,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss"
     },
     {
-      "id": "news-14",
+      "id": "news-25",
       "headline": "Carly Simon reveals Parkinson's diagnosis",
       "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
       "urgency": "info",
@@ -272,7 +470,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-15",
+      "id": "news-26",
       "headline": "Baby missing after mother and toddler found dead off coast of South Australia",
       "summary": "&lt;p&gt;Emergency services pulled the bodies from the ocean at Port Macdonnell as hopes of finding second child fade&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust",
       "urgency": "breaking",
@@ -290,7 +488,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/27/baby-missing-after-mother-and-toddler-found-dead-off-coast-of-south-australia-ntwnfb"
     },
     {
-      "id": "news-16",
+      "id": "news-27",
       "headline": "Five years after Saied’s power grab, Tunisians are no better off",
       "summary": "Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.",
       "urgency": "info",
@@ -308,7 +506,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss"
     },
     {
-      "id": "news-17",
+      "id": "news-28",
       "headline": "China’s localised data centre push drives AI ambitions amid overbuilding concerns",
       "summary": "Despite their strikingly different approaches to developing and deploying artificial intelligence, one aspect is common across China and the United States: data and computing centres are proliferating in both countries, especially in remote locations.\nWhile the US is seeing residents and localities ",
       "urgency": "info",
@@ -326,7 +524,7 @@
       "link": "https://www.scmp.com/economy/china-economy/article/3361988/chinas-localised-data-centre-push-drives-ai-ambitions-amid-overbuilding-concerns?utm_source=rss_feed"
     },
     {
-      "id": "news-18",
+      "id": "news-29",
       "headline": "Why use rare earths in rubber production? Chinese scientists are engineering tougher tyres",
       "summary": "Chinese researchers have completed trials of a new rare earth-based synthetic rubber production facility, industrialising a major raw material for manufacturing electric vehicle and heavy-duty vehicle tyres.\nHigh-quality synthetic rubber, most of which uses metal as a catalyst during production, is ",
       "urgency": "info",
@@ -344,7 +542,7 @@
       "link": "https://www.scmp.com/news/china/science/article/3361704/why-use-rare-earths-rubber-production-chinese-scientists-are-engineering-tougher-tyres?utm_source=rss_feed"
     },
     {
-      "id": "news-19",
+      "id": "news-30",
       "headline": "Most scuba divers believed they rarely touched reefs; underwater observers found more...",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132662758.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -362,7 +560,7 @@
       "link": "https://timesofindia.indiatimes.com/science/most-scuba-divers-believed-they-rarely-touched-reefs-underwater-observers-found-more-than-40-of-contacts-caused-visible-damage/articleshow/132662758.cms"
     },
     {
-      "id": "news-20",
+      "id": "news-31",
       "headline": "Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says",
       "summary": "Hong Kong’s banking sector is still in the early stages of preparing for cybersecurity risks posed by quantum computing, the city’s de facto central bank said on Monday as it unveiled a new benchmark to track the industry’s readiness.\nThe Hong Kong Monetary Authority (HKMA) launched its first Quantu",
       "urgency": "info",
@@ -380,7 +578,7 @@
       "link": "https://www.scmp.com/business/banking-finance/article/3362033/hong-kong-banks-early-stages-preparing-quantum-computing-threats-hkma-says?utm_source=rss_feed"
     },
     {
-      "id": "news-21",
+      "id": "news-32",
       "headline": "PoK protests: Thousands march to Muzaffarabad after failed talks; polls delayed in 2 districts",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132662765.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -398,7 +596,7 @@
       "link": "https://timesofindia.indiatimes.com/world/pakistan/pok-protests-thousands-march-to-muzaffarabad-after-failed-talks-polls-delayed-in-two-districts/articleshow/132662765.cms"
     },
     {
-      "id": "news-22",
+      "id": "news-33",
       "headline": "Australian court rejects racial discrimination appeal by Pauline Hanson",
       "summary": "⁠Court upholds earlier ruling ⁠that a post directed at Greens Senator Mehreen Faruqi was unlawful.",
       "urgency": "info",
@@ -416,7 +614,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson?traffic_source=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-34",
       "headline": "Guyana Ferry Tragedy Exposes Political Rifts in Oil-Rich Country",
       "summary": "The capsizing of a ferry was Guyana’s deadliest event since Jonestown in 1978. Many are asking how this could happen in one of the world’s fastest-growing economies.",
       "urgency": "breaking",
@@ -434,7 +632,7 @@
       "link": "https://www.nytimes.com/2026/07/27/world/americas/guyana-ferry-accident-oil-economy.html"
     },
     {
-      "id": "news-24",
+      "id": "news-35",
       "headline": "Raging wildfires force evacuation of over 220,000 in southwestern France",
       "summary": "Raging wildfires have forced the evacuation of over 220,000 people from the Gironde department in southwestern France as the devastating flames continue to spread. Thousands of evacuees are now packed into emergency shelters, with no timeline given as to when they may be able to return as firefighte",
       "urgency": "info",
@@ -452,7 +650,7 @@
       "link": "https://www.france24.com/en/video/20260727-raging-wildfires-force-evacuation-of-over-220-000-in-southwestern-france"
     },
     {
-      "id": "news-25",
+      "id": "news-36",
       "headline": "31 killed in first terror attack in Nigerian village, residents say army refused to respond",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132662575.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -470,7 +668,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/31-killed-in-first-terror-attack-in-nigerian-village-residents-say-army-refused-to-respond/articleshow/132662575.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-37",
       "headline": "Hong Kong’s wild boar population halves under capture-and-kill strategy",
       "summary": "The number of wild boars in Hong Kong has declined by more than half in the four years since authorities adopted a capture-and-kill policy, with HK$105.6 million (US$13.46 million) spent over the same period.\nA Legislative Council study published on Monday found that the number of boars culled since",
       "urgency": "breaking",
@@ -488,7 +686,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362029/hong-kongs-wild-boar-population-halves-under-capture-and-kill-strategy?utm_source=rss_feed"
     },
     {
-      "id": "news-27",
+      "id": "news-38",
       "headline": "What is happening in Seattle now? Police searching for 2nd shooter; no details about arrested suspect revealed",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132662966.cms\" /&gt;<![CDATA[A mass shooting occurred at Seattle Center's Bite of Seattle food festival. Three people died and four others sustained injuries in the cha",
       "urgency": "info",
@@ -506,7 +704,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/what-is-happening-in-seattle-now-police-searching-for-2nd-shooter-no-details-about-arrested-suspect-revealed/articleshow/132662966.cms"
     },
     {
-      "id": "news-28",
+      "id": "news-39",
       "headline": "France’s interior minister says monster wildfire has stopped growing",
       "summary": "France’s interior minister said Monday that a monster wildfire has stopped growing after forcing 220,000 people out of their homes in the country’s southwest but cautioned that it isn’t yet beaten. He spoke after French President Emmanuel Macron held a crisis meeting Monday focusing on the massive f",
       "urgency": "important",
@@ -524,7 +722,7 @@
       "link": "https://www.france24.com/en/video/20260727-france-s-interior-minister-says-monster-wildfire-has-stopped-growing"
     },
     {
-      "id": "news-29",
+      "id": "news-40",
       "headline": "France wildfire: Local economy faces huge rebuilding and reforestation bill",
       "summary": "While the focus still remains containing the forest fires blazing through the Gironde department,  the challenge of rebuilding and replanting has already begun. And it is likely to be a costly one coming in, according to the government, at between 5 and 10 thousand euros a hectare.",
       "urgency": "important",
@@ -542,7 +740,7 @@
       "link": "https://www.france24.com/en/video/20260727-france-wildfire-local-economy-faces-huge-rebuilding-and-reforestation-bill"
     },
     {
-      "id": "news-30",
+      "id": "news-41",
       "headline": "REPLAY: 'Unprecedented' fire stable but not fully contained, says French Interior minister",
       "summary": "France’s interior minister said Monday that a monster wildfire has stopped growing after forcing 220,000 people out of their homes in the country’s southwest but cautioned that it isn’t yet beaten. “It hasn’t progressed during the night,” the minister, Laurent Nuñez, said. “We have to remain very co",
       "urgency": "info",
@@ -560,25 +758,7 @@
       "link": "https://www.france24.com/en/video/20260727-replay-unprecedented-fire-stable-but-not-fully-contained-says-french-interior-minister"
     },
     {
-      "id": "news-31",
-      "headline": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
-      "summary": "Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T13:33:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
-    },
-    {
-      "id": "news-32",
+      "id": "news-42",
       "headline": "Honduran ex-president returns home after Trump pardon",
       "summary": "Honduran ex-president Juan Orlando Hernandez – who was serving a 45-year prison sentence in the United States for drug trafficking until President Donald Trump pardoned him last year – returned to his home country on Sunday.",
       "urgency": "info",
@@ -596,7 +776,7 @@
       "link": "https://www.france24.com/en/video/20260727-honduran-ex-president-returns-home-after-trump-pardon"
     },
     {
-      "id": "news-33",
+      "id": "news-43",
       "headline": "Former Honduras president returns home after Trump pardon",
       "summary": "Former Honduras president returns home after Trump pardon",
       "urgency": "info",
@@ -614,7 +794,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/former-honduras-president-returns-home-after-trump-pardon?traffic_source=rss"
     },
     {
-      "id": "news-34",
+      "id": "news-44",
       "headline": "More than 600 US military service members injured since Iran War began in February",
       "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
       "urgency": "breaking",
@@ -632,7 +812,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-35",
+      "id": "news-45",
       "headline": "In Washington, Netanyahu Faces a Delicate Balancing Act",
       "summary": "Prime Minister Benjamin Netanyahu of Israel is set to meet President Trump on Tuesday, with one eye on Iran and another on the coming elections back home.",
       "urgency": "important",
@@ -650,7 +830,7 @@
       "link": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
     },
     {
-      "id": "news-36",
+      "id": "news-46",
       "headline": "D-Day beaches inscribed on UNESCO World Heritage List",
       "summary": "UNESCO on Sunday added the iconic D-Day landing beaches in Normandy to its World Heritage List, marking the culmination of a project launched nearly two decades ago. Stretching for more than 80 kilometres (50 miles) of France's northwestern coast, Allied forces landed on the beaches on June 6, 1944 ",
       "urgency": "breaking",
@@ -668,7 +848,7 @@
       "link": "https://www.france24.com/en/video/20260727-d-day-beaches-inscribed-on-unesco-world-heritage-list"
     },
     {
-      "id": "news-37",
+      "id": "news-47",
       "headline": "New Heat Wave Could Intensify Wildfires in France and Spain",
       "summary": "Soaring temperatures in parts of France, Spain and Portugal could combine with dry conditions and strong winds to worsen the wildfire threat. It is the fourth heat wave to affect Europe since May.",
       "urgency": "info",
@@ -686,7 +866,7 @@
       "link": "https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html"
     },
     {
-      "id": "news-38",
+      "id": "news-48",
       "headline": "Indian model Rhiya Ahir, who stopped police van during student protest, to file cyber complaint over alleged online abuse",
       "summary": "Indian model Rhiya Ahir, who stopped police van during student protest, to file cyber complaint over alleged online abuse",
       "urgency": "important",
@@ -704,7 +884,7 @@
       "link": "https://gulfnews.com/entertainment/indian-model-rhiya-ahir-who-stopped-police-van-during-student-protest-to-file-cyber-complaint-over-alleged-online-abuse-1.500621732"
     },
     {
-      "id": "news-39",
+      "id": "news-49",
       "headline": "Six orphaned rhinos give birth after mothers were killed by poachers",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132660890.cms\" /&gt;<![CDATA[In a heartwarming turnaround, six orphaned rhinos from South Africa have welcomed new calves after years of rehabilitation. Their successfu",
       "urgency": "breaking",
@@ -722,7 +902,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/poachers-killed-their-mothers-and-left-six-young-rhinos-orphaned-after-up-to-five-years-of-rehabilitation-every-one-has-now-given-birth-in-the-wild/articleshow/132660890.cms"
     },
     {
-      "id": "news-40",
+      "id": "news-50",
       "headline": "Is Kim Yo-jong’s rebuke a sign North Korea is ditching Asean diplomacy?",
       "summary": "A rare rebuke of Asean by the powerful sister of North Korean ruler Kim Jong-un signals the bloc’s waning relevance to the nuclear-armed state, analysts say.\nKim Yo-jong on Monday condemned a call by the Association of Southeast Asian Nations for the country’s denuclearisation, saying the statement ",
       "urgency": "info",
@@ -740,7 +920,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3362028/kim-yo-jongs-rebuke-sign-north-korea-ditching-asean-diplomacy?utm_source=rss_feed"
     },
     {
-      "id": "news-41",
+      "id": "news-51",
       "headline": "US-Iran conflict: What UAE residents need to know this evening (July 27)",
       "summary": "US-Iran conflict: What UAE residents need to know this evening (July 27)",
       "urgency": "info",
@@ -758,7 +938,7 @@
       "link": "https://gulfnews.com/world/mena/us-iran-conflict-what-uae-residents-need-to-know-this-evening-july-27-1.500621715"
     },
     {
-      "id": "news-42",
+      "id": "news-52",
       "headline": "Dubai expands e-bike delivery with seven new locations",
       "summary": "Dubai expands e-bike delivery with seven new locations",
       "urgency": "info",
@@ -776,7 +956,7 @@
       "link": "https://gulfnews.com/uae/transport/dubai-expands-e-bike-delivery-with-seven-new-locations-1.500621737"
     },
     {
-      "id": "news-43",
+      "id": "news-53",
       "headline": "Singapore detains 3 ‘self-radicalised’ teens over planned attacks",
       "summary": "Singapore authorities said on Monday they had arrested three teenagers over separate plots to carry out shooting, stabbing and bomb attacks, warning of the threat of “youth radicalisation” in the security-conscious city state.\nThe three boys, detained between April and June, had been “self-radicalis",
       "urgency": "breaking",
@@ -794,7 +974,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3362026/singapore-detains-3-self-radicalised-teens-over-planned-attacks?utm_source=rss_feed"
     },
     {
-      "id": "news-44",
+      "id": "news-54",
       "headline": "WHO sees ‘historic opportunity’ to end polio in Pakistan",
       "summary": "WHO sees ‘historic opportunity’ to end polio in Pakistan",
       "urgency": "info",
@@ -812,7 +992,7 @@
       "link": "https://gulfnews.com/world/asia/pakistan/who-sees-historic-opportunity-to-end-polio-in-pakistan-1.500621730"
     },
     {
-      "id": "news-45",
+      "id": "news-55",
       "headline": "15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea",
       "summary": "Fifteen people remain missing after the cargo vessel went down in heavily disputed waters. China said it had rescued 47 people who had been aboard.",
       "urgency": "info",
@@ -830,7 +1010,7 @@
       "link": "https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html"
     },
     {
-      "id": "news-46",
+      "id": "news-56",
       "headline": "Iran halts strikes as Trump gives space to talks",
       "summary": "Iran and the United States held their fire on Monday, handing Gulf shipping and the oil industry a respite from missile strikes as Donald Trump’s UN envoy said the president was “giving talks some space”.\nTehran said it had halted retaliatory attacks against Washington’s allies in the Middle East, a",
       "urgency": "breaking",
@@ -848,25 +1028,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3362025/iran-halts-strikes-trump-gives-space-talks?utm_source=rss_feed"
     },
     {
-      "id": "news-47",
-      "headline": "Here’s the latest.",
-      "summary": "Here’s the latest.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T13:01:22.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions/heres-the-latest"
-    },
-    {
-      "id": "news-48",
+      "id": "news-57",
       "headline": "Around 1200 BCE, major Mediterranean civilisations began collapsing; scientists have now reconstructed the climate conditions surrounding the crisis",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132662191.cms\" /&gt;<![CDATA[A new study suggests prolonged drought pressured eastern Mediterranean societies.  This drying significantly affected agriculture and food ",
       "urgency": "breaking",
@@ -884,7 +1046,7 @@
       "link": "https://timesofindia.indiatimes.com/science/around-1200-bce-major-mediterranean-civilisations-began-collapsing-scientists-have-now-reconstructed-the-climate-conditions-surrounding-the-crisis/articleshow/132662191.cms"
     },
     {
-      "id": "news-49",
+      "id": "news-58",
       "headline": "200 years after the first dinosaur, scientists use brain scans on a 100-million-year-old snake fossil from Brazil",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132661926.cms\" /&gt;<![CDATA[Palaeontology has transformed from examining fossil fragments to digitally reconstructing ancient creatures.  A new Cretaceous snake fossil",
       "urgency": "info",
@@ -902,7 +1064,7 @@
       "link": "https://timesofindia.indiatimes.com/science/200-years-after-the-first-dinosaur-scientists-use-brain-scans-on-a-100-million-year-old-snake-fossil-from-brazil/articleshow/132661926.cms"
     },
     {
-      "id": "news-50",
+      "id": "news-59",
       "headline": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
       "summary": "Analysts say Israeli cabinet&#039;s decision aims to deflect US pressure and fragment the Gaza Strip.",
       "urgency": "info",
@@ -920,7 +1082,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/27/israels-approval-of-limited-gaza-force-a-calculated-manoeuvre-experts-say?traffic_source=rss"
     },
     {
-      "id": "news-51",
+      "id": "news-60",
       "headline": "Dutch pair banned from Bali after run club ‘excludes locals’",
       "summary": "Two Dutch men have been banned from re-entering Indonesia over alleged violations and discrimination.",
       "urgency": "info",
@@ -938,7 +1100,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/dutch-pair-banned-from-bali-after-run-club-excludes?traffic_source=rss"
     },
     {
-      "id": "news-52",
+      "id": "news-61",
       "headline": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
       "summary": "A suspect was killed in a police shootout. He had tried to join ISIS and was sentenced to prison but released from detention in May with a suspended sentence.",
       "urgency": "breaking",
@@ -956,7 +1118,7 @@
       "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html"
     },
     {
-      "id": "news-53",
+      "id": "news-62",
       "headline": "Ajman Bank, National Bonds join hands to boost savings and financial inclusion",
       "summary": "Ajman Bank, National Bonds join hands to boost savings and financial inclusion",
       "urgency": "info",
@@ -974,7 +1136,7 @@
       "link": "https://gulfnews.com/business/banking/ajman-bank-national-bonds-join-hands-to-boost-savings-and-financial-inclusion-1.500621707"
     },
     {
-      "id": "news-54",
+      "id": "news-63",
       "headline": "Three killed in suspected shootout in US city of Seattle, police say",
       "summary": "Police say one suspect surrendered at the scene of the shooting, while the other remains on the loose.",
       "urgency": "breaking",
@@ -992,7 +1154,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss"
     },
     {
-      "id": "news-55",
+      "id": "news-64",
       "headline": "Gaza student tops national exams despite war and displacement",
       "summary": "Gaza’s Saba Rabah ranked first in Palestine&#039;s national high school exams amid Israel’s genocidal war.",
       "urgency": "breaking",
@@ -1010,7 +1172,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss"
     },
     {
-      "id": "news-56",
+      "id": "news-65",
       "headline": "Wildfires leave trail of destruction Across France and Spain",
       "summary": "Wildfires leave trail of destruction Across France and Spain",
       "urgency": "info",
@@ -1028,7 +1190,7 @@
       "link": "https://gulfnews.com/world/wildfires-leave-trail-of-destruction-across-france-and-spain-1.500621686"
     },
     {
-      "id": "news-57",
+      "id": "news-66",
       "headline": "UK's largest girls' organisation Girlguiding unveils first uniform redesign since 1990 — focused on ‘self-expression and confidence’",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132661106.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1046,7 +1208,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/uks-largest-girls-organisation-girlguiding-unveils-first-uniform-redesign-since-1990-focused-on-self-expression-and-confidence/articleshow/132661106.cms"
     },
     {
-      "id": "news-58",
+      "id": "news-67",
       "headline": "'No other...': Parents of Indian medical student Vaibhav Duggal who died by suicide seek $30 million from Texas Tech University",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132661870.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1064,7 +1226,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/no-other-student-parents-of-indian-medical-student-vaibhav-duggal-who-died-by-suicide-seek-30-million-from-texas-tech-university/articleshow/132661870.cms"
     },
     {
-      "id": "news-59",
+      "id": "news-68",
       "headline": "Lonely whooping crane that refused to mate helped save one of the world’s rarest birds",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132660771.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1082,7 +1244,7 @@
       "link": "https://timesofindia.indiatimes.com/science/in-1976-a-scientist-spent-seven-years-dancing-with-a-lonely-whooping-crane-that-refused-to-mate-the-chick-that-followed-helped-save-one-of-the-worlds-rarest-birds/articleshow/132660771.cms"
     },
     {
-      "id": "news-60",
+      "id": "news-69",
       "headline": "New DNA tracking helps spot rare ‘Tai O fish’ in Hong Kong waters after 10 years",
       "summary": "A Hong Kong academic has used environmental DNA technology to detect the critically endangered Chinese bahaba – commonly known as the “Tai O fish” – in local waters for the first time in more than a decade.\nJack Ip Chi-ho, an assistant professor at Lingnan University’s division of science, co-led th",
       "urgency": "info",
@@ -1100,7 +1262,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362023/new-dna-tracking-helps-spot-rare-tai-o-fish-hong-kong-waters-after-10-years?utm_source=rss_feed"
     },
     {
-      "id": "news-61",
+      "id": "news-70",
       "headline": "Zelensky arrives in UK ahead of meeting Burnham",
       "summary": "The Ukrainian president will be the new prime minister's first international visitor since taking office.",
       "urgency": "info",
@@ -1118,7 +1280,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-62",
+      "id": "news-71",
       "headline": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
       "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
       "urgency": "breaking",
@@ -1136,7 +1298,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-63",
+      "id": "news-72",
       "headline": "Potential for first Australian oil refinery in 60 years as treasurer braces for inflation from Middle East war",
       "summary": "&lt;p&gt;Commonwealth and Western Australia to fund study into construction of large-scale petrol refinery as buffer against fuel vulnerability&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;",
       "urgency": "breaking",
@@ -1154,7 +1316,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/27/potential-for-first-australian-oil-refinery-in-60-years-as-treasurer-braces-for-inflation-from-middle-east-war"
     },
     {
-      "id": "news-64",
+      "id": "news-73",
       "headline": "India is losing its regional primacy as Beijing and Washington move in",
       "summary": "South Asia is undergoing a gradual but important shift. Smaller states now command a widening array of options, and India’s primacy is quietly giving way. The lesson is clear. Regional leadership can no longer rest on geography and must be sustained through credible and mutually beneficial engagemen",
       "urgency": "breaking",
@@ -1172,7 +1334,7 @@
       "link": "https://www.scmp.com/opinion/asia-opinion/article/3361501/india-losing-its-regional-primacy-beijing-and-washington-move?utm_source=rss_feed"
     },
     {
-      "id": "news-65",
+      "id": "news-74",
       "headline": "518 million years ago, one tiny sea creature may have started the evolution of the fangs",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132660572.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1190,7 +1352,7 @@
       "link": "https://timesofindia.indiatimes.com/world/china/518-million-years-ago-one-tiny-sea-creature-may-have-started-the-evolution-of-the-fangs-seen-in-spiders-today/articleshow/132660572.cms"
     },
     {
-      "id": "news-66",
+      "id": "news-75",
       "headline": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
       "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself.",
       "urgency": "info",
@@ -1208,7 +1370,7 @@
       "link": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-67",
+      "id": "news-76",
       "headline": "Students and staff work to bring Islamic University of Gaza back to life",
       "summary": "The university is looking to continue educating Palestinians amid Israel&#039;s genocidal war on Gaza.",
       "urgency": "breaking",
@@ -1226,7 +1388,7 @@
       "link": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss"
     },
     {
-      "id": "news-68",
+      "id": "news-77",
       "headline": "The Great Pyramid was not built by slaves, but by paid workers who drank beer and ate meat.",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132661094.cms\" /&gt;<![CDATA[Modern archaeology says that pyramid builders were not slaves but a respected workforce.  These workers lived in a dedicated town and recei",
       "urgency": "info",
@@ -1244,7 +1406,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/the-great-pyramid-was-not-built-by-slaves-instead-it-was-built-by-paid-workers-who-drank-beer-ate-meat-received-medical-care-and-were-buried-with-honour/articleshow/132661094.cms"
     },
     {
-      "id": "news-69",
+      "id": "news-78",
       "headline": "UAE credit reports to include Buy Now, Pay Later data from Tabby and Tamara",
       "summary": "UAE credit reports to include Buy Now, Pay Later data from Tabby and Tamara",
       "urgency": "info",
@@ -1262,7 +1424,7 @@
       "link": "https://gulfnews.com/business/banking/uae-credit-reports-to-include-buy-now-pay-later-data-from-tabby-and-tamara-1.500621675"
     },
     {
-      "id": "news-70",
+      "id": "news-79",
       "headline": "Turkey cemetery shooting: Three family members killed, two injured in armed attack",
       "summary": "Turkey cemetery shooting: Three family members killed, two injured in armed attack",
       "urgency": "breaking",
@@ -1280,7 +1442,7 @@
       "link": "https://gulfnews.com/world/mena/turkey-cemetery-shooting-three-family-members-killed-two-injured-in-armed-attack-1.500621574"
     },
     {
-      "id": "news-71",
+      "id": "news-80",
       "headline": "In 1992, Hurricane Andrew may have helped giant Burmese pythons spread across Florida's Everglades, creating one of America's worst invasive species crises",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132660980.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -1298,7 +1460,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-1992-hurricane-andrew-may-have-helped-giant-burmese-pythons-spread-across-floridas-everglades-creating-one-of-americas-worst-invasive-species-crises/articleshow/132660980.cms"
     },
     {
-      "id": "news-72",
+      "id": "news-81",
       "headline": "UAE weather: Hail and heavy rain hit Masafi, Eastern Region",
       "summary": "UAE weather: Hail and heavy rain hit Masafi, Eastern Region",
       "urgency": "info",
@@ -1316,7 +1478,7 @@
       "link": "https://gulfnews.com/uae/weather/uae-weather-hail-and-heavy-rain-hit-masafi-eastern-region-1.500621619"
     },
     {
-      "id": "news-73",
+      "id": "news-82",
       "headline": "‘Give me work’: Disco icon Kalpana Iyer on viral Dhurandhar fame, turning 70 in Dubai and finding a second act in the UAE",
       "summary": "‘Give me work’: Disco icon Kalpana Iyer on viral Dhurandhar fame, turning 70 in Dubai and finding a second act in the UAE",
       "urgency": "info",
@@ -1334,7 +1496,7 @@
       "link": "https://gulfnews.com/entertainment/give-me-work-disco-icon-kalpana-iyer-on-her-viral-dhurandhar-revival-turning-70-in-uae-and-calling-dubai-her-safe-home-1.500621568"
     },
     {
-      "id": "news-74",
+      "id": "news-83",
       "headline": "Dutch scientist created bacteria that repair cracked buildings by turning cracks into stone, making concrete heal itself and saving billions in repair costs",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132660753.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1352,7 +1514,7 @@
       "link": "https://timesofindia.indiatimes.com/science/dutch-scientist-created-bacteria-that-repair-cracked-buildings-by-turning-cracks-into-stone-making-concrete-heal-itself-and-saving-billions-in-repair-costs/articleshow/132660753.cms"
     },
     {
-      "id": "news-75",
+      "id": "news-84",
       "headline": "Before ants began caring for their young, the brain circuits were helping them find food",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132660770.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1370,7 +1532,7 @@
       "link": "https://timesofindia.indiatimes.com/science/long-before-ants-began-caring-for-their-young-the-same-brain-circuits-were-helping-them-find-food/articleshow/132660770.cms"
     },
     {
-      "id": "news-76",
+      "id": "news-85",
       "headline": "Best electric shavers on amazon.ae 2026: Smooth shaves for every beard type",
       "summary": "Best electric shavers on amazon.ae 2026: Smooth shaves for every beard type",
       "urgency": "info",
@@ -1388,7 +1550,7 @@
       "link": "https://gulfnews.com/best-buys/best-electric-shavers-on-amazonae-2026-smooth-shaves-for-every-beard-type-1.500621312"
     },
     {
-      "id": "news-77",
+      "id": "news-86",
       "headline": "UAE launches nationwide programme to strengthen crisis response skills",
       "summary": "UAE launches nationwide programme to strengthen crisis response skills",
       "urgency": "important",
@@ -1406,7 +1568,7 @@
       "link": "https://gulfnews.com/uae/emergencies/uae-launches-nationwide-programme-to-strengthen-crisis-response-skills-1.500621651"
     },
     {
-      "id": "news-78",
+      "id": "news-87",
       "headline": "Will the heat from a cooking oil scandal help the opposition in Taiwan?",
       "summary": "Taipei mayor Wayne Chiang Wan-an has emerged as the biggest political winner from an opposition protest against the government’s handling of a food safety scandal that drew what organisers said were more than 200,000 people onto the streets of the city.\nThe unexpectedly large turnout on Saturday app",
       "urgency": "important",
@@ -1424,7 +1586,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3362017/will-heat-cooking-oil-scandal-help-opposition-taiwan?utm_source=rss_feed"
     },
     {
-      "id": "news-79",
+      "id": "news-88",
       "headline": "Mediators push US and Iran towards fresh talks after attacks pause",
       "summary": "Mediators see progress in diplomatic efforts to halt Iran war, 2 regional officials say",
       "urgency": "breaking",
@@ -1442,7 +1604,7 @@
       "link": "https://gulfnews.com/world/mena/mediators-push-us-and-iran-towards-fresh-talks-after-attacks-pause-1.500621469"
     },
     {
-      "id": "news-80",
+      "id": "news-89",
       "headline": "US criticism of Malaysia’s Israel stance spotlights growing ‘disconnect’",
       "summary": "US criticism of Malaysia’s entry ban on Israeli nationals is unlikely to force a major shift in the country’s foreign policy, analysts have said, after Prime Minister Anwar Ibrahim rejected accusations that the move was antisemitic.\nThe remarks escalated a dispute that has drawn in members of the US",
       "urgency": "breaking",
@@ -1460,7 +1622,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3362021/us-criticism-malaysias-israel-stance-spotlights-growing-disconnect?utm_source=rss_feed"
     },
     {
-      "id": "news-81",
+      "id": "news-90",
       "headline": "French police arrest man who wounded 3 with knives in Paris",
       "summary": "French police detained a man ‌on Monday after he attacked three women with knives near Porte de Clichy in Paris, Interior Minister Laurent Nunez told reporters.\nThe man attacked the three women, who were aged 19, 24 and 36, with two kitchen knives, severely wounding two ⁠of them, Nunez said.\nVideo a",
       "urgency": "breaking",
@@ -1478,7 +1640,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3362022/paris-police-arrest-man-who-wounded-3-knives?utm_source=rss_feed"
     },
     {
-      "id": "news-82",
+      "id": "news-91",
       "headline": "China condemns US over new Section 301 tariffs – but holds off on retaliation",
       "summary": "China’s Ministry of Commerce has objected to Washington’s latest tariff on the country’s goods but signalled it will hold off on retaliation for now, noting the 12.5 per cent duty keeps the United States within the ceiling that the Trump administration promised in earlier talks.\nWashington was manip",
       "urgency": "info",
@@ -1496,7 +1658,7 @@
       "link": "https://www.scmp.com/economy/global-economy/article/3362020/china-condemns-us-over-new-section-301-tariffs-holds-retaliation?utm_source=rss_feed"
     },
     {
-      "id": "news-83",
+      "id": "news-92",
       "headline": "Gianni Infantino slams World Cup critics for &apos;spreading hate&apos;",
       "summary": "Gianni Infantino slams World Cup critics for &apos;spreading hate&apos;",
       "urgency": "info",
@@ -1514,7 +1676,7 @@
       "link": "https://gulfnews.com/sport/football/gianni-infantino-slams-world-cup-critics-for-spreading-hate-1.500621631"
     },
     {
-      "id": "news-84",
+      "id": "news-93",
       "headline": "Paris police arrest suspect after three women wounded in knife attack",
       "summary": "French ​police ‌detained a man on Monday after he attacked ⁠three women with knives near Porte de Clichy in northern Paris, Interior Minister Laurent ‌Nunez told reporters. The man attacked the three women, who ⁠were aged 19, 24 and 36, with two kitchen knives, severely wounding two of them, Nunez a",
       "urgency": "breaking",
@@ -1532,7 +1694,7 @@
       "link": "https://www.france24.com/en/france/20260727-paris-police-arrest-suspect-after-knife-attack-three-women"
     },
     {
-      "id": "news-85",
+      "id": "news-94",
       "headline": "One of the world's largest rodents was imported for fur farming in North America; today it's devastating wetlands and riverbanks across US",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132658929.cms\" /&gt;<![CDATA[Nutria, large rodents introduced for fur farming, now infest forty US states and Canada.  These prolific breeders destroy vital wetland veg",
       "urgency": "info",
@@ -1550,7 +1712,7 @@
       "link": "https://timesofindia.indiatimes.com/science/one-of-the-worlds-largest-rodents-was-imported-for-fur-farming-in-north-america-today-its-devastating-wetlands-and-riverbanks-across-us/articleshow/132658929.cms"
     },
     {
-      "id": "news-86",
+      "id": "news-95",
       "headline": "Researchers made flying harder for Alaskan Seabirds; only 67% returned, survivors bred better",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132657960.cms\" /&gt;<![CDATA[Researchers clipped a few wing and tail feathers of wild black-legged kittiwakes in Alaska to make flying more energy-intensive and tracked",
       "urgency": "info",
@@ -1568,7 +1730,7 @@
       "link": "https://timesofindia.indiatimes.com/science/researchers-made-flying-harder-for-alaskan-seabirds-by-clipping-some-wing-and-tail-feathers-only-67-returned-the-next-year-but-the-survivors-were-more-likely-to-breed-successfully/articleshow/132657960.cms"
     },
     {
-      "id": "news-87",
+      "id": "news-96",
       "headline": "Hong Kong set for stronger storms and wetter winter this year as El Nino intensifies",
       "summary": "Hong Kong should prepare for stronger storms and a warmer, wetter winter this year as the current El Nino phenomenon is likely to intensify into a super event, a local green group and a leading meteorologist have said.\nTyphoons heading for Hong Kong this year were set to grow more powerful, as El Ni",
       "urgency": "breaking",
@@ -1586,7 +1748,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3362018/hong-kong-set-stronger-storms-and-wetter-winter-year-el-nino-intensifies?utm_source=rss_feed"
     },
     {
-      "id": "news-88",
+      "id": "news-97",
       "headline": "How Cubans Are Surviving a Fuel Crisis",
       "summary": "Cubans are inventing ways to survive without fuel or electricity, using solar panels, makeshift generators and batteries to endure a devastating oil blockade imposed by the Trump administration.",
       "urgency": "important",
@@ -1604,7 +1766,7 @@
       "link": "https://www.nytimes.com/video/world/americas/100000011024495/cuba-power-crisis-oil-solutions.html"
     },
     {
-      "id": "news-89",
+      "id": "news-98",
       "headline": "Will Yemen's Houthis de-escalate after a month of tension, clashes in region? - analysis - The Jerusalem Post",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vR1E1dURvU3dWaFk2ZE9icGNmaGVyWVYxYUlHUUdQQjZpRXRiSjhZakZsRHZDcVY1eUxtcFVpVlFYaHRYd0FZZmVoYW5Hemw1WEZLbjM5dkEwMUdQ?oc=5\" target=\"_blank\"&gt;Will Yemen's Houthis de-escalate after a month of tension, clashes in region? - analysis&lt;/a&gt",
       "urgency": "info",
@@ -1622,7 +1784,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vR1E1dURvU3dWaFk2ZE9icGNmaGVyWVYxYUlHUUdQQjZpRXRiSjhZakZsRHZDcVY1eUxtcFVpVlFYaHRYd0FZZmVoYW5Hemw1WEZLbjM5dkEwMUdQ?oc=5"
     },
     {
-      "id": "news-90",
+      "id": "news-99",
       "headline": "Red Sea shipping slows after Houthi attack on Saudi Arabia, data shows - Reuters",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWxxNDU1SHBqVXozbmd1VHRWYVpQWGVqVUVTUHVlakJjS2lKMHBCbDJCS1hucGROTV90dUhuNS1mUEdKVEtBZjR2b1FwSFZJejdVLWR3WFMxWGV6NVk5YWFOa2o3ZHdnX1R2enpyRm53YnBmRmZyS2trSjFiQ2VSbjZQZ2JhbTdRbnh0RVlleDhYTmtUUjJWN0JpTV9lNXU1X3cwazNYcHh",
       "urgency": "breaking",
@@ -1638,168 +1800,6 @@
       "timestamp": "2026-07-27T11:32:03.000Z",
       "widgetType": "news",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWxxNDU1SHBqVXozbmd1VHRWYVpQWGVqVUVTUHVlakJjS2lKMHBCbDJCS1hucGROTV90dUhuNS1mUEdKVEtBZjR2b1FwSFZJejdVLWR3WFMxWGV6NVk5YWFOa2o3ZHdnX1R2enpyRm53YnBmRmZyS2trSjFiQ2VSbjZQZ2JhbTdRbnh0RVlleDhYTmtUUjJWN0JpTV9lNXU1X3cwazNYcHhzZkNic1hQdTdxMXZEaEM5MDhQZA?oc=5"
-    },
-    {
-      "id": "news-91",
-      "headline": "Wildfires in southwest Europe: What we know so far",
-      "summary": "More than 300,000 people have been evacuated from their homes to safety in France and Spain.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:32:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss"
-    },
-    {
-      "id": "news-92",
-      "headline": "Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus",
-      "summary": "A pyrocumulonimbus — a thundercloud created by intense heat — is a phenomenon that can spark new blazes and is “unprecedented in France,” officials said.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:26:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html"
-    },
-    {
-      "id": "news-93",
-      "headline": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
-      "summary": "After a difficult start to his international career in England, teen prodigy Sooryavanshi stepped up against Zimbabwe.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:25:48.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss"
-    },
-    {
-      "id": "news-94",
-      "headline": "#Spain races to contain 'monster' #fires ahead of new #heatwave",
-      "summary": "#Spain faces two \"decisive\" days to contains monster #wildfires blazing near #Madrid and #Valencia said the country's interior minister, ahead of a new #heatwave that could complicate firefighting missions. Tens of thousands of people have already been forced to evacuate.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:25:11.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20260727-spain-races-to-contain-monster-fires-ahead-of-new-heatwave"
-    },
-    {
-      "id": "news-95",
-      "headline": "IndiGo flight from Mumbai to Dubai makes emergency landing",
-      "summary": "IndiGo flight from Mumbai to Dubai makes emergency landing",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:24:23.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/asia/india/indigo-flight-from-mumbai-to-dubai-makes-emergency-landing-in-rajkot-2-1.500621599"
-    },
-    {
-      "id": "news-96",
-      "headline": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
-      "summary": "With surrounding towns in southwestern France evacuated and fire still spreading rapidly, several thousand are sheltering in the city, unsure what will become of their homes.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:20:47.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html"
-    },
-    {
-      "id": "news-97",
-      "headline": "Explosion, &apos;suspected bomb&apos; in Philippine capital before Marcos speech",
-      "summary": "Explosion, &apos;suspected bomb&apos; in Philippine capital before Marcos speech",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:19:06.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/asia/philippines/explosion-suspected-bomb-in-philippine-capital-before-marcos-speech-1.500621162"
-    },
-    {
-      "id": "news-98",
-      "headline": "Hong Kong High Court judge Wilson Chan told to retire over repeated plagiarism",
-      "summary": "Chief Justice Andrew Cheung Kui-nung has told a Hong Kong High Court judge to retire early after reprimanding him for plagiarising submissions in a judgment, describing a series of such incidents as undermining public confidence.\nThe city’s top judge said on Monday that Justice Wilson Chan Ka-shun’s",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:16:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362015/hong-kong-high-court-judge-wilson-chan-told-retire-over-repeated-plagiarism?utm_source=rss_feed"
-    },
-    {
-      "id": "news-99",
-      "headline": "Photos: France, Spain battle ‘monster’ wildfires as more heat looms",
-      "summary": "France and Spain are battling vast wildfires that have forced more than 325,000 people to flee, as a new heatwave looms.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-27T11:14:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/gallery/2026/7/27/photos-france-spain-battle-monster-wildfires-as-more-heat-looms?traffic_source=rss"
     }
   ],
   "financials": {
