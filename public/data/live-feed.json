@@ -1,8 +1,80 @@
 {
-  "lastUpdated": "2026-07-29T03:30:14.389Z",
+  "lastUpdated": "2026-07-29T03:50:11.897Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Japan earthquake kills at least 13 as rescuers race to find survivors",
+      "summary": "The quake damaged roads and buildings, shut rail networks, and forced thousands to evacuate to shelters.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC Asia",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-29T03:42:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "Australia news live: Icac hears of ‘shit sheet’ on former NSW Liberal minister’s alleged affair; police treating mother and child’s deaths as murder-suicide",
+      "summary": "&lt;p&gt;Follow updates&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;free app&lt;/a&gt; or &lt;a href=\"https://www.theguardian.com/australia-news/",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-29T03:39:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb"
+    },
+    {
+      "id": "news-2",
+      "headline": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
+      "summary": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-29T03:31:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami"
+    },
+    {
+      "id": "news-3",
+      "headline": "What to Know About the Kumamoto Earthquake in Japan",
+      "summary": "The 6.8-magnitude quake in southwestern Japan killed at least 13 people and injured dozens of others. Crews were trying to rescue others from a collapsed mall.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-29T03:30:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-damage.html"
+    },
+    {
+      "id": "news-4",
       "headline": "Japan quake death toll rises to 13 after newly reopened Aeon Mall collapses",
       "summary": "Japanese Prime Minister Sanae Takaichi said 13 people have been found dead after a powerful quake shook part of southwestern Japan and rescue work was continuing Wednesday morning for the missing.\nA magnitude 7.1 earthquake struck the Kumamoto area on the southern main island of Kyushu late on Tuesd",
       "urgency": "breaking",
@@ -20,7 +92,7 @@
       "link": "https://www.scmp.com/news/asia/east-asia/article/3362200/japan-quake-death-toll-rises-13-after-newly-reopened-aeon-mall-collapses?utm_source=rss_feed"
     },
     {
-      "id": "news-1",
+      "id": "news-5",
       "headline": "Zelensky and Trump Meet at the White House. Has Their Relationship Thawed?",
       "summary": "President Trump meets his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky also attended the funeral of Senator Lindsey Graham.",
       "urgency": "info",
@@ -38,7 +110,7 @@
       "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html"
     },
     {
-      "id": "news-2",
+      "id": "news-6",
       "headline": "Independent bookshop of 50 years to close after national security raid",
       "summary": "A 50-year-old independent bookshop has announced it will close when its lease ends, following a raid by Hong Kong national security police earlier this month.\nGreenfield Book Store, located on Sai Yeung Choi Street in Mong Kok, took to social media during the early hours of Wednesday morning to anno",
       "urgency": "info",
@@ -56,7 +128,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3362198/after-50-years-business-bookshop-close-following-national-security-raid?utm_source=rss_feed"
     },
     {
-      "id": "news-3",
+      "id": "news-7",
       "headline": "Here’s the latest.",
       "summary": "Here’s the latest.",
       "urgency": "info",
@@ -74,9 +146,9 @@
       "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/heres-the-latest"
     },
     {
-      "id": "news-4",
-      "headline": "Australia news live: Icac hears of ‘shit sheet’ on former NSW Liberal minister’s alleged affair; police treating mother and child’s deaths as murder-suicide",
-      "summary": "&lt;p&gt;Follow updates&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;free app&lt;/a&gt; or &lt;a href=\"https://www.theguardian.com/australia-news/",
+      "id": "news-8",
+      "headline": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
+      "summary": "&lt;p&gt;Federal-state stoush comes as rating agency warns that electricity bills could skyrocket&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisem",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -87,12 +159,30 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-29T03:11:17.000Z",
+      "timestamp": "2026-07-29T03:19:17.000Z",
       "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb"
+      "link": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy"
     },
     {
-      "id": "news-5",
+      "id": "news-9",
+      "headline": "Haitians living in fear as Temporary Protected Status ends in the US",
+      "summary": "New York’s Haitian community is living in limbo and fear after Temporary Protected Status (TPS) was terminated Monday.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-29T03:09:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss"
+    },
+    {
+      "id": "news-10",
       "headline": "Zelensky hails &apos;good&apos; Trump talks on Patriot air defences",
       "summary": "Ukraine&apos;s Zelensky expected at White House to secure Trump&apos;s support",
       "urgency": "info",
@@ -110,7 +200,7 @@
       "link": "https://gulfnews.com/world/americas/zelensky-hails-good-trump-talks-on-patriot-air-defences-1.500622184"
     },
     {
-      "id": "news-6",
+      "id": "news-11",
       "headline": "US Senate confirms Clayton as Trump’s new spy chief",
       "summary": "The US Senate confirmed Jay Clayton as Donald Trump’s top intelligence official Tuesday, putting a permanent chief in charge of the country’s spy agencies as the president revives unsupported election fraud claims ahead of the midterms.\nSenators voted 51-47 to confirm Clayton’s appointment, with all",
       "urgency": "important",
@@ -128,7 +218,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3362197/us-senate-confirms-clayton-trumps-new-spy-chief?utm_source=rss_feed"
     },
     {
-      "id": "news-7",
+      "id": "news-12",
       "headline": "EU’s US$17 million maritime aid for Philippines targets Asian ‘fault lines’",
       "summary": "The European Union’s upgraded partnership with the Philippines signals the bloc’s aim to diversify its Indo-Pacific strategy beyond trade into the security arena.\nSuch a move shows Brussels is seeking a larger role in a region where maritime disputes and challenges to the rules-based order could dam",
       "urgency": "info",
@@ -146,7 +236,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3362175/eus-us17-million-maritime-aid-philippines-targets-asian-fault-lines?utm_source=rss_feed"
     },
     {
-      "id": "news-8",
+      "id": "news-13",
       "headline": "China has 6 of world’s 10 most innovative humanoid robot start-ups: report",
       "summary": "China is widening its lead over the United States in the race to develop humanoid robots, with Chinese firms accounting for six of the world’s 10 most innovative start-ups in the sector, according to a new report tracking global patent data, as Washington moves to restrict imports of robots, includi",
       "urgency": "info",
@@ -164,7 +254,7 @@
       "link": "https://www.scmp.com/tech/tech-war/article/3362195/china-has-6-worlds-10-most-innovative-humanoid-robot-start-ups-report?utm_source=rss_feed"
     },
     {
-      "id": "news-9",
+      "id": "news-14",
       "headline": "Is El Niño making Europe&apos;s wildfires worse? What it means for the Gulf",
       "summary": "Is El Niño making Europe&apos;s wildfires worse? What it means for the Gulf",
       "urgency": "info",
@@ -182,7 +272,7 @@
       "link": "https://gulfnews.com/world/europe/is-el-ni%C3%B1o-making-europes-wildfires-worse-what-it-means-for-the-gulf-1.500623254"
     },
     {
-      "id": "news-10",
+      "id": "news-15",
       "headline": "Iran missiles target US forces in Jordan after a five-day pause in war",
       "summary": "The US military says it has successfully intercepted a barrage of missiles fired by Iran at its troops in Jordan.",
       "urgency": "breaking",
@@ -200,7 +290,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
     },
     {
-      "id": "news-11",
+      "id": "news-16",
       "headline": "Live: US and Saudi Arabia launch strikes on Iraq, target Iran allies",
       "summary": "US and Saudi warplanes carried out strikes on Tuesday against Iran-backed militants in Iraq who launched more than two dozen drone attacks in recent days, the US military said. Meanwhile, Iran's Revolutionary Guards said they struck and halted three oil tankers in the Strait of Hormuz early Wednesda",
       "urgency": "breaking",
@@ -218,7 +308,7 @@
       "link": "https://www.france24.com/en/middle-east/20260729-live-us-and-saudi-arabia-launch-strikes-on-iraq-target-iran-allies"
     },
     {
-      "id": "news-12",
+      "id": "news-17",
       "headline": "US-Iran conflict: What UAE residents need to know today (July 29)",
       "summary": "US-Iran conflict: What UAE residents need to know today (July 29)",
       "urgency": "info",
@@ -236,7 +326,7 @@
       "link": "https://gulfnews.com/uae/us-iran-conflict-what-uae-residents-need-to-know-today-july-29-1.500623397"
     },
     {
-      "id": "news-13",
+      "id": "news-18",
       "headline": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
       "summary": "&lt;p&gt;Former leader shows support for new Victorian premier while paying tribute to Jacinta Allan&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-anti",
       "urgency": "breaking",
@@ -254,7 +344,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb"
     },
     {
-      "id": "news-14",
+      "id": "news-19",
       "headline": "Iran and US trade strikes, shattering brief lull in fighting",
       "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
       "urgency": "breaking",
@@ -272,7 +362,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-15",
+      "id": "news-20",
       "headline": "Israel kills Palestinian, destroys mosque in Gaza",
       "summary": "Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.",
       "urgency": "breaking",
@@ -290,7 +380,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
     },
     {
-      "id": "news-16",
+      "id": "news-21",
       "headline": "‘Dodged a bullet’: inflation eases to 3.8%, reducing chances of interest rate rise for Australia’s mortgage holders",
       "summary": "&lt;p&gt;ABS data shows inflation still too high but tracking lower than anticipated&lt;/p&gt;&lt;p&gt;Australian mortgage-holders have “dodged a bullet’, with the Reserve Bank now less likely to hike rates next month after new data showed inflation unexpectedly eased to 3.8%, in the year to June, f",
       "urgency": "important",
@@ -308,7 +398,7 @@
       "link": "https://www.theguardian.com/business/2026/jul/29/cpi-rate-inflation-rba-reserve-bank-australia-interest-rates"
     },
     {
-      "id": "news-17",
+      "id": "news-22",
       "headline": "‘Prioritising profit’: Australians regularly prescribed medicinal cannabis with very high THC levels",
       "summary": "&lt;p&gt;&lt;strong&gt;Exclusive: &lt;/strong&gt;Of more than 1,000 medicinal cannabis products available, only two have been evaluated by the drug regulator&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jac",
       "urgency": "breaking",
@@ -326,7 +416,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/jul/29/cannabis-prescription-australia-doctors"
     },
     {
-      "id": "news-18",
+      "id": "news-23",
       "headline": "Iran fires missile at US base in Jordan; US, Saudi forces strike Iran-backed militias in Iraq",
       "summary": "Iran fires missile at US base in Jordan; US, Saudi forces strike Iran-backed militias in Iraq",
       "urgency": "breaking",
@@ -344,9 +434,9 @@
       "link": "https://gulfnews.com/world/mena/iran-fires-missile-at-us-base-in-jordan-us-saudi-forces-strike-iran-backed-militias-in-iraq-1.500623392"
     },
     {
-      "id": "news-19",
+      "id": "news-24",
       "headline": "‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing",
-      "summary": "&lt;p&gt;Military mobilises thousands of personnel after quake on southern Kyushu island that registered a maximum 7 on the Japanese shindo intensity scale &lt;/p&gt;&lt;p&gt;At least 13 people were killed when a 6.8 magnitude earthquake struck southern Japan on Tuesday, injuring hundreds and knocki",
+      "summary": "&lt;p&gt;Military mobilises thousands of personnel after quake on southern Kyushu island that registered a maximum 7 on the Japanese shindo intensity scale&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/gallery/2026/jul/29/japan-earthquake-kyushu-images-pictures-",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -362,7 +452,7 @@
       "link": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks"
     },
     {
-      "id": "news-20",
+      "id": "news-25",
       "headline": "Japan Races to Reach People Trapped After Earthquake Kills at Least 13",
       "summary": "Rescue personnel are working to free those trapped in collapsed buildings after a 6.8-magnitude earthquake struck Kumamoto on Tuesday.",
       "urgency": "important",
@@ -380,7 +470,7 @@
       "link": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html"
     },
     {
-      "id": "news-21",
+      "id": "news-26",
       "headline": "Trump administration bans new Chinese humanoid robots",
       "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
       "urgency": "info",
@@ -398,7 +488,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-22",
+      "id": "news-27",
       "headline": "Dust-stirring winds to sweep across western Saudi Arabia through August 8",
       "summary": "Dust-stirring winds to sweep across western Saudi Arabia through August 8",
       "urgency": "info",
@@ -416,7 +506,7 @@
       "link": "https://gulfnews.com/world/gulf/saudi/dust-stirring-winds-to-sweep-across-western-saudi-arabia-through-august-8-1.500623382"
     },
     {
-      "id": "news-23",
+      "id": "news-28",
       "headline": "UAE weather forecast: Chance of rain returns as temperatures soar to 48°C",
       "summary": "UAE weather forecast: Chance of rain returns as temperatures soar to 48°C",
       "urgency": "info",
@@ -434,7 +524,7 @@
       "link": "https://gulfnews.com/uae/weather/uae-weather-forecast-chance-of-rain-returns-as-temperatures-soar-to-48c-1.500623378"
     },
     {
-      "id": "news-24",
+      "id": "news-29",
       "headline": "Senate takes first steps on Russian sanctions as Zelenskyy watches from Senate gallery",
       "summary": "Senate takes first steps on Russian sanctions after meeting with Zelenskyy",
       "urgency": "important",
@@ -452,7 +542,7 @@
       "link": "https://gulfnews.com/world/americas/senate-takes-first-steps-on-russian-sanctions-as-zelenskyy-watches-from-senate-gallery-1.500623349"
     },
     {
-      "id": "news-25",
+      "id": "news-30",
       "headline": "Oman proposes Gulf-backed voluntary fees to use Hormuz",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132697681.cms\" /&gt;<![CDATA[Oman has presented Iran with a plan backed by Gulf states for managing the Strait of Hormuz.  This proposal includes collecting voluntary f",
       "urgency": "info",
@@ -470,7 +560,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/oman-proposes-gulf-backed-voluntary-fees-to-use-hormuz/articleshow/132697681.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-31",
       "headline": "Italy's fertility rate falls to 80-year low: Report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132697648.cms\" /&gt;<![CDATA[Italy's birth rate fell nearly four percent last year, reaching a historic low.  The fertility rate dropped to 1.14 children per woman, a s",
       "urgency": "info",
@@ -488,7 +578,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/italys-fertility-rate-falls-to-80-year-low-report/articleshow/132697648.cms"
     },
     {
-      "id": "news-27",
+      "id": "news-32",
       "headline": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
       "summary": "The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.",
       "urgency": "info",
@@ -506,7 +596,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss"
     },
     {
-      "id": "news-28",
+      "id": "news-33",
       "headline": "New chapter in reading: AI companion tools let readers chat with books",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132697629.cms\" /&gt;<![CDATA[New artificial intelligence tools now let readers ask questions directly to books. These innovative platforms offer e-books and audiobooks ",
       "urgency": "info",
@@ -524,7 +614,7 @@
       "link": "https://timesofindia.indiatimes.com/science/new-chapter-in-reading-ai-companion-tools-let-readers-chat-with-books/articleshow/132697629.cms"
     },
     {
-      "id": "news-29",
+      "id": "news-34",
       "headline": "Saudi Arabia conducts strikes on Iran-backed militias in Iraq after drone attacks on oil facilities",
       "summary": "Saudi Arabia conducts strikes on Iran-backed militias in Iraq after drone attacks on oil facilities",
       "urgency": "breaking",
@@ -542,7 +632,7 @@
       "link": "https://gulfnews.com/world/mena/saudi-arabia-conducts-strikes-on-iran-backed-militias-in-iraq-after-drone-attacks-on-oil-facilities-1.500623381"
     },
     {
-      "id": "news-30",
+      "id": "news-35",
       "headline": "Man dies, 78 people evacuated after fire breaks out at Hong Kong village house",
       "summary": "A man was killed and nearly 80 people were forced to evacuate after a fire broke out at a village house in Hong Kong on Wednesday.\nAuthorities said they were alerted at around 4.30am to a blaze at a metal house in Ling Shan Tsuen in Fanling.\nPolice said some electrical wires were spotted burning whe",
       "urgency": "breaking",
@@ -560,7 +650,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3362194/man-dies-78-people-evacuated-after-fire-breaks-out-hong-kong-village-house?utm_source=rss_feed"
     },
     {
-      "id": "news-31",
+      "id": "news-36",
       "headline": "HSBC to relocate senior executive to Hong Kong amid pivot to Asia: sources",
       "summary": "HSBC Holdings will relocate its group chief people and governance officer, Aileen Taylor, from London to Hong Kong later this year, as the lender doubles down on expanding its Hong Kong and Asia operations, according to sources at the bank.\nA source told the South China Morning Post that an internal",
       "urgency": "info",
@@ -578,7 +668,7 @@
       "link": "https://www.scmp.com/business/banking-finance/article/3362190/hsbc-relocate-senior-executive-hong-kong-amid-pivot-asia-sources?utm_source=rss_feed"
     },
     {
-      "id": "news-32",
+      "id": "news-37",
       "headline": "Are you losing Dh1,000 every month without realising it? 10 UAE spending leaks to fix",
       "summary": "Are you losing Dh1,000 every month without realising it? 10 UAE spending leaks to fix",
       "urgency": "info",
@@ -596,7 +686,7 @@
       "link": "https://gulfnews.com/uae/are-you-losing-dh1000-every-month-without-realising-it-10-uae-spending-leaks-to-fix-1.500622799"
     },
     {
-      "id": "news-33",
+      "id": "news-38",
       "headline": "Why does the UAE get so humid without rain? The science explained",
       "summary": "Why does the UAE get so humid without rain? The science explained",
       "urgency": "info",
@@ -614,7 +704,7 @@
       "link": "https://gulfnews.com/uae/weather/why-does-the-uae-get-so-humid-without-rain-the-science-explained-1.500623262"
     },
     {
-      "id": "news-34",
+      "id": "news-39",
       "headline": "US envoy Gor to visit Bangladesh as Dhaka deepens ties with Beijing",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132697610.cms\" /&gt;<![CDATA[US special envoy Sergio Gor will visit Bangladesh on July 30.  He will meet Prime Minister Tarique Rahman and the foreign minister.  This v",
       "urgency": "info",
@@ -632,7 +722,7 @@
       "link": "https://timesofindia.indiatimes.com/world/south-asia/us-envoy-gor-to-visit-bangladesh-as-dhaka-deepens-ties-with-beijing/articleshow/132697610.cms"
     },
     {
-      "id": "news-35",
+      "id": "news-40",
       "headline": "US says it intercepted ‘surprise’ Iran missile attack on its forces in Middle East after lull in fighting - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnhldC1JdU5femNoX1VfRUkycHJIWE00Q1hqR1dhV2tpX0JWbm9pMmJjWUdod2Jib01KRjhzNTRNUU5tQ0UxZkN3eTZhcl9pVFJtYzUxRUQwcVNjWk8tb21BS2t0c0drM1hGRU9TMUlLWGtpb2RrNmFhS3ZoYVEweHZaNjM5SE0?oc=5\" target=\"_blank\"&gt;US says it intercepted ‘surprise’ Iran",
       "urgency": "breaking",
@@ -650,7 +740,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnhldC1JdU5femNoX1VfRUkycHJIWE00Q1hqR1dhV2tpX0JWbm9pMmJjWUdod2Jib01KRjhzNTRNUU5tQ0UxZkN3eTZhcl9pVFJtYzUxRUQwcVNjWk8tb21BS2t0c0drM1hGRU9TMUlLWGtpb2RrNmFhS3ZoYVEweHZaNjM5SE0?oc=5"
     },
     {
-      "id": "news-36",
+      "id": "news-41",
       "headline": "Ford reports loss on EV retreat but lifts 2026 forecast",
       "summary": "Ford reports loss on EV retreat but lifts 2026 forecast",
       "urgency": "info",
@@ -668,7 +758,7 @@
       "link": "https://gulfnews.com/auto/news/ford-reports-loss-on-ev-retreat-but-lifts-2026-forecast-1.500623295"
     },
     {
-      "id": "news-37",
+      "id": "news-42",
       "headline": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
       "summary": "Riyadh says its targeted attacks were done in coordination with the US military.",
       "urgency": "breaking",
@@ -686,7 +776,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
     },
     {
-      "id": "news-38",
+      "id": "news-43",
       "headline": "US posts photo of coastguard working with Taiwan after Beijing starts patrols",
       "summary": "The United States has released a rare photo of the American and Taiwanese coastguards operating together at sea, as Beijing expands maritime law enforcement in waters east of the island.\nThe American Institute in Taiwan (AIT) – the de facto US embassy in Taipei – posted the undated image on social m",
       "urgency": "info",
@@ -704,7 +794,7 @@
       "link": "https://www.scmp.com/news/china/military/article/3362193/us-posts-photo-coastguard-working-taiwan-after-beijing-starts-patrols?utm_source=rss_feed"
     },
     {
-      "id": "news-39",
+      "id": "news-44",
       "headline": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
       "summary": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
       "urgency": "breaking",
@@ -722,7 +812,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss"
     },
     {
-      "id": "news-40",
+      "id": "news-45",
       "headline": "AI competition heats up as US targets Southeast Asia’s public sector",
       "summary": "Washington’s new AI Spark initiative to promote American artificial intelligence systems in Southeast Asia’s public services and digital infrastructure is seen as a move to counter the region’s deepening partnerships with Chinese firms in the deployment of the technology.\nHowever, the initiative is ",
       "urgency": "info",
@@ -740,7 +830,7 @@
       "link": "https://www.scmp.com/week-asia/economics/article/3362166/ai-competition-heats-us-targets-southeast-asias-public-sector?utm_source=rss_feed"
     },
     {
-      "id": "news-41",
+      "id": "news-46",
       "headline": "How Hong Kong can chart a cycle-friendly course",
       "summary": "During the opening ceremony of Ride to Shine Hong Kong this month, Secretary for Culture, Sports and Tourism Rosanna Law Shuk-pui challenged Hongkongers to cycle more than 1.2 million km – a distance equivalent to circling the Earth 30 times – to commemorate Hong Kong’s 30th anniversary of returning",
       "urgency": "info",
@@ -758,7 +848,7 @@
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361735/how-hong-kong-can-chart-cycle-friendly-course?utm_source=rss_feed"
     },
     {
-      "id": "news-42",
+      "id": "news-47",
       "headline": "UEFA accuses FIFA of 'selling football' with World Cup investment plan",
       "summary": "The proposal to spin off the commercial rights to the World Cup and other competitions into a semi-private company has triggered a fierce backlash, with critics warning it could create conflicts between investors' profit motives and FIFA's role as the sport's regulator.",
       "urgency": "breaking",
@@ -776,7 +866,7 @@
       "link": "https://www.france24.com/en/sport/20260729-uefa-accuses-fifa-of-selling-football-with-world-cup-investment-plan"
     },
     {
-      "id": "news-43",
+      "id": "news-48",
       "headline": "Chinese gaokao student’s inspiring story captivates nation after losing last relative",
       "summary": "An 18-year-old Chinese girl recently lost her last living relative as she embarks on her university journey, yet she has declined donations, asking that they be given to others in need.\nZeng Zixuan scored 564 out of 750 on this year’s gaokao, the national higher education entrance exam, and has been",
       "urgency": "info",
@@ -794,7 +884,7 @@
       "link": "https://www.scmp.com/news/people-culture/trending-china/article/3362191/chinese-gaokao-students-inspiring-story-captivates-nation-after-losing-last-relative?utm_source=rss_feed"
     },
     {
-      "id": "news-44",
+      "id": "news-49",
       "headline": "Media not invited as Trump, Netanyahu hold talks at the White House",
       "summary": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
       "urgency": "info",
@@ -812,7 +902,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss"
     },
     {
-      "id": "news-45",
+      "id": "news-50",
       "headline": "Houthis Claim Strike on Another Saudi Oil Tanker",
       "summary": "With their ally, Iran, bottling up the Strait of Hormuz, the Houthi group in Yemen is escalating its declared blockade of Saudi shipping in another vital waterway, the Red Sea.",
       "urgency": "breaking",
@@ -830,7 +920,7 @@
       "link": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html"
     },
     {
-      "id": "news-46",
+      "id": "news-51",
       "headline": "Turkiye takes ‘historic step’ on energy alliance with Iraq",
       "summary": "Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.",
       "urgency": "info",
@@ -848,7 +938,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/29/turkiye-takes-historic-step-on-energy-alliance-with-iraq?traffic_source=rss"
     },
     {
-      "id": "news-47",
+      "id": "news-52",
       "headline": "Longevity is not optional: Why preventive care must redefine modern medicine",
       "summary": "Longevity is not optional: Why preventive care must redefine modern medicine",
       "urgency": "info",
@@ -866,7 +956,7 @@
       "link": "https://gulfnews.com/opinion/op-eds/longevity-is-not-optional-why-preventive-care-must-redefine-modern-medicine-1.500623007"
     },
     {
-      "id": "news-48",
+      "id": "news-53",
       "headline": "Protests in Lima as Keiko Fujimori sworn in as Peru president",
       "summary": "Keiko Fujimori has been sworn in as Peru&#039;s president amid protests and promises to crackdown on crime.",
       "urgency": "important",
@@ -884,25 +974,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protests-in-lima-as-keiko-fujimori-sworn-in-as-peru-president?traffic_source=rss"
     },
     {
-      "id": "news-49",
-      "headline": "Angus Taylor insists he made no payments to conservative Liberal group amid Icac investigation",
-      "summary": "&lt;p&gt;Opposition leader says he is ‘not a party to proceedings’ being investigated by NSW corruption watchdog as fellow Liberals close ranks&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-lab",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-29T01:03:47.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/29/angus-taylor-nsw-icac-inquiry-liberal-party-reformers-donation-ntwnfb"
-    },
-    {
-      "id": "news-50",
+      "id": "news-54",
       "headline": "Iran warns ships accepting compensation from its frozen assets will be barred from transiting Hormuz",
       "summary": "Iran warns ships accepting compensation from its frozen assets will be barred from transiting Hormuz",
       "urgency": "breaking",
@@ -920,7 +992,7 @@
       "link": "https://gulfnews.com/world/mena/iran-warns-ships-accepting-compensation-from-its-frozen-assets-will-be-barred-from-transiting-hormuz-1.500623023"
     },
     {
-      "id": "news-51",
+      "id": "news-55",
       "headline": "Should China aim for the lead in making AI rules for the world?",
       "summary": "Beijing should step in to fill the global “vacuum” in rules on artificial intelligence as a Chinese AI model opens up a policy divide in the United States, according to various institutions within China.\nThe calls came after Beijing-based start-up Moonshot AI launched its Kimi K3 model earlier this ",
       "urgency": "info",
@@ -938,7 +1010,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3362160/should-china-aim-lead-making-ai-rules-world?utm_source=rss_feed"
     },
     {
-      "id": "news-52",
+      "id": "news-56",
       "headline": "Dubai Metro Blue Line update: How a giant underground &apos;factory&apos; is carving tunnels beneath International City",
       "summary": "Dubai Metro Blue Line update: How a giant underground &apos;factory&apos; is carving tunnels beneath International City",
       "urgency": "info",
@@ -956,7 +1028,7 @@
       "link": "https://gulfnews.com/uae/transport/dubai-metro-blue-line-underground-tunnel-construction-1.500623247"
     },
     {
-      "id": "news-53",
+      "id": "news-57",
       "headline": "Kenya investigating unexpected deaths of 15 elephants in national park",
       "summary": "&lt;p&gt;Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national park&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park.&lt;/p&gt;&lt;p&gt;The Kenya Wildlife ",
       "urgency": "breaking",
@@ -974,7 +1046,7 @@
       "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park"
     },
     {
-      "id": "news-54",
+      "id": "news-58",
       "headline": "NRIs depositing US dollars in India: 12 questions to ask before chasing 7.5% returns",
       "summary": "NRIs depositing US dollars in India: 12 questions to ask before chasing 7.5% returns",
       "urgency": "info",
@@ -992,7 +1064,7 @@
       "link": "https://gulfnews.com/your-money/saving-investment/nris-depositing-us-dollars-in-india-12-questions-to-ask-before-chasing-75-returns-1.500623036"
     },
     {
-      "id": "news-55",
+      "id": "news-59",
       "headline": "Life in prison for US teenager who shot dead four people at school",
       "summary": "Life in prison for US teenager who shot dead four people at school",
       "urgency": "breaking",
@@ -1010,7 +1082,7 @@
       "link": "https://gulfnews.com/world/americas/life-in-prison-for-us-teenager-who-shot-dead-four-people-at-school-1.500623322"
     },
     {
-      "id": "news-56",
+      "id": "news-60",
       "headline": "Musk launches invite-only X Money with a Visa debit card: Real-time transfers, rates, how it works",
       "summary": "Elon Musk launches invite-only X Money with a Visa debit card, 6% yield and real-time transfers",
       "urgency": "info",
@@ -1028,7 +1100,7 @@
       "link": "https://gulfnews.com/business/business/{{slug}}-1.500623307-1.500623307"
     },
     {
-      "id": "news-57",
+      "id": "news-61",
       "headline": "AI boom will sustain Hong Kong’s export surge, lift GDP outlook, economists say",
       "summary": "Hong Kong’s export surge will extend into the coming months, driven by the global AI boom, economists have told the South China Morning Post, adding that gross domestic product (GDP) growth could surpass official forecasts.\nBilly Mak Sui-choi, an associate professor at Baptist University’s accountan",
       "urgency": "info",
@@ -1046,7 +1118,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362167/ai-boom-will-sustain-hong-kongs-export-surge-lift-gdp-outlook-economists-say?utm_source=rss_feed"
     },
     {
-      "id": "news-58",
+      "id": "news-62",
       "headline": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
       "summary": "Football&#039;s world governing body announces plans to sell stakes of up to 20 percent in the World Cup and other events.",
       "urgency": "info",
@@ -1064,7 +1136,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss"
     },
     {
-      "id": "news-59",
+      "id": "news-63",
       "headline": "Teleprompter operator accused of betting on Trump speeches is out of a job",
       "summary": "Teleprompter operator accused of betting on Trump speeches is out of a job",
       "urgency": "info",
@@ -1082,25 +1154,7 @@
       "link": "https://gulfnews.com/world/americas/teleprompter-operator-accused-of-betting-on-trump-speeches-is-out-of-a-job-1.500623319"
     },
     {
-      "id": "news-60",
-      "headline": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias - dw.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaHFLMkEzdUhoY3NPM2xXQlhfR1lBV3VHanV3cXVLSTQ2NEFXeG5lMldUNFltM1lkM3V6clY5Vl9GaXdRTGdzTUlGMmJGN2tWS2NHWTdDWkwtR1NqYklMa05FMFB2MVk2NndDanRqVXJGR3dtOUtyeTU4Rm9LOHRiRTdXZllYS1MwaEhyZldYNncySkd3Z1ZyQTRR?oc=5\" target=\"_blank\"&gt;Iran war: US,",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-29T00:05:01.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaHFLMkEzdUhoY3NPM2xXQlhfR1lBV3VHanV3cXVLSTQ2NEFXeG5lMldUNFltM1lkM3V6clY5Vl9GaXdRTGdzTUlGMmJGN2tWS2NHWTdDWkwtR1NqYklMa05FMFB2MVk2NndDanRqVXJGR3dtOUtyeTU4Rm9LOHRiRTdXZllYS1MwaEhyZldYNncySkd3Z1ZyQTRR?oc=5"
-    },
-    {
-      "id": "news-61",
+      "id": "news-64",
       "headline": "Iran war updates: Tehran vows Hormuz control amid Trump-Netanyahu talks - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDIyc1dzckZFZ0RzcVF1N0NaUHVDNzBLR3d0VUEwTjhIRHYxQktIZ2hobHlHQkh3cHdkZmJrbDh4Q21NSGcxRUVRM29rQlFkZ3ZfSG9MRWJNbzBJRzJQVXA5Mmp6cXBUZkVEa3BKMmt0WDJ2eEtGOUtSeWxOc2dfdWNMX056M29Zc05JQ1MxV2VrSjJCZFpPVkNaZ3lrTFFSNnlLOE5CZkpTd0M0elNuQmJFUi3SAbo",
       "urgency": "breaking",
@@ -1118,7 +1172,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDIyc1dzckZFZ0RzcVF1N0NaUHVDNzBLR3d0VUEwTjhIRHYxQktIZ2hobHlHQkh3cHdkZmJrbDh4Q21NSGcxRUVRM29rQlFkZ3ZfSG9MRWJNbzBJRzJQVXA5Mmp6cXBUZkVEa3BKMmt0WDJ2eEtGOUtSeWxOc2dfdWNMX056M29Zc05JQ1MxV2VrSjJCZFpPVkNaZ3lrTFFSNnlLOE5CZkpTd0M0elNuQmJFUi3SAboBQVVfeXFMTjgxWU81QTR1XzRFbzZ0RHJEenVKUjlwZWNRSnhpRjBXX1JxX1FCMUdldzBUVjc4RUItdnAtTWtLOVBIV1NMLU9fOUVlUXRVSnlLdW9rUmw5ajBZX1BwcnlidmIzNUVsZmVBYVFobG1iRy1yb2tRQmNIMlVqNTQ1dm40UkFSalF4U1JER3E5RGpBR0x2Ukt1cW9NaUFMTEtYdXBVYWVIT3VBRFk1MWc1ajYyenpvWDE0UFJ3?oc=5"
     },
     {
-      "id": "news-62",
+      "id": "news-65",
       "headline": "South Korean scientists solve 250-year-old dementia-linked brain mystery",
       "summary": "Researchers in South Korea say they have finally worked out how the brain flushes away waste – offering a clearer picture of the processes involved in dementia and other brain disorders that could one day be harnessed to treat them.\nThe breakthrough, published this month in journal Cell, solved a pu",
       "urgency": "info",
@@ -1136,7 +1190,7 @@
       "link": "https://www.scmp.com/week-asia/health-environment/article/3362149/south-korean-scientists-solve-250-year-old-dementia-linked-brain-mystery?utm_source=rss_feed"
     },
     {
-      "id": "news-63",
+      "id": "news-66",
       "headline": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
       "summary": "Attacks come as Saudi Arabia intercepts drones and Iran warns of &#039;any action&#039; to maintain its control of Hormuz.",
       "urgency": "breaking",
@@ -1154,7 +1208,7 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss"
     },
     {
-      "id": "news-64",
+      "id": "news-67",
       "headline": "France braces for fresh evacuations as Spain eases wildfire restrictions",
       "summary": "Residents began returning to fire-ravaged communities west of Madrid after officials lifted some evacuation orders, while authorities in southwestern France warned a looming heatwave could reignite major blazes and force thousands more from their homes.",
       "urgency": "breaking",
@@ -1172,7 +1226,7 @@
       "link": "https://www.france24.com/en/france/20260728-france-braces-for-fresh-evacuations-as-spain-eases-wildfire-restrictions"
     },
     {
-      "id": "news-65",
+      "id": "news-68",
       "headline": "Shanghai Clearing House targets global growth with expanded offshore yuan push",
       "summary": "China is pushing a new model to boost international sales of its domestic bonds, with the Shanghai Clearing House (SHCH) leveraging global financial networks to expand the offshore yuan pool.\nWriting in a recent article, SHCH chief Ma Jianyang noted that the initiative was designed to solidify Shang",
       "urgency": "info",
@@ -1190,7 +1244,7 @@
       "link": "https://www.scmp.com/business/markets/article/3362189/shanghai-clearing-house-targets-global-growth-expanded-offshore-yuan-push?utm_source=rss_feed"
     },
     {
-      "id": "news-66",
+      "id": "news-69",
       "headline": "How Mexican drug cartels have outsourced meth labs to Nigeria",
       "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
       "urgency": "info",
@@ -1208,7 +1262,7 @@
       "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-67",
+      "id": "news-70",
       "headline": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
       "summary": "&lt;p&gt;Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US&lt;/p&gt;&lt;p&gt;The Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s na",
       "urgency": "info",
@@ -1226,7 +1280,7 @@
       "link": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china"
     },
     {
-      "id": "news-68",
+      "id": "news-71",
       "headline": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker - Al Jazeera",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXdUQWdOYmRjRG9CX2NuY1ZpV2JGOXJabW01SXkzNnVGN3BRQ2o2cWNBeEcxdlJHOWhpZDdubXpZOTVid2JrbUFaSDRIaDNNTGlYN1JkckQxV1BaTXluOW5NRkRFdlU2bGFlbTBRQjBTS2lqcVl0LWN2SkR5R0k1VjdKOWlrRDZ5TWwzVVpMODl0YndhN1BqM2ZnX2Q4MjNVOGk2aS130gG",
       "urgency": "breaking",
@@ -1244,7 +1298,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXdUQWdOYmRjRG9CX2NuY1ZpV2JGOXJabW01SXkzNnVGN3BRQ2o2cWNBeEcxdlJHOWhpZDdubXpZOTVid2JrbUFaSDRIaDNNTGlYN1JkckQxV1BaTXluOW5NRkRFdlU2bGFlbTBRQjBTS2lqcVl0LWN2SkR5R0k1VjdKOWlrRDZ5TWwzVVpMODl0YndhN1BqM2ZnX2Q4MjNVOGk2aS130gGrAUFVX3lxTE5YUmZiY1FvNzBYcE9TUUk5MHg5VnI2aW5rTmF6TFVCaDVtSm52MXpOUGFXQnF3UUFoQWVPSklPWGRpV21xQ3dYZlZtNHVERHp2RzZZNVVLV0hmWlgwUi0tU013YXNkYl9CVVhWTS1JQ2FSeDBiY2VyTFR6WG92UTRwVTFXSWNLVWNpOWRpTC15Q3BTLWJQTUE5NzY3bzljelJ0N1dOMGRVNTExRQ?oc=5"
     },
     {
-      "id": "news-69",
+      "id": "news-72",
       "headline": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
       "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
       "urgency": "breaking",
@@ -1262,7 +1316,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-70",
+      "id": "news-73",
       "headline": "Elon Musk launches invite-only X Money where users can send cash to one another",
       "summary": "Elon Musk’s social media company X, formerly known as Twitter, launched its own bank account-like product where users can send money to one another.\nThe service, known as X Money, is not a new bank. X Money is using technology and banking services provided by Cross River Bank and branding that backb",
       "urgency": "info",
@@ -1280,7 +1334,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3362188/elon-musk-launches-invite-only-x-money-where-users-can-send-cash-one-another?utm_source=rss_feed"
     },
     {
-      "id": "news-71",
+      "id": "news-74",
       "headline": "Iran launched multiple missiles at American forces, U.S. military says - PBS",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTFJNWtPMVBPYm9OTkh5VVJUbEh5d2JIZ3puQy1kMWR4YUVjYUlQWmdNSW5xVl9Kazh5dGg2SFZHS0I1MVB6ZUxfSnVjTk51Vk1vQmpycXRLWVZlcWtuSFNsYWJ3T2lfM185MmxNY21NRDNEcElSbkdYQ28tQ09EblotU29OcUk0R0dRS29XZ3hENVpOQlFVNnlIV1MyQlBPZW9FNHZn0gGrAUFVX3lxTFBUOFp3UzJ",
       "urgency": "breaking",
@@ -1298,7 +1352,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTFJNWtPMVBPYm9OTkh5VVJUbEh5d2JIZ3puQy1kMWR4YUVjYUlQWmdNSW5xVl9Kazh5dGg2SFZHS0I1MVB6ZUxfSnVjTk51Vk1vQmpycXRLWVZlcWtuSFNsYWJ3T2lfM185MmxNY21NRDNEcElSbkdYQ28tQ09EblotU29OcUk0R0dRS29XZ3hENVpOQlFVNnlIV1MyQlBPZW9FNHZn0gGrAUFVX3lxTFBUOFp3UzJhMFZYWEhQLWt3VnNfU05JMGdxZFIzVWYyc0hjQTNrZ3BJODM4MWF4Q3NSVmFaS0djUUt3U0N4T1JmU0p2aGZuN2xTQWxtSUxXbVFNTjBsT0dSQmNrRG9nZkxLd0tVeWtvNlg4ZU1hSzBORS1zSklvb1FfR1EwLWRhdEliN0FPRERQMTMzaW1Nb3NDNnNoSTg5SWNHWE1qd18xQnNQRQ?oc=5"
     },
     {
-      "id": "news-72",
+      "id": "news-75",
       "headline": "Life in prison, no parole, for US teenager who killed 4 in Georgia school shooting",
       "summary": "A US teenager who shot dead four people at a high school with a gun his father gave him as a Christmas present was sentenced to life in prison on Tuesday.\nColt Gray, 16, pleaded guilty to carrying out the September 2024 attack at Apalachee High School in the town of Winder, Georgia.\nGray was 14 year",
       "urgency": "breaking",
@@ -1316,7 +1370,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3362187/life-prison-no-parole-us-teenager-who-killed-4-georgia-school-shooting?utm_source=rss_feed"
     },
     {
-      "id": "news-73",
+      "id": "news-76",
       "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmR",
       "urgency": "info",
@@ -1334,7 +1388,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5"
     },
     {
-      "id": "news-74",
+      "id": "news-77",
       "headline": "Japan quake: Rescuers dig through rubble after powerful tremor collapses shopping mall",
       "summary": "Japan quake: Rescuers dig through rubble after powerful tremor collapses shopping mall",
       "urgency": "important",
@@ -1352,7 +1406,7 @@
       "link": "https://gulfnews.com/world/asia/japan-quake-rescuers-dig-through-rubble-after-powerful-tremor-collapses-shopping-mall-1.500623323"
     },
     {
-      "id": "news-75",
+      "id": "news-78",
       "headline": "US thwarts Iranian missile barrage, joins Saudis in Iraq strikes",
       "summary": "The US military said Tuesday that it knocked down an Iranian missile barrage and worked with Saudi forces to strike sites in Iraq that Tehran-backed militias used to launch attacks in recent days, shattering a brief pause in the fighting.\nAll Iranian missiles launched against American forces in the ",
       "urgency": "breaking",
@@ -1370,7 +1424,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3362186/saudi-arabia-says-it-shot-down-more-drones-houthis-claim-have-turned-back-tanker?utm_source=rss_feed"
     },
     {
-      "id": "news-76",
+      "id": "news-79",
       "headline": "Japan earthquake injures at least 100 and kills two inside shopping mall",
       "summary": "&lt;p&gt;Kumamoto shaken by 6.8-magnitude quake, knocking out power and damaging buildings, as people remain trapped inside shopping centre&lt;/p&gt;&lt;p&gt;A 6.8-magnitude earthquake has shaken south Japan, killing at least two people and leaving at least 100 people injured. Some are trapped and p",
       "urgency": "breaking",
@@ -1388,7 +1442,7 @@
       "link": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall"
     },
     {
-      "id": "news-77",
+      "id": "news-80",
       "headline": "US bans new Chinese robots, power inverters in latest tech crackdown",
       "summary": "The Trump administration on Tuesday announced bans on imports of new Chinese robots and power inverters, citing threats to US national security and supply chain vulnerabilities.\nWithout naming China, the Federal Communications Commission (FCC) expanded its Covered List to include two new categories ",
       "urgency": "info",
@@ -1406,7 +1460,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3362185/us-bans-new-chinese-robots-power-inverters-latest-tech-crackdown?utm_source=rss_feed"
     },
     {
-      "id": "news-78",
+      "id": "news-81",
       "headline": "Houthis Claim Fourth Attack on Saudi Tanker as Red Sea Blockade Intensifies - gCaptain",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOa1BVTEhzZkxRLW1XV2dSbmRjRjBuQl82QklfTWVSVlBhVE1YYVhJOEtscFY4UTZ6c2hHTHRXZ2FwT3ByeHpMeGkyOEtoaDIyc0NoX1hWRFRXNFZHVFFKTHlyNmVSaWd2QW4zWUJvZnEzREVzQnVwdGgwVFdwc1NyZ0NpNEF2QlFBaWRSZlk1TzJQa09odXlyakU4clV3QQ?oc=5\" target=\"_blank\"&gt;Houthis",
       "urgency": "breaking",
@@ -1424,7 +1478,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1BVTEhzZkxRLW1XV2dSbmRjRjBuQl82QklfTWVSVlBhVE1YYVhJOEtscFY4UTZ6c2hHTHRXZ2FwT3ByeHpMeGkyOEtoaDIyc0NoX1hWRFRXNFZHVFFKTHlyNmVSaWd2QW4zWUJvZnEzREVzQnVwdGgwVFdwc1NyZ0NpNEF2QlFBaWRSZlk1TzJQa09odXlyakU4clV3QQ?oc=5"
     },
     {
-      "id": "news-79",
+      "id": "news-82",
       "headline": "Can China and Indonesia’s strong financial ties withstand ‘resource nationalism’?",
       "summary": "Back in 2009, when China’s economy was expanding at about twice today’s pace, a little-known private firm made a quiet bet on uncharted territory: Indonesia.\nThe company was on a quest: to secure nickel, a vital industrial metal used in stainless steel production and, increasingly, to power advanced",
       "urgency": "important",
@@ -1442,7 +1496,7 @@
       "link": "https://www.scmp.com/economy/global-economy/article/3362129/can-china-and-indonesias-strong-financial-ties-withstand-resource-nationalism?utm_source=rss_feed"
     },
     {
-      "id": "news-80",
+      "id": "news-83",
       "headline": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
       "summary": "A magnitude 6.8 earthquake struck Japan&#039;s Kyushu island, causing building collapses, fires and widespread damage.",
       "urgency": "important",
@@ -1460,7 +1514,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss"
     },
     {
-      "id": "news-81",
+      "id": "news-84",
       "headline": "What happened to Yonna? Twitch streamer reacts after e-bike accident on livestream",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132694716.cms\" /&gt;<![CDATA[Twitch streamer and TikTok creator Yonna crashed an e-bike during a recent IRL livestream after losing control and hitting a gate. She firs",
       "urgency": "info",
@@ -1478,7 +1532,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/what-happened-to-yonna-twitch-streamer-reacts-after-e-bike-accident-on-livestream/articleshow/132694716.cms"
     },
     {
-      "id": "news-82",
+      "id": "news-85",
       "headline": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
       "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
       "urgency": "info",
@@ -1496,25 +1550,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-83",
-      "headline": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
-      "summary": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-28T21:43:17.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami"
-    },
-    {
-      "id": "news-84",
+      "id": "news-86",
       "headline": "Israeli airstrike destroys Gaza City mosque near displacement camp",
       "summary": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium",
       "urgency": "breaking",
@@ -1532,7 +1568,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss"
     },
     {
-      "id": "news-85",
+      "id": "news-87",
       "headline": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
       "summary": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.",
       "urgency": "important",
@@ -1550,7 +1586,7 @@
       "link": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html"
     },
     {
-      "id": "news-86",
+      "id": "news-88",
       "headline": "Peru's Fujimori vows military-led crackdown on crime after taking office",
       "summary": "The newly inaugurated president – the ninth in just a decade – pledged to deploy the armed forces to crime-ridden areas and adopt a hardline security strategy as Peru grapples with its worst wave of gang violence, extortion and illegal mining in decades.",
       "urgency": "info",
@@ -1568,7 +1604,7 @@
       "link": "https://www.france24.com/en/americas/20260728-peru-s-fujimori-vows-military-led-crackdown-on-crime-after-taking-office"
     },
     {
-      "id": "news-87",
+      "id": "news-89",
       "headline": "Donald Trump and world leaders attend Lindsey Graham’s funeral",
       "summary": "Donald Trump said Lindsey Graham was a force in politics at the late senator&#039;s funeral in DC.",
       "urgency": "info",
@@ -1586,7 +1622,7 @@
       "link": "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss"
     },
     {
-      "id": "news-88",
+      "id": "news-90",
       "headline": "Iran and Oman exchange proposals to manage Strait of Hormuz - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjBxYnpjS19fWC0tZGI1UzczWjdMWWdCQmhWSC1TcnBRNGY3OGgwTVBGcFFQdTJ4WHVmM3VGNFI3M040VXpQZlFFdFl1UHQwa2wxbHFiUU9zNFhCb3p6UkNsSFRRNkZDVlFKNl8wLTh1dG9INHpzWlVDdVBYY1ZqYUpiMmtFQTJCbXp3b0s4QzFxUWJxSXdiVm0xMHJJS3lPRGfSAacBQVVfeXFMTldEYjk3d2J0OGV",
       "urgency": "info",
@@ -1604,7 +1640,7 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbjBxYnpjS19fWC0tZGI1UzczWjdMWWdCQmhWSC1TcnBRNGY3OGgwTVBGcFFQdTJ4WHVmM3VGNFI3M040VXpQZlFFdFl1UHQwa2wxbHFiUU9zNFhCb3p6UkNsSFRRNkZDVlFKNl8wLTh1dG9INHpzWlVDdVBYY1ZqYUpiMmtFQTJCbXp3b0s4QzFxUWJxSXdiVm0xMHJJS3lPRGfSAacBQVVfeXFMTldEYjk3d2J0OGVGQjA3MnY3clZpejNyZmp6RHhSMXF3cmJtbmY1cVN2U2VHR1J1c2w5U3BWM3BqTEVBdlhNbGh0cTVGd0dDejhzNThpemUtanV5QjQ2WWsxVnhldE5qRUE2eWlsMVJFWURSUjFfcXpMTmJOLVlybWlUMXd2ZkNtM1E1ZXRYREdfa0E2NlVNQnFjaFlKMjUzbm9XOEFsV2M?oc=5"
     },
     {
-      "id": "news-89",
+      "id": "news-91",
       "headline": "How Cubans Are Surviving",
       "summary": "It’s been six months since the U.S. cut off the island’s fuel sources. Our reporters went there and found remarkable stories of resilience.",
       "urgency": "info",
@@ -1622,7 +1658,7 @@
       "link": "https://www.nytimes.com/2026/07/28/world/cuba-us-trump-ukraine-iran-japan-quake.html"
     },
     {
-      "id": "news-90",
+      "id": "news-92",
       "headline": "Kai Cenat defends Tyla from alleged catcaller during Disney World livestream, fans applaud response",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132694420.cms\" /&gt;<![CDATA[Twitch streamer Kai Cenat defended singer Tyla from a man during a Disney World livestream.  He confronted the individual who was allegedly",
       "urgency": "info",
@@ -1640,7 +1676,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/kai-cenat-defends-tyla-from-alleged-catcaller-during-disney-world-livestream-fans-applaud-response/articleshow/132694420.cms"
     },
     {
-      "id": "news-91",
+      "id": "news-93",
       "headline": "Rome’s viral graffiti cleaner is taking on an ancient problem",
       "summary": "Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.",
       "urgency": "info",
@@ -1658,7 +1694,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/romes-viral-graffiti-cleaner-is-taking-on-an-ancient-problem?traffic_source=rss"
     },
     {
-      "id": "news-92",
+      "id": "news-94",
       "headline": "Quote of the day by Elif Shafak: 'Do not go with the flow. Be the flow' and how to break passivity",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132694404.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1676,7 +1712,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/quote-of-the-day-by-elif-shafak-do-not-go-with-the-flow-be-the-flow-and-how-to-break-passivity/articleshow/132694404.cms"
     },
     {
-      "id": "news-93",
+      "id": "news-95",
       "headline": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
       "summary": "A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths.",
       "urgency": "breaking",
@@ -1694,7 +1730,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss"
     },
     {
-      "id": "news-94",
+      "id": "news-96",
       "headline": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
       "summary": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
       "urgency": "breaking",
@@ -1712,7 +1748,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss"
     },
     {
-      "id": "news-95",
+      "id": "news-97",
       "headline": "Protests in DC against Netanyahu’s meeting with Trump",
       "summary": "A group of demonstrators gathered near the White House to protest Benjamin Netanyahu’s visit to Washington.",
       "urgency": "important",
@@ -1730,7 +1766,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss"
     },
     {
-      "id": "news-96",
+      "id": "news-98",
       "headline": "Ukraine's foreign minister holds 'frank conversation' with Iranian counterpart - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEJTTER6WWtqSHZDa041a1h0X3BocFlqb1BWUDh4WVpwVHc2ajU2VGNHZ19rZUZwdzVtUmF6QWF5SWwyWHpIRDdYd1p6amdxVVQzTzl3dXFlRVdsTDJ6U2pMR1RRV2ZCR2lCZHdPUXdnVWV6T3kwd2pLX09jX1hkRUY0X0dJTVhjeXJZTFdtSkZXQjJqNVVCLXJVV2RTRE5zNVBjQWEyaw?oc=5\" target=\"_blank",
       "urgency": "info",
@@ -1748,7 +1784,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEJTTER6WWtqSHZDa041a1h0X3BocFlqb1BWUDh4WVpwVHc2ajU2VGNHZ19rZUZwdzVtUmF6QWF5SWwyWHpIRDdYd1p6amdxVVQzTzl3dXFlRVdsTDJ6U2pMR1RRV2ZCR2lCZHdPUXdnVWV6T3kwd2pLX09jX1hkRUY0X0dJTVhjeXJZTFdtSkZXQjJqNVVCLXJVV2RTRE5zNVBjQWEyaw?oc=5"
     },
     {
-      "id": "news-97",
+      "id": "news-99",
       "headline": "Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump’s Blockade",
       "summary": "President Trump has tried to strangle Cuba by blocking its oil imports. But six months later, the island is finding ways to endure.",
       "urgency": "info",
@@ -1764,42 +1800,6 @@
       "timestamp": "2026-07-28T20:19:27.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html"
-    },
-    {
-      "id": "news-98",
-      "headline": "Chad to withdraw from the International Criminal Court",
-      "summary": "In tonight's edition, Chad is pulling out of the International Criminal Court, accusing it of bias against Africa. Also, in Madagascar, nearly 200 people have been reported missing this year. And centuries-old medinas in the Comoros have joined UNESCO World Heritage status.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-28T20:14:58.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/chad-to-withdraw-from-the-international-criminal-court"
-    },
-    {
-      "id": "news-99",
-      "headline": "Keiko Fujimori sworn in as Peru president after narrow election win",
-      "summary": "Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father&#039;s tactics.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-28T20:14:09.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss"
     }
   ],
   "financials": {
