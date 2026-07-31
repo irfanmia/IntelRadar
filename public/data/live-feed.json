@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T18:52:26.697Z",
+  "lastUpdated": "2026-07-31T19:10:19.049Z",
   "news": [
     {
       "id": "news-0",
@@ -15,12 +15,84 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-07-31T18:51:04.000Z",
+      "timestamp": "2026-07-31T19:05:13.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco"
     },
     {
       "id": "news-1",
+      "headline": "What Caused the Surge in Ceuta?",
+      "summary": "Speculation has focused on lax Moroccan policing, attractive Spanish immigration policies and misinformation from human traffickers. In reality, experts said, it’s too early to know.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-31T19:00:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/what-caused-the-surge-in-ceuta.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "At Least 34 Dead From Coal Mine Blast in Pakistan",
+      "summary": "Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-31T18:52:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html"
+    },
+    {
+      "id": "news-3",
+      "headline": "World reacts with cautious optimism to Hamas disarmament agreement",
+      "summary": "Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-31T18:51:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss"
+    },
+    {
+      "id": "news-4",
+      "headline": "Young Men Poured Into Ceuta Seeking Work",
+      "summary": "Several migrants said they had been motivated by social media messages claiming that the Spanish border was open, though the origin of those messages remained unclear.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-31T18:51:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html"
+    },
+    {
+      "id": "news-5",
       "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
       "summary": "Prime Minister Pedro Sánchez was set to arrive in Ceuta, a Spanish territory in Africa, amid an escalating crisis for his pro-immigration government.",
       "urgency": "important",
@@ -38,7 +110,7 @@
       "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez"
     },
     {
-      "id": "news-2",
+      "id": "news-6",
       "headline": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
       "summary": "The National Autonomous University of Mexico, or UNAM, has asked all students who passed a demanding entrance exam to take a new test after experts found half of all applicants may have cheated, including with A.I.",
       "urgency": "info",
@@ -56,7 +128,25 @@
       "link": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html"
     },
     {
-      "id": "news-3",
+      "id": "news-7",
+      "headline": "Trump says Hamas disarmament deal will be complex to deliver",
+      "summary": "Trump said Israel strongly supports an agreement for the complete disarmament of Hamas",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-07-31T18:44:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss"
+    },
+    {
+      "id": "news-8",
       "headline": "Trump says US hasn’t agreed to Ukraine building Patriot missiles",
       "summary": "President Donald Trump said on ⁠Friday that the United States has not agreed to Ukraine building Patriot missiles but that talks are ongoing, adding that the US must be “very careful about letting somebody build them”.\nTrump said during a meeting with Ukrainian President Volodymyr Zelensky in Turkey",
       "urgency": "breaking",
@@ -74,25 +164,7 @@
       "link": "https://www.scmp.com/news/world/russia-central-asia/article/3362609/trump-says-us-hasnt-agreed-ukraine-building-patriot-missiles?utm_source=rss_feed"
     },
     {
-      "id": "news-4",
-      "headline": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
-      "summary": "The bodies of the first Omani woman to reach the summit of Mount Everest and of an American climber were recovered. An influential British-Nepali mountaineer was missing.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-31T18:35:11.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html"
-    },
-    {
-      "id": "news-5",
+      "id": "news-9",
       "headline": "Aspiring 17-year-old Indian cricketer dies by suicide after selection disappointment",
       "summary": "Aspiring 17-year-old Indian cricketer dies by suicide after selection disappointment",
       "urgency": "important",
@@ -110,7 +182,7 @@
       "link": "https://gulfnews.com/sport/cricket/aspiring-17-year-old-indian-cricketer-dies-by-suicide-after-selection-disappointment-1.500627175-1.500627175"
     },
     {
-      "id": "news-6",
+      "id": "news-10",
       "headline": "Far-right politicians seize on Ceuta",
       "summary": "Several migrants who crossed into Ceuta attributed their arrival to lax Moroccan border protocols. But Europe’s anti-immigrant politicians blamed Spain’s migrant-friendly policies.",
       "urgency": "info",
@@ -128,7 +200,7 @@
       "link": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html"
     },
     {
-      "id": "news-7",
+      "id": "news-11",
       "headline": "What triggered the mass migrant crossings into Ceuta?",
       "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
       "urgency": "info",
@@ -146,7 +218,7 @@
       "link": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-12",
       "headline": "Italy temporarily suspends Schengen with Spain over migrant surge",
       "summary": "Italy temporarily suspends Schengen with Spain over migrant surge",
       "urgency": "info",
@@ -164,7 +236,7 @@
       "link": "https://gulfnews.com/world/europe/italy-temporarily-suspends-schengen-with-spain-over-migrant-surge-1.500627162"
     },
     {
-      "id": "news-9",
+      "id": "news-13",
       "headline": "Syrian lawyer takes on ex-Assad official in landmark trial",
       "summary": "Syrian lawyer takes on ex-Assad official in landmark trial",
       "urgency": "info",
@@ -182,7 +254,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-14",
       "headline": "Why is Israel arming illegal settlers?",
       "summary": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
       "urgency": "breaking",
@@ -200,7 +272,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss"
     },
     {
-      "id": "news-11",
+      "id": "news-15",
       "headline": "Massive Attack banned from Singapore after pro-Palestine display at show",
       "summary": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday.",
       "urgency": "breaking",
@@ -218,7 +290,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-12",
+      "id": "news-16",
       "headline": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
       "summary": "New York is one of many states with cases against Kalshi and others in dispute with Trump gov&#039;t on who gets to regulate.",
       "urgency": "info",
@@ -236,9 +308,9 @@
       "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss"
     },
     {
-      "id": "news-13",
+      "id": "news-17",
       "headline": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "&lt;p&gt;Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates\"&gt;Eu",
+      "summary": "&lt;p&gt;Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident&lt;/p&gt;&lt;p&gt;At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 migrants entered the tiny territory from Morocco in what Spain’",
       "urgency": "important",
       "topic": "general",
       "sources": [
@@ -254,7 +326,7 @@
       "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
     },
     {
-      "id": "news-14",
+      "id": "news-18",
       "headline": "George Clooney's family evacuates their home in France amid wildfires",
       "summary": "George Clooney and his family have evacuated their home in southeastern France after a nearby wildfire threatened the area, his agent said Thursday. Blazes continued to scorch parts of the country during a prolonged spell of extreme summer heat.",
       "urgency": "info",
@@ -272,7 +344,7 @@
       "link": "https://www.france24.com/en/europe/20260731-george-clooney-s-family-evacuates-their-home-in-france-amid-wildfires"
     },
     {
-      "id": "news-15",
+      "id": "news-19",
       "headline": "South Africa released 11 formerly captive elephants onto wild reserves; five years later...",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132773352.cms\" /&gt;<![CDATA[In an inspiring study, South African elephants reintroduced into reserves demonstrated remarkable behavior akin to that of free-roaming her",
       "urgency": "info",
@@ -290,7 +362,7 @@
       "link": "https://timesofindia.indiatimes.com/science/south-africa-released-11-formerly-captive-elephants-onto-wild-reserves-five-years-later-their-behaviour-closely-matched-elephants-that-had-never-lived-in-captivity/articleshow/132773352.cms"
     },
     {
-      "id": "news-16",
+      "id": "news-20",
       "headline": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis",
       "summary": "Italy said on Friday it ⁠was suspending the EU’s ⁠border-free Schengen arrangements with Spain for one month in ⁠response to a mass influx of migrants into the Spanish enclave of Ceuta from neighbouring Morocco.\nItaly does not share a land border with Spain but the measure – which looks certain to a",
       "urgency": "important",
@@ -308,7 +380,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3362607/italy-suspends-eu-schengen-free-travel-pact-spain-over-ceuta-migrant-crisis?utm_source=rss_feed"
     },
     {
-      "id": "news-17",
+      "id": "news-21",
       "headline": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
       "summary": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off plan.",
       "urgency": "info",
@@ -326,7 +398,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss"
     },
     {
-      "id": "news-18",
+      "id": "news-22",
       "headline": "Samsung unfolds a human Galaxy Z Fold8 over Dubai’s skyline",
       "summary": "Samsung unfolds a human Galaxy Z Fold8 over Dubai’s skyline",
       "urgency": "info",
@@ -344,7 +416,7 @@
       "link": "https://gulfnews.com/gn-focus/samsung-unfolds-a-human-galaxy-z-fold8-over-dubais-skyline-1.500627128"
     },
     {
-      "id": "news-19",
+      "id": "news-23",
       "headline": "Why Africa could back controversial Fifa plan",
       "summary": "Fifa's plan sell stakes in its competitions to private investors has been heavily criticised, but the body running African football is yet to take a side.",
       "urgency": "info",
@@ -362,7 +434,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cy07qjzzexzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-24",
       "headline": "ADNOC changes pricing method for Abu Dhabi crude from November",
       "summary": "ADNOC changes pricing method for Abu Dhabi crude from November",
       "urgency": "info",
@@ -380,7 +452,7 @@
       "link": "https://gulfnews.com/business/energy/adnoc-changes-pricing-method-for-abu-dhabi-crude-from-november-1.500627123"
     },
     {
-      "id": "news-21",
+      "id": "news-25",
       "headline": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
       "summary": "The crossing of 50,000 people to Spanish territory this week has created a crisis for the Spanish government, much as the 2015 migration crisis did for Europe’s leaders. The context is different.",
       "urgency": "important",
@@ -398,7 +470,7 @@
       "link": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html"
     },
     {
-      "id": "news-22",
+      "id": "news-26",
       "headline": "Western allies warn North Korean IT workers funding nuclear arsenal",
       "summary": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
       "urgency": "breaking",
@@ -416,7 +488,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-27",
       "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "summary": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
       "urgency": "info",
@@ -434,7 +506,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-24",
+      "id": "news-28",
       "headline": "Singapore student left home saying she was going to college; hours later her family found her...",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132771944.cms\" /&gt;<![CDATA[A Singaporean student, Siti Aishah Siregar, disappeared after telling her family she was going to college. Her family discovered her passpo",
       "urgency": "info",
@@ -452,7 +524,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/singapore-student-siti-aishah-siregar-left-home-saying-she-was-going-to-college-hours-later-her-family-found-her-passport-missing-and-a-cambodia-flight-ticket-in-her-email/articleshow/132771944.cms"
     },
     {
-      "id": "news-25",
+      "id": "news-29",
       "headline": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132773141.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -470,7 +542,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/indian-woman-slammed-for-showing-off-green-card-in-just-2-months-they-are-not-even-hiding-it-anymore/articleshow/132773141.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-30",
       "headline": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral",
       "summary": "Iran sent military aid to Russia for its war against Ukraine. Now the question is whether that conflict and the U.S.-Israeli war against Iran are converging.",
       "urgency": "breaking",
@@ -488,7 +560,7 @@
       "link": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html"
     },
     {
-      "id": "news-27",
+      "id": "news-31",
       "headline": "Meet Quazeem Tiamiyu, a student who turned discarded wood into insulation for beverage coolers",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132772648.cms\" /&gt;<![CDATA[Quazeem Tiamiyu developed safe insulation from wood fiber for beverage coolers. This bio-based component offers an environmentally friendly",
       "urgency": "info",
@@ -506,7 +578,7 @@
       "link": "https://timesofindia.indiatimes.com/science/meet-quazeem-tiamiyu-a-student-who-turned-discarded-wood-into-insulation-for-beverage-coolers/articleshow/132772648.cms"
     },
     {
-      "id": "news-28",
+      "id": "news-32",
       "headline": "Migrants overrun a Spanish outpost, stirring European outrage",
       "summary": "Widely circulated video showed thousands of Moroccans storming into a Spanish outpost in North Africa. The White House condemned Spain as weak on immigration.",
       "urgency": "info",
@@ -524,7 +596,7 @@
       "link": "https://www.washingtonpost.com/world/2026/07/31/migrants-overrun-spanish-outpost-stirring-white-house-outrage/"
     },
     {
-      "id": "news-29",
+      "id": "news-33",
       "headline": "Trump’s Gaza Deal Sparks Questions on Whether Israel, Hamas Will Comply",
       "summary": "The new 15-point plan, released by the Board of Peace and announced by Trump, calls in part for Israel to end its attacks and Hamas to give up its weapons.",
       "urgency": "breaking",
@@ -542,7 +614,7 @@
       "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
     },
     {
-      "id": "news-30",
+      "id": "news-34",
       "headline": "UAE opens nominations for inaugural Year Of Award",
       "summary": "Under directives of UAE President, UAE Year of Award launches",
       "urgency": "breaking",
@@ -560,7 +632,7 @@
       "link": "https://gulfnews.com/uae/government/uae-opens-nominations-for-inaugural-year-of-award-1.500627064"
     },
     {
-      "id": "news-31",
+      "id": "news-35",
       "headline": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
       "summary": "Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.",
       "urgency": "breaking",
@@ -578,7 +650,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-36",
       "headline": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
       "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
       "urgency": "info",
@@ -596,7 +668,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-33",
+      "id": "news-37",
       "headline": "USS Minnesota Completes First Forward-Deployment",
       "summary": "The submarine USS Minnesota returned to its home port at Naval Base Guam after completing its first deployment since becoming the Navy's first forward-deployed submarine.",
       "urgency": "breaking",
@@ -614,7 +686,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4561139/uss-minnesota-completes-first-forward-deployment/"
     },
     {
-      "id": "news-34",
+      "id": "news-38",
       "headline": "Three-year roadmap proposed for Hamas disarmament in Gaza",
       "summary": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition",
       "urgency": "info",
@@ -632,7 +704,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss"
     },
     {
-      "id": "news-35",
+      "id": "news-39",
       "headline": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
       "summary": "The Douglas DC-3 was mass-produced during World War II. Today, one of the few still remaining transports passengers in Colombia’s jungle.",
       "urgency": "breaking",
@@ -650,7 +722,7 @@
       "link": "https://www.nytimes.com/2026/07/31/world/americas/plane-douglas-dc3-wwii-colombia.html"
     },
     {
-      "id": "news-36",
+      "id": "news-40",
       "headline": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "summary": "&lt;p&gt;Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_med",
       "urgency": "breaking",
@@ -668,7 +740,7 @@
       "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts"
     },
     {
-      "id": "news-37",
+      "id": "news-41",
       "headline": "Trump blames Spain for migrant chaos despite return of tens of thousands to Morocco",
       "summary": "US President Donald Trump and other far-right leaders on Friday seized on Spain's migration crisis to bolster their political messaging on immigration, while over half of the migrants who had crossed the border made their way back to Morocco voluntarily the same day.",
       "urgency": "important",
@@ -686,7 +758,7 @@
       "link": "https://www.france24.com/en/europe/20260731-trump-blames-spain-for-migrant-chaos-despite-return-of-tens-of-thousands-to-morocco"
     },
     {
-      "id": "news-38",
+      "id": "news-42",
       "headline": "Indian man posed as psychic, offered victim 'spiritual protection': Toronto Police issues warrant",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132771783.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -704,7 +776,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-man-posed-as-psychic-offered-victim-spiritual-protection-toronto-police-issues-warrant/articleshow/132771783.cms"
     },
     {
-      "id": "news-39",
+      "id": "news-43",
       "headline": "Replay: US President Donald Trump addresses Cabinet meeting",
       "summary": "Rewatch US President Donald Trump's address during a cabinet meeting at the Camp David retreat following the announcement that Hamas had agreed to disarm in Gaza as part of a US-brokered plan.",
       "urgency": "info",
@@ -722,7 +794,7 @@
       "link": "https://www.france24.com/en/replay-us-president-donald-trump-addresses-cabinet-meeting"
     },
     {
-      "id": "news-40",
+      "id": "news-44",
       "headline": "Donald Trump trying to 'change the narrative away from the Iran war' ahead of midterms",
       "summary": "US President Donald Trump held a cabinet meeting at the Camp David retreat where he addressed a wide range of subjects, from Iran to the midterm elections. He also blamed the Spanish government for the mass migrant arrivals in Spain's Ceuta enclave, calling it an invasion. FRANCE 24's Fraser Jackson",
       "urgency": "breaking",
@@ -740,7 +812,7 @@
       "link": "https://www.france24.com/en/donald-trump-trying-to-change-the-narrative-away-from-the-iran-war-ahead-of-midterms"
     },
     {
-      "id": "news-41",
+      "id": "news-45",
       "headline": "LIVE: Chopra, Nadeem and Pathirage meet in Commonwealth Games javelin final",
       "summary": "Follow live text updates and commentary stream coverage as India&#039;s Neeraj Chopra and Pakistan&#039;s Arshad Nadeem face-off.",
       "urgency": "info",
@@ -758,7 +830,7 @@
       "link": "https://www.aljazeera.com/sports/liveblog/2026/7/31/live-chopra-nadeem-and-patharige-in-commonwealth-games-javelin-final?traffic_source=rss"
     },
     {
-      "id": "news-42",
+      "id": "news-46",
       "headline": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
       "summary": "Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation.&quot;",
       "urgency": "info",
@@ -776,7 +848,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss"
     },
     {
-      "id": "news-43",
+      "id": "news-47",
       "headline": "Oregon Guard Aircrews Support State Wildfire Response",
       "summary": "Oregon Army National Guard members began water bucket operations in support of wildland firefighting efforts in Umatilla County, part of a broader National Guard response to the state's wildfire season.",
       "urgency": "info",
@@ -794,7 +866,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4561168/oregon-guard-aircrews-support-state-wildfire-response/"
     },
     {
-      "id": "news-44",
+      "id": "news-48",
       "headline": "Hamas disarming would be 'first concrete step to re-energise peace plan', but questions remain",
       "summary": "Israel will not withdraw from the Gaza Strip until Hamas's \"genuine disarmament\", a political source told AFP on July 31, after the group said it had agreed to a deal involving its disarmament and Israel's exit. But officially, the country has stayed silent regarding the agreement. It was announced ",
       "urgency": "breaking",
@@ -812,7 +884,7 @@
       "link": "https://www.france24.com/en/hamas-disarmament-would-be-first-concrete-step-to-re-energise-peace-plan-but-questions-remain"
     },
     {
-      "id": "news-45",
+      "id": "news-49",
       "headline": "'Remember that picture': Trump uses Ceuta crisis as warning for US voters",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132772007.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -830,7 +902,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/remember-that-picture-trump-uses-ceuta-crisis-as-warning-for-us-voters/articleshow/132772007.cms"
     },
     {
-      "id": "news-46",
+      "id": "news-50",
       "headline": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
       "summary": "For families in Tunisia&#039;s north, the wildfires have meant lost homes, livestock and harvests.",
       "urgency": "info",
@@ -848,7 +920,7 @@
       "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss"
     },
     {
-      "id": "news-47",
+      "id": "news-51",
       "headline": "What's in the Gaza peace deal roadmap?",
       "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
       "urgency": "info",
@@ -866,7 +938,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-48",
+      "id": "news-52",
       "headline": "Gaza Strip: Will Hamas really disarm?",
       "summary": "🇮🇱 🇵🇸 Hamas confirmed Friday it had agreed to a deal with #Israel that would lead to the group's disarmament.\n \n🇺🇸 This was a condition of the second phase of a #Gaza peace plan brokered by #US President Donald #Trump.",
       "urgency": "info",
@@ -884,7 +956,7 @@
       "link": "https://www.france24.com/en/video/20260731-gaza-strip-will-hamas-really-disarm"
     },
     {
-      "id": "news-49",
+      "id": "news-53",
       "headline": "Best wet shave and safety razor kits on Amazon.ae 2026: Traditional shaves made simple",
       "summary": "Best wet shave and safety razor kits on Amazon.ae 2026: Traditional shaves made simple",
       "urgency": "info",
@@ -902,7 +974,7 @@
       "link": "https://gulfnews.com/best-buys/best-wet-shave-and-safety-razor-kits-on-amazonae-2026-traditional-shaves-made-simple-1.500622727"
     },
     {
-      "id": "news-50",
+      "id": "news-54",
       "headline": "OpenAI says has more than 1 billion active users",
       "summary": "OpenAI says has more than 1 billion active users",
       "urgency": "info",
@@ -920,7 +992,7 @@
       "link": "https://gulfnews.com/sport/football/openai-says-has-more-than-1-billion-active-users-2-1.500627045"
     },
     {
-      "id": "news-51",
+      "id": "news-55",
       "headline": "'The #Odyssey': What's missing from #Nolan's film according to Homer's translator",
       "summary": "Since Christopher Nolan's \"The Odyssey\" came out, it has generated over $300 million…  and a growing conversation about what is missing compared to the original poem. But what is that exactly? In a scathing review published recently, classicist and translator of Homer’s epic, Emily Wilson, had much ",
       "urgency": "info",
@@ -938,7 +1010,7 @@
       "link": "https://www.france24.com/en/video/20260731-the-odyssey-what-s-missing-from-nolan-s-film-according-to-homer-s-translator"
     },
     {
-      "id": "news-52",
+      "id": "news-56",
       "headline": "Why did Riyadh join US strikes on Tehran's allies in Iraq?",
       "summary": "Saudi Arabia joined the United States for the first time in launching air strikes against Iran-backed militias in Iraq on Wednesday, marking a significant shift in the kingdom's regional posture after months of restraint. While Riyadh insists it was acting in self-defence, the operation raises quest",
       "urgency": "breaking",
@@ -956,7 +1028,7 @@
       "link": "https://www.france24.com/en/middle-east/20260731-why-has-riyadh-joined-the-us-in-striking-tehran"
     },
     {
-      "id": "news-53",
+      "id": "news-57",
       "headline": "A $215,280 Colorado home is being sold; but the buyer must remove the woman living inside",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132771157.cms\" /&gt;<![CDATA[A unique property in Colorado is on the market but comes with a twist: prospective buyers cannot conduct inspections. The current resident,",
       "urgency": "info",
@@ -974,7 +1046,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-215280-colorado-home-is-being-sold-without-inspections-the-buyer-must-remove-the-woman-living-inside-and-she-says-she-will-not-leave/articleshow/132771157.cms"
     },
     {
-      "id": "news-54",
+      "id": "news-58",
       "headline": "What happened to 'Green Cards stapled to diplomas': Attorney reacts to proposal of $100,000 OPT fee",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132771420.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -992,7 +1064,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/what-happened-to-green-cards-stapled-to-diplomas-attorney-reacts-to-proposal-of-100000-opt-fee/articleshow/132771420.cms"
     },
     {
-      "id": "news-55",
+      "id": "news-59",
       "headline": "The promise I made to Ismail al-Ghoul",
       "summary": "He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.",
       "urgency": "breaking",
@@ -1010,7 +1082,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss"
     },
     {
-      "id": "news-56",
+      "id": "news-60",
       "headline": "Saudi Arabia recalls more than 6,500 BMWs over fire risk",
       "summary": "Saudi Arabia recalls more than 6,500 BMWs over fire risk",
       "urgency": "info",
@@ -1028,7 +1100,7 @@
       "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-recalls-more-than-6500-bmws-over-fire-risk-1.500626898"
     },
     {
-      "id": "news-57",
+      "id": "news-61",
       "headline": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
       "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
       "urgency": "breaking",
@@ -1046,7 +1118,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-58",
+      "id": "news-62",
       "headline": "UAE strongly condemns renewed Iranian hostile attack on Kuwait",
       "summary": "UAE strongly condemns renewed Iranian hostile attack on Kuwait",
       "urgency": "breaking",
@@ -1064,7 +1136,7 @@
       "link": "https://gulfnews.com/uae/government/uae-strongly-condemns-renewed-iranian-hostile-attack-on-kuwait-1.500626978"
     },
     {
-      "id": "news-59",
+      "id": "news-63",
       "headline": "Sri Lanka’s ex-police chief sentenced to death over 2019 Easter bombings",
       "summary": "A Sri Lanka court sentenced former police chief Pujith Jayasundara to death on Friday for failing to prevent the 2019 Easter Sunday bombings, which killed 279 people including 45 foreigners.\nIn a majority decision, a three-judge bench ruled that the former inspector general had failed in his duties ",
       "urgency": "breaking",
@@ -1082,7 +1154,7 @@
       "link": "https://www.scmp.com/news/asia/south-asia/article/3362602/sri-lankas-ex-police-chief-sentenced-death-over-2019-easter-bombings?utm_source=rss_feed"
     },
     {
-      "id": "news-60",
+      "id": "news-64",
       "headline": "'Not Morocco, please': The human stories behind Spain's migrant crisis - report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132771091.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -1100,7 +1172,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/not-morocco-please-the-human-stories-behind-spains-migrant-crisis-report/articleshow/132771091.cms"
     },
     {
-      "id": "news-61",
+      "id": "news-65",
       "headline": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
       "summary": "FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.",
       "urgency": "info",
@@ -1118,7 +1190,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss"
     },
     {
-      "id": "news-62",
+      "id": "news-66",
       "headline": "NSW should compensate elderly woman whose public housing was inundated with sewage, ombudsman finds",
       "summary": "&lt;p&gt;Ombudsman finds Homes NSW acted unreasonably and recommended additional payment for distress and suffering&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.c",
       "urgency": "breaking",
@@ -1136,7 +1208,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/aug/01/nsw-should-compensate-elderly-woman-whose-public-housing-was-inundated-with-sewage-ombudsman-finds-ntwnfb"
     },
     {
-      "id": "news-63",
+      "id": "news-67",
       "headline": "How global AI boom is intensifying US-China undersea stand-off",
       "summary": "The US-China tech rivalry has escalated into a deeper battle over undersea fibre-optic cables powering the global AI boom.\nAs demand for cross-border data to power and train advanced systems intensifies, so does the high-stakes battle to control critical network ecosystems – mainly submarine cables ",
       "urgency": "info",
@@ -1154,7 +1226,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3362288/how-global-ai-boom-intensifying-us-china-undersea-stand?utm_source=rss_feed"
     },
     {
-      "id": "news-64",
+      "id": "news-68",
       "headline": "Greece orders partial evacuation of Athens suburb as wildfire burns",
       "summary": "Greek authorities on Friday ordered the partial evacuation of a suburb west of Athens after a forest fire broke out on a nearby mountain, prompting an emergency alert as firefighters battled to contain the blaze.",
       "urgency": "info",
@@ -1172,7 +1244,7 @@
       "link": "https://www.france24.com/en/europe/20260731-greece-orders-partial-evacuation-of-athens-suburb-as-wildfire-burns"
     },
     {
-      "id": "news-65",
+      "id": "news-69",
       "headline": "Nigeria date removed from South African pop star Tyla's world tour after boycott petition",
       "summary": "Nigerians urged Tyla to cancel her concert in Lagos over anti-migrant protests in South Africa.",
       "urgency": "important",
@@ -1190,7 +1262,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-66",
+      "id": "news-70",
       "headline": "A Michigan woman owns 19 acres between two planned Toll Brothers communities",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132770064.cms\" /&gt;<![CDATA[A woman from Michigan has initiated legal action against Toll Brothers concerning their wastewater management and access rights. Her proper",
       "urgency": "info",
@@ -1208,7 +1280,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-michigan-woman-owns-19-acres-between-two-planned-toll-brothers-communities-she-is-suing-over-her-only-access-route-and-a-proposed-wastewater-discharge/articleshow/132770064.cms"
     },
     {
-      "id": "news-67",
+      "id": "news-71",
       "headline": "Although France's mega fire has eased, the dangers firefighters face haven't",
       "summary": "Firefighters in southwestern France were working to control the last hot spots of a massive wildfire that has burned an area four times the size of Paris and forced thousands out of their homes. The blazes that have burned 42,000 hectares of pine forest and touristic areas in Bordeaux's Gironde regi",
       "urgency": "info",
@@ -1226,7 +1298,7 @@
       "link": "https://www.france24.com/en/although-france-s-mega-fire-has-eased-the-dangers-firefighters-face-haven-t"
     },
     {
-      "id": "news-68",
+      "id": "news-72",
       "headline": "Police chief resigns days after deadly shooting in US city of Seattle",
       "summary": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
       "urgency": "breaking",
@@ -1244,7 +1316,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss"
     },
     {
-      "id": "news-69",
+      "id": "news-73",
       "headline": "Hungary braces for first nuclear plant shutdown as Danube hits record lows",
       "summary": "Hungary’s only nuclear power plant will shut down for the first time in its history due to record-low water levels on the Danube River, Prime Minister Péter Magyar said on Friday, adding that the plant may not come back online for several weeks as the river is expected to continue receding.\nThe Paks",
       "urgency": "info",
@@ -1262,7 +1334,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3362598/europes-wildfire-threat-expands-latest-heatwave?utm_source=rss_feed"
     },
     {
-      "id": "news-70",
+      "id": "news-74",
       "headline": "Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction",
       "summary": "Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.",
       "urgency": "info",
@@ -1280,7 +1352,7 @@
       "link": "https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss"
     },
     {
-      "id": "news-71",
+      "id": "news-75",
       "headline": "Mainland Chinese families lose legal challenge over public university fees",
       "summary": "A group of 87 mainland Chinese families who came to Hong Kong under talent visa schemes has lost a legal bid to challenge the government’s policy changes that affected their children’s access to publicly funded university places as dependants.\nHigh Court Judge Russell Coleman on Friday ruled that th",
       "urgency": "info",
@@ -1298,7 +1370,7 @@
       "link": "https://www.scmp.com/news/hong-kong/education/article/3362597/mainland-chinese-families-lose-legal-challenge-over-public-university-fees?utm_source=rss_feed"
     },
     {
-      "id": "news-72",
+      "id": "news-76",
       "headline": "'Paradise for spies' no more: Japan launches first centralised intelligence body since WWII",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132770383.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1316,7 +1388,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/paradise-for-spies-no-more-japan-launches-first-centralised-intelligence-body-since-wwii/articleshow/132770383.cms"
     },
     {
-      "id": "news-73",
+      "id": "news-77",
       "headline": "Heatwave pushes energy-hungry Tunisia to enforce rolling blackouts",
       "summary": "In Tunisia, after weeks of extended power cuts, the effects are serious. Between 150 and 200 died in the heatwave, according to the Order of Young Doctors, and businesses took severe hits after their goods spoiled. Authorities have announced that power is returning to normal as temperatures go back ",
       "urgency": "important",
@@ -1334,7 +1406,7 @@
       "link": "https://www.france24.com/en/video/20260731-heatwave-forces-energy-hungry-tunisia-to-enforce-rolling-blackouts"
     },
     {
-      "id": "news-74",
+      "id": "news-78",
       "headline": "How sell-off at flashy AI-focused US hedge fund is a wake-up call for Chinese investors",
       "summary": "Chinese tech investors are hearing warning bells after volatility in US tech stocks forced a fast-rising Wall Street hedge fund to clear its stock portfolio at a steep discount within a few days.\n“Don’t use leverage! Don’t use leverage! Don’t use leverage!” Shanghai-based public-markets analyst Harr",
       "urgency": "breaking",
@@ -1352,7 +1424,7 @@
       "link": "https://www.scmp.com/tech/tech-trends/article/3362574/how-sell-flashy-ai-focused-us-hedge-fund-wake-call-chinese-investors?utm_source=rss_feed"
     },
     {
-      "id": "news-75",
+      "id": "news-79",
       "headline": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
       "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
       "urgency": "info",
@@ -1370,7 +1442,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-76",
+      "id": "news-80",
       "headline": "Russia and Ukraine report casualties as they continue to trade attacks",
       "summary": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
       "urgency": "breaking",
@@ -1388,7 +1460,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss"
     },
     {
-      "id": "news-77",
+      "id": "news-81",
       "headline": "Cameroon president's absence sparks debate over government inaction",
       "summary": "The lengthy absence of Cameroon's long-serving President Paul Biya, who has been in Switzerland since early June, has reignited debate about government inaction, in a country where many crave change. Biya has made frequent trips to Geneva over the years and has faced waves of speculation and rumours",
       "urgency": "info",
@@ -1406,7 +1478,7 @@
       "link": "https://www.france24.com/en/cameroon-president-s-absence-sparks-debate-over-government-inaction"
     },
     {
-      "id": "news-78",
+      "id": "news-82",
       "headline": "In 1924, Arctic charr from Lake Geneva were stocked into Lake Allos; a century later...",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132768545.cms\" /&gt;<![CDATA[Introduced to Lake Allos in 1924, Arctic charr exhibit remarkable metabolic adaptations within just a century. These fish showcase rapid ph",
       "urgency": "info",
@@ -1424,7 +1496,7 @@
       "link": "https://timesofindia.indiatimes.com/science/in-1924-arctic-charr-from-lake-geneva-were-stocked-into-lake-allos-a-century-later-their-descendants-showed-distinct-metabolic-responses-under-identical-conditions/articleshow/132768545.cms"
     },
     {
-      "id": "news-79",
+      "id": "news-83",
       "headline": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0Nlc3FFeTZIM0dHUG8wYm9yaXhpOFBRSzJNQ09nZW9aUHlCWU5hU1ZZOE1XVXdhcXVmZnJiZzgtaGdSbkU2Y2FsZXlWOXp1LXdGT2t3MHhGZGlwS095dURvODFaSUlSRER3aHl1Z3ZMbVlPWThNUExqTnZuZ2ZwZmxOUmJ2bXo4d1RwX3VILXpiLW1fTEgxMm5NQ0RrZjQ3cUlGZG5DY2FGRmQwdHkwcjJn?oc=5\" ",
       "urgency": "breaking",
@@ -1442,7 +1514,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0Nlc3FFeTZIM0dHUG8wYm9yaXhpOFBRSzJNQ09nZW9aUHlCWU5hU1ZZOE1XVXdhcXVmZnJiZzgtaGdSbkU2Y2FsZXlWOXp1LXdGT2t3MHhGZGlwS095dURvODFaSUlSRER3aHl1Z3ZMbVlPWThNUExqTnZuZ2ZwZmxOUmJ2bXo4d1RwX3VILXpiLW1fTEgxMm5NQ0RrZjQ3cUlGZG5DY2FGRmQwdHkwcjJn?oc=5"
     },
     {
-      "id": "news-80",
+      "id": "news-84",
       "headline": "FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened",
       "summary": "&lt;p&gt;Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes&lt;/p&gt;&lt;p&gt;The story piquing the interest of the financial press this morning is that of &lt;st",
       "urgency": "breaking",
@@ -1460,7 +1532,7 @@
       "link": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates"
     },
     {
-      "id": "news-81",
+      "id": "news-85",
       "headline": "Turkiye’s Davutoglu steps back from politics: A timeline of his career",
       "summary": "Ahmet Davutoglu, a former Turkish PM and Erdogan ally-turned-critic, has stepped down from politics.",
       "urgency": "info",
@@ -1478,7 +1550,7 @@
       "link": "https://www.aljazeera.com/news/2026/7/31/turkiyes-davutoglu-steps-back-from-politics-a-timeline-of-his-career?traffic_source=rss"
     },
     {
-      "id": "news-82",
+      "id": "news-86",
       "headline": "Hamas says it reaches agreement to disarm after Trump announces deal",
       "summary": "Hamas said on Friday that it reached an agreement to disarm, a significant move that could help end the war in Gaza, but one that will face many hurdles and could take a long time to achieve, if at all.\nThe group agreed to a road map as long as Israel also makes concessions, including ending hostili",
       "urgency": "breaking",
@@ -1496,7 +1568,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3362595/hamas-says-it-reaches-agreement-disarm-after-trump-announces-deal?utm_source=rss_feed"
     },
     {
-      "id": "news-83",
+      "id": "news-87",
       "headline": "Top EU diplomat Kallas expected to visit Beijing in autumn amid deepest strains in years",
       "summary": "The European Union’s foreign affairs chief, Kaja Kallas, is expected to travel to China in the autumn for her first face-to-face meeting with Foreign Minister Wang Yi since a bruising encounter in Brussels last summer, according to multiple people familiar with the planning.\nIt would also mark Kalla",
       "urgency": "info",
@@ -1514,7 +1586,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3362592/top-eu-diplomat-kallas-expected-visit-beijing-autumn-amid-deepest-strains-years?utm_source=rss_feed"
     },
     {
-      "id": "news-84",
+      "id": "news-88",
       "headline": "Travel alert for visa holders in US: Immigration experts say domestic flying has become risky, alarming rise in number of airport arrests",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132769459.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1532,7 +1604,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/travel-alert-for-visa-holders-in-us-immigration-experts-say-domestic-flying-has-become-risky/articleshow/132769459.cms"
     },
     {
-      "id": "news-85",
+      "id": "news-89",
       "headline": "Spain deploys military to Ceuta after migrant surge: What we know",
       "summary": "At least 34 people reported killed trying to cross into the Spanish enclave bordering Morocco.",
       "urgency": "breaking",
@@ -1550,7 +1622,7 @@
       "link": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know?traffic_source=rss"
     },
     {
-      "id": "news-86",
+      "id": "news-90",
       "headline": "Chinese man didn't invite mother to his wedding over her looks; boss fired him and hired her",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132768140.cms\" /&gt;<![CDATA[A company founder in China has sparked debate after revealing he fired an employee who refused to invite his mother to his wedding because ",
       "urgency": "info",
@@ -1568,7 +1640,7 @@
       "link": "https://timesofindia.indiatimes.com/world/china/chinese-man-didnt-invite-his-mother-to-his-wedding-because-he-was-ashamed-of-her-looks-boss-fired-him-and-gave-her-the-job/articleshow/132768140.cms"
     },
     {
-      "id": "news-87",
+      "id": "news-91",
       "headline": "Insufficient evidence to charge basketball coach filmed slapping student: police",
       "summary": "Police will not charge a prominent Hong Kong basketball coach filmed slapping a student two years ago, citing insufficient evidence.\nIn a reply to the South China Morning Post on Friday, the force said it would not prosecute Yung Kam-wah, who was arrested in June this year on suspicion of common ass",
       "urgency": "info",
@@ -1586,7 +1658,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3362594/insufficient-evidence-charge-basketball-coach-filmed-slapping-student-police?utm_source=rss_feed"
     },
     {
-      "id": "news-88",
+      "id": "news-92",
       "headline": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
       "summary": "The Kuwaiti military said that it had detected and destroyed multiple drones in its airspace since dawn. A U.S. Defense Department official said there had been no major impact on its military bases in the region.",
       "urgency": "info",
@@ -1604,7 +1676,7 @@
       "link": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html"
     },
     {
-      "id": "news-89",
+      "id": "news-93",
       "headline": "At least 25 people killed in Algeria bus crash",
       "summary": "Prime Minister ​Sifi ​Ghrieb ⁠has visited the hospital where some of thoe injured ⁠have ​been taken.",
       "urgency": "breaking",
@@ -1622,7 +1694,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cg5l0dj86y8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-90",
+      "id": "news-94",
       "headline": "More than 48,000 migrants return to Morocco after thousands cross border into Spain",
       "summary": "Spain said on Friday it had largely reversed a surge of migrants into its North African enclave of Ceuta, with 48,000 of the people who crossed from Morocco by land and sea already returning voluntarily.",
       "urgency": "info",
@@ -1640,7 +1712,7 @@
       "link": "https://www.france24.com/en/europe/20260731-eu-races-to-contain-new-migrant-crisis-as-thousands-cross-into-spanish-territory-of-ceuta"
     },
     {
-      "id": "news-91",
+      "id": "news-95",
       "headline": "No, this video does not show a drone attack on ships in Egypt",
       "summary": "Following reports of a drone attack on a US-owned gas storage vessel at Egypt’s Damietta port, a video purporting to show the incident began circulating online. The footage, however, is unrelated to the conflict in the Middle East. FRANCE 24 found that the footage instead shows a Ukrainian drone str",
       "urgency": "breaking",
@@ -1658,7 +1730,7 @@
       "link": "https://www.france24.com/en/middle-east/20260731-damietta-drone-attack-video-fact-check"
     },
     {
-      "id": "news-92",
+      "id": "news-96",
       "headline": "Cambodian jobseekers fear debt trap over Thailand’s border reinforcement",
       "summary": "Vin Lors used to earn about US$20 a day working on construction sites in Bangkok, nearly twice what he now makes in Cambodia.\nAfter the border conflict between Thailand and Cambodia broke out last July, the 37-year-old and his wife decided to return home to Siem Reap province, worried about their sa",
       "urgency": "info",
@@ -1676,7 +1748,7 @@
       "link": "https://www.scmp.com/week-asia/economics/article/3362593/cambodian-jobseekers-fear-debt-trap-over-thailands-border-reinforcement?utm_source=rss_feed"
     },
     {
-      "id": "news-93",
+      "id": "news-97",
       "headline": "Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard",
       "summary": "Reports emerge from the front that Russia has infiltrated most of Kostiantynivka as it tries to regain the offensive.",
       "urgency": "info",
@@ -1694,7 +1766,7 @@
       "link": "https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss"
     },
     {
-      "id": "news-94",
+      "id": "news-98",
       "headline": "Brazil's President confirms visa rejection for two US officials over alleged election meddling",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/132768318.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -1712,25 +1784,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazils-president-confirms-visa-rejection-for-two-us-officials-over-alleged-election-meddling/articleshow/132768318.cms"
     },
     {
-      "id": "news-95",
-      "headline": "Why is UEFA threatening FIFA boycott? Infantino’s World Cup plan explained",
-      "summary": "Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino&#039;s private investment plan.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-31T13:06:07.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss"
-    },
-    {
-      "id": "news-96",
+      "id": "news-99",
       "headline": "Cathay Pacific tail strike in early July classified as ‘abnormal runway contact’",
       "summary": "Hong Kong’s air safety watchdog has classified a tail strike involving a Cathay Pacific Airways passenger jet during an aborted landing at the city’s airport this month as “abnormal runway contact”, according to a preliminary report.\nThe Air Accident Investigation Authority published its report on F",
       "urgency": "breaking",
@@ -1746,60 +1800,6 @@
       "timestamp": "2026-07-31T13:05:44.000Z",
       "widgetType": "news",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3362589/cathay-pacific-tail-strike-early-july-classified-abnormal-runway-contact?utm_source=rss_feed"
-    },
-    {
-      "id": "news-97",
-      "headline": "Beijing to impose exit bans for export control, tech transfer breaches",
-      "summary": "Under new regulations, the Chinese government will soon be able to ban citizens from leaving the country if they violate export controls or rules on technology transfers.\nThe measures were announced by the State Council, China’s cabinet, on Friday and are set to take effect on September 15.\nThe Mini",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-31T13:05:28.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3362590/beijing-impose-exit-bans-export-control-tech-transfer-breaches?utm_source=rss_feed"
-    },
-    {
-      "id": "news-98",
-      "headline": "Palestinians in Gaza react to latest ceasefire deal",
-      "summary": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-31T12:59:48.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss"
-    },
-    {
-      "id": "news-99",
-      "headline": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-      "summary": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-07-31T12:57:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html"
     }
   ],
   "financials": {
