@@ -1,8 +1,80 @@
 {
-  "lastUpdated": "2026-08-09T22:23:02.417Z",
+  "lastUpdated": "2026-08-09T22:34:05.024Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-09T22:27:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
+      "summary": "Fire activity has increased sharply in British Columbia, with thousands evacuated from their homes just weeks after smoke from blazes in Ontario choked the East Coast.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-09T22:23:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/article/canada-wildfires-2026.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "Canadian province to get federal help as wildfire forces evacuations",
+      "summary": "The Canadian federal government said on ⁠Sunday it would ⁠help British Columbia ⁠as raging wildfires forced thousands of people to evacuate by providing shelter and accommodation for residents displaced in regions around Summerland and Peachland.\nThe Bald Range wildfire, which prompted British ‌Colu",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-09T22:22:44.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3363470/canadian-province-get-federal-help-wildfire-forces-evacuations?utm_source=rss_feed"
+    },
+    {
+      "id": "news-3",
+      "headline": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+      "summary": "&lt;p&gt;Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Butler confident about ‘constructive discussions’ on gambling during upcoming session of parliament&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-09T22:10:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb"
+    },
+    {
+      "id": "news-4",
       "headline": "UK PM Burnham vows to end ‘subscription traps’ amid cost-of-living crisis",
       "summary": "British Prime Minister Andy Burnham has vowed to crack down on hard-to-cancel subscriptions and fake discounts as part of measures to tackle the cost-of-living crisis, Downing Street said on Sunday.\nThe announcement came as the new Labour leader was set to return to work after a holiday and begin a ",
       "urgency": "important",
@@ -20,7 +92,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3363469/uk-pm-burnham-vows-end-subscription-traps-amid-cost-living-crisis?utm_source=rss_feed"
     },
     {
-      "id": "news-1",
+      "id": "news-5",
       "headline": "Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal",
       "summary": "“Israel does not accept the 15-point document,” Prime Minister Benjamin Netanyahu said. The U.S. president had touted the Board of Peace plan as a step toward a lasting settlement.",
       "urgency": "breaking",
@@ -38,7 +110,7 @@
       "link": "https://www.washingtonpost.com/world/2026/08/09/netanyahu-rejects-trump-backed-plan-hamas-disarm-israel-leave-gaza/"
     },
     {
-      "id": "news-2",
+      "id": "news-6",
       "headline": "Historian Wang Gungwu on US credibility and why Xi thinks ‘only the party can save China’",
       "summary": "Professor Wang Gungwu is regarded internationally as an authority on Chinese history. The 95-year-old is best known for his explorations of Chinese history in the long view, and for his writings on the Chinese diaspora. He has been a professor at the National University of Singapore since 2007 and e",
       "urgency": "info",
@@ -56,25 +128,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3363431/historian-wang-gungwu-us-credibility-and-why-xi-thinks-only-party-can-save-china?utm_source=rss_feed"
     },
     {
-      "id": "news-3",
-      "headline": "Australia news live: NSW schools may ban unsupervised take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
-      "summary": "&lt;p&gt;Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Health minister says bulk billing rate has increased to 84%&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The federal government is trumpeting “big",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-09T21:55:57.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb"
-    },
-    {
-      "id": "news-4",
+      "id": "news-7",
       "headline": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
       "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
       "urgency": "info",
@@ -92,7 +146,7 @@
       "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html"
     },
     {
-      "id": "news-5",
+      "id": "news-8",
       "headline": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
       "summary": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
       "urgency": "breaking",
@@ -110,7 +164,7 @@
       "link": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html"
     },
     {
-      "id": "news-6",
+      "id": "news-9",
       "headline": "Why Malaysia’s political turmoil matters to Beijing",
       "summary": "As China seeks to reshape the global order, Malaysia’s political instability offers a cautionary tale about the challenges Beijing may face abroad.\nA recent Pew Research Centre survey found that global perceptions of China have improved relative to those of the US, driven partly by the view among so",
       "urgency": "info",
@@ -128,7 +182,7 @@
       "link": "https://www.scmp.com/opinion/asia-opinion/article/3363000/why-malaysias-political-turmoil-matters-beijing?utm_source=rss_feed"
     },
     {
-      "id": "news-7",
+      "id": "news-10",
       "headline": "Still Waiting for Peace in Gaza",
       "summary": "A photojournalist with The New York Times details the displacement and danger, in words and images, that have come to define his home.",
       "urgency": "info",
@@ -146,7 +200,7 @@
       "link": "https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html"
     },
     {
-      "id": "news-8",
+      "id": "news-11",
       "headline": "Houthis Escalate Attacks and Strike Lower Red Sea Ports - The Maritime Executive",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOVdqSTJ5d0FpbHVXdGVldzFxbExlLU9KdUo1bllpSEtDV0lqZmhQazdKM2tEVS1wam9GeWpwWHg5ckFVV19nM1p6bENvdllQWGNvNlhfenptRzlrOVBLTU43Ny12NVJkZG9lWkFtUXk0NThScVV0VjVaUmZIRF9OejNYaGt5QjJuVXdwWkdDRjBWa0JRMzBrc0NNWTVUQQ?oc=5\" target=\"_blank\"&gt;Houthis",
       "urgency": "breaking",
@@ -164,7 +218,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVdqSTJ5d0FpbHVXdGVldzFxbExlLU9KdUo1bllpSEtDV0lqZmhQazdKM2tEVS1wam9GeWpwWHg5ckFVV19nM1p6bENvdllQWGNvNlhfenptRzlrOVBLTU43Ny12NVJkZG9lWkFtUXk0NThScVV0VjVaUmZIRF9OejNYaGt5QjJuVXdwWkdDRjBWa0JRMzBrc0NNWTVUQQ?oc=5"
     },
     {
-      "id": "news-9",
+      "id": "news-12",
       "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
       "urgency": "info",
@@ -182,7 +236,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-13",
       "headline": "Russian missile attack damages residential buildings in Odesa, injures at least 14 - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKcjh6OXY5Q2FrUzNpNUJkNzJEekVYREQwbDc5ZDVZd3hnRnNJa2xSTk1OeGQwU2NJa1FMMGFUY3lpYnpLTkNzTGkycjVNdmw2ajJ5QllLSm5VWHd4Z3JvM1FR?oc=5\" target=\"_blank\"&gt;Russian missile attack damages residential buildings in Odesa, injures at least 14&lt;/a&",
       "urgency": "breaking",
@@ -200,25 +254,7 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKcjh6OXY5Q2FrUzNpNUJkNzJEekVYREQwbDc5ZDVZd3hnRnNJa2xSTk1OeGQwU2NJa1FMMGFUY3lpYnpLTkNzTGkycjVNdmw2ajJ5QllLSm5VWHd4Z3JvM1FR?oc=5"
     },
     {
-      "id": "news-11",
-      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - jpost.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Eb0x2cEc3NkRmU2ZIaVl6WkgzY2I2Y2lMSm9tdXFHRnk4bTNtRFJCZUZuT0JfMmlGMEdlMTJoVS16dXhSVW9sUjM4YmtmNzZvR3p0UWRwdzhUbjJFV1Y0bC1PZDVtQ0lTajhZcTVnQ1JqN3VJQXJwU3VvZmUwbTA?oc=5\" target=\"_blank\"&gt;Live Updates: Latest from Israel, Iran, and the Mi",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-09T21:00:31.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Eb0x2cEc3NkRmU2ZIaVl6WkgzY2I2Y2lMSm9tdXFHRnk4bTNtRFJCZUZuT0JfMmlGMEdlMTJoVS16dXhSVW9sUjM4YmtmNzZvR3p0UWRwdzhUbjJFV1Y0bC1PZDVtQ0lTajhZcTVnQ1JqN3VJQXJwU3VvZmUwbTA?oc=5"
-    },
-    {
-      "id": "news-12",
+      "id": "news-14",
       "headline": "Suspected crime boss Daniel Kinahan appears in court after extradition",
       "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
       "urgency": "breaking",
@@ -236,7 +272,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-13",
+      "id": "news-15",
       "headline": "Iran war live: Trump says US is ‘only semi-negotiating’ ⁠with Tehran - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmwyLW4yX3hkbjF2aWNpbmNLZWhIdTRZWV9hMDFCcmRZdkFGTFBidEtQWUJHR01Sd1JsZ0Y1aEltY2tfeHM2R1NNNk96VFA0b29zdXl4cFlOMDZRVFRXbGxwOVFfT3BSRjRtaklJbGVlZjcxVThBclg1emZSOGxOSjN3N1pLVHFXdFBnTHlJZmhGekk0QUhlUWQ0eHlMd2ZXOWVHZXBFMTZseDgtekVLeDNubU9oSmR",
       "urgency": "breaking",
@@ -254,7 +290,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmwyLW4yX3hkbjF2aWNpbmNLZWhIdTRZWV9hMDFCcmRZdkFGTFBidEtQWUJHR01Sd1JsZ0Y1aEltY2tfeHM2R1NNNk96VFA0b29zdXl4cFlOMDZRVFRXbGxwOVFfT3BSRjRtaklJbGVlZjcxVThBclg1emZSOGxOSjN3N1pLVHFXdFBnTHlJZmhGekk0QUhlUWQ0eHlMd2ZXOWVHZXBFMTZseDgtekVLeDNubU9oSmR3R2dxVS1LbkvSAcYBQVVfeXFMUERqYm5zQnVEdmc0b0tCU091ZTJGQ01Cald4UVVyWUZCdWlGMURrZ1RsYV93cXNoZjRRNTJXVUZHaU5KTlVtMmoyMUNIOFFETzI3YjZfRTE0Y3BGY0s5aFFGTkhXSTJEMmJRdEp3blBXZktxeFFtOWh1czZ4U0ZNZE54aGljT3doeHpKdlFkbk9WVlFrdU1EWHhIbVZqMnFiWkRhbGZ2RnNERUxvQll1TnEwUHI3QVkzUlFnMms0cXBiWmhuSU9B?oc=5"
     },
     {
-      "id": "news-14",
+      "id": "news-16",
       "headline": "Quote of the day by Arthur Schopenhauer: 'Talent hits a target no one else can hit. Genius hits...'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133074880.cms\" /&gt;<![CDATA[Arthur Schopenhauer articulated a clear distinction between talent and genius, describing talent as the ability to achieve well-defined goa",
       "urgency": "info",
@@ -272,7 +308,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/quote-of-the-day-by-arthur-schopenhauer-talent-hits-a-target-no-one-else-can-hit-genius-hits-a-target-no-one-else-can-see-and-the-philosophy-behind-revolutionary-thinking/articleshow/133074880.cms"
     },
     {
-      "id": "news-15",
+      "id": "news-17",
       "headline": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
       "summary": "Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.",
       "urgency": "breaking",
@@ -290,7 +326,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss"
     },
     {
-      "id": "news-16",
+      "id": "news-18",
       "headline": "Houthis resume attacks on Yemen's Mocha port city, Yemeni military spokesperson says - Al-Monitor",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWs3d3pPVnlCdTFpTnMzd1FOd3pUWm5pTG14Z2E4VlRCQzNZQ1VON0F4UEtzWEx0d05uaTlTYUxkbm9SZ3VQUjZ1M0NOS0FST01RaGUwbEVxeThZckpnV21oRkpNSHZETU5TZkNqcW50YWk5RkdKU1FzU0h1TjRzaGFKZ01jcDRUd01BRWVlR3dBZEU3N0tGd0JmVFc3S0drLTRhQ1RSLVVFcHhxOUg3X21jQlR3d2J",
       "urgency": "breaking",
@@ -308,7 +344,7 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWs3d3pPVnlCdTFpTnMzd1FOd3pUWm5pTG14Z2E4VlRCQzNZQ1VON0F4UEtzWEx0d05uaTlTYUxkbm9SZ3VQUjZ1M0NOS0FST01RaGUwbEVxeThZckpnV21oRkpNSHZETU5TZkNqcW50YWk5RkdKU1FzU0h1TjRzaGFKZ01jcDRUd01BRWVlR3dBZEU3N0tGd0JmVFc3S0drLTRhQ1RSLVVFcHhxOUg3X21jQlR3d2JDRFl1SjBDYjMxZw?oc=5"
     },
     {
-      "id": "news-17",
+      "id": "news-19",
       "headline": "Iran vows to keep Strait of Hormuz closed until US meets demands",
       "summary": "Iran’s Revolutionary Guards said Sunday that the Strait of Hormuz would remain closed until the US meets Tehran’s demands, including an end to sanctions and compensation for war damage. The blockade of the crucial energy route has rattled markets and pushed up prices, while President Donald Trump sa",
       "urgency": "breaking",
@@ -326,7 +362,7 @@
       "link": "https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands"
     },
     {
-      "id": "news-18",
+      "id": "news-20",
       "headline": "Russia and Ukraine exchange overnight strikes that leave 7 dead, many injured",
       "summary": "Russia and Ukraine exchanged strikes overnight that killed civilians and injured many others on both sides, local authorities reported.\nLarge-scale Russian missile strikes on Ukrainian cities have become almost routine in recent weeks, with Moscow exploiting Ukraine’s critical shortage of intercepto",
       "urgency": "breaking",
@@ -344,7 +380,7 @@
       "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363468/russia-and-ukraine-exchange-overnight-strikes-leave-7-dead-many-injured?utm_source=rss_feed"
     },
     {
-      "id": "news-19",
+      "id": "news-21",
       "headline": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
       "summary": "‘We&#039;re going backwards.’",
       "urgency": "breaking",
@@ -362,7 +398,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-22",
       "headline": "Strait of Hormuz threat remains severe: 84 incidents, low traffic and tanker attack",
       "summary": "Strait of Hormuz threat remains severe: 84 incidents, low traffic and tanker attack",
       "urgency": "breaking",
@@ -380,7 +416,7 @@
       "link": "https://gulfnews.com/world/mena/strait-of-hormuz-threat-remains-severe-84-incidents-low-traffic-and-tanker-attack-1.500635644"
     },
     {
-      "id": "news-21",
+      "id": "news-23",
       "headline": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
       "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
       "urgency": "info",
@@ -398,7 +434,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-22",
+      "id": "news-24",
       "headline": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
       "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
       "urgency": "info",
@@ -416,7 +452,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-25",
       "headline": "Israel is ‘trying to make Palestine disappear’: The Elders",
       "summary": "Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.",
       "urgency": "info",
@@ -434,7 +470,7 @@
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss"
     },
     {
-      "id": "news-24",
+      "id": "news-26",
       "headline": "Houthi attacks kill seven in Yemen, refinery targeted in Saudi Arabia - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1d",
       "urgency": "breaking",
@@ -452,25 +488,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUZxOWROQkhqU0lHQ25IUWpWc2lwNmFPSUNWSTRGN2tDTFBwRlBXWlpXeEZLaGpGQi14RkFWVzZMdUlxSWVvNWxUdE0wa01hcUU1elJRamNBdEtQdXVSSVIyNVVyeV9tZTlyakdWTW5fYVlKdHNlbzJENHpGOFNaa2lUcXRtejdsNXRNcWpWRlNWVW0wQ1ZiaVVmN1BpQjdVV1ktQVJB0gGrAUFVX3lxTE1YV2laV1dHR0h1YXdEV3RLZHBSNDVnYVZZZHhFWjNxZG1DZ3FkRDkya24xV1FJTUROaHhSUUs5QnJ1ZTNUR04xSTgtWFM2ZDhyZ2Q2UFV4c3JBUnpSdzE0dWJmTWcya0tEeWx1YS10b1ZEWi00Mk1CY1VxMEdUaklsQl9OQlR0RkdRT1p0Uks4c3VfOWJheXBFVnlpQUJkNm0xcVBCMjZicVJxcw?oc=5"
     },
     {
-      "id": "news-25",
-      "headline": "Cartoon by Amjad Rasmi. (Courtesy of Asharq Al-Awsat) - arabnews.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3Q4c2MxZTNtWVZldlVtZUxRQ2tKSlFWMG1KR2VGZ3hjelNkOGNQVlkxUTR1OHFNNU1xQUxwVEV1cEx6aG5HV2tZbjY4MVB0a21WQW5RcVhKS0E1VnZNODl0N2FVTXdjNlJSVHF3cDU5VUcxRDEyRkRILTFvMHlMeVBTQl8ycm5lNXc?oc=5\" target=\"_blank\"&gt;Cartoon by Amjad Rasmi. (Courtesy ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Arab News",
-          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
-          "url": "https://arabnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-09T19:19:48.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3Q4c2MxZTNtWVZldlVtZUxRQ2tKSlFWMG1KR2VGZ3hjelNkOGNQVlkxUTR1OHFNNU1xQUxwVEV1cEx6aG5HV2tZbjY4MVB0a21WQW5RcVhKS0E1VnZNODl0N2FVTXdjNlJSVHF3cDU5VUcxRDEyRkRILTFvMHlMeVBTQl8ycm5lNXc?oc=5"
-    },
-    {
-      "id": "news-26",
+      "id": "news-27",
       "headline": "Can the Doha Framework end the conflict in eastern DRC?",
       "summary": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
       "urgency": "info",
@@ -488,7 +506,7 @@
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss"
     },
     {
-      "id": "news-27",
+      "id": "news-28",
       "headline": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
       "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
       "urgency": "important",
@@ -506,7 +524,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss"
     },
     {
-      "id": "news-28",
+      "id": "news-29",
       "headline": "Air India Phuket-Delhi flight turbulence: Passengers raise questions over pilot’s condition",
       "summary": "Air India Phuket-Delhi flight turbulence: Passengers raise questions over pilot’s condition",
       "urgency": "info",
@@ -524,7 +542,7 @@
       "link": "https://gulfnews.com/world/asia/india/air-india-phuket-delhi-flight-turbulence-passengers-raise-questions-over-pilots-condition-1.500635615"
     },
     {
-      "id": "news-29",
+      "id": "news-30",
       "headline": "Trump says US is ‘low-keying it’ with Iran, stresses economic pain",
       "summary": "US President Donald Trump signalled on Sunday he is prepared to let economic pressure mount against Iran, apparently backing away from ordering more military strikes even as Tehran issues tough demands.\n“We are low-keying it,” Trump said, according to the news outlet Axios, which said it spoke to hi",
       "urgency": "breaking",
@@ -542,7 +560,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3363467/trump-says-us-low-keying-it-iran-stresses-economic-pain?utm_source=rss_feed"
     },
     {
-      "id": "news-30",
+      "id": "news-31",
       "headline": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
       "summary": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
       "urgency": "info",
@@ -560,7 +578,25 @@
       "link": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-32",
+      "headline": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjlSX0tqRHQzLUl1VnVzbHlBa1lHaldsVDgtbTFlM3d2WWVNNTZjNmVoeF9mMHhud2FDTnBpMDNXRlpWUnRBTzRSanFiTDg3M1B1RkhydlNYdi02UlJrdzVSazhOSUtwZXhkX01KMjB5dTNFSzRHNHZoOUdJQ05OUTRQNkdxa01NZ3ZsT0ZRb0IwYWJvWEp0dlVuUU9HTE05UXBTeTlmQk1RWG8?oc=5\" target=\"_",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-09T18:35:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjlSX0tqRHQzLUl1VnVzbHlBa1lHaldsVDgtbTFlM3d2WWVNNTZjNmVoeF9mMHhud2FDTnBpMDNXRlpWUnRBTzRSanFiTDg3M1B1RkhydlNYdi02UlJrdzVSazhOSUtwZXhkX01KMjB5dTNFSzRHNHZoOUdJQ05OUTRQNkdxa01NZ3ZsT0ZRb0IwYWJvWEp0dlVuUU9HTE05UXBTeTlmQk1RWG8?oc=5"
+    },
+    {
+      "id": "news-33",
       "headline": "Watch: How Emirates turned A380, Boeing 777 parts into a giant Arsenal crest",
       "summary": "Watch: How Emirates turned A380, Boeing 777 parts into a giant Arsenal crest",
       "urgency": "info",
@@ -578,7 +614,7 @@
       "link": "https://gulfnews.com/business/aviation/watch-how-emirates-turned-a380-boeing-777-parts-into-a-giant-arsenal-crest-1.500635622"
     },
     {
-      "id": "news-32",
+      "id": "news-34",
       "headline": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
       "summary": "&lt;p&gt;British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts&lt;/p&gt;&lt;p&gt;Canada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires for",
       "urgency": "info",
@@ -596,7 +632,7 @@
       "link": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires"
     },
     {
-      "id": "news-33",
+      "id": "news-35",
       "headline": "Houthis say they attacked Saudi Aramco's refinery in Jazan, no injuries reported - The Jerusalem Post",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QWnNPWWJ6dmZaUXFTWVMxQWxLalQzNjEyRU4zU1RiYTJUQXB0ZW5yOFpyek96anNPRXlFQnAtM0dCOUJyaXJLOFQwSDlrbUxhbUQ2bmNaUVdUc3Fr?oc=5\" target=\"_blank\"&gt;Houthis say they attacked Saudi Aramco's refinery in Jazan, no injuries reported&lt;/a&gt;&amp;nb",
       "urgency": "breaking",
@@ -614,7 +650,7 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QWnNPWWJ6dmZaUXFTWVMxQWxLalQzNjEyRU4zU1RiYTJUQXB0ZW5yOFpyek96anNPRXlFQnAtM0dCOUJyaXJLOFQwSDlrbUxhbUQ2bmNaUVdUc3Fr?oc=5"
     },
     {
-      "id": "news-34",
+      "id": "news-36",
       "headline": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
       "summary": "The appointment of Mohsen Rezaei as secretary of the Supreme National Security Council suggests that Iran’s old guard is consolidating power.",
       "urgency": "info",
@@ -632,7 +668,7 @@
       "link": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html"
     },
     {
-      "id": "news-35",
+      "id": "news-37",
       "headline": "Alleged Irish crime boss charged in Dublin with directing criminal organisation",
       "summary": "⁠Irish prosecutors charged alleged Irish ‌crime gang boss Daniel Kinahan with ⁠directing a criminal organisation ‌at a special ‌court sitting ⁠late ⁠on ‌Sunday following his extradition ‌from ‌the ‌United Arab ⁠Emirates.\nKinahan, 49, faces charges that he ran an international drug smuggling and mone",
       "urgency": "info",
@@ -650,7 +686,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3363466/suspected-irish-crime-boss-lands-dublin-after-being-extradited-dubai?utm_source=rss_feed"
     },
     {
-      "id": "news-36",
+      "id": "news-38",
       "headline": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
       "summary": "&lt;p&gt;Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa province&lt;/p&gt;&lt;p&gt;Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and stro",
       "urgency": "breaking",
@@ -668,25 +704,7 @@
       "link": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year"
     },
     {
-      "id": "news-37",
-      "headline": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-09T18:03:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-38",
+      "id": "news-39",
       "headline": "Laser beam hits Malaysia Airlines cockpit near Kolkata, briefly disorienting pilot; flight lands safely",
       "summary": "Laser beam hits Malaysia Airlines cockpit near Kolkata, briefly disorienting pilot; flight lands safely",
       "urgency": "info",
@@ -704,7 +722,7 @@
       "link": "https://gulfnews.com/world/asia/india/laser-beam-hits-malaysia-airlines-cockpit-near-kolkata-briefly-disorienting-pilot-flight-lands-safely-1.500635602"
     },
     {
-      "id": "news-39",
+      "id": "news-40",
       "headline": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
       "summary": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
       "urgency": "important",
@@ -722,7 +740,7 @@
       "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html"
     },
     {
-      "id": "news-40",
+      "id": "news-41",
       "headline": "No more strikes on Iran? Trump says US going 'low key', stresses economic pressure over military op",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133072747.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -740,7 +758,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/no-more-strikes-on-iran-trump-says-us-going-low-key-stresses-economic-pressure-over-military-op/articleshow/133072747.cms"
     },
     {
-      "id": "news-41",
+      "id": "news-42",
       "headline": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
       "summary": "Yemen’s Iran-aligned Houthis have ⁠attacked Saudi Aramco’s Jazan refinery, they said on Sunday, two days after the kingdom signed a defence pact with Turkey and Pakistan in response to growing regional instability from the US-Israeli war on Iran.\nThe alliance with Sunni Muslim US allies, Turkey and ",
       "urgency": "breaking",
@@ -758,7 +776,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3363465/yemens-houthis-attack-saudi-refinery-after-kingdom-signs-defence-pact?utm_source=rss_feed"
     },
     {
-      "id": "news-42",
+      "id": "news-43",
       "headline": "The official Saudi Press Agency - وكالة الأنباء السعودية",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiPkFVX3lxTFBpdG1KYXluY01ZVFdjczhKck56Q0R1QlFLZnZ6aGtxZTNHaUx5VEJFcE9JSy1OUFBnb0Zndi13?oc=5\" target=\"_blank\"&gt;The official Saudi Press Agency&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;وكالة الأنباء السعودية&lt;/font&gt;",
       "urgency": "info",
@@ -771,12 +789,12 @@
           "category": "government"
         }
       ],
-      "timestamp": "2026-08-09T17:31:44.000Z",
+      "timestamp": "2026-08-09T17:29:55.000Z",
       "widgetType": "news",
       "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBpdG1KYXluY01ZVFdjczhKck56Q0R1QlFLZnZ6aGtxZTNHaUx5VEJFcE9JSy1OUFBnb0Zndi13?oc=5"
     },
     {
-      "id": "news-43",
+      "id": "news-44",
       "headline": "Norwegians see Israel, Russia, the US and Iran as most likely to drag the world into another major war - Peace Research Institute Oslo (PRIO)",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFB4RklvbHJYLVhTSDVuVVFORGlLWTQ0TVdsMnR0T3NrSmhBSEx6dzI5OHBweDJkRzZ4QkN5Nm15aEhZcEJp?oc=5\" target=\"_blank\"&gt;Norwegians see Israel, Russia, the US and Iran as most likely to drag the world into another major war&lt;/a&gt;&amp;nbsp;&amp;nb",
       "urgency": "breaking",
@@ -792,24 +810,6 @@
       "timestamp": "2026-08-09T17:26:25.000Z",
       "widgetType": "news",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4RklvbHJYLVhTSDVuVVFORGlLWTQ0TVdsMnR0T3NrSmhBSEx6dzI5OHBweDJkRzZ4QkN5Nm15aEhZcEJp?oc=5"
-    },
-    {
-      "id": "news-44",
-      "headline": "Inside Iran’s Hormuz strategy: Keep Trump from walking away",
-      "summary": "Inside Iran’s Hormuz strategy: Keep Trump from walking away",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-09T17:22:37.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/inside-irans-hormuz-strategy-keep-trump-from-walking-away-1.500635584"
     },
     {
       "id": "news-45",
@@ -1479,24 +1479,6 @@
     },
     {
       "id": "news-82",
-      "headline": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
-      "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-09T15:08:00.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/article/canada-wildfires-2026.html"
-    },
-    {
-      "id": "news-83",
       "headline": "Netanyahu rejects Gaza plan in new break from Trump",
       "summary": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected a US-led Gaza plan endorsed by Hamas, putting distance between himself and President Donald Trump as he tries to shore up his base ahead of close elections.\nAfter more than a week of gradually escalating criticism of the plan, and despite ",
       "urgency": "important",
@@ -1514,7 +1496,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3363458/netanyahu-rejects-gaza-plan-new-break-trump?utm_source=rss_feed"
     },
     {
-      "id": "news-84",
+      "id": "news-83",
       "headline": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
       "summary": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giant&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-",
       "urgency": "breaking",
@@ -1532,7 +1514,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb"
     },
     {
-      "id": "news-85",
+      "id": "news-84",
       "headline": "Iran sets tough terms to reopen Strait of Hormuz",
       "summary": "Iran’s national security chief has outlined a list of demands for the US to meet before Tehran reopens the Strait of Hormuz. They include lifting the US naval blockade of Iranian ports, compensation for war damages and the release of frozen Iranian assets. Separately, Iran and Oman say they are clos",
       "urgency": "breaking",
@@ -1550,7 +1532,7 @@
       "link": "https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz"
     },
     {
-      "id": "news-86",
+      "id": "news-85",
       "headline": "Trump's hair-do turns heads, has America all tangled up",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133069534.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1568,7 +1550,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/trumps-hair-do-turns-heads-has-america-all-tangled-up/articleshow/133069534.cms"
     },
     {
-      "id": "news-87",
+      "id": "news-86",
       "headline": "North Korea may deploy up to 50,000 troops to Russia, Zelensky claims",
       "summary": "Ukrainian President Volodymyr Zelensky said Saturday that as many as 50,000 North Korean soldiers could be deployed to Russia, reflecting growing military cooperation between the two countries. He did not elaborate on his sources for this information, but warned that Pyongyang could gain valuable ba",
       "urgency": "breaking",
@@ -1586,7 +1568,7 @@
       "link": "https://www.france24.com/en/europe/20260809-zelensky-claims-north-korea-may-deploy-50-000-troops-russia"
     },
     {
-      "id": "news-88",
+      "id": "news-87",
       "headline": "Ukraine strikes Russian missile system used in attack the previous day, Madyar says - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSm8zUHRwYnZxZzgxNi1LUFNYTVdlWkdxcFZzazMzUWdzMmNGaUtrTTR6TFhZdXpRNG5mbVlsd05acmt3c2lZUU41ZDJpMW9NdXlTSXJHaHhyZWcwZWJIYUR5MXlLazJid2JKQm9XSU1sU1d5dW5tUXJwX3owb1V3RkRiSkQ3YTNtbWlJWHpxWVZaV2lWZFlTQ2g1c3YtOG9FSmd0RU45bElSbXBEeC0zbQ?oc=5\" ta",
       "urgency": "breaking",
@@ -1604,7 +1586,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSm8zUHRwYnZxZzgxNi1LUFNYTVdlWkdxcFZzazMzUWdzMmNGaUtrTTR6TFhZdXpRNG5mbVlsd05acmt3c2lZUU41ZDJpMW9NdXlTSXJHaHhyZWcwZWJIYUR5MXlLazJid2JKQm9XSU1sU1d5dW5tUXJwX3owb1V3RkRiSkQ3YTNtbWlJWHpxWVZaV2lWZFlTQ2g1c3YtOG9FSmd0RU45bElSbXBEeC0zbQ?oc=5"
     },
     {
-      "id": "news-89",
+      "id": "news-88",
       "headline": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGprMUwzRUJfd3RITl81bmt2NFlZU0N5MC1mcWgwemI0YlBpamRtaUZtc0FOTHI2aWdQOG9hMFJoaFdvbnhMZGdDSzlIZ1lORGY1NEdaZWlqZUxWVTA2Wl8tT2piRGZ2N3lmS0VLaEJsTTdra3E0V1ZkeEZQRkl6c0lPTjRUaXRyZFR1cnhNMFU4eXpuWEZ1b1ZLNkNDZExH?oc=5\" target=\"_blank\"&gt;Blust",
       "urgency": "breaking",
@@ -1622,7 +1604,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGprMUwzRUJfd3RITl81bmt2NFlZU0N5MC1mcWgwemI0YlBpamRtaUZtc0FOTHI2aWdQOG9hMFJoaFdvbnhMZGdDSzlIZ1lORGY1NEdaZWlqZUxWVTA2Wl8tT2piRGZ2N3lmS0VLaEJsTTdra3E0V1ZkeEZQRkl6c0lPTjRUaXRyZFR1cnhNMFU4eXpuWEZ1b1ZLNkNDZExH?oc=5"
     },
     {
-      "id": "news-90",
+      "id": "news-89",
       "headline": "Gaza’s children still struggling with hunger as another famine threatens",
       "summary": "Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.",
       "urgency": "important",
@@ -1640,7 +1622,7 @@
       "link": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss"
     },
     {
-      "id": "news-91",
+      "id": "news-90",
       "headline": "Iran says Oman deal is in ‘final stages’ but US must act to open Hormuz",
       "summary": "Iran said on Sunday that a deal ⁠with Oman defining new shipping lanes in the Strait of Hormuz was in its final stages but reiterated that the waterway would only reopen once the United States met other conditions.\nA US official said on Friday that an agreement between Iran and Oman was close and co",
       "urgency": "breaking",
@@ -1658,7 +1640,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3363457/iran-says-oman-deal-final-stages-us-must-act-open-hormuz?utm_source=rss_feed"
     },
     {
-      "id": "news-92",
+      "id": "news-91",
       "headline": "MTR passenger’s hand caught in door while trying to retrieve item from tracks",
       "summary": "Hong Kong’s rail operator confirmed on Sunday that a passenger’s hand was caught in a train door after he tried to retrieve something that had fallen onto the tracks, warning travellers not to attempt to pick up dropped items themselves.\nIn a response to inquiries from the South China Morning Post a",
       "urgency": "breaking",
@@ -1676,7 +1658,7 @@
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3363456/mtr-passengers-hand-caught-door-while-trying-retrieve-item-tracks?utm_source=rss_feed"
     },
     {
-      "id": "news-93",
+      "id": "news-92",
       "headline": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
       "summary": "&lt;p&gt;Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UK&lt;/p&gt;&lt;p&gt;Chinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in the UK and a surge in buyers in Italy.&lt;/p&gt;&lt;p&",
       "urgency": "info",
@@ -1694,7 +1676,7 @@
       "link": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe"
     },
     {
-      "id": "news-94",
+      "id": "news-93",
       "headline": "Florida drained land for a giant subdivision in the 1960s; 2026 restoration reverses it",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133067666.cms\" /&gt;<![CDATA[The Picayune Strand Restoration Project in Southwest Florida has been completed after years of work to restore the natural flow of water ac",
       "urgency": "info",
@@ -1712,7 +1694,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-the-1960s-florida-drained-land-for-a-giant-subdivision-in-2026-restoration-finished-after-removing-260-miles-of-roads-and-plugging-48-miles-of-canals-across-55000-acres/articleshow/133067666.cms"
     },
     {
-      "id": "news-95",
+      "id": "news-94",
       "headline": "Gaza engineer builds animal shelters out of empty cans",
       "summary": "Gaza engineer builds animal shelters out of empty cans",
       "urgency": "info",
@@ -1730,7 +1712,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss"
     },
     {
-      "id": "news-96",
+      "id": "news-95",
       "headline": "Iran-backed Houthi rebels attack crucial Red Sea port and Saudi Aramco refinery as fighting escalates - Fortune",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDVlUUN2QlE3OXJjZG15OVRsOUYxMkExc0thWDJvZjhpNkt1X1huZ1NhN3FrSlpyU3F5WVVyLUFRZzVodmlpd3NQSkpHcTItcU1UdW5GYWxiSnlhcVRiczltdUdSeE9zSEZNM285X21iOUVVeVFyb2hITHhnV1dPbnJEcy0yQk81aFNJUk51ZXFUd3FFVEE?oc=5\" target=\"_blank\"&gt;Iran-backed Houthi",
       "urgency": "breaking",
@@ -1748,7 +1730,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDVlUUN2QlE3OXJjZG15OVRsOUYxMkExc0thWDJvZjhpNkt1X1huZ1NhN3FrSlpyU3F5WVVyLUFRZzVodmlpd3NQSkpHcTItcU1UdW5GYWxiSnlhcVRiczltdUdSeE9zSEZNM285X21iOUVVeVFyb2hITHhnV1dPbnJEcy0yQk81aFNJUk51ZXFUd3FFVEE?oc=5"
     },
     {
-      "id": "news-97",
+      "id": "news-96",
       "headline": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
       "summary": "As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
       "urgency": "info",
@@ -1766,7 +1748,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
     },
     {
-      "id": "news-98",
+      "id": "news-97",
       "headline": "Trump ready to end Iran war without nuclear deal; Tehran's demands complicate exit: Report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133069218.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1784,7 +1766,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/trump-ready-to-end-iran-war-without-nuclear-deal-tehrans-demands-complicate-exit-report/articleshow/133069218.cms"
     },
     {
-      "id": "news-99",
+      "id": "news-98",
       "headline": "Houthis claim attacks on Saudi oil facility and Yemeni port, and other Mideast news - Yakima Herald-Republic",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxObjdaeUZITzQwQnF2V1E1TGdNMlJ1ZWd5cDVMaEZDOUd3SWpJSUs4UnhnU0F2aXZTaFNzVFJtUTluT0dpeE9qVmY0SUcwRTQxc0NHem5Lb0pfc1QzLUJ0MVdjWGxubGZfTVR3TjZKN1F3MlJ0cXE5QWx4a1BhcWZlQjlHTS0zMHV4TjY0QjF0eW9hTnVfOWFYYzMzaXJPMV9lVDgtRU9kVWZENERLYlNIbVBiLXlQZ1Y",
       "urgency": "breaking",
@@ -1800,6 +1782,24 @@
       "timestamp": "2026-08-09T14:18:10.000Z",
       "widgetType": "news",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObjdaeUZITzQwQnF2V1E1TGdNMlJ1ZWd5cDVMaEZDOUd3SWpJSUs4UnhnU0F2aXZTaFNzVFJtUTluT0dpeE9qVmY0SUcwRTQxc0NHem5Lb0pfc1QzLUJ0MVdjWGxubGZfTVR3TjZKN1F3MlJ0cXE5QWx4a1BhcWZlQjlHTS0zMHV4TjY0QjF0eW9hTnVfOWFYYzMzaXJPMV9lVDgtRU9kVWZENERLYlNIbVBiLXlQZ1Y4YmhuWmM4eEdWRTBsaGxlVTJvZTFrdUdpNGxLc3IwR0ZCZjNUcGg2UDE4V01DNExHZjl5bmplMGlFUTJJWGtteHhuWXFWYUxQcFdtLWdTMmc3UU1rOGltWGFRNy05UlR3TGfSAZ8CQVVfeXFMT0VyVjYzc0xpaWtsZDI2d2xzOVZGWDJUUnNZLUpwWnZzdmVYR2tsYVlJd0w0a1BPSFBkQVJLSzVqa2RDVEZDNlZjS0FBM1c0alJnazBaeDAxZHU0MmktbTdfa3NlaE52WEJORHdGbGVHQlZMclNDX2NzTk9iY2pCTFZLNHhTR1p4eTZyS1FpOGl5ajE5clY5VTAzZkRGRHNFcy1zZmltZlZkT2wyVWZTelZ5cDlJOTRvTFN2Wm9vWGgtOFFLaDVjV3JKcTNrMl9vRHRFT2VnNFRXNi00UlRpc3ZxcS1nME40WE84WnVzMWZpNHZnaVVnb1daclNpRFRtMHdBaVIzSUtfQ1VJc0ZYZUI5aWZ2MTljOVptMVZnWm8?oc=5"
+    },
+    {
+      "id": "news-99",
+      "headline": "In 2001, Denmark began turning 19 km of straightened River Skjern into 26 km of bends",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133068300.cms\" /&gt;<![CDATA[Denmark's River Skjern is undergoing a restoration project aimed at reversing the environmental impact caused by historical drainage effort",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-09T14:01:04.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2001-denmark-began-turning-19-km-of-straightened-river-skjern-into-26-km-of-bends-researchers-later-found-some-lost-habitats-may-take-centuries-to-return/articleshow/133068300.cms"
     }
   ],
   "financials": {
