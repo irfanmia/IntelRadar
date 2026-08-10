@@ -1,33 +1,26 @@
 {
-  "lastUpdated": "2026-08-10T15:10:12.089Z",
+  "lastUpdated": "2026-08-10T15:30:12.111Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 397,
-      "count": 257,
-      "breaking": 63,
-      "latest": "2026-08-10T15:09:05.000Z"
+      "score": 403,
+      "count": 259,
+      "breaking": 64,
+      "latest": "2026-08-10T15:25:54.000Z"
     },
     {
       "id": "middle-east",
-      "score": 308,
-      "count": 151,
+      "score": 306,
+      "count": 150,
       "breaking": 75,
-      "latest": "2026-08-10T14:50:08.000Z"
+      "latest": "2026-08-10T15:18:28.000Z"
     },
     {
       "id": "ukraine-russia",
       "score": 113,
       "count": 46,
       "breaking": 33,
-      "latest": "2026-08-10T13:16:06.000Z"
-    },
-    {
-      "id": "china-taiwan",
-      "score": 52,
-      "count": 26,
-      "breaking": 12,
-      "latest": "2026-08-10T13:03:37.000Z"
+      "latest": "2026-08-10T15:17:41.000Z"
     },
     {
       "id": "sudan",
@@ -38,10 +31,17 @@
     },
     {
       "id": "taliban-pakistan",
-      "score": 50,
-      "count": 20,
+      "score": 51,
+      "count": 21,
       "breaking": 15,
       "latest": "2026-07-30T07:00:00.000Z"
+    },
+    {
+      "id": "china-taiwan",
+      "score": 49,
+      "count": 25,
+      "breaking": 11,
+      "latest": "2026-08-10T13:03:37.000Z"
     },
     {
       "id": "korea",
@@ -152,15 +152,15 @@
     ],
     "pakistan": [
       "middle-east",
-      "china-taiwan",
       "taliban-pakistan",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "india": [
       "middle-east",
-      "china-taiwan",
       "taliban-pakistan",
+      "china-taiwan",
       "general",
       "ukraine-russia"
     ],
