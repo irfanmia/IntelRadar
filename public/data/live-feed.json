@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-08-12T17:30:12.439Z",
+  "lastUpdated": "2026-08-12T17:50:11.897Z",
   "news": [
     {
       "id": "news-0",
-      "headline": "Live Updates: Europe’s First Total Solar Eclipse Is Turning Day to Dark",
+      "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-12T17:47:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "Live Updates: Europe’s First Total Solar Eclipse in Decades Is Turning Day to Dark",
       "summary": "From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun.",
       "urgency": "info",
       "topic": "general",
@@ -15,12 +33,102 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-08-12T17:23:56.000Z",
+      "timestamp": "2026-08-12T17:47:00.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates"
     },
     {
-      "id": "news-1",
+      "id": "news-2",
+      "headline": "1 killed in Israel’s first Gaza strike in over a week",
+      "summary": "Israel on Wednesday carried out its first air strike in more than a week in Gaza, both sides said, breaking a relative lull as the US pressed a peace plan.\nThe Israeli military said it targeted a Hamas commander, charging that he had been planning attacks against Israeli forces operating in the war-",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-12T17:42:46.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3363827/1-killed-israels-first-gaza-strike-over-week?utm_source=rss_feed"
+    },
+    {
+      "id": "news-3",
+      "headline": "Who is Gautam Rangarajan? Indian-origin strategist appointed to key role by UK PM Andy Burnham",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133189366.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-12T17:34:52.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/uk/who-is-gautam-rangarajan-indian-origin-strategist-appointed-to-key-role-by-uk-pm-andy-burnham/articleshow/133189366.cms"
+    },
+    {
+      "id": "news-4",
+      "headline": "Quote of the day by Michael J. Fox: \"I think the scariest person in the world is the person with…\"",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133189458.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-12T17:31:43.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-michael-j-fox-i-think-the-scariest-person-in-the-world-is-the-person-with-a-lesson-on-humour-perspective-and-facing-hard-times-with-lightness/articleshow/133189458.cms"
+    },
+    {
+      "id": "news-5",
+      "headline": "Five years after Taliban takeover, 2.4 million Afghan girls still excluded from school: Unesco",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133189371.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "taliban-pakistan",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-12T17:24:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/five-years-after-taliban-takeover-2-4-million-afghan-girls-still-excluded-from-school-unesco/articleshow/133189371.cms"
+    },
+    {
+      "id": "news-6",
+      "headline": "White House construction project to cost almost $1bn",
+      "summary": "The White House defended reports it planned to spend nearly $1bn on controversial construction projects.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-12T17:23:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss"
+    },
+    {
+      "id": "news-7",
       "headline": "Tourists rush to Mount Etna as it erupts, alarming Italian guides",
       "summary": "Spectacular images of lava flowing down the slopes of an erupting Mount Etna have drawn flocks of tourists to the Italian volcano – to the worry of local guides.\nThe tallest active volcano in Europe, Etna has been spewing ash and lava for days, forcing the closure of the nearby Catania airport, a ke",
       "urgency": "info",
@@ -38,43 +146,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3363825/tourists-rush-mount-etna-it-erupts-alarming-italian-guides?utm_source=rss_feed"
     },
     {
-      "id": "news-2",
-      "headline": "Quote of the day by King Charles: \"To my darling Mama, as you begin your last great journey to join my dear...\"",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133188765.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-12T17:20:23.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/uk/quote-of-the-day-by-king-charles-to-my-darling-mama-as-you-begin-your-last-great-journey-to-join-my-dear-a-tribute-to-queen-elizabeth-on-gratitude-service-and-a-sons-farewell/articleshow/133188765.cms"
-    },
-    {
-      "id": "news-3",
-      "headline": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
-      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-12T17:20:03.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-4",
+      "id": "news-8",
       "headline": "Eclipse chasers stake out their viewing spots in Iceland.",
       "summary": "Eclipse chasers stake out their viewing spots in Iceland.",
       "urgency": "info",
@@ -92,7 +164,7 @@
       "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland"
     },
     {
-      "id": "news-5",
+      "id": "news-9",
       "headline": "Effects of Record-Breaking El Niño Are Happening on 3 Continents",
       "summary": "The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.",
       "urgency": "breaking",
@@ -110,7 +182,7 @@
       "link": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html"
     },
     {
-      "id": "news-6",
+      "id": "news-10",
       "headline": "US inflation eases as food and fuel costs cool",
       "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
       "urgency": "important",
@@ -128,7 +200,25 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-11",
+      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9jdEJ0NDdBc3Y4Y09NNlFnNFVveC1tdk1Pajg4SW9CMHRxcTNYU1VtYVl5cGtpM0xyT1Q0Q24yNFVkb3E1WklRTGlsN1BqM2llSGtpQ1J1MFBRZFhVZVRndTZkYnRCb1hlUWZUc1lkdE03b3Z5UnBYR2Y1RjNkbUk?oc=5\" target=\"_blank\"&gt;Live Updates: Latest from Israel, Iran, and the Mi",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-12T17:00:05.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jdEJ0NDdBc3Y4Y09NNlFnNFVveC1tdk1Pajg4SW9CMHRxcTNYU1VtYVl5cGtpM0xyT1Q0Q24yNFVkb3E1WklRTGlsN1BqM2llSGtpQ1J1MFBRZFhVZVRndTZkYnRCb1hlUWZUc1lkdE03b3Z5UnBYR2Y1RjNkbUk?oc=5"
+    },
+    {
+      "id": "news-12",
       "headline": "Drought exposes Nazi-era warship wrecks beneath the Danube",
       "summary": "Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels",
       "urgency": "breaking",
@@ -146,7 +236,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-13",
       "headline": "A Partial Solar Eclipse Will Be Visible in Parts of the U.S. and Canada",
       "summary": "Parts of the United States and Canada will have the chance to see the moon block at least a small portion of the sun.",
       "urgency": "info",
@@ -164,7 +254,7 @@
       "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html"
     },
     {
-      "id": "news-9",
+      "id": "news-14",
       "headline": "Oman to establish four new industrial cities under 2026-2030 development drive",
       "summary": "Oman to establish four new industrial cities under 2026-2030 development drive",
       "urgency": "info",
@@ -182,7 +272,7 @@
       "link": "https://gulfnews.com/world/gulf/oman/oman-to-establish-four-new-industrial-cities-under-2026-2030-development-drive-1.500638857"
     },
     {
-      "id": "news-10",
+      "id": "news-15",
       "headline": "Thousands of Canadians call for US ambassador's expulsion",
       "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
       "urgency": "info",
@@ -200,7 +290,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-11",
+      "id": "news-16",
       "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
       "urgency": "important",
@@ -218,7 +308,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-12",
+      "id": "news-17",
       "headline": "Israel carries out first Gaza strike in more than week, one killed",
       "summary": "Israel launches first Gaza strike in over a week, kills one: army, Gaza authorities",
       "urgency": "breaking",
@@ -236,7 +326,7 @@
       "link": "https://gulfnews.com/world/mena/israel-carries-out-first-gaza-strike-in-more-than-week-one-killed-1.500638901"
     },
     {
-      "id": "news-13",
+      "id": "news-18",
       "headline": "Pakistan to set up free tech university based on merit",
       "summary": "Pakistan to set up free tech university based on merit",
       "urgency": "info",
@@ -254,7 +344,7 @@
       "link": "https://gulfnews.com/world/asia/pakistan/pakistan-to-set-up-free-tech-university-based-on-merit-1.500638737"
     },
     {
-      "id": "news-14",
+      "id": "news-19",
       "headline": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
       "summary": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.",
       "urgency": "info",
@@ -272,7 +362,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss"
     },
     {
-      "id": "news-15",
+      "id": "news-20",
       "headline": "As Strait of Hormuz transit drops, Trump again says US has ‘control’ - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0hxWklOR3ZOZkpsc093Q2liY245bHc1S3NwTUxoYnhqVk91YkRyX0RfLU1UUHJkX3VIdXdydTNpTFQtTk9STDNIaG9KMlhCN3VrX29tdEN5YUZzX3VVV1VSVEl0RDdmdFg5dzBoNlpER2V1dVFBLVZUTl9TSkpjcUU2U0JUaGQxdW8xQnEyOU40OEJ0R2JWb3dKLVlBMWo4YTg2aUg5aWpDZ9IBrwFBVV95cUxPeW5",
       "urgency": "info",
@@ -290,7 +380,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0hxWklOR3ZOZkpsc093Q2liY245bHc1S3NwTUxoYnhqVk91YkRyX0RfLU1UUHJkX3VIdXdydTNpTFQtTk9STDNIaG9KMlhCN3VrX29tdEN5YUZzX3VVV1VSVEl0RDdmdFg5dzBoNlpER2V1dVFBLVZUTl9TSkpjcUU2U0JUaGQxdW8xQnEyOU40OEJ0R2JWb3dKLVlBMWo4YTg2aUg5aWpDZ9IBrwFBVV95cUxPeW5tZHNISnk5NnY3T1hoZXVweFNNMkh3c2Q3TXdtbTlON004cXFrYnVwQVJfMHl5cHdKdXhqcXFKeU5DaURCYmJmUWV1SkhCV0Jyd0V0UWUzMjRTWEJ3OVhWM1lzNVdGQThzQWhoTnlZMDJSR2ZnOTlUMTUzbTltaGp0bWRVUFctSW81QWQ2WW1zT2owTGNSWlY4c2tlX0JDTFY0R2QtNjFFVHhESUZz?oc=5"
     },
     {
-      "id": "news-16",
+      "id": "news-21",
       "headline": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
       "summary": "Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of  partygoers came too.",
       "urgency": "info",
@@ -308,7 +398,7 @@
       "link": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html"
     },
     {
-      "id": "news-17",
+      "id": "news-22",
       "headline": "Israeli settlers besieging Palestinian families in West Bank village",
       "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
       "urgency": "info",
@@ -326,7 +416,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-18",
+      "id": "news-23",
       "headline": "Oil spill off Oman reportedly reaches mainland: UN agency",
       "summary": "Oil spill off Oman reportedly reaches mainland: UN agency",
       "urgency": "info",
@@ -344,7 +434,7 @@
       "link": "https://gulfnews.com/world/gulf/oman/oil-spill-off-oman-reportedly-reaches-mainland-un-agency-1.500638915"
     },
     {
-      "id": "news-19",
+      "id": "news-24",
       "headline": "Zhu Rongji: reformer who led China’s economic transformation through ‘minefield or abyss’",
       "summary": "“Regardless of what lies ahead – be it a minefield or a deep abyss – I will forge ahead unswervingly, dedicating my entire life and energy to the country until my dying day.”\nThose words, spoken at the dawn of his premiership, came to define Zhu Rongji, China’s towering economic reformer who died in",
       "urgency": "info",
@@ -362,7 +452,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3363824/zhu-rongji-reformer-who-led-chinas-economic-transformation-through-minefield-or-abyss?utm_source=rss_feed"
     },
     {
-      "id": "news-20",
+      "id": "news-25",
       "headline": "How Scientists Use Eclipses for Research",
       "summary": "It’s a chance not just to study the sun but also space weather, light pollution and even animal behavior.",
       "urgency": "info",
@@ -380,7 +470,7 @@
       "link": "https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html"
     },
     {
-      "id": "news-21",
+      "id": "news-26",
       "headline": "LA Lakers to be sold in record $12.5bn deal",
       "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
       "urgency": "info",
@@ -398,7 +488,7 @@
       "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-22",
+      "id": "news-27",
       "headline": "Lebanon&apos;s sweeping amnesty law: what we know",
       "summary": "Lebanon&apos;s sweeping amnesty law: what we know",
       "urgency": "info",
@@ -416,7 +506,7 @@
       "link": "https://gulfnews.com/world/mena/lebanons-sweeping-amnesty-law-what-we-know-1.500638835"
     },
     {
-      "id": "news-23",
+      "id": "news-28",
       "headline": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
       "summary": "Live coverage and text updates from our commentary stream as PSG&#039;s Dembele, Doue and Barcola target more trophies.",
       "urgency": "info",
@@ -434,7 +524,7 @@
       "link": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss"
     },
     {
-      "id": "news-24",
+      "id": "news-29",
       "headline": "GHD Platinum+ review: A premium straightener that earns its place on the dressing table",
       "summary": "GHD Platinum+ review: A premium straightener that earns its place on the dressing table",
       "urgency": "info",
@@ -452,7 +542,7 @@
       "link": "https://gulfnews.com/best-buys/ghd-platinum-review-a-premium-straightener-that-earns-its-place-on-the-dressing-table-1.500631369"
     },
     {
-      "id": "news-25",
+      "id": "news-30",
       "headline": "Erdogan wants Turkey-Saudi Arabia-Pakistan defence pact to draw more countries",
       "summary": "President Recep Tayyip Erdogan said on Wednesday he hoped more countries would join a defence agreement signed last week between Turkey, Saudi Arabia and Pakistan aimed at stabilising a region wracked by conflict.\nThe so-called Mecca Joint Defence Agreement was signed on Friday as the Middle East gr",
       "urgency": "breaking",
@@ -470,7 +560,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3363823/erdogan-wants-turkey-saudi-arabia-pakistan-defence-pact-draw-more-countries?utm_source=rss_feed"
     },
     {
-      "id": "news-26",
+      "id": "news-31",
       "headline": "UAE President and King of Bahrain discuss fraternal ties and regional developments",
       "summary": "UAE President and King of Bahrain discuss fraternal ties and regional developments",
       "urgency": "info",
@@ -488,7 +578,7 @@
       "link": "https://gulfnews.com/uae/government/uae-president-and-king-of-bahrain-discuss-fraternal-ties-and-regional-developments-1.500638902"
     },
     {
-      "id": "news-27",
+      "id": "news-32",
       "headline": "Europe prepares for first total solar eclipse in 27 years",
       "summary": "Europe is gearing up for its first total solar eclipse in 27 years.",
       "urgency": "info",
@@ -506,7 +596,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss"
     },
     {
-      "id": "news-28",
+      "id": "news-33",
       "headline": "Colombia declares three days of mourning after deadly earthquake",
       "summary": "Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.",
       "urgency": "breaking",
@@ -524,7 +614,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss"
     },
     {
-      "id": "news-29",
+      "id": "news-34",
       "headline": "Is Russia’s economy cracking despite the Iran war windfall?",
       "summary": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
       "urgency": "breaking",
@@ -542,7 +632,7 @@
       "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss"
     },
     {
-      "id": "news-30",
+      "id": "news-35",
       "headline": "What happens to animals during an eclipse?",
       "summary": "The moon’s journ",
       "urgency": "info",
@@ -560,7 +650,7 @@
       "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/what-happens-to-animals-during-an-eclipse"
     },
     {
-      "id": "news-31",
+      "id": "news-36",
       "headline": "Iran remains defiant as it vows to fight US until demands met - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXlTcWJxNnJ1X0pmNFV2WFVGQmpKMXhFNXFBU0wyNG9NTGVlNmdmeXRrNTdhcUYxOEZoQ21oY3M4VDBWWVFwSXNqNllId0h6UGw5azcyWFJYSFNnSm5TUmI2NUtTb056UmVFZDJXQzR1c2NHTXg1OVlnTXdUVkZNSUxlY3YxYTJsZVJmMWdPQ0w5c3c2X1dJMk1IRFFsZm1MQUUyS9IBqgFBVV95cUxQNi1rMnhFOTh",
       "urgency": "info",
@@ -578,7 +668,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXlTcWJxNnJ1X0pmNFV2WFVGQmpKMXhFNXFBU0wyNG9NTGVlNmdmeXRrNTdhcUYxOEZoQ21oY3M4VDBWWVFwSXNqNllId0h6UGw5azcyWFJYSFNnSm5TUmI2NUtTb056UmVFZDJXQzR1c2NHTXg1OVlnTXdUVkZNSUxlY3YxYTJsZVJmMWdPQ0w5c3c2X1dJMk1IRFFsZm1MQUUyS9IBqgFBVV95cUxQNi1rMnhFOThSUlF6eEpvdjVEOWNHakY1QmV6QUxOSGx4emROV3R6aTI4R0ZPQ1lPS3lqOHl0aFYzSzhFSTVzdjgxYlo2TU9YcWJxTnFZcUhDTFZ5WUdYLW9POGZyQkNFLWRjajAwLUF1dHQ3YUtRS2VSdDVld0VuV3RzWUx6azBpakQ3NV96WTZtZlJyd3BjRmxqYjB5TF9JaHFEUklyWjBGZw?oc=5"
     },
     {
-      "id": "news-32",
+      "id": "news-37",
       "headline": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
       "summary": "The US health secretary has spent years saying the MMR vaccine caused autism despite no medical evidence.",
       "urgency": "info",
@@ -596,7 +686,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss"
     },
     {
-      "id": "news-33",
+      "id": "news-38",
       "headline": "Voting ends in US midwest primaries",
       "summary": "Voters in six US states went to the polls to choose their preferred candidates in primaries and special elections ahead of November’s midterms. In Wisconsin, moderate David Crowley narrowly defeated Democratic socialist Francesca Hong in the race for governor. On the Republican side, Darline Graham,",
       "urgency": "important",
@@ -614,7 +704,7 @@
       "link": "https://www.france24.com/en/voting-ends-in-us-midwest-primaries"
     },
     {
-      "id": "news-34",
+      "id": "news-39",
       "headline": "Lebanon becomes first Middle East country to end death penalty",
       "summary": "Lebanon’s parliament voted on Tuesday to abolish the death penalty, making the country the first in the Middle East to do so. Lebanon has not carried out an execution since 2004, but death sentences have continued to be handed down, with the latest issued on Monday. Amnesty International says at lea",
       "urgency": "info",
@@ -632,7 +722,7 @@
       "link": "https://www.france24.com/en/lebanon-becomes-first-middle-east-country-to-end-death-penalty"
     },
     {
-      "id": "news-35",
+      "id": "news-40",
       "headline": "Trump says US will &apos;keep&apos; Hormuz strait control",
       "summary": "Trump says US will &apos;keep&apos; Hormuz Strait",
       "urgency": "info",
@@ -650,7 +740,7 @@
       "link": "https://gulfnews.com/world/americas/trump-says-us-will-keep-hormuz-strait-control-1.500638866"
     },
     {
-      "id": "news-36",
+      "id": "news-41",
       "headline": "20-year-old tourist dies in US after falling from 170-feet waterfall while posing for photos",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133186737.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -668,7 +758,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/20-year-old-tourist-dies-in-us-after-falling-from-170-feet-waterfall-while-posing-for-photos/articleshow/133186737.cms"
     },
     {
-      "id": "news-37",
+      "id": "news-42",
       "headline": "Colombia: Bogota's search for survivors continues",
       "summary": "The search for survivors continues in Colombia, more than 48 hours after a 7.4-magnitude earthquake struck the country. More than 200 people have been confirmed dead, while more than 2,000 are reported missing. The new president, Abelardo de la Espriella, has declared a state of emergency, as many p",
       "urgency": "breaking",
@@ -686,8 +776,8 @@
       "link": "https://www.france24.com/en/colombia-bogota-s-search-for-survivors-continues"
     },
     {
-      "id": "news-38",
-      "headline": "Trump’s secret flight switch indicates severity of assassination threat by Iran - theguardian.com",
+      "id": "news-43",
+      "headline": "Trump’s secret flight switch indicates severity of assassination threat by Iran - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWlR1VW0tMkducXJrWEpxeHpyT1Ruc1ZmMkhMakJfLXo3bzNDTW1XQWwxYUU5R1BfNVBvRjUxSGtfMzNHc3lzdFVFakFNYy0xQjBLeGFic1dQTmd3Z2VRMkU0SzJ2YTFQOFUxQjhERElDRl92YnN5eXpJc1BDdGZNUE5hUWkwdw?oc=5\" target=\"_blank\"&gt;Trump’s secret flight switch indicates ",
       "urgency": "info",
       "topic": "middle-east",
@@ -704,7 +794,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWlR1VW0tMkducXJrWEpxeHpyT1Ruc1ZmMkhMakJfLXo3bzNDTW1XQWwxYUU5R1BfNVBvRjUxSGtfMzNHc3lzdFVFakFNYy0xQjBLeGFic1dQTmd3Z2VRMkU0SzJ2YTFQOFUxQjhERElDRl92YnN5eXpJc1BDdGZNUE5hUWkwdw?oc=5"
     },
     {
-      "id": "news-39",
+      "id": "news-44",
       "headline": "Los Angeles Lakers to be sold to Josh Kushner, Bob Iger for record $12.5 billion",
       "summary": "Los Angeles Lakers to be sold to Josh Kushner, Bob Iger for record $12.5 billion",
       "urgency": "info",
@@ -722,7 +812,7 @@
       "link": "https://gulfnews.com/sport/los-angeles-lakers-to-be-sold-to-josh-kushner-bob-iger-for-record-125-billion-1.500638886"
     },
     {
-      "id": "news-40",
+      "id": "news-45",
       "headline": "Hong Kong baby food producer recalls pastas over rice weevil scare",
       "summary": "A Hong Kong baby food producer has voluntarily recalled several products from store shelves as a precaution after parents and online users raised concerns that they might contain rice weevils.\nBaby Basic on Wednesday said the recall covered “instant baby congee – konbu salmon”, with an expiry date o",
       "urgency": "info",
@@ -740,7 +830,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363822/hong-kong-baby-food-producer-recalls-pastas-congee-over-rice-weevil-scare?utm_source=rss_feed"
     },
     {
-      "id": "news-41",
+      "id": "news-46",
       "headline": "Iran war live: Mediators push for US-Iran talks as MoU deadline approaches - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0YzeG5pTmVna25ZMW9GU0tYYTg2OHhtYWdVVldlSy1CcDRTT19HcGkxSzRwQTBwVUloRXlnQVVJMnQ0YWxjQ2R0djZ4Und0YzdTR3AxRks5UVZLNk8tLUY0QzVScmw5RW1iRzN3ci1YZG15ZXNwS2hwbkthcFlXLTZrNy01ZTk1U0M1STFva2VGX1UzSThTRlZ6U3dBMWNDSENqamZ4U0dJRzl2RmU2bGUwaHE5ZE9",
       "urgency": "breaking",
@@ -758,7 +848,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0YzeG5pTmVna25ZMW9GU0tYYTg2OHhtYWdVVldlSy1CcDRTT19HcGkxSzRwQTBwVUloRXlnQVVJMnQ0YWxjQ2R0djZ4Und0YzdTR3AxRks5UVZLNk8tLUY0QzVScmw5RW1iRzN3ci1YZG15ZXNwS2hwbkthcFlXLTZrNy01ZTk1U0M1STFva2VGX1UzSThTRlZ6U3dBMWNDSENqamZ4U0dJRzl2RmU2bGUwaHE5ZE9lZE530gHAAUFVX3lxTE05eGo4eEZ4dWg0bkZScF85cGJzRXFHaHlMeTN5T3F4X0ozNWNjT1pEN1B2ZW9fM3hjOU02TDBRNTM0ZGtSNzl4MEZQNkpzbzJyMzN6WXAzZ21FenVRQm1leWkzOFlPRWNObU05eG9QcmVqNnpKdTZRTzgzeUcwUGZWckxnSnJPRER1TFlrS2xJYlNTVnpUdFUyR3NLZ3MwMG1Zc3g4Tzc1QlpaZjFHUTlvMWpHQVJmUEFXS2twRDMtUg?oc=5"
     },
     {
-      "id": "news-42",
+      "id": "news-47",
       "headline": "Dan Scavino, Natalie Harp, Walt Nauta: 3 aides were allowed with Trump when he wasmoved into a catering truck during Turkey emergency",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133186616.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -776,7 +866,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/dan-scavino-natalie-harp-walt-nauta-3-aides-were-allowed-with-trump-when-he-wasmoved-into-a-catering-truck-during-turkey-emergency/articleshow/133186616.cms"
     },
     {
-      "id": "news-43",
+      "id": "news-48",
       "headline": "US consumer inflation slows in July as energy prices briefly retreat",
       "summary": "Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.",
       "urgency": "important",
@@ -794,7 +884,7 @@
       "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss"
     },
     {
-      "id": "news-44",
+      "id": "news-49",
       "headline": "Clavicular’s ‘I Can Fix Her’ Post: streamer hits on Ocasio-Cortez; congresswoman stays silent",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133186573.cms\" /&gt;<![CDATA[Clavicular has reacted to reports about Alexandria Ocasio-Cortez’s split from Riley Roberts with a short message: “I can fix her.” The brea",
       "urgency": "info",
@@ -812,7 +902,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/why-is-clavicular-targeting-alexandria-ocasio-cortez-after-riley-roberts-split-their-looksmaxxing-history-adds-another-twist/articleshow/133186573.cms"
     },
     {
-      "id": "news-45",
+      "id": "news-50",
       "headline": "Iran live updates: Trump says US has total control over Strait of Hormuz - ABC News - Breaking News, Latest News and Videos",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0N1WnBUSF9QanZ1bzVsWDJycHdjam5POGFvRkpOR2hicDJhbFJ0MVc0Tl9kWWxVMFVkaXVyNUJBV2g0ODZMdkNIdVpVTUhyMGxMdVk3cGJjQ0ZnbVpGWXc4ZUFtS05kTzlpdzRJb1ZJbW1hbFA1UXZ1SHA3U2lrUFpDa3BjM0pnMGMwdFZQRjBFZy1LM2JNb25jcVktcXcxWmNlYjlHdk5aQkRKQUNvX3VQbkxoZ3g",
       "urgency": "breaking",
@@ -830,7 +920,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0N1WnBUSF9QanZ1bzVsWDJycHdjam5POGFvRkpOR2hicDJhbFJ0MVc0Tl9kWWxVMFVkaXVyNUJBV2g0ODZMdkNIdVpVTUhyMGxMdVk3cGJjQ0ZnbVpGWXc4ZUFtS05kTzlpdzRJb1ZJbW1hbFA1UXZ1SHA3U2lrUFpDa3BjM0pnMGMwdFZQRjBFZy1LM2JNb25jcVktcXcxWmNlYjlHdk5aQkRKQUNvX3VQbkxoZ3gySFRYNtIBwgFBVV95cUxNUXhoclcwZ3dsMVUxdGxKdUZOOUZxYk0zVGhONVRTa2ptdXBWcV9zZElpeENLNmFQTDdUbE1CZzhEdGR6ZjJmWU5fV0lOVl9pZ1BoNU1KUHhzSVJ5WDJlWVhuZVpoWEJWUmJGZVpEakY0bEtId280dDJxdjNWVXluUnlEUlhacjZDU2RNbHNlUlZTOEh1LWVnNGV2TnM1VXNQNExYVElwSUM1UEZkT2RSZUxPazBBNnQzS1I0bFlXTENoUQ?oc=5"
     },
     {
-      "id": "news-46",
+      "id": "news-51",
       "headline": "Florida's 23-acre Bannon Island, held by one family for roughly 150 years and reachable only by boat",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133184351.cms\" /&gt;<![CDATA[Nestled near Haines City, Florida, Bannon Island—a coveted private island—has hit the market after remaining in one family for four generat",
       "urgency": "info",
@@ -848,7 +938,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/floridas-23-acre-bannon-island-held-by-one-family-for-roughly-150-years-and-reachable-only-by-boat-helicopter-or-seaplane-is-listed-for-12-million/articleshow/133184351.cms"
     },
     {
-      "id": "news-47",
+      "id": "news-52",
       "headline": "What’s behind Sydney airport’s heavy delays and near-miss incident?",
       "summary": "&lt;p&gt;Air traffic controllers are short-staffed and exhausted – and new recruits face a difficult aptitude test and must train in Melbourne&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a",
       "urgency": "breaking",
@@ -866,7 +956,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/aug/13/whats-behind-sydney-airports-heavy-delays-and-near-miss-incident"
     },
     {
-      "id": "news-48",
+      "id": "news-53",
       "headline": "ABC changing editorial policy after Rinehart furore prompts concerns of overreach from academics and advocates",
       "summary": "&lt;p&gt;Managing director says guidelines will ensure no individual will ‘be the subject of comedy that is violent in its description in our programming’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/",
       "urgency": "breaking",
@@ -884,7 +974,7 @@
       "link": "https://www.theguardian.com/media/2026/aug/13/abc-changing-editorial-policy-after-rinehart-furore-prompts-concerns-of-overreach-from-academics-and-advocates"
     },
     {
-      "id": "news-49",
+      "id": "news-54",
       "headline": "Victorian police investigate allegation a car drove deliberately at speed towards anti-racism protester",
       "summary": "&lt;p&gt;&lt;strong&gt;Exclusive:&lt;/strong&gt; ‘Peaceful community rally’ of more than 150 people was walking in Broadmeadows when car travelling in same direction allegedly approached&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_",
       "urgency": "breaking",
@@ -902,7 +992,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/aug/13/anti-racism-protest-melbourne-car-police-response-ntwnfb"
     },
     {
-      "id": "news-50",
+      "id": "news-55",
       "headline": "Coalition plan to scrap energy rules for new houses condemned as ‘cost-of-living timebomb’",
       "summary": "&lt;p&gt;Proposal to cut building costs by scrapping the construction code would increase bills for the poorest households, critics say&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"",
       "urgency": "breaking",
@@ -920,7 +1010,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/aug/13/coalition-housing-energy-standards-national-construction-code-new-homes"
     },
     {
-      "id": "news-51",
+      "id": "news-56",
       "headline": "China is sending scientists to Iran for rare earth ‘exploration and processing’",
       "summary": "China is expanding its scientific collaboration with Iran into the strategically sensitive field of rare earths, including processing technologies that Beijing has increasingly sought to protect from overseas transfer.\nThe National Natural Science Foundation of China (NSFC) unveiled the latest joint",
       "urgency": "info",
@@ -938,7 +1028,7 @@
       "link": "https://www.scmp.com/news/china/science/article/3363814/china-sending-scientists-iran-rare-earth-exploration-and-processing?utm_source=rss_feed"
     },
     {
-      "id": "news-52",
+      "id": "news-57",
       "headline": "Fearing deflated China demand, US soybean growers pivot to new buyers and biofuel",
       "summary": "US soybean growers are “adapting” to a steep decline in China-bound exports by selling to third countries and the American biofuel sector, compensating enough to cause only a small drop in production, according to a top trade association’s chief economist.\nIn November, Beijing committed to buy at le",
       "urgency": "breaking",
@@ -956,7 +1046,7 @@
       "link": "https://www.scmp.com/economy/global-economy/article/3363731/fearing-deflated-china-demand-us-soybean-growers-pivot-new-buyers-and-biofuel?utm_source=rss_feed"
     },
     {
-      "id": "news-53",
+      "id": "news-58",
       "headline": "Minnesota funded $1.918 million for Shell Rock River habitat; 588 acres protected or restored by 2025",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133185961.cms\" /&gt;<![CDATA[The Shell Rock River Watershed initiative in Minnesota has made significant strides by securing 588 acres of critical habitat, surpassing i",
       "urgency": "info",
@@ -974,7 +1064,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-2020-minnesota-funded-a-1-918-million-shell-rock-river-habitat-program-by-2025-it-had-protected-or-restored-588-acres/articleshow/133185961.cms"
     },
     {
-      "id": "news-54",
+      "id": "news-59",
       "headline": "Hormuz traffic sinks to one-week low as ships attacked, talks stagnate - Al-Monitor",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFBiSmNzdDhSRVN2aUJoZGZFbDgtTVpsbUg3TmJRVVF1TzdIWTNoV3pULVMtci1CdU5YME1lSGZHQy03Vl9STXB1Skd1U1RBM3lDb1ZjTU5fSXluU2tYWnFoWlhTejlpU3FDLXd0cFVlQ2JKNVNKLURPc0JINmNldzhlRTE1dzlRZkRmREtUNnVzWHB4WHcwUVdWT1dMVjZTNzFGUERqWVJBaGJv?oc=5\" target=\"",
       "urgency": "breaking",
@@ -992,7 +1082,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFBiSmNzdDhSRVN2aUJoZGZFbDgtTVpsbUg3TmJRVVF1TzdIWTNoV3pULVMtci1CdU5YME1lSGZHQy03Vl9STXB1Skd1U1RBM3lDb1ZjTU5fSXluU2tYWnFoWlhTejlpU3FDLXd0cFVlQ2JKNVNKLURPc0JINmNldzhlRTE1dzlRZkRmREtUNnVzWHB4WHcwUVdWT1dMVjZTNzFGUERqWVJBaGJv?oc=5"
     },
     {
-      "id": "news-55",
+      "id": "news-60",
       "headline": "US-Iran standoff: What UAE residents need to know this evening (August 12)",
       "summary": "US-Iran standoff: What UAE residents need to know this evening (August 12)",
       "urgency": "info",
@@ -1010,7 +1100,7 @@
       "link": "https://gulfnews.com/world/mena/us-iran-standoff-what-uae-residents-need-to-know-this-evening-august-12-1.500638829"
     },
     {
-      "id": "news-56",
+      "id": "news-61",
       "headline": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
       "summary": "&lt;p&gt;Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot&lt;/p&gt;&lt;p&gt;The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsuit levelled by its female flight atte",
       "urgency": "info",
@@ -1028,7 +1118,7 @@
       "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action"
     },
     {
-      "id": "news-57",
+      "id": "news-62",
       "headline": "Israeli troops fail to remove settlers besieging Palestinian homes in West Bank village",
       "summary": "The Israeli military on Wednesday failed to remove settlers from blockaded Palestinian homes in the occupied West Bank. The siege began over the weekend, when a group of settlers blocked essential supplies from entering the Palestinian village of Qusra. The incident marked a ⁠rare confrontation betw",
       "urgency": "info",
@@ -1046,7 +1136,7 @@
       "link": "https://www.france24.com/en/middle-east/20260812-israeli-settlers-keep-up-siege-of-palestinian-homes-despite-rare-military-intervention"
     },
     {
-      "id": "news-58",
+      "id": "news-63",
       "headline": "Kuwait foils terrorist plot targeting vital facility",
       "summary": "Kuwait foils terrorist plot targeting vital facility",
       "urgency": "info",
@@ -1064,7 +1154,7 @@
       "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-foils-terrorist-plot-targeting-vital-facility-1.500638789"
     },
     {
-      "id": "news-59",
+      "id": "news-64",
       "headline": "Ronaldo sends message of support to Messi following father’s death",
       "summary": "Ronaldo sends message of support to Messi following father’s death",
       "urgency": "info",
@@ -1082,7 +1172,7 @@
       "link": "https://gulfnews.com/sport/ronaldo-sends-message-of-support-to-messi-following-fathers-death-1.500638836"
     },
     {
-      "id": "news-60",
+      "id": "news-65",
       "headline": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
       "summary": "The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.",
       "urgency": "info",
@@ -1100,7 +1190,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
     },
     {
-      "id": "news-61",
+      "id": "news-66",
       "headline": "Why the UK faces a prisons crisis amid row over release of cop killers",
       "summary": "The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.",
       "urgency": "important",
@@ -1118,7 +1208,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss"
     },
     {
-      "id": "news-62",
+      "id": "news-67",
       "headline": "Iran is not anti-imperialist. It is a state calculating survival",
       "summary": "Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.",
       "urgency": "info",
@@ -1136,7 +1226,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss"
     },
     {
-      "id": "news-63",
+      "id": "news-68",
       "headline": "Texas homeowner finds more than 20 rattlesnakes emerging from beneath house",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133185412.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1154,7 +1244,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-texas-homeowner-thought-they-had-a-snake-problem-then-more-than-20-rattlesnakes-emerged-from-beneath-the-house/articleshow/133185412.cms"
     },
     {
-      "id": "news-64",
+      "id": "news-69",
       "headline": "Hong Kong’s subdivided flats are turning into heat traps. But what’s the fix?",
       "summary": "Retiree Yang Fangxin’s 72 sq ft rooftop home, located on the ninth floor of a 62-year-old building in Sham Shui Po, has become a heat trap under Hong Kong’s scorching hot weather.\nThe temperature in her home was above 40 degrees Celsius (104 Fahrenheit) at around 5pm on Tuesday, higher than the 33 d",
       "urgency": "info",
@@ -1172,7 +1262,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3363821/hong-kongs-subdivided-flats-are-turning-heat-traps-whats-fix?utm_source=rss_feed"
     },
     {
-      "id": "news-65",
+      "id": "news-70",
       "headline": "John Lee leads tributes as Zhu Rongji remembered for putting steel in Hong Kong’s spine",
       "summary": "Hong Kong’s leader has expressed his profound sorrow over the death of former Chinese premier Zhu Rongji, paying tribute to him for supporting the city in challenging times including the 1997 Asian financial crisis.\nIn a statement late on Wednesday night, Chief Executive John Lee Ka-chiu said he was",
       "urgency": "important",
@@ -1190,7 +1280,7 @@
       "link": "https://www.scmp.com/news/hong-kong/politics/article/3363819/ill-be-first-line-buy-your-bonds-how-zhu-rongji-put-steel-hong-kongs-spine?utm_source=rss_feed"
     },
     {
-      "id": "news-66",
+      "id": "news-71",
       "headline": "How Africa is becoming a ‘strategic hub’ for Chinese industrial expansion",
       "summary": "For decades, resource-rich African nations operated on a straightforward pit-to-ship model whereby foreign operators extracted raw ore, loaded it onto cargo ships and exported it abroad, leaving producer countries with little to show for it.\nToday, nations such as Zimbabwe, Namibia, Mozambique, Ghan",
       "urgency": "breaking",
@@ -1208,7 +1298,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3363798/how-africa-becoming-strategic-hub-chinese-industrial-expansion?utm_source=rss_feed"
     },
     {
-      "id": "news-67",
+      "id": "news-72",
       "headline": "Lionel Messi not certain to play ‘much longer’ after father’s death",
       "summary": "Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement from football.",
       "urgency": "info",
@@ -1226,7 +1316,7 @@
       "link": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss"
     },
     {
-      "id": "news-68",
+      "id": "news-73",
       "headline": "44 lives lost after ferry capsizes on Zimbabwe&apos;s Lake Kariba",
       "summary": "44 lives lost after ferry capsizes on Zimbabwe&apos;s Lake Kariba",
       "urgency": "info",
@@ -1244,7 +1334,7 @@
       "link": "https://gulfnews.com/world/africa/44-lives-lost-after-ferry-capsizes-on-zimbabwes-lake-kariba-1.500638693"
     },
     {
-      "id": "news-69",
+      "id": "news-74",
       "headline": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
       "summary": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
       "urgency": "breaking",
@@ -1262,7 +1352,7 @@
       "link": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss"
     },
     {
-      "id": "news-70",
+      "id": "news-75",
       "headline": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
       "summary": "The vessel is said to have overturned after being hit by strong waves.",
       "urgency": "info",
@@ -1280,7 +1370,7 @@
       "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-71",
+      "id": "news-76",
       "headline": "Spain prepares for rare total solar eclipse",
       "summary": "We’re just hours away from a rare total solar eclipse, with parts of northern Spain set to briefly turn from day to night as the Moon blocks out the Sun. Millions more will see a partial eclipse across Europe, Canada, the northern US and northwest Africa. But beyond the spectacle, eclipses also offe",
       "urgency": "info",
@@ -1298,7 +1388,7 @@
       "link": "https://www.france24.com/en/spain-prepares-for-rare-total-solar-eclipse"
     },
     {
-      "id": "news-72",
+      "id": "news-77",
       "headline": "Messi unsure he will play 'much longer' after father's death",
       "summary": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
       "urgency": "info",
@@ -1316,7 +1406,7 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-73",
+      "id": "news-78",
       "headline": "Putin threatens to seize European ships",
       "summary": "Russian President Vladimir Putin has threatened retaliation over the West’s seizure of commercial vessels. Speaking aboard a Russian warship, Putin described the measures targeting Russia as an act of piracy and robbery. France 24 International Affairs editor Philip Turle shares further insights.",
       "urgency": "breaking",
@@ -1334,7 +1424,7 @@
       "link": "https://www.france24.com/en/putin-threatens-to-seize-european-ships"
     },
     {
-      "id": "news-74",
+      "id": "news-79",
       "headline": "Trisha shares cryptic ‘drama at this age is embarrassing’ message as Sangeetha drops divorce case against Vijay",
       "summary": "Trisha shares cryptic ‘drama at this age is embarrassing’ message as Sangeetha drops divorce case against Vijay",
       "urgency": "info",
@@ -1352,7 +1442,7 @@
       "link": "https://gulfnews.com/entertainment/trisha-shares-cryptic-drama-at-this-age-is-embarrassing-message-as-sangeetha-drops-divorce-case-against-vijay-1.500638773"
     },
     {
-      "id": "news-75",
+      "id": "news-80",
       "headline": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast - ABC News - Breaking News, Latest News and Videos",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWhBTzdCQlR2YTZHdjJCYXRqVHcxc1k4UTNUcDNZTDh6QThLNmRiU0xmeFowNGI2cVNadGNTd3N0WEVycWU3bU9YQWNmemxsMDUwVGR6U2dfSFBVVlpsR0NMSjg1X0NEYTFpRXVmLWJvSmwzRGRjR0Zjd0ZvNDRaSVNTc2swYUxzYkd2RVF4TllNZUlfaVdmcVJCcHhLdU5IODgxS21lSWtKbDFuMUJhVDVB0gG3AUF",
       "urgency": "breaking",
@@ -1370,7 +1460,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWhBTzdCQlR2YTZHdjJCYXRqVHcxc1k4UTNUcDNZTDh6QThLNmRiU0xmeFowNGI2cVNadGNTd3N0WEVycWU3bU9YQWNmemxsMDUwVGR6U2dfSFBVVlpsR0NMSjg1X0NEYTFpRXVmLWJvSmwzRGRjR0Zjd0ZvNDRaSVNTc2swYUxzYkd2RVF4TllNZUlfaVdmcVJCcHhLdU5IODgxS21lSWtKbDFuMUJhVDVB0gG3AUFVX3lxTFBqNGN2a1dFWHhzclhkbkpPQm9GN0VscVRrb1RoXzQxUHVFRlpMSlRkN2ZzTTJYR25wMUhSX0gwZkpKaklYbV80TTVnYUFWWjJTRkxPa2tTeHMwdHJvck5EazMzc3JOSWpJd01jVlcxX3ZWOE1wMjJISUk5NzlhVVhKRU5Ja3JHWGRqSjM4NGRsRUt1ZDRtZ0twWUVpeU9veDdTTVg3RnZsU0FDVVpQSEtYWGFaellRdw?oc=5"
     },
     {
-      "id": "news-76",
+      "id": "news-81",
       "headline": "Meta faces $1.4 trillion lawsuit",
       "summary": "Mark Zuckerberg’s tech giant Meta is facing a $1.4 trillion lawsuit over allegations that it deliberately designed addictive features on its platforms to keep children hooked. Parents have long raised concerns about the impact of Facebook and Instagram on young people’s mental health, and jury selec",
       "urgency": "important",
@@ -1388,7 +1478,7 @@
       "link": "https://www.france24.com/en/meta-faces-1-4-trillion-lawsuit"
     },
     {
-      "id": "news-77",
+      "id": "news-82",
       "headline": "When did AOC break up with long-term partner Riley Roberts? Ocasio-Cortez stopped wearing her engagement ring over 18 months ago",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133184702.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1406,7 +1496,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/when-did-aoc-break-up-with-long-term-partner-riley-roberts-ocasio-cortez-stopped-wearing-her-engagement-ring-over-18-months-ago/articleshow/133184702.cms"
     },
     {
-      "id": "news-78",
+      "id": "news-83",
       "headline": "Hong Kong college finance chief, wife and contractor held over HK$41m theft",
       "summary": "The finance director of a private college in Hong Kong has been remanded in custody on suspicion of embezzling HK$41 million (US$5.2 million) over three years, with his wife and an engineering contractor also denied bail for allegedly handling the illicit proceeds.\nRay Yip Kam-chun, 49, appeared in ",
       "urgency": "info",
@@ -1424,7 +1514,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363817/hong-kong-college-finance-chief-wife-and-contractor-held-over-hk41m-theft?utm_source=rss_feed"
     },
     {
-      "id": "news-79",
+      "id": "news-84",
       "headline": "Saudi Red Sea oil exports go dark as Houthi attack threat grows - Reuters",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGFZQ2Vnb3RrVVF5MGpzQzlrckRvMHM2bmtQRFFEdUdra2QxdEcwMEVTQk1GUDFBS25MS2Rmb05uZkd4Znp4aElvSEtFVzNXY1dtYUNHNmpWODhUSTFVRDc1a0VMR3NTVTlmNndDRlBnVWlfOFpZSXFRY01EUDh6WGJQb2xHY0daZGIwbzI3VWpfallqckphSVpIcHl0VkdqM3VyaUJUS1B4QVM5MXJZY0Rn?oc=5\" ",
       "urgency": "breaking",
@@ -1442,7 +1532,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGFZQ2Vnb3RrVVF5MGpzQzlrckRvMHM2bmtQRFFEdUdra2QxdEcwMEVTQk1GUDFBS25MS2Rmb05uZkd4Znp4aElvSEtFVzNXY1dtYUNHNmpWODhUSTFVRDc1a0VMR3NTVTlmNndDRlBnVWlfOFpZSXFRY01EUDh6WGJQb2xHY0daZGIwbzI3VWpfallqckphSVpIcHl0VkdqM3VyaUJUS1B4QVM5MXJZY0Rn?oc=5"
     },
     {
-      "id": "news-80",
+      "id": "news-85",
       "headline": "Wisconsin result dents winning streak for Democratic Party's left wing",
       "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
       "urgency": "breaking",
@@ -1460,7 +1550,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-81",
+      "id": "news-86",
       "headline": "Colombia: Woman rescued from under earthquake debris after 36 hours",
       "summary": "🇨🇴 A woman trapped under the debris of a collapsed hotel in Pereira, #Colombia, was rescued on Tuesday after spending 36 hours under the rubble.\n \nSearch and rescue operations are still underway in the country's coffee-growing Chocó region which was at the epîcentre of a 7.4 magnitude #earthquake ",
       "urgency": "important",
@@ -1478,7 +1568,7 @@
       "link": "https://www.france24.com/en/video/20260812-colombia-woman-rescued-from-under-earthquake-debris-after-36-hours"
     },
     {
-      "id": "news-82",
+      "id": "news-87",
       "headline": "Archeologists discovered 7,000-Year-Old Neolithic burial grounds in France",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133182953.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1496,7 +1586,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/archeologists-discovered-7000-year-old-neolithic-burial-grounds-in-france-using-electrical-surveys/articleshow/133182953.cms"
     },
     {
-      "id": "news-83",
+      "id": "news-88",
       "headline": "In 1998, Nasa sent a rose into space and found microgravity changed its scent",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133183735.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1514,7 +1604,7 @@
       "link": "https://timesofindia.indiatimes.com/science/in-1998-nasa-sent-a-rose-into-space-and-discovered-that-microgravity-could-change-its-scent/articleshow/133183735.cms"
     },
     {
-      "id": "news-84",
+      "id": "news-89",
       "headline": "Remote Alaska village slowly sinks as frozen ground thaws, releasing ancient carbon",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133183168.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1532,7 +1622,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-remote-alaska-village-is-slowly-sinking-as-the-frozen-ground-beneath-it-thaws-releasing-ancient-carbon-locked-away-for-thousands-of-years/articleshow/133183168.cms"
     },
     {
-      "id": "news-85",
+      "id": "news-90",
       "headline": "Sudanese army intercepts RSF drones over el-Obeid",
       "summary": "Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.",
       "urgency": "info",
@@ -1550,7 +1640,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss"
     },
     {
-      "id": "news-86",
+      "id": "news-91",
       "headline": "'Did you pay anything to your employer for H-1B': Indian visa holder shares gruelling 30-minute interview at Hyderabad consulate",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133184305.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1568,7 +1658,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/did-you-pay-anything-to-your-employer-for-h-1b-indian-visa-holder-shares-gruelling-30-minute-interview-at-hyderabad-consulate/articleshow/133184305.cms"
     },
     {
-      "id": "news-87",
+      "id": "news-92",
       "headline": "Farmer's Almanac predicts a snowy Wyoming winter, but one meteorologist forecasts 'voodoo magic'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133183454.cms\" /&gt;<![CDATA[A meteorologist warns against trusting summer's early winter forecasts, labeling them unreliable due to changing atmospheric conditions. Ci",
       "urgency": "breaking",
@@ -1586,7 +1676,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/farmers-almanac-predicts-a-cold-snowy-wyoming-winter-but-one-meteorologist-calls-long-range-august-forecasts-voodoo-magic/articleshow/133183454.cms"
     },
     {
-      "id": "news-88",
+      "id": "news-93",
       "headline": "UAE public holidays 2027: Full list of expected dates and long weekends",
       "summary": "UAE public holidays 2027: Full list of expected dates and long weekends",
       "urgency": "info",
@@ -1604,7 +1694,7 @@
       "link": "https://gulfnews.com/living-in-uae/ask-us/uae-public-holidays-2027-1.500638729"
     },
     {
-      "id": "news-89",
+      "id": "news-94",
       "headline": "Putin warns of retaliation for Western seizures of Russian commercial ships",
       "summary": "Russian President Vladimir Putin on Wednesday threatened retaliation for Western seizures of its commercial vessels, describing them as “piracy.”\nSpeaking on a visit to a Russian warship that was taking part in a naval exercise in the Pacific, Putin described the Western moves to detain vessels link",
       "urgency": "breaking",
@@ -1622,7 +1712,7 @@
       "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363816/putin-warns-retaliation-western-seizures-russian-commercial-ships?utm_source=rss_feed"
     },
     {
-      "id": "news-90",
+      "id": "news-95",
       "headline": "Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say - Fox News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNN21kUlZndGpTMU9FUDJJd1gzT1dZbUo3TVBFbTc1UGw1MUMtN2w5UllvUEIxam5KdHFGTXJUc1JDTW5iTUNyOGFWemhKZXNXVDRzWUE2LXUtcFNGb2tjaVhFRVRGSnFRZzdKMUhLMk84d0NiV3UxYW90TUdxcGg3d2NDMHd0VEFJZjV6Wl9BY1FwU1RWekE3akdiYkZIbVRQbVl4NkVob2tOZ0NFa3fSAbMBQVVfeXF",
       "urgency": "info",
@@ -1640,7 +1730,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN21kUlZndGpTMU9FUDJJd1gzT1dZbUo3TVBFbTc1UGw1MUMtN2w5UllvUEIxam5KdHFGTXJUc1JDTW5iTUNyOGFWemhKZXNXVDRzWUE2LXUtcFNGb2tjaVhFRVRGSnFRZzdKMUhLMk84d0NiV3UxYW90TUdxcGg3d2NDMHd0VEFJZjV6Wl9BY1FwU1RWekE3akdiYkZIbVRQbVl4NkVob2tOZ0NFa3fSAbMBQVVfeXFMUE1IR0NlWmNUZm52QlFUbGpnNjlFZ2VXdjN0bC1aSk41UnZIQmZRVUFfYmdnaTExT3hJSnh4X3gzUFNtd0ZSSGlMWkI3bkZZcGRLN3pqQ3p3aEwwWFQwLWxUMTZJNjdkLWg3MmJRY2EzbHAtMWZsdnA1cDBxY1VWYWhydTEwV2Q5Ylk3OTNpMHV2NmE3YlFkQV8xeE1oN2FBV2s3aFJXLWF3NjdKeE02Q1JXTEE?oc=5"
     },
     {
-      "id": "news-91",
+      "id": "news-96",
       "headline": "Why has North Korea fired a missile ahead of US-South Korea drills?",
       "summary": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
       "urgency": "breaking",
@@ -1658,7 +1748,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss"
     },
     {
-      "id": "news-92",
+      "id": "news-97",
       "headline": "Brazil’s R$20 tamarin nearly vanished; zoologist Devra Kleiman helped save it",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133182778.cms\" /&gt;<![CDATA[Once teetering on the brink of extinction with just two hundred golden lion tamarins left, Brazil has witnessed a remarkable turnaround tha",
       "urgency": "info",
@@ -1676,7 +1766,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/the-golden-lion-tamarin-seen-on-a-r20-banknote-nearly-vanished-from-brazil-zoologist-devra-kleiman-helped-bring-it-back/articleshow/133182778.cms"
     },
     {
-      "id": "news-93",
+      "id": "news-98",
       "headline": "Fund backed by China memory giant YMTC invests in push for alternative chipmaking route",
       "summary": "A venture capital fund backed by Yangtze Memory Technologies Corp (YMTC), China’s top producer of NAND flash memory, has taken a stake in domestic semiconductor manufacturer SOI Micro, adding a high-profile investor to the country’s push for an alternative chipmaking ecosystem.\nLed by a prominent fi",
       "urgency": "info",
@@ -1694,7 +1784,7 @@
       "link": "https://www.scmp.com/tech/article/3363797/fund-backed-china-memory-giant-ymtc-invests-push-alternative-chipmaking-route?utm_source=rss_feed"
     },
     {
-      "id": "news-94",
+      "id": "news-99",
       "headline": "Massive bailout for Australia’s largest aluminium smelter to be announced by PM and NSW premier",
       "summary": "&lt;p&gt;Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthon",
       "urgency": "breaking",
@@ -1710,96 +1800,6 @@
       "timestamp": "2026-08-12T12:59:02.000Z",
       "widgetType": "news",
       "link": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier"
-    },
-    {
-      "id": "news-95",
-      "headline": "Siletz Bay restores 37 acres of tidal wetlands after a century of diking turned marsh into pasture",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133183444.cms\" /&gt;<![CDATA[Efforts are underway to restore thirty-seven acres of wetlands at Siletz Bay National Wildlife Refuge. By filling in outdated drainage ditc",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-12T12:58:22.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/oregons-siletz-bay-is-restoring-37-acres-of-tidal-wetland-this-summer-digging-new-channels-where-more-than-a-century-of-diking-turned-marsh-into-pasture/articleshow/133183444.cms"
-    },
-    {
-      "id": "news-96",
-      "headline": "Suspected RSF drones strike Sudan's Khartoum and Al Obeid - news.az",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlg0end0YlNRSFVJcl9Pc2hEaDAyRjhWUGlJVWtLanNBa3NycXFkdVl3VUQ2N200TWhDUXJhTV9WeExJVG1LUFZROHllTU5yaHF0NVo1YWRuX1V0TWxTYnkzbGM1eTdPNTZNZUw3V1NCdmpMTi1obU4zWjE2TDlIempoWE8?oc=5\" target=\"_blank\"&gt;Suspected RSF drones strike Sudan's Kharto",
-      "urgency": "breaking",
-      "topic": "sudan",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-12T12:55:18.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlg0end0YlNRSFVJcl9Pc2hEaDAyRjhWUGlJVWtLanNBa3NycXFkdVl3VUQ2N200TWhDUXJhTV9WeExJVG1LUFZROHllTU5yaHF0NVo1YWRuX1V0TWxTYnkzbGM1eTdPNTZNZUw3V1NCdmpMTi1obU4zWjE2TDlIempoWE8?oc=5"
-    },
-    {
-      "id": "news-97",
-      "headline": "Faced with ageing population, Vietnam seeks to curb falling birthrate",
-      "summary": "Vietnam, a country of more than 100 million people, is facing a sharp decline in its birthrate. Once known for large families, the nation's fertility rate has fallen to just 1.9 children per woman. This figure worries the government, which for decades was obsessed with controlling population growth.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-12T12:53:02.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/tv-shows/focus/20260812-faced-with-ageing-population-vietnam-seeks-to-curb-falling-birthrate"
-    },
-    {
-      "id": "news-98",
-      "headline": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
-      "summary": "With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-12T12:50:01.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html"
-    },
-    {
-      "id": "news-99",
-      "headline": "Zhu Rongji, former premier who changed China's economic fate passes away at 97",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133183305.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-12T12:49:26.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/china/zhu-rongji-former-premier-who-changed-chinas-economic-fate-passes-away-at-97/articleshow/133183305.cms"
     }
   ],
   "financials": {
