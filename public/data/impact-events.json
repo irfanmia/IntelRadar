@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-14T11:50:12.990Z",
+  "lastUpdated": "2026-08-14T12:10:12.221Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 600,
+      "score": 604,
       "count": 366,
-      "breaking": 101,
-      "latest": "2026-08-14T11:48:25.000Z"
+      "breaking": 103,
+      "latest": "2026-08-14T12:00:09.000Z"
     },
     {
       "id": "middle-east",
@@ -37,13 +37,6 @@
       "latest": "2026-08-14T05:08:37.000Z"
     },
     {
-      "id": "korea",
-      "score": 44,
-      "count": 20,
-      "breaking": 12,
-      "latest": "2026-08-14T02:47:25.000Z"
-    },
-    {
       "id": "venezuela",
       "score": 43,
       "count": 27,
@@ -51,11 +44,18 @@
       "latest": "2026-08-14T08:02:35.000Z"
     },
     {
-      "id": "china-taiwan",
-      "score": 37,
+      "id": "korea",
+      "score": 42,
       "count": 20,
+      "breaking": 11,
+      "latest": "2026-08-14T02:47:25.000Z"
+    },
+    {
+      "id": "china-taiwan",
+      "score": 38,
+      "count": 21,
       "breaking": 8,
-      "latest": "2026-08-14T10:27:46.000Z"
+      "latest": "2026-08-14T12:09:00.000Z"
     },
     {
       "id": "sahel",
@@ -167,8 +167,8 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
-      "korea",
       "venezuela",
+      "korea",
       "china-taiwan",
       "general"
     ],
