@@ -1,8 +1,116 @@
 {
-  "lastUpdated": "2026-08-16T09:10:15.731Z",
+  "lastUpdated": "2026-08-16T09:30:12.285Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T09:27:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "WAFCON: Malawi and Cameroon face off for historic first crown",
+      "summary": "Malawi and Cameroon will face off this Sunday in Rabat at 9pm Paris time in the final of the Women's Africa Cup of Nations. A surprising matchup, with each nation hoping to secure the first continental title in its history.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T09:21:20.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/sport/20260816-wafcon-malawi-and-cameroon-face-off-for-historic-first-crown"
+    },
+    {
+      "id": "news-2",
+      "headline": "Why France's under-15 social media ban was blocked",
+      "summary": "France's attempt to ban social media for under-15s has been blocked by the Constitutional Council, which ruled the measure unconstitutional. Speaking to FRANCE 24, Peter Craddock, Senior Attorney advising social media companies, said the decision was unsurprising, arguing that the proposed law impos",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T09:20:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/why-france-s-under-15-social-media-ban-was-blocked"
+    },
+    {
+      "id": "news-3",
+      "headline": "Morocco tightens security as migrants gather near Ceuta border",
+      "summary": "Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of th",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T09:17:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border"
+    },
+    {
+      "id": "news-4",
+      "headline": "Arctic foxes brought for fur transformed Alaska’s grasslands into tundra",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272150.cms\" /&gt;<![CDATA[Arctic foxes introduced to more than 400 Alaskan islands for fur had an unexpected impact on the ecosystem. By preying on seabirds, they re",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-16T09:10:33.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/fur-traders-introduced-arctic-foxes-across-alaskas-aleutian-islands-to-produce-pelts-by-killing-seabirds-the-foxes-helped-turn-lush-grasslands-into-tundra/articleshow/133272150.cms"
+    },
+    {
+      "id": "news-5",
+      "headline": "Giant fossil left in Arctic in 1948 later revealed a record-size predator",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133272103.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-08-16T09:10:28.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/in-1948-scientists-left-a-giant-fossil-on-an-arctic-island-because-they-could-not-carry-it-78-years-later-it-became-a-record-size-new-predator/articleshow/133272103.cms"
+    },
+    {
+      "id": "news-6",
       "headline": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
       "urgency": "breaking",
@@ -20,7 +128,25 @@
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-1",
+      "id": "news-7",
+      "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+      "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T09:03:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss"
+    },
+    {
+      "id": "news-8",
       "headline": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
       "summary": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
       "urgency": "breaking",
@@ -38,7 +164,7 @@
       "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
     },
     {
-      "id": "news-2",
+      "id": "news-9",
       "headline": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
       "summary": "Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.",
       "urgency": "info",
@@ -56,7 +182,7 @@
       "link": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html"
     },
     {
-      "id": "news-3",
+      "id": "news-10",
       "headline": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
       "summary": "A shooting at a U.S. Consulate has thrust a neighborhood with a troubled past into the center of an emerging criminal phenomenon: young guns for hire as gig workers in the underworld economy.",
       "urgency": "important",
@@ -74,7 +200,7 @@
       "link": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html"
     },
     {
-      "id": "news-4",
+      "id": "news-11",
       "headline": "Trump’s Other Hold on the Americas: The Visa",
       "summary": "As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.",
       "urgency": "info",
@@ -92,7 +218,25 @@
       "link": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html"
     },
     {
-      "id": "news-5",
+      "id": "news-12",
+      "headline": "Italy recovers millions of euros worth of stolen Renoir, Cézanne and Matisse paintings",
+      "summary": "Italian authorities have recovered three paintings by Renoir, Cézanne and Matisse, worth more than €9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to di",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T08:56:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings"
+    },
+    {
+      "id": "news-13",
       "headline": "Pan masala ad row: Shah Rukh Khan, Ajay Devgn, Tiger Shroff face FDA notices",
       "summary": "Pan masala ad row: Shah Rukh Khan, Ajay Devgn, Tiger Shroff face FDA notices",
       "urgency": "info",
@@ -110,7 +254,25 @@
       "link": "https://gulfnews.com/world/asia/india/pan-masala-ad-row-shah-rukh-khan-ajay-devgn-tiger-shroff-face-fda-notices-1.500642606"
     },
     {
-      "id": "news-6",
+      "id": "news-14",
+      "headline": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+      "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous condi",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T08:53:56.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather"
+    },
+    {
+      "id": "news-15",
       "headline": "3-year-old girl rescued 100 hours after Colombia earthquake",
       "summary": "A three-year-old girl and a 75-year-old man have been pulled alive from the rubble days after Colombia’s earthquake.",
       "urgency": "important",
@@ -128,7 +290,43 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-16",
+      "headline": "Belgium battles its largest wildfire in modern history",
+      "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T08:51:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history"
+    },
+    {
+      "id": "news-17",
+      "headline": "West Bank: Palestinian families besieged for a week as settler violence continues",
+      "summary": "Several Palestinian homes in the West Bank village of Qusra have been under siege for a week, with families trapped inside as supplies dwindle and water and electricity are cut off. Settlers have continued their attacks openly, despite the presence of Israeli soldiers and growing international press",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T08:50:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues"
+    },
+    {
+      "id": "news-18",
       "headline": "At least 12 people killed in Hungary bus crash",
       "summary": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.",
       "urgency": "breaking",
@@ -146,7 +344,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-19",
       "headline": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
       "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
       "urgency": "important",
@@ -164,7 +362,7 @@
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-9",
+      "id": "news-20",
       "headline": "Khorfakkan Port plans capacity expansion to 10 million containers a year",
       "summary": "Khorfakkan Port plans capacity expansion to 10 million containers a year",
       "urgency": "info",
@@ -182,7 +380,7 @@
       "link": "https://gulfnews.com/business/markets/khorfakkan-port-plans-capacity-expansion-to-10-million-containers-a-year-1.500642602"
     },
     {
-      "id": "news-10",
+      "id": "news-21",
       "headline": "Indonesian earthquake : Aid reaches Flores as death toll climbs",
       "summary": "At least 47 people have been killed after a powerful 7.7-magnitude earthquake struck eastern Indonesia, triggering hundreds of aftershocks, widespread destruction and landslides. Rescue operations are underway as remote villages remain difficult to reach and the death toll is expected to rise.",
       "urgency": "breaking",
@@ -200,7 +398,7 @@
       "link": "https://www.france24.com/en/indonesian-earthquake-aid-reaches-flores-as-death-toll-climbs"
     },
     {
-      "id": "news-11",
+      "id": "news-22",
       "headline": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
       "summary": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.",
       "urgency": "breaking",
@@ -218,7 +416,7 @@
       "link": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html"
     },
     {
-      "id": "news-12",
+      "id": "news-23",
       "headline": "ICAP UAE Chapter brings finance professionals together for e-invoicing boot camp",
       "summary": "ICAP UAE Chapter brings finance professionals together for e-invoicing boot camp",
       "urgency": "info",
@@ -236,7 +434,7 @@
       "link": "https://gulfnews.com/business/tax-news/icap-uae-chapter-brings-finance-professionals-together-for-e-invoicing-boot-camp-1.500642597"
     },
     {
-      "id": "news-13",
+      "id": "news-24",
       "headline": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
       "summary": "Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.",
       "urgency": "info",
@@ -254,7 +452,7 @@
       "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss"
     },
     {
-      "id": "news-14",
+      "id": "news-25",
       "headline": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
       "summary": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.",
       "urgency": "info",
@@ -272,7 +470,7 @@
       "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss"
     },
     {
-      "id": "news-15",
+      "id": "news-26",
       "headline": "Museum of Illusions Dubai shuts its Al Seef home after 8 years",
       "summary": "Museum of Illusions Dubai shuts its Al Seef home after 8 years",
       "urgency": "info",
@@ -290,7 +488,7 @@
       "link": "https://gulfnews.com/uae/museum-of-illusions-dubai-shuts-its-al-seef-home-after-8-years-1.500642588"
     },
     {
-      "id": "news-16",
+      "id": "news-27",
       "headline": "Saudi Umrah visa valid for 365 days, but bookings required for every visit",
       "summary": "Saudi Umrah visa valid for 365 days, but bookings required for every visit",
       "urgency": "info",
@@ -308,7 +506,7 @@
       "link": "https://gulfnews.com/world/gulf/saudi/saudi-umrah-visa-valid-for-365-days-but-bookings-required-for-every-visit-1.500642585"
     },
     {
-      "id": "news-17",
+      "id": "news-28",
       "headline": "UAE scholarships: 15 reasons students could lose their funding",
       "summary": "UAE scholarships: 15 reasons students could lose their funding",
       "urgency": "info",
@@ -326,7 +524,7 @@
       "link": "https://gulfnews.com/uae/education/uae-scholarships-15-reasons-students-could-lose-their-funding-1.500642579"
     },
     {
-      "id": "news-18",
+      "id": "news-29",
       "headline": "Death knell? Hong Kong’s five-year plan is a starting gun",
       "summary": "I’m a little perplexed and bemused by the brouhaha surrounding Hong Kong’s decision to draft its first five-year plan, as if the sky is falling in around the city’s famed laissez-faire economy.\nPredictably, Yale University’s Stephen Roach (he of “Hong Kong is over” fame) warned in a commentary last ",
       "urgency": "breaking",
@@ -344,7 +542,7 @@
       "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363897/death-knell-hong-kongs-five-year-plan-starting-gun?utm_source=rss_feed"
     },
     {
-      "id": "news-19",
+      "id": "news-30",
       "headline": "Saudi Arabia sets water conservation fines of up to SR200,000",
       "summary": "Saudi Arabia sets water conservation fines of up to SR200,000",
       "urgency": "info",
@@ -362,7 +560,7 @@
       "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-sets-water-conservation-fines-of-up-to-sr200000-1.500642580"
     },
     {
-      "id": "news-20",
+      "id": "news-31",
       "headline": "AD Ports adds trucks, ships and air cargo routes during Strait of Hormuz disruption",
       "summary": "AD Ports adds trucks, ships and air cargo routes during Strait of Hormuz disruption",
       "urgency": "info",
@@ -380,7 +578,7 @@
       "link": "https://gulfnews.com/business/markets/ad-ports-adds-trucks-ships-and-air-cargo-routes-during-strait-of-hormuz-disruption-1.500642576"
     },
     {
-      "id": "news-21",
+      "id": "news-32",
       "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
       "urgency": "breaking",
@@ -398,7 +596,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-22",
+      "id": "news-33",
       "headline": "60% of food waste comes from homes, UAE urges action",
       "summary": "60% of food waste comes from homes, UAE urges action",
       "urgency": "info",
@@ -416,7 +614,7 @@
       "link": "https://gulfnews.com/food/60-of-food-waste-comes-from-homes-uae-urges-action-1.500642577"
     },
     {
-      "id": "news-23",
+      "id": "news-34",
       "headline": "UAE researchers develop first benchmark for AI across 13 Arab dialects",
       "summary": "UAE researchers develop first benchmark for AI across 13 Arab dialects",
       "urgency": "info",
@@ -434,7 +632,7 @@
       "link": "https://gulfnews.com/uae/uae-researchers-develop-first-benchmark-for-ai-across-13-arab-dialects-1.500642569"
     },
     {
-      "id": "news-24",
+      "id": "news-35",
       "headline": "🔴 Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
       "summary": "🔴 Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
       "urgency": "info",
@@ -452,7 +650,7 @@
       "link": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire"
     },
     {
-      "id": "news-25",
+      "id": "news-36",
       "headline": "India PM Narendra Modi shares morning routine with peacocks and cows",
       "summary": "India PM Narendra Modi shares morning routine with peacocks and cows",
       "urgency": "info",
@@ -470,7 +668,7 @@
       "link": "https://gulfnews.com/world/offbeat/india-pm-narendra-modi-shares-morning-routine-with-peacocks-and-cows-1.500642573"
     },
     {
-      "id": "news-26",
+      "id": "news-37",
       "headline": "Our biggest win ever’: Shanto hails Bangladesh’s historic triumph over Australia",
       "summary": "Our biggest win ever’: Shanto hails Bangladesh’s historic triumph over Australia",
       "urgency": "info",
@@ -488,7 +686,7 @@
       "link": "https://gulfnews.com/sport/cricket/our-biggest-win-ever-shanto-hails-bangladeshs-historic-triumph-over-australia-1.500642572"
     },
     {
-      "id": "news-27",
+      "id": "news-38",
       "headline": "Tennessee sisters sold 122-acre homestead for $4,750 but kept living there",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133248576.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -506,7 +704,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-1940-the-walker-sisters-sold-their-122-acre-tennessee-homestead-for-4750-a-lifetime-lease-let-them-keep-living-there-inside-great-smoky-mountains-national-park/articleshow/133248576.cms"
     },
     {
-      "id": "news-28",
+      "id": "news-39",
       "headline": "How a holiday in Alaska led Mahala Dickerson to claim 160 acres and become its first Black lawyer",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133271121.cms\" /&gt;<![CDATA[Mahala Ashley Dickerson broke several barriers during her six-decade legal career. Born in Alabama in 1912, she became the state’s first Bl",
       "urgency": "info",
@@ -524,7 +722,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-1958-mahala-ashley-dickerson-visited-alaska-on-vacation-and-decided-to-move-there-after-claiming-160-acres-she-became-the-territorys-first-black-homesteader-and-months-later-its-first-black-lawyer/articleshow/133271121.cms"
     },
     {
-      "id": "news-29",
+      "id": "news-40",
       "headline": "Australia to begin gun buyback scheme in response to Bondi shooting",
       "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.",
       "urgency": "breaking",
@@ -542,7 +740,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss"
     },
     {
-      "id": "news-30",
+      "id": "news-41",
       "headline": "Quote of the day by Friedrich Nietzsche: \"The higher we soar, the smaller we...\"",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133271964.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -560,7 +758,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/quote-of-the-day-by-friedrich-nietzsche-the-higher-we-soar-the-smaller-we-appear-to-those-who-cannot-fly/articleshow/133271964.cms"
     },
     {
-      "id": "news-31",
+      "id": "news-42",
       "headline": "Indian sailor, wife and kids found dead in Mumbai home",
       "summary": "Indian sailor, wife and kids found dead in Mumbai home",
       "urgency": "breaking",
@@ -578,7 +776,7 @@
       "link": "https://gulfnews.com/world/asia/india/indian-sailor-wife-and-kids-found-dead-in-mumbai-home-1.500642563"
     },
     {
-      "id": "news-32",
+      "id": "news-43",
       "headline": "Space42 wins ADX approval to buy back up to 2.5% of its shares",
       "summary": "Space42 wins ADX approval to buy back up to 2.5% of its shares",
       "urgency": "info",
@@ -596,7 +794,7 @@
       "link": "https://gulfnews.com/business/markets/space42-wins-adx-approval-to-buy-back-up-to-25-of-its-shares-1.500642559"
     },
     {
-      "id": "news-33",
+      "id": "news-44",
       "headline": "Beijing and Manila clash over arrests of ‘illegal’ workers as tensions worsen",
       "summary": "Tensions between Beijing and Manila appear to have spilled over from the South China Sea to immigration, just as Philippine President Ferdinand Marcos Jnr indicated he wanted to “reset” ties.\nManila on Sunday dismissed Beijing’s criticism of Defence Secretary Gilberto Teodoro Jnr over his role in th",
       "urgency": "info",
@@ -614,7 +812,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3364178/beijing-and-manila-clash-over-arrests-illegal-workers-tensions-worsen?utm_source=rss_feed"
     },
     {
-      "id": "news-34",
+      "id": "news-45",
       "headline": "I gave Tencent’s WeChat AI agent control for 24 hours: where it excelled – and stumbled",
       "summary": "Tencent Holdings’ WeChat is already the undisputed super-app for over a billion people in China, handling everything from splitting dinner bills to hailing taxis. Now, Tencent is embedding an artificial intelligence agent named Xiaowei into the platform, adding a hands-free, automated assistant to i",
       "urgency": "info",
@@ -632,7 +830,7 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3364068/i-gave-tencents-wechat-ai-agent-control-24-hours-where-it-excelled-and-stumbled?utm_source=rss_feed"
     },
     {
-      "id": "news-35",
+      "id": "news-46",
       "headline": "UK PM Andy Burnham shifts focus to TikTok and podcasts in social media push",
       "summary": "Whether he is pulling a pint, tossing a builder’s helmet in the air or running with Olympic medallist Mo Farah, the UK’s new Prime Minister Andy Burnham has embraced social media with a deft touch.\nAs well as putting out videos on his own accounts on X and TikTok, he has sought to broaden his audien",
       "urgency": "info",
@@ -650,7 +848,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3364179/uk-pm-andy-burnham-shifts-focus-tiktok-and-podcasts-social-media-push?utm_source=rss_feed"
     },
     {
-      "id": "news-36",
+      "id": "news-47",
       "headline": "Deepti Sharma calls Women&apos;s Asia Cup a key tournament for India",
       "summary": "Deepti Sharma calls Women&apos;s Asia Cup a key tournament for India",
       "urgency": "info",
@@ -668,7 +866,7 @@
       "link": "https://gulfnews.com/sport/cricket/deepti-sharma-calls-womens-asia-cup-a-key-tournament-for-india-1.500642554"
     },
     {
-      "id": "news-37",
+      "id": "news-48",
       "headline": "Spanish fighter jet downs drone breaching Romania's airspace",
       "summary": "A Spanish fighter jet on Sunday shot down a drone that breached Romania's airspace near the border with Ukraine and Moldova, Romania's defence ministry said, in the latest incident to highlight the challenges facing NATO states bordering Ukraine.",
       "urgency": "info",
@@ -686,7 +884,7 @@
       "link": "https://www.france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace"
     },
     {
-      "id": "news-38",
+      "id": "news-49",
       "headline": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
       "summary": "Messi&#039;s record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
       "urgency": "info",
@@ -704,7 +902,7 @@
       "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss"
     },
     {
-      "id": "news-39",
+      "id": "news-50",
       "headline": "New satellite images show Europe’s disappearing rivers due to drought",
       "summary": "Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.",
       "urgency": "info",
@@ -722,7 +920,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss"
     },
     {
-      "id": "news-40",
+      "id": "news-51",
       "headline": "Disney offers fans an escapist bubble at D23 event",
       "summary": "Disney offers fans an escapist bubble at D23 event",
       "urgency": "info",
@@ -740,7 +938,7 @@
       "link": "https://gulfnews.com/entertainment/disney-offers-fans-an-escapist-bubble-at-d23-event-1.500642458"
     },
     {
-      "id": "news-41",
+      "id": "news-52",
       "headline": "Kyiv Book Market On Fire After Russian Strike - Al Arabiya English",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQV24wZjNpcEgtQUhULTcwalhINUNrc0F1MzVYZ09WWVlwTkZtR3gya3Z0QnNqWkpJT3JONE02R0NfR3QxX1NXc3h6Vl9qb3N2WDJVMDFPakdSZFFabWJVczBKeXBXUGZpQUpGNnhNbTRwME93ZTBhSGFybWFBZWtodDZPX3BVWU9XN2hEWFV6dlhPOWdzY2UxMTNMQWxQUXPSAaQBQVVfeXFMTndKOVMwWEtSaEs3Mjl",
       "urgency": "breaking",
@@ -758,7 +956,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV24wZjNpcEgtQUhULTcwalhINUNrc0F1MzVYZ09WWVlwTkZtR3gya3Z0QnNqWkpJT3JONE02R0NfR3QxX1NXc3h6Vl9qb3N2WDJVMDFPakdSZFFabWJVczBKeXBXUGZpQUpGNnhNbTRwME93ZTBhSGFybWFBZWtodDZPX3BVWU9XN2hEWFV6dlhPOWdzY2UxMTNMQWxQUXPSAaQBQVVfeXFMTndKOVMwWEtSaEs3MjlnbFAwOU5Cd3EtUERRN3AyYW5Rc3E4dzJOQ2R5OWM5WmstVVgyVGp4WXItREVwcWp6LURjUW9yZW1xLWZpTjZKN3V4eHE2eUxib2JhLXhqYWh3NFE2QlktRzlqdy1GV1ppVkd2NVVuc1NqekdSUk5ueDBsT3dWOU9xS0NGSTVSeEZKVHVWLXBFX0dmeV9mNmk?oc=5"
     },
     {
-      "id": "news-42",
+      "id": "news-53",
       "headline": "US man on the ‘worst part’ of living in India: ‘It's so cheap'",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133271501.cms\" /&gt;<![CDATA[A Seattle creator's video sarcastically lists India's worst aspects, which are actually its strengths. Affordable and high-quality healthca",
       "urgency": "info",
@@ -776,7 +974,7 @@
       "link": "https://timesofindia.indiatimes.com/life-style/travel/news/seattle-based-creator-talks-about-worst-part-of-living-in-india-its-so-cheap-that-i-dont-know/articleshow/133271501.cms"
     },
     {
-      "id": "news-43",
+      "id": "news-54",
       "headline": "Meta tests new AI tool to detect scams on WhatsApp",
       "summary": "Meta tests new AI tool to detect scams on WhatsApp",
       "urgency": "info",
@@ -794,7 +992,7 @@
       "link": "https://gulfnews.com/technology/media/meta-tests-new-ai-tool-to-detect-scams-on-whatsapp-1.500642538"
     },
     {
-      "id": "news-44",
+      "id": "news-55",
       "headline": "Have you tried Dubai Police&apos;s lost and found service?",
       "summary": "Have you tried Dubai Police&apos;s lost and found service?",
       "urgency": "info",
@@ -812,7 +1010,7 @@
       "link": "https://gulfnews.com/uae/have-you-tried-dubai-polices-lost-and-found-service-1.500642530"
     },
     {
-      "id": "news-45",
+      "id": "news-56",
       "headline": "12 killed as bus overturns in Hungary: PM Magyar",
       "summary": "12 killed as bus overturns in Hungary: PM Magyar",
       "urgency": "breaking",
@@ -830,7 +1028,7 @@
       "link": "https://gulfnews.com/world/12-killed-as-bus-overturns-in-hungary-pm-magyar-1.500642506"
     },
     {
-      "id": "news-46",
+      "id": "news-57",
       "headline": "UFC 330: Makhachev secures record-setting win against Machado Garry",
       "summary": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.",
       "urgency": "info",
@@ -848,7 +1046,7 @@
       "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss"
     },
     {
-      "id": "news-47",
+      "id": "news-58",
       "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
       "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "urgency": "breaking",
@@ -866,7 +1064,7 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-48",
+      "id": "news-59",
       "headline": "160 plus fractures found in Scottish castle skeleton may be first confirmed trebuchet death",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133270475.cms\" /&gt;<![CDATA[A 14th-century skeleton found beneath Scotland’s Stirling Castle may be the first confirmed archaeological evidence of a person killed by a",
       "urgency": "breaking",
@@ -884,7 +1082,7 @@
       "link": "https://timesofindia.indiatimes.com/science/a-skeleton-found-beneath-scotlands-stirling-castle-had-more-than-160-fractures-researchers-say-it-is-the-first-confirmed-death-from-a-trebuchet/articleshow/133270475.cms"
     },
     {
-      "id": "news-49",
+      "id": "news-60",
       "headline": "In 1898, 17 years after surviving the O.K. Corral gunfight, Virgil Earp claimed 160 acres in Arizona; two years later, he earned title to the land",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133242778.cms\" /&gt;<![CDATA[Virgil Earp, known for surviving the infamous O.K. Corral gunfight, embraced a new beginning as a homesteader in Arizona. Claiming 160 acre",
       "urgency": "breaking",
@@ -902,7 +1100,25 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-1898-17-years-after-surviving-the-o-k-corral-gunfight-virgil-earp-claimed-160-acres-in-arizona-two-years-later-he-earned-title-to-the-land/articleshow/133242778.cms"
     },
     {
-      "id": "news-50",
+      "id": "news-61",
+      "headline": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "summary": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-08-16T06:53:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
+    },
+    {
+      "id": "news-62",
       "headline": "How the US could squeeze Iran with economic isolation – and the risks involved",
       "summary": "Treasury Secretary Scott Bessent says the US is getting ready to squeeze Iran with unprecedented economic pressure, a claim critics greeted with scepticism given the country is already subject to a naval blockade and thousands of sanctions.\nWhile the Trump administration has not said what it is plan",
       "urgency": "important",
@@ -920,7 +1136,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3364177/how-us-could-squeeze-iran-economic-isolation-and-risks-involved?utm_source=rss_feed"
     },
     {
-      "id": "news-51",
+      "id": "news-63",
       "headline": "Bangladesh make history with first-ever Test cricket win in Australia",
       "summary": "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.",
       "urgency": "info",
@@ -938,7 +1154,7 @@
       "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss"
     },
     {
-      "id": "news-52",
+      "id": "news-64",
       "headline": "Thousands of evacuees await aid after deadly quake on Indonesia's Flores island",
       "summary": "Thousands of evacuees on Indonesia's Flores island began receiving aid on Sunday after a 7.7-magnitude quake killed 48 people, injured dozens and damaged hundreds of houses and buildings. Some 5,000 people fled their homes and in some areas people were left without electricity and telecommunications",
       "urgency": "breaking",
@@ -956,7 +1172,7 @@
       "link": "https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake"
     },
     {
-      "id": "news-53",
+      "id": "news-65",
       "headline": "Hungary bus crash: 12 killed, 10 injured after Polish bus overturns on M3 motorway",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133270965.cms\" /&gt;<![CDATA[Twelve people died and ten were seriously injured after a Polish bus overturned early Sunday. The bus ran off the M3 motorway and tipped in",
       "urgency": "breaking",
@@ -974,7 +1190,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/12-killed-10-injured-after-polish-bus-overturns-in-hungary/articleshow/133270965.cms"
     },
     {
-      "id": "news-54",
+      "id": "news-66",
       "headline": "Lithium in the Sahel: how armed groups are exploiting the global scramble for the critical mineral - The Conversation",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOVF8yX08wQU1ka1ZfazJLMTg3bW9jMUdrOW1jelE2dUdlMGFVRGx4WElVbFNNckp0V0xacTdVMWFhOTBJLTFOMXBHQjkza21QQTJRTTVMYWJTTXFWLUZrTWtGa0hxQjFzdnFtbFROalBwTVRrOWhvTGduQWRjT3Y3SkhwZl8yVU95OHB1bF9fbXBZRWkxWUF4aEF4Z3UtX3BXeDdMM1JOTW52R0pyeWY4eUxXblh3bS0",
       "urgency": "info",
@@ -992,7 +1208,7 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVF8yX08wQU1ka1ZfazJLMTg3bW9jMUdrOW1jelE2dUdlMGFVRGx4WElVbFNNckp0V0xacTdVMWFhOTBJLTFOMXBHQjkza21QQTJRTTVMYWJTTXFWLUZrTWtGa0hxQjFzdnFtbFROalBwTVRrOWhvTGduQWRjT3Y3SkhwZl8yVU95OHB1bF9fbXBZRWkxWUF4aEF4Z3UtX3BXeDdMM1JOTW52R0pyeWY4eUxXblh3bS02ZU5YSVRiellVZXVaSUxrX0hkRGQ?oc=5"
     },
     {
-      "id": "news-55",
+      "id": "news-67",
       "headline": "How a simple lighter has become the backbone of life in Gaza",
       "summary": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
       "urgency": "info",
@@ -1010,7 +1226,7 @@
       "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss"
     },
     {
-      "id": "news-56",
+      "id": "news-68",
       "headline": "A nation divided: What do Israelis want in October’s elections?",
       "summary": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
       "urgency": "breaking",
@@ -1028,7 +1244,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss"
     },
     {
-      "id": "news-57",
+      "id": "news-69",
       "headline": "Houthi Missile Attacks Force Yemen’s Mocha Port to Suspend Operations - Межа. Новини України.",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1pNXVYdzdZM2tVUEphMnJJXzRwT09UZHNXWjNSM3R3VWdZWGNnUFZKOUFPMTduUmNyMmN0VHhCQmE4YnhlLUdGTzlnM1pGYW4xSUVEc0hyaFF2aHlwY2xzbDRoY01mZXFMWlplbQ?oc=5\" target=\"_blank\"&gt;Houthi Missile Attacks Force Yemen’s Mocha Port to Suspend Operations&lt;/a",
       "urgency": "breaking",
@@ -1046,7 +1262,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pNXVYdzdZM2tVUEphMnJJXzRwT09UZHNXWjNSM3R3VWdZWGNnUFZKOUFPMTduUmNyMmN0VHhCQmE4YnhlLUdGTzlnM1pGYW4xSUVEc0hyaFF2aHlwY2xzbDRoY01mZXFMWlplbQ?oc=5"
     },
     {
-      "id": "news-58",
+      "id": "news-70",
       "headline": "Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
       "summary": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 3,000 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders.",
       "urgency": "breaking",
@@ -1064,7 +1280,7 @@
       "link": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire"
     },
     {
-      "id": "news-59",
+      "id": "news-71",
       "headline": "Why the Chinese yuan could soon be Africa’s most important currency",
       "summary": "Africa is emerging as fertile ground for Beijing’s drive to make the yuan a major international currency and reduce reliance on the US dollar, as an increasing number of financial institutions deepen their integration with China’s payment network.\nFollowing talks in Beijing between Central Bank of L",
       "urgency": "info",
@@ -1082,7 +1298,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency?utm_source=rss_feed"
     },
     {
-      "id": "news-60",
+      "id": "news-72",
       "headline": "Snooker stars not in Hong Kong just for low tax, immigration chief says",
       "summary": "Hong Kong’s immigration chief has rejected claims that world‑class snooker players are using a local talent scheme primarily to cut their tax bills, saying zero‑tax Middle Eastern destinations would be more logical if avoidance were the only goal.\nDirector of Immigration Benson Kwok Joon‑fung stress",
       "urgency": "info",
@@ -1100,7 +1316,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364174/snooker-stars-not-hong-kong-just-low-tax-immigration-chief-says?utm_source=rss_feed"
     },
     {
-      "id": "news-61",
+      "id": "news-73",
       "headline": "In 1962, an elephant was given the largest LSD dose ever recorded, he died 100 minutes later",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133270598.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1118,7 +1334,7 @@
       "link": "https://timesofindia.indiatimes.com/science/tragic-tale-in-1962-oklahoma-researchers-gave-14-year-old-elephant-tusko-297-mg-of-lsd-the-largest-single-dose-ever-administered-he-collapsed-within-five-minutes-and-died-100-minutes-later/articleshow/133270598.cms"
     },
     {
-      "id": "news-62",
+      "id": "news-74",
       "headline": "Impact of US trade policy shifts on Hong Kong ‘primarily psychological’: Paul Chan",
       "summary": "Changes in US trade policy and interest rate trends will significantly affect Hong Kong’s economy but the impact will be “primarily psychological”, the finance chief has said, while expressing optimism for growth momentum to continue into the second half of the year.\nFinancial Secretary Paul Chan Mo",
       "urgency": "important",
@@ -1136,7 +1352,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364173/impact-us-trade-policy-shifts-hong-kong-primarily-psychological-paul-chan?utm_source=rss_feed"
     },
     {
-      "id": "news-63",
+      "id": "news-75",
       "headline": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
       "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali an",
       "urgency": "breaking",
@@ -1154,7 +1370,7 @@
       "link": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake"
     },
     {
-      "id": "news-64",
+      "id": "news-76",
       "headline": "Flood in rural northwestern Spain kills two, injures two babies",
       "summary": "Two women were killed and two babies were injured when torrential rain sparked a flood and a landslide in rural northwestern Spain on Saturday, authorities said. The flood comes after weeks of heatwaves and wildfires in the country.",
       "urgency": "breaking",
@@ -1172,7 +1388,7 @@
       "link": "https://www.france24.com/en/europe/20260816-spain-flood-and-landslide-kills-two-injures-two-babies"
     },
     {
-      "id": "news-65",
+      "id": "news-77",
       "headline": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
       "summary": "Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.",
       "urgency": "breaking",
@@ -1190,7 +1406,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss"
     },
     {
-      "id": "news-66",
+      "id": "news-78",
       "headline": "'Luxury porn' pitch to Epstein: Anthropic CEO's wife Cami Clark's ties surface",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133269999.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1208,7 +1424,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/luxury-porn-pitch-to-epstein-anthropic-ceos-wife-cami-clarks-ties-surface/articleshow/133269999.cms"
     },
     {
-      "id": "news-67",
+      "id": "news-79",
       "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
       "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.",
       "urgency": "breaking",
@@ -1226,7 +1442,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss"
     },
     {
-      "id": "news-68",
+      "id": "news-80",
       "headline": "France's Léon Marchand wins first European title in front of home crowd",
       "summary": "Day six of the European Championships in Paris saw four-time Olympic champion Léon Marchand claim his first continental title by winning the 200m butterfly final. There was another gold medal for France later in the evening, with Mary-Ambre Moluh setting a new European record to win the 100m backstr",
       "urgency": "info",
@@ -1244,7 +1460,7 @@
       "link": "https://www.france24.com/en/tv-shows/sports/20260816-france-s-l%C3%A9on-marchand-wins-first-european-title-in-front-of-home-crowd"
     },
     {
-      "id": "news-69",
+      "id": "news-81",
       "headline": "Indonesian earthquake survivors recount chaotic escape: ‘house collapsed on me’",
       "summary": "Melania Nius was at her husband’s hospital bedside on Indonesia’s Flores Island when a powerful quake shook their town to its core, sending patients fleeing into the chaos outside.\nMelania, 56, recounted how she prayed as she fought to get her family to safety.\n“The four of us – my husband, our two ",
       "urgency": "breaking",
@@ -1262,7 +1478,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364170/indonesian-earthquake-survivors-recount-chaotic-escape-house-collapsed-me?utm_source=rss_feed"
     },
     {
-      "id": "news-70",
+      "id": "news-82",
       "headline": "Japan’s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
       "summary": "&lt;p&gt;Discussions to focus on Australia’s acquisition of Mogami-class frigates as Japan plays down Albanese’s podcast comments&lt;/p&gt;&lt;p&gt;Japan’s defence minister will visit Canberra this week, the highest level engagement with Australia after controversy over Anthony Albanese’s comments a",
       "urgency": "info",
@@ -1280,7 +1496,7 @@
       "link": "https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy"
     },
     {
-      "id": "news-71",
+      "id": "news-83",
       "headline": "Israel strikes south Lebanon again as families flee north",
       "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
       "urgency": "breaking",
@@ -1298,7 +1514,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss"
     },
     {
-      "id": "news-72",
+      "id": "news-84",
       "headline": "Live: Moscow targeted by 600 drones overnight, explosions heard in Kyiv",
       "summary": "Six hundred drones targeted the Moscow region in a sustained overnight assault that wounded three people, the Russian capital's mayor said on Sunday, as Ukraine steps up long-range attacks into Russian territory. The assault came as Russian ⁠forces launched a ​missile attack on Kyiv, sparking fires ",
       "urgency": "breaking",
@@ -1316,7 +1532,7 @@
       "link": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv"
     },
     {
-      "id": "news-73",
+      "id": "news-85",
       "headline": "Heatwave to persist in Hong Kong before thunderstorms set in midweek",
       "summary": "Scorching weather will persist across Hong Kong on Sunday and Monday, with maximum temperatures climbing to 35 degrees Celsius (95 Fahrenheit) before a low-pressure system brings squally thunderstorms and unsettled weather by midweek.\nThe very hot weather warning has been in force since 6.45am on Su",
       "urgency": "breaking",
@@ -1334,7 +1550,7 @@
       "link": "https://www.scmp.com/news/hong-kong/article/3364168/heatwave-persist-hong-kong-thunderstorms-set-midweek?utm_source=rss_feed"
     },
     {
-      "id": "news-74",
+      "id": "news-86",
       "headline": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
       "summary": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
       "urgency": "breaking",
@@ -1352,7 +1568,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss"
     },
     {
-      "id": "news-75",
+      "id": "news-87",
       "headline": "Chalmers rejects Hanson’s call for more super access saying One Nation ‘wants to destroy’ scheme – as it happened",
       "summary": "&lt;p&gt;This blog is now closed&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;free app&lt;/a&gt; or &lt;a href=\"https://www.theguardian.com/austra",
       "urgency": "breaking",
@@ -1370,7 +1586,7 @@
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb"
     },
     {
-      "id": "news-76",
+      "id": "news-88",
       "headline": "'Worry about your own security': Iranian lawmaker jabs Trump over 'secret' Turkey flight",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133269786.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1388,7 +1604,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/stop-endless-bluffing-iranian-lawmaker-hits-back-at-trump-over-fresh-hormuz-remark/articleshow/133269786.cms"
     },
     {
-      "id": "news-77",
+      "id": "news-89",
       "headline": "One week of extreme heat in Europe linked to 16,000 excess deaths: Report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133269658.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1406,7 +1622,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/one-week-of-extreme-heat-in-europe-linked-to-16000-excess-deaths-report/articleshow/133269658.cms"
     },
     {
-      "id": "news-78",
+      "id": "news-90",
       "headline": "Yemeni government forces hit back after new Houthi offensive",
       "summary": "Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.",
       "urgency": "info",
@@ -1424,7 +1640,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss"
     },
     {
-      "id": "news-79",
+      "id": "news-91",
       "headline": "After Women in India Joined Protests, Online Harassment Followed",
       "summary": "Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.",
       "urgency": "important",
@@ -1442,7 +1658,7 @@
       "link": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html"
     },
     {
-      "id": "news-80",
+      "id": "news-92",
       "headline": "Fraying legacy: Sham Shui Po’s fabric row faces uncertain future as shops bow out",
       "summary": "In a cramped handicraft shop in Hong Kong’s Sham Shui Po neighbourhood, 70-year-old Jen Kwong was sifting through reels of embroidered and sequinned ribbons while other shoppers around her were hunched over containers of tiny beads and trinkets.\nKwong, who had worked for four decades during the gold",
       "urgency": "info",
@@ -1460,7 +1676,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364167/bead-streets-fraying-legacy-craft-hub-faces-uncertain-future-shops-bow-out?utm_source=rss_feed"
     },
     {
-      "id": "news-81",
+      "id": "news-93",
       "headline": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
       "summary": "Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.",
       "urgency": "info",
@@ -1478,7 +1694,7 @@
       "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html"
     },
     {
-      "id": "news-82",
+      "id": "news-94",
       "headline": "How Cambodian worker exodus exposes Thailand’s fragile labour model",
       "summary": "After last year’s border conflict with Cambodia, hundreds of thousands of migrant workers left Thailand, exposing how dependent parts of its economy had become on cross-border labour.\nThailand has tried to ease the squeeze by holding on to workers already in the country, especially Myanmar nationals",
       "urgency": "breaking",
@@ -1496,7 +1712,7 @@
       "link": "https://www.scmp.com/week-asia/economics/article/3364128/how-cambodian-worker-exodus-exposes-thailands-fragile-labour-model?utm_source=rss_feed"
     },
     {
-      "id": "news-83",
+      "id": "news-95",
       "headline": "China’s ‘electric eel’ sensor allows robots to feel an object without touching it",
       "summary": "Electric eels hunt in pitch-black, murky waters by generating electric fields around their bodies. Now, Chinese scientists have mimicked this natural radar, giving robots the ability to “feel” objects without making physical contact.\n“We want the machine to sense an approaching target – distinguish ",
       "urgency": "info",
@@ -1514,7 +1730,7 @@
       "link": "https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it?utm_source=rss_feed"
     },
     {
-      "id": "news-84",
+      "id": "news-96",
       "headline": "Rescue teams search for survivors in Indonesia after powerful earthquake",
       "summary": "&lt;p&gt;Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people&lt;/p&gt;&lt;p&gt;Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a &lt;a ",
       "urgency": "breaking",
@@ -1532,7 +1748,7 @@
       "link": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
     },
     {
-      "id": "news-85",
+      "id": "news-97",
       "headline": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
       "summary": "Three decades after rapper Tupac Shakur&#039;s death, a former California gang boss is the first person to be prosecuted.",
       "urgency": "breaking",
@@ -1550,7 +1766,7 @@
       "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss"
     },
     {
-      "id": "news-86",
+      "id": "news-98",
       "headline": "Qatar denies holding Iranian pilots; Tehran claims three were captured alive​​ - Khaleej Times",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHd3eGtnV2VvVW85RnhNcUR3ZzJSYXd3SC0wby1fVWtROVNwTGdjQ2d5Qk9hNWRiRU85Mkt1WWc4NG1La0JFdmo0ZkIwd19VNVB0VG5TVjE0dS1iOWRuRlM3OENLSU9Wc3Iya0REU2VYVzFJQURIQ3JXWmNtZHI4OTcydlF3b081bjlKLVlxb2fSAZgBQVVfeXFMUHRRS3pWbHdNbEZUUVBCVHF3YnE5Z3E1b0hFa2Y",
       "urgency": "info",
@@ -1568,7 +1784,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHd3eGtnV2VvVW85RnhNcUR3ZzJSYXd3SC0wby1fVWtROVNwTGdjQ2d5Qk9hNWRiRU85Mkt1WWc4NG1La0JFdmo0ZkIwd19VNVB0VG5TVjE0dS1iOWRuRlM3OENLSU9Wc3Iya0REU2VYVzFJQURIQ3JXWmNtZHI4OTcydlF3b081bjlKLVlxb2fSAZgBQVVfeXFMUHRRS3pWbHdNbEZUUVBCVHF3YnE5Z3E1b0hFa2YzQjNPZEZlYUdzeDVlOTR6OHB4RnZsTU0xSGphOXlZcjZseFY5ckU5X1dmT3lRR3FPa1Z3QkQ2RDdua3pNaWZZMkdqck9UNE0tbGRPT1paZl9ibDN5Vmk0SzdZV0RPbWFWbmhzRHkxNHhseVJ5amowcVFENHA?oc=5"
     },
     {
-      "id": "news-87",
+      "id": "news-99",
       "headline": "Observers say Zambia’s election marred by reports of intimidation, violence",
       "summary": "Vote counting in Thursday&#039;s presidential polls were briefly suspended amid security threats to the electoral process.",
       "urgency": "important",
@@ -1584,222 +1800,6 @@
       "timestamp": "2026-08-16T03:39:32.000Z",
       "widgetType": "news",
       "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss"
-    },
-    {
-      "id": "news-88",
-      "headline": "Is Netanyahu headed for setback in Israel election? No Trump endorsement raises eyebrows",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133269225.cms\" /&gt;<![CDATA[",
-      "urgency": "important",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T03:15:55.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/is-netanyahu-bracing-for-setback-in-israel-election-no-trump-endorsement-raises-eyebrows/articleshow/133269225.cms"
-    },
-    {
-      "id": "news-89",
-      "headline": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOamViOTljSm9yZThFTFFwTVptempabG83N2ZRUEcxMlo4ZXlIUzdWSjZ2ZGx4SE0yVXpNTEJac0ROMnh6dnJhMUV3R3Y4RDE1Tm94NmIyUWZXTmdkUC1xb1VxeEFTZkpQLUJBMUROVm12UTBYN3FUalFOcTh6U2I4SWgzREV3SmgtNjZPRm5BcmpxYXlwUWxpbWpQaVBoZ9IBowFBVV95cUxPVW1TOU1qV2JUU19aVDl",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-16T03:04:53.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamViOTljSm9yZThFTFFwTVptempabG83N2ZRUEcxMlo4ZXlIUzdWSjZ2ZGx4SE0yVXpNTEJac0ROMnh6dnJhMUV3R3Y4RDE1Tm94NmIyUWZXTmdkUC1xb1VxeEFTZkpQLUJBMUROVm12UTBYN3FUalFOcTh6U2I4SWgzREV3SmgtNjZPRm5BcmpxYXlwUWxpbWpQaVBoZ9IBowFBVV95cUxPVW1TOU1qV2JUU19aVDlBaHh4U0lJWlViVThsTzhZZzNGLUI5bi1PanRJZUJhc05ZaVRoNk9aYWRtQ1pKSUZqdENnS2NpU05URlB5YkI2M3U3SXpQMnoxQjBnNGxrTGUxb0x3ajNTeVEzT0kyajA2VFVFbGl4Y2FScmdJTDlmenFfWmM5aklQTl9IWm1VWmpYbGY0a1ZraUF2d3Rn?oc=5"
-    },
-    {
-      "id": "news-90",
-      "headline": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
-      "summary": "China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing.\nD",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T03:00:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed"
-    },
-    {
-      "id": "news-91",
-      "headline": "‘Always proud’: Kim Jong Un hails Russia ties in message to Putin",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133269142.cms\" /&gt;<![CDATA[North Korean leader Kim Jong Un and Russian President Vladimir Putin have reaffirmed their close relationship.  Their countries are activel",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:57:16.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/always-proud-kim-jong-un-hails-north-korea-russia-ties-in-message-to-putin/articleshow/133269142.cms"
-    },
-    {
-      "id": "news-92",
-      "headline": "Israel strikes Lebanon as Iran-US tensions escalate",
-      "summary": "Israel strikes Lebanon as Iran-US tensions escalate",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:52:35.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/israel-strikes-lebanon-as-iran-us-tensions-escalate-2-1.500642381"
-    },
-    {
-      "id": "news-93",
-      "headline": "Explosions heard in Lebanon's Nabatieh as Israel continues strikes - Middle East Eye",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBuMEdnanhydXdyMl9XV2hlc0tKTmstTE1VWGhvZWM0bjhrdG5vbzA5eVJwN1BDNEROdTlqeG1KSXduWGhRMlg3dDhleXBXWUZJb281elU2Y3J6a0tkbHlGY050eXRxT00xemljVlNRdGl0eVJWeW5wbHZ0clRIeHRRVmFGbUJKemYxTldEVXBMWnhrV3BTWndZWTl6Smo5NzlmUXdFY2cydHpKTnFxdU82ZlNsdTg",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Middle East Eye",
-          "logo": "https://www.google.com/s2/favicons?domain=middleeasteye.net&sz=32",
-          "url": "https://middleeasteye.net",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:27:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBuMEdnanhydXdyMl9XV2hlc0tKTmstTE1VWGhvZWM0bjhrdG5vbzA5eVJwN1BDNEROdTlqeG1KSXduWGhRMlg3dDhleXBXWUZJb281elU2Y3J6a0tkbHlGY050eXRxT00xemljVlNRdGl0eVJWeW5wbHZ0clRIeHRRVmFGbUJKemYxTldEVXBMWnhrV3BTWndZWTl6Smo5NzlmUXdFY2cydHpKTnFxdU82ZlNsdTg?oc=5"
-    },
-    {
-      "id": "news-94",
-      "headline": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-      "summary": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:26:54.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss"
-    },
-    {
-      "id": "news-95",
-      "headline": "Chinese ‘family bridge’ makes 200 mountain trips yearly to connect elderly with overseas children",
-      "summary": "A man in central China has completed more than 200 trips to remote mountain villages in a year, visiting elderly parents on behalf of their children who work and live far from home or overseas.\nTian Rui, 39, from Yichang in Hubei province, is a former rural courier who now operates a small convenien",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:19:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3364166/chinese-family-bridge-makes-200-mountain-trips-yearly-connect-elderly-overseas-children?utm_source=rss_feed"
-    },
-    {
-      "id": "news-96",
-      "headline": "Qatar calls Iran’s claim ‘misleading’, denies capturing 3 pilots after March strike",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133268959.cms\" /&gt;<![CDATA[Qatar denied Iran's claims about holding three captured military pilots.  Iranian jets allegedly violated Qatari airspace during a March op",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:19:13.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/qatar-calls-irans-claim-misleading-denies-capturing-3-pilots-after-march-strike/articleshow/133268959.cms"
-    },
-    {
-      "id": "news-97",
-      "headline": "As China launches new gang crackdown, lawyers fear wrongful convictions",
-      "summary": "During a crackdown on organised crime, Zeng Jianbin, a real estate developer in Mianyang, in the southwestern Chinese province of Sichuan, was sentenced to 20 years in prison for being a “gang leader”.\nIn 2023, the Mianyang Intermediate People’s Court convicted Zeng of nine offences, including provo",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:00:15.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/politics/article/3364158/china-launches-new-gang-crackdown-lawyers-fear-wrongful-convictions?utm_source=rss_feed"
-    },
-    {
-      "id": "news-98",
-      "headline": "Does K-pop need the Grammys? BTS’ boycott reignites debate",
-      "summary": "For Asian musicians, the Grammy Awards represent the ultimate dream and recognition of success in the global music industry long dominated by their Western counterparts.\nWhen BTS, widely regarded as the world’s most famous Asian pop act, decided not to submit their music for consideration at next ye",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T02:00:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3364070/does-k-pop-need-grammys-bts-boycott-reignites-debate?utm_source=rss_feed"
-    },
-    {
-      "id": "news-99",
-      "headline": "Why Hurricane Lala is a historic threat to Hawaii’s Big Island",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133268829.cms\" /&gt;<![CDATA[Hurricane Lala approached Hawaii's Big Island as a Category 1 storm.  Powerful winds and heavy rain brought dangerous surf and potential fl",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-08-16T01:51:55.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/heavy-rain-dangerous-surf-why-hurricane-lala-is-a-historic-threat-to-hawaiis-big-island/articleshow/133268829.cms"
     }
   ],
   "financials": {
