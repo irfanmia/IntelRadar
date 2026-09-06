@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T17:21:25.145Z",
+  "lastUpdated": "2026-09-06T17:40:08.035Z",
   "news": [
     {
       "id": "news-0",
@@ -15,12 +15,48 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-09-06T17:15:38.000Z",
+      "timestamp": "2026-09-06T17:39:28.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election"
     },
     {
       "id": "news-1",
+      "headline": "ISRO says reforms are ‘ecosystem expansion’, not privatisation, as industry role grows",
+      "summary": "ISRO says reforms are ‘ecosystem expansion’, not privatisation, as industry role grows",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-06T17:33:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/india/isro-says-reforms-are-ecosystem-expansion-not-privatisation-as-industry-role-grows-1.500665195"
+    },
+    {
+      "id": "news-2",
+      "headline": "Germany's far-right AfD emerges as landslide winner in eastern state vote",
+      "summary": "&lt;p&gt;Germany’s far-right AfD won a landslide victory in a key regional election Sunday in the ex-communist east, taking at least 44 per cent of the vote according to exit polls by two public broadcasters.&lt;/p&gt;\n&lt;p&gt;“We have made history today,” said a jubilant Ulrich Siegmund, the 35-ye",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-06T17:30:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2027934/germanys-far-right-afd-emerges-as-landslide-winner-in-eastern-state-vote"
+    },
+    {
+      "id": "news-3",
       "headline": "Here’s the latest.",
       "summary": "Here’s the latest.",
       "urgency": "info",
@@ -38,7 +74,7 @@
       "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election/polls-are-set-to-close-in-crucial-election"
     },
     {
-      "id": "news-2",
+      "id": "news-4",
       "headline": "German far-right set for big win in eastern state - projections",
       "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
       "urgency": "info",
@@ -56,7 +92,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-3",
+      "id": "news-5",
       "headline": "Lebanon’s president appeals to US for help as Israeli strikes kill 7",
       "summary": "Lebanese President Joseph Aoun urged Washington and the international community to help stop Israeli attacks, which killed at least seven people on Sunday despite a truce and a framework deal aimed at halting the violence.\nIsrael said it had targeted Hezbollah operatives and sites in response to a d",
       "urgency": "breaking",
@@ -74,7 +110,7 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3366563/lebanons-president-appeals-us-help-israeli-strikes-kill-7?utm_source=rss_feed"
     },
     {
-      "id": "news-4",
+      "id": "news-6",
       "headline": "PTI claims Hammad Azhar arrested in Punjab",
       "summary": "&lt;p&gt;The PTI on Sunday claimed that its leader Hammad Azhar has been arrested, denouncing the action as “political vengeance”.&lt;/p&gt;\n&lt;p&gt;While police officials said they were unaware of his arrest, sources said the PTI leader was taken into custody in Multan in a case pertaining to the ",
       "urgency": "breaking",
@@ -92,7 +128,25 @@
       "link": "https://www.dawn.com/news/2027930/pti-claims-hammad-azhar-arrested-in-punjab"
     },
     {
-      "id": "news-5",
+      "id": "news-7",
+      "headline": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "summary": "&lt;p&gt;Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state&lt;/p&gt;&lt;p&gt;A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that stil",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-06T17:05:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles"
+    },
+    {
+      "id": "news-8",
       "headline": "KP CM says won't leave Sindh without holding Karachi rally as PTI convoy en route to city",
       "summary": "&lt;p&gt;Khyber Pakhtunkhwa Chief Minister Sohail Afridi on Sunday said he would not leave Sindh without holding a &lt;a href=\"https://www.dawn.com/news/2025517/pti-to-hold-rally-in-karachi-on-sept-6-kp-cm-sohail-afridi-to-tour-sindh\"&gt;planned&lt;/a&gt; PTI gathering in Karachi, as his convoy made",
       "urgency": "breaking",
@@ -110,7 +164,7 @@
       "link": "https://www.dawn.com/news/2027902/kp-cm-says-wont-leave-sindh-without-holding-karachi-rally-as-pti-convoy-en-route-to-city"
     },
     {
-      "id": "news-6",
+      "id": "news-9",
       "headline": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
       "summary": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
       "urgency": "breaking",
@@ -128,7 +182,25 @@
       "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-10",
+      "headline": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-06T17:00:56.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-11",
       "headline": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
       "summary": "US Energy Secretary Chris Wright&#039;s comments could signal that US hopes for a nuclear deal are dimming.",
       "urgency": "info",
@@ -146,7 +218,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-12",
       "headline": "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
       "summary": "Lamine Yamal scored twice and Fermin Lopez shone as Barcelona romped to a 5-0 win at La Liga strugglers Valencia.",
       "urgency": "info",
@@ -164,7 +236,7 @@
       "link": "https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss"
     },
     {
-      "id": "news-9",
+      "id": "news-13",
       "headline": "Dozens feared trapped in collapsed building in Delhi",
       "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
       "urgency": "important",
@@ -182,7 +254,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-10",
+      "id": "news-14",
       "headline": "After a 25-acre Lake Erie wetland was reconnected, sonar recorded 3.44 million fish detections",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133843408.cms\" /&gt;<![CDATA[A rejuvenated wetland at Lake Erie witnessed an influx of aquatic wildlife thanks to its reconnection. High-resolution sonar has captured a",
       "urgency": "info",
@@ -200,7 +272,7 @@
       "link": "https://timesofindia.indiatimes.com/science/after-a-25-acre-lake-erie-wetland-was-reconnected-sonar-recorded-3-44-million-fish-detections-over-2022-monitoring-hours-across-four-years-showing-the-restored-habitat-was-used-continuously/articleshow/133843408.cms"
     },
     {
-      "id": "news-11",
+      "id": "news-15",
       "headline": "Germany’s far-right AfD is landslide winner in Saxony-Anhalt vote, exit polls indicate",
       "summary": "Germany’s far-right Alternative for Germany (AfD) won key regional elections on Sunday by a landslide with at least 44 per cent of the vote in the eastern state of Saxony-Anhalt, said exit polls by two public broadcasters.\nThe AfD was far ahead of the centre-right CDU of Chancellor Friedrich Merz, w",
       "urgency": "important",
@@ -218,7 +290,25 @@
       "link": "https://www.scmp.com/news/world/europe/article/3366562/germanys-far-right-afd-landslide-winner-eastern-state-vote-exit-polls-indicate?utm_source=rss_feed"
     },
     {
-      "id": "news-12",
+      "id": "news-16",
+      "headline": "Iran touts military response as US maintains blockade, hits tankers - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2d",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-06T16:28:45.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5"
+    },
+    {
+      "id": "news-17",
       "headline": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target",
       "summary": "Six bombs dropped by Navy jets targeted a communications complex in the coastal town of Kuhestak. One missed.",
       "urgency": "breaking",
@@ -236,7 +326,7 @@
       "link": "https://www.washingtonpost.com/world/2026/09/06/deadly-iran-wedding-strike-likely-due-us-weapon-missing-nearby-target/"
     },
     {
-      "id": "news-13",
+      "id": "news-18",
       "headline": "What actually makes a good travel wallet?",
       "summary": "What actually makes a good travel wallet?",
       "urgency": "info",
@@ -254,7 +344,7 @@
       "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/what-actually-makes-a-good-travel-wallet-1.500663078"
     },
     {
-      "id": "news-14",
+      "id": "news-19",
       "headline": "Mudslide death toll in China rises to 3 after heavy rain from Typhoon Saudel",
       "summary": "Mudslide death toll in China rises to 3 after heavy rain from Typhoon Saudel",
       "urgency": "info",
@@ -272,7 +362,7 @@
       "link": "https://gulfnews.com/world/mudslide-death-toll-in-china-rises-to-3-after-heavy-rain-from-typhoon-saudel-1.500665017"
     },
     {
-      "id": "news-15",
+      "id": "news-20",
       "headline": "🔴Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
       "summary": "🔴Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
       "urgency": "info",
@@ -290,25 +380,7 @@
       "link": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism"
     },
     {
-      "id": "news-16",
-      "headline": "Iran touts military response as US maintains blockade, hits tankers",
-      "summary": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-09-06T16:17:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss"
-    },
-    {
-      "id": "news-17",
+      "id": "news-21",
       "headline": "Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
       "summary": "Germany’s far-right Alternative for Germany (AfD) party headed towards a landslide victory in state ​elections in Saxony-Anhalt on Sunday, with 44.5 percent of the vote, early results showed.",
       "urgency": "breaking",
@@ -326,7 +398,7 @@
       "link": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest"
     },
     {
-      "id": "news-18",
+      "id": "news-22",
       "headline": "AfD could lead \"the first far-right state government since the dark days of Nazism\"",
       "summary": "Voting is underway in the eastern German state of Saxony-Anhalt on Sunday in a closely watched election. \"If the AfD does form a government in Saxony-Anhalt, that would make it the first regional government headed by a far-right party since the end of the Second World War, since the dark days of Naz",
       "urgency": "breaking",
@@ -344,9 +416,9 @@
       "link": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism"
     },
     {
-      "id": "news-19",
+      "id": "news-23",
       "headline": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-      "summary": "The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.",
+      "summary": "Party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -362,7 +434,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-24",
       "headline": "Michèle Mouton's father told her to prove herself or quit rallying; she became the ‘fastest woman alive’",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133843080.cms\" /&gt;<![CDATA[Michèle Mouton broke through the male-dominated world of rally racing, becoming the first woman to claim victory in a World Rally Champions",
       "urgency": "breaking",
@@ -380,7 +452,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1974-michle-moutons-father-gave-her-an-alpine-a110-car-with-a-condition-to-prove-herself-or-quit-she-had-entered-a-mans-world-of-rallying-but-11-years-later-she-was-the-fastest-woman-alive/articleshow/133843080.cms"
     },
     {
-      "id": "news-21",
+      "id": "news-25",
       "headline": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
       "summary": "Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.",
       "urgency": "info",
@@ -398,7 +470,7 @@
       "link": "https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss"
     },
     {
-      "id": "news-22",
+      "id": "news-26",
       "headline": "PM Modi expresses grief over loss of life in Delhi building collapse",
       "summary": "PM Modi expresses grief over loss of life in Delhi building collapse",
       "urgency": "important",
@@ -416,7 +488,7 @@
       "link": "https://gulfnews.com/world/asia/india/pm-modi-expresses-grief-over-loss-of-life-in-delhi-building-collapse-1.500665094"
     },
     {
-      "id": "news-23",
+      "id": "news-27",
       "headline": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
       "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
       "urgency": "info",
@@ -434,7 +506,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-24",
+      "id": "news-28",
       "headline": "Rewriting world history puts China’s image and ‘cultural security’ at risk: party journal",
       "summary": "Radically rewriting world and Chinese history without solid proof could threaten China’s international image and national identity, a leading Communist Party journal has warned.\nThere has been a growing trend to promote a less Western-centric view of history in recent years, while Beijing has also b",
       "urgency": "breaking",
@@ -452,7 +524,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3366546/rewriting-world-history-puts-chinas-image-and-cultural-security-risk-party-journal?utm_source=rss_feed"
     },
     {
-      "id": "news-25",
+      "id": "news-29",
       "headline": "In 2024, Arizona used foam made from 100% recycled glass at 19 sites while...",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133842120.cms\" /&gt;<![CDATA[In a groundbreaking interstate expansion project in Arizona, engineers harnessed recycled glass aggregate as a revolutionary structural fil",
       "urgency": "breaking",
@@ -470,7 +542,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-2024-arizona-used-foam-made-from-100-recycled-glass-at-19-sites-while-widening-23-miles-of-i-17-the-lightweight-fill-helped-culverts-built-for-two-lanes-support-added-lanes/articleshow/133842120.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-30",
       "headline": "Arab Media Summit 2026 to host Euronews Forum for first time",
       "summary": "Arab Media Summit 2026 to host Euronews Forum for first time",
       "urgency": "important",
@@ -488,7 +560,7 @@
       "link": "https://gulfnews.com/uae/arab-media-summit-2026-to-host-euronews-forum-for-first-time-1.500665107"
     },
     {
-      "id": "news-27",
+      "id": "news-31",
       "headline": "From drones to assassins: Russia's hybrid war in Europe could turn deadly, experts warn",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133842974.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -506,7 +578,7 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/from-drones-to-assassins-russias-hybrid-war-in-europe-could-turn-deadly-experts-warn/articleshow/133842974.cms"
     },
     {
-      "id": "news-28",
+      "id": "news-32",
       "headline": "Deauville Film Festival: What’s your favourite American film?",
       "summary": "The United States ranks second in the world in terms of the number of films produced. It produces between 500 and 700 films every year, which is just behind India. The Deauville Film Festival, with its stars, premieres and awards, aims to showcase the very best of what’s being made across the Atlant",
       "urgency": "breaking",
@@ -524,7 +596,7 @@
       "link": "https://www.france24.com/en/video/20260906-deauville-film-festival-what-s-your-favourite-american-film"
     },
     {
-      "id": "news-29",
+      "id": "news-33",
       "headline": "Niger military accuses France of orchestrating failed mutiny: What to know",
       "summary": "French officials deny involvement, but tensions between the two countries remain high.",
       "urgency": "info",
@@ -542,7 +614,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss"
     },
     {
-      "id": "news-30",
+      "id": "news-34",
       "headline": "Antonelli wins Italian Grand Prix from the back",
       "summary": "Antonelli wins Italian Grand Prix from the back",
       "urgency": "info",
@@ -560,7 +632,7 @@
       "link": "https://gulfnews.com/sport/motorsport/antonelli-wins-italian-grand-prix-from-the-back-1.500665132"
     },
     {
-      "id": "news-31",
+      "id": "news-35",
       "headline": "Dead fish fill vanishing river as drought grips Indonesia",
       "summary": "A prolonged dry spell has caused millions of fish to die in Indonesia’s Silugonggo River in Central Java.",
       "urgency": "breaking",
@@ -578,7 +650,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/dead-fish-fill-vanishing-river-as-drought-grips-indonesia?traffic_source=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-36",
       "headline": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
       "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
       "urgency": "info",
@@ -596,7 +668,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-33",
+      "id": "news-37",
       "headline": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
       "summary": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
       "urgency": "info",
@@ -614,7 +686,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss"
     },
     {
-      "id": "news-34",
+      "id": "news-38",
       "headline": "'1,000 Martyrs Cup' — With joy and grief, Palestinian football marks return",
       "summary": "&lt;p&gt;Palestinian sports commentator Khalil Jadallah has spent the past three years mourning the athletes killed in Israel’s war on Gaza. As &lt;a href=\"https://www.dawn.com/news/2022206\"&gt;Palestinian football&lt;/a&gt; officially resumed this week, his return to the stadium proved bittersweet.",
       "urgency": "breaking",
@@ -632,7 +704,7 @@
       "link": "https://www.dawn.com/news/2027925/1000-martyrs-cup-with-joy-and-grief-palestinian-football-marks-return"
     },
     {
-      "id": "news-35",
+      "id": "news-39",
       "headline": "Hulk Hogan’s Florida mansion gets another $1M price cut, now listed at $6.9M after three reductions",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133842030.cms\" /&gt;<![CDATA[Hulk Hogan’s Clearwater Beach mansion has received another $1 million price cut and is now listed for $6.9 million. The wrestler’s five-bed",
       "urgency": "info",
@@ -650,7 +722,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/hulk-hogans-florida-mansion-gets-another-1-million-price-cut-now-listed-at-6-9-million-after-three-reductions-since-the-clearwater-beach-home-hit-the-market-for-10-98-million/articleshow/133842030.cms"
     },
     {
-      "id": "news-36",
+      "id": "news-40",
       "headline": "Russia's Lavrov claims start of 'real war' with Germany after Moscow accused of Leipzig Airport attack - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPOGp1a3dvWmpFUU4xWjZBazU2QkpoNHFHMDlabE90Y0syZFlDMHpkUzBxcnFWVE1JMGtVSlVldHRRVndSN3lWbVRZMmxzbTliS2RXSEk0QUFUS2FXQndVQThxZ21kQnF3ZjNnWnBrZXRyYXNpa3hJYjBaengwaUNEWFV5bnJDWS0wRnp3UjNQYmRLM0lySjlZOWZpRjhQb1haakU5c09EdFV2Q1I0c3lqdUFRaE84dkF",
       "urgency": "breaking",
@@ -668,7 +740,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOGp1a3dvWmpFUU4xWjZBazU2QkpoNHFHMDlabE90Y0syZFlDMHpkUzBxcnFWVE1JMGtVSlVldHRRVndSN3lWbVRZMmxzbTliS2RXSEk0QUFUS2FXQndVQThxZ21kQnF3ZjNnWnBrZXRyYXNpa3hJYjBaengwaUNEWFV5bnJDWS0wRnp3UjNQYmRLM0lySjlZOWZpRjhQb1haakU5c09EdFV2Q1I0c3lqdUFRaE84dkFuU1VMeQ?oc=5"
     },
     {
-      "id": "news-37",
+      "id": "news-41",
       "headline": "Khalid Abdalla: ‘It’s important for me to be in service of justice’",
       "summary": "The actor discusses identity, speaking out against Israel’s genocide in Gaza and the experiences that shaped him.",
       "urgency": "breaking",
@@ -686,7 +758,7 @@
       "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/6/khalid-abdalla-its-important-for-me-to-be-in-service-of-justice?traffic_source=rss"
     },
     {
-      "id": "news-38",
+      "id": "news-42",
       "headline": "Abu Dhabi lines up 297 events with major shows still to come in 2026",
       "summary": "Abu Dhabi lines up 297 events with major shows still to come in 2026",
       "urgency": "info",
@@ -704,7 +776,7 @@
       "link": "https://gulfnews.com/business/markets/abu-dhabi-lines-up-297-events-with-major-shows-still-to-come-in-2026-1.500665108"
     },
     {
-      "id": "news-39",
+      "id": "news-43",
       "headline": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
       "summary": "&lt;p&gt;Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves&lt;/p&gt;&lt;p&gt;China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.&lt;/p&gt;&lt",
       "urgency": "info",
@@ -722,7 +794,7 @@
       "link": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth"
     },
     {
-      "id": "news-40",
+      "id": "news-44",
       "headline": "US war veteran's home threatened by Elon Musk's AI data centre in Tennessee",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133839757.cms\" /&gt;<![CDATA[Residents in Memphis are grappling with the effects of a massive artificial intelligence data center that has recently opened its doors. Th",
       "urgency": "breaking",
@@ -740,7 +812,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-us-war-veteran-named-her-memphis-home-serenity-after-11-quiet-years-elon-musks-largest-us-ai-data-centre-moved-next-door-and-she-says-her-power-bill-doubled/articleshow/133839757.cms"
     },
     {
-      "id": "news-41",
+      "id": "news-45",
       "headline": "Embattled FIFA President Gianni Infantino to stand for re-election",
       "summary": "FIFA says its chief has not changed his stance on re-election as Infantino faces widespread criticism.",
       "urgency": "important",
@@ -758,7 +830,7 @@
       "link": "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss"
     },
     {
-      "id": "news-42",
+      "id": "news-46",
       "headline": "Children among at least 25 killed in Cabo Verde bus crash",
       "summary": "At least 25 people, mostly children and teenagers, were killed in a bus crash on Cabo Verde’s Fogo Island, public radio network RCV said on Sunday.\nSeveral others were injured in Saturday’s accident, some of them seriously, the head of civil protection for Sao Filipe city, Jose Canuto, told reporter",
       "urgency": "breaking",
@@ -776,7 +848,7 @@
       "link": "https://www.scmp.com/news/world/africa/article/3366561/children-among-least-25-killed-cabo-verde-bus-crash?utm_source=rss_feed"
     },
     {
-      "id": "news-43",
+      "id": "news-47",
       "headline": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
       "summary": "Steve Witkoff and Jared Kushner met Putin and headed to Kyiv as part of Trump&#039;s new efforts to broker agreement.",
       "urgency": "breaking",
@@ -794,7 +866,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss"
     },
     {
-      "id": "news-44",
+      "id": "news-48",
       "headline": "Shoebridge criticises Labor response after IDF officer’s ‘reprehensible’ comments on deadly Zomi Frankcom strike",
       "summary": "&lt;p&gt;Greens defence spokesman says ‘words are just distractions’ until government takes action&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation\"&gt;‘Guilt by association’: why seven internati",
       "urgency": "breaking",
@@ -812,7 +884,7 @@
       "link": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb"
     },
     {
-      "id": "news-45",
+      "id": "news-49",
       "headline": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
       "summary": "Steve Witkoff and Jared Kushner were meeting on Sunday with Volodymyr Zelensky in Ukraine, a day after talks with Vladimir V. Putin in Moscow.",
       "urgency": "info",
@@ -830,7 +902,7 @@
       "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html"
     },
     {
-      "id": "news-46",
+      "id": "news-50",
       "headline": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
       "summary": "&lt;p&gt;Ash cloud from Anak Krakatau affects hundreds of flights and some school and  fishing activities&lt;/p&gt;&lt;p&gt;Indonesia halted operations at eight airports on Sunday, including from its main international hub, affecting hundreds of flights as a result of an ash cloud from the Anak Krak",
       "urgency": "info",
@@ -848,7 +920,7 @@
       "link": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport"
     },
     {
-      "id": "news-47",
+      "id": "news-51",
       "headline": "FO condemns mosque demolition in India's Uttar Pradesh, terms it part of 'drive to erase Islamic heritage'",
       "summary": "&lt;p&gt;Pakistan on Sunday condemned the demolition of a century-old mosque in India’s Uttar Pradesh, describing it as part of an “Islamophobic and Hindutva-driven campaign to erase the Islamic heritage” in the country.&lt;/p&gt;\n&lt;p&gt;Responding to media queries regarding the demolition, Foreig",
       "urgency": "breaking",
@@ -866,7 +938,7 @@
       "link": "https://www.dawn.com/news/2027919/fo-condemns-mosque-demolition-in-indias-uttar-pradesh-terms-it-part-of-drive-to-erase-islamic-heritage"
     },
     {
-      "id": "news-48",
+      "id": "news-52",
       "headline": "Germany: What could change in Saxony-Anhalt if the AfD wins?",
       "summary": "Voting began in the eastern German state of Saxony-Anhalt on Sunday in a closely watched election. Recent surveys place the AfD at just over 40%, followed by Merz's Christian Democrats (CDU) at 23%. If the AfD wins, \"one of the main things they want to change is the education system. They say they w",
       "urgency": "important",
@@ -884,7 +956,7 @@
       "link": "https://www.france24.com/en/video/20260906-germany-what-could-change-in-saxony-anhalt-if-the-afd-wins"
     },
     {
-      "id": "news-49",
+      "id": "news-53",
       "headline": "U.S. envoys in Kyiv for Russia-Ukraine peace talks after meeting with Putin",
       "summary": "Sunday’s visit by Steve Witkoff and Jared Kushner marks the first by President Donald Trump’s emissaries to the Ukrainian capital.",
       "urgency": "info",
@@ -902,7 +974,7 @@
       "link": "https://www.washingtonpost.com/world/2026/09/06/us-envoys-kyiv-russia-ukraine-peace-talks-after-meeting-with-putin/"
     },
     {
-      "id": "news-50",
+      "id": "news-54",
       "headline": "Bosnian Serbs strengthen ties with Israel amid tensions",
       "summary": "Opening of Israeli commerce office deepens ties between Republika Srpska and Israel.",
       "urgency": "info",
@@ -920,7 +992,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/bosnian-serbs-strengthen-ties-with-israel-amid-tensions?traffic_source=rss"
     },
     {
-      "id": "news-51",
+      "id": "news-55",
       "headline": "UAE President to Sheikh Mohammed bin Rashid: ‘Every Emirati achievement has you at its heart’",
       "summary": "UAE President to Sheikh Mohammed bin Rashid: ‘Every Emirati achievement has you at its heart’",
       "urgency": "info",
@@ -938,7 +1010,7 @@
       "link": "https://gulfnews.com/uae/uae-president-to-sheikh-mohammed-bin-rashid-every-emirati-achievement-has-you-at-its-heart-1.500665063"
     },
     {
-      "id": "news-52",
+      "id": "news-56",
       "headline": "Nepal rescuers search hydropower tunnels for survivors",
       "summary": "Rescue teams are searching for survivors trapped inside tunnels at Nepal’s Chilime hydropower plant.",
       "urgency": "info",
@@ -956,7 +1028,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/nepal-rescuers-search-hydropower-tunnels-for-survivors?traffic_source=rss"
     },
     {
-      "id": "news-53",
+      "id": "news-57",
       "headline": "Judge orders Trump admin to give 48-hour notice before work on 250ft Arlington arch",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133840340.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -974,7 +1046,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/judge-orders-trump-admin-to-give-48-hour-notice-before-work-on-250ft-arlington-arch/articleshow/133840340.cms"
     },
     {
-      "id": "news-54",
+      "id": "news-58",
       "headline": "The week in pictures: Nepal rescue operations, World Nomad Games and Russian strikes on Kyiv",
       "summary": "From the desperate search for workers trapped in the hydropower tunnels buried by the catastrophic flooding in Nepal to crowds of women mourning the victims of a US bombardment of a wedding in southern Iran, FRANCE 24 looks back at the week's most striking pictures.",
       "urgency": "breaking",
@@ -992,7 +1064,7 @@
       "link": "https://www.france24.com/en/europe/20260906-the-week-in-pictures-nepal-rescue-operations-world-nomad-games-and-russian-strikes-on-kyiv"
     },
     {
-      "id": "news-55",
+      "id": "news-59",
       "headline": "Why potluck parties are making a big comeback in America",
       "summary": "As Americans spend less time socialising, communities are rediscovering an old way of bringing people together.",
       "urgency": "info",
@@ -1010,7 +1082,7 @@
       "link": "https://www.aljazeera.com/features/longform/2026/9/6/why-potluck-parties-are-making-a-big-comeback-in-america?traffic_source=rss"
     },
     {
-      "id": "news-56",
+      "id": "news-60",
       "headline": "Delhi student housing collapse during repairs kills 5",
       "summary": "3 dead as Delhi student hostel collapses during repair",
       "urgency": "breaking",
@@ -1028,7 +1100,7 @@
       "link": "https://gulfnews.com/world/asia/india/3-dead-as-delhi-student-hostel-collapses-during-repairs-1.500665061"
     },
     {
-      "id": "news-57",
+      "id": "news-61",
       "headline": "China, Nepal race to find thousands still missing 12 days after floods",
       "summary": "More than 5,500 people are still missing in China and Nepal after catastrophic floods across the two countries.",
       "urgency": "info",
@@ -1046,7 +1118,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss"
     },
     {
-      "id": "news-58",
+      "id": "news-62",
       "headline": "Hong Kong to review bookings for famous Sai Kung trail after high no-show rate",
       "summary": "Hong Kong authorities will review a new reservation system for a Sai Kung trail famed for its dramatic volcanic rock columns after the National Day “golden week” in October, following large numbers of no-shows during the first two trial runs.\nOnly 1,560 registered and walk-in patrons arrived at Po P",
       "urgency": "info",
@@ -1064,7 +1136,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3366560/hong-kong-review-bookings-famous-sai-kung-trail-after-high-no-show-rate?utm_source=rss_feed"
     },
     {
-      "id": "news-59",
+      "id": "news-63",
       "headline": "What the US militarisation of Latin America could look like",
       "summary": "More US military involvement and larger regional defence budgets mean less social spending and worse democracy outcomes.",
       "urgency": "info",
@@ -1082,7 +1154,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/9/6/what-the-us-militarisation-of-latin-america-could-look-like?traffic_source=rss"
     },
     {
-      "id": "news-60",
+      "id": "news-64",
       "headline": "Pakistan dispatches humanitarian aid to Nepal after deadly floods, landslides",
       "summary": "&lt;p&gt;Pakistan on Sunday dispatched 100 tonnes of humanitarian assistance to Nepal to support relief efforts following the recent deadly floods and landslides.&lt;/p&gt;\n&lt;p&gt;The glacial and mountain collapse on the China-Nepal border killed at least 1,384 people and left more than 5,500 miss",
       "urgency": "breaking",
@@ -1100,7 +1172,7 @@
       "link": "https://www.dawn.com/news/2027918/pakistan-dispatches-humanitarian-aid-to-nepal-after-deadly-floods-landslides"
     },
     {
-      "id": "news-61",
+      "id": "news-65",
       "headline": "Jaguar Land Rover may cut 4,000 jobs as Tata-owned carmaker targets £1.7bn savings after cyberattack",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133839978.cms\" /&gt;<![CDATA[Jaguar Land Rover may cut up to 4,000 jobs as the Tata-owned carmaker targets £1.7bn in savings over two years and seeks to lower its break",
       "urgency": "breaking",
@@ -1118,7 +1190,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/jaguar-land-rover-may-cut-4000-jobs-as-tata-owned-carmaker-targets-1-7bn-savings-and-300000-vehicle-break-even-point-a-year-after-cyber-attack-piling-pressure-on-andy-burnhams-reindustrialise-britain-pledge/articleshow/133839978.cms"
     },
     {
-      "id": "news-62",
+      "id": "news-66",
       "headline": "Germany: AfD's Ulrich Siegmund eyes outright majority",
       "summary": "Under its 35-year-old lead ​candidate Ulrich Siegmund, the ‌AfD has polled above 40% for months and has a realistic shot at winning an absolute majority if several smaller parties fail ⁠to clear Germany's 5% hurdle to enter parliament.",
       "urgency": "info",
@@ -1136,7 +1208,7 @@
       "link": "https://www.france24.com/en/video/20260906-germany-afd-s-ulrich-siegmund-eyes-outright-majority"
     },
     {
-      "id": "news-63",
+      "id": "news-67",
       "headline": "Ukraine-Russia talks: What are the US objectives?",
       "summary": "US envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday in their first official visit to Ukraine as part of a renewed push for peace, more than 4½ years after Russia's full-scale invasion of Ukraine. We discuss this topic with our guest, John E. Herbst, director of the Eurasia Center at ",
       "urgency": "breaking",
@@ -1154,7 +1226,7 @@
       "link": "https://www.france24.com/en/video/20260906-ukraine-russia-talks-what-are-the-us-objectives"
     },
     {
-      "id": "news-64",
+      "id": "news-68",
       "headline": "UAE expands Africa trade push with Senegal and Gabon visits",
       "summary": "UAE expands Africa trade push with Senegal and Gabon visits",
       "urgency": "info",
@@ -1172,7 +1244,7 @@
       "link": "https://gulfnews.com/business/economy/uae-expands-africa-trade-push-with-senegal-and-gabon-visits-1.500665049"
     },
     {
-      "id": "news-65",
+      "id": "news-69",
       "headline": "Reform UK says Britain is broken. Birmingham tells another story",
       "summary": "The party&#039;s gains in Britain&#039;s most diverse major city are real, but they are not a verdict against multiculturalism.",
       "urgency": "info",
@@ -1190,7 +1262,7 @@
       "link": "https://www.aljazeera.com/opinions/2026/9/6/reform-uk-says-britain-is-broken-birmingham-tells-another-story?traffic_source=rss"
     },
     {
-      "id": "news-66",
+      "id": "news-70",
       "headline": "What China’s Lop Nur desert base expansion means for PLA stealth jets in race with US",
       "summary": "China is rapidly expanding a flight-test facility deep in its western desert, satellite imagery has revealed, a push that analysts say could help fast track the development of its next-generation military aircraft as air-power rivalry with the United States intensifies.\nLatest satellite photos of th",
       "urgency": "info",
@@ -1208,7 +1280,7 @@
       "link": "https://www.scmp.com/news/china/military/article/3366531/what-chinas-lop-nur-desert-base-expansion-means-pla-stealth-jets-race-us?utm_source=rss_feed"
     },
     {
-      "id": "news-67",
+      "id": "news-71",
       "headline": "Is Iran planning an October 7-style multi-front attack on Israel?",
       "summary": "Iran eyes October 7-style multi-front Israel attack",
       "urgency": "breaking",
@@ -1226,7 +1298,7 @@
       "link": "https://gulfnews.com/world/mena/is-iran-planning-an-october-7-style-multi-front-attack-on-israel-1.500665041"
     },
     {
-      "id": "news-68",
+      "id": "news-72",
       "headline": "Egyptian TV presenter Sarah Khalifa sentenced to death in drug case",
       "summary": "Sarah Khalifa, a well-known Egyptian TV presenter, has been sentenced to death for her involvement in a drug ring, state media reported over the weekend. Eleven others were also convicted in the case and handed a death sentence. Khalifa is best known for her program “Mission Impossible”.",
       "urgency": "info",
@@ -1244,7 +1316,7 @@
       "link": "https://www.france24.com/en/africa/20260906-egyptian-tv-presenter-sarah-khalifa-sentenced-to-death-in-drug-case"
     },
     {
-      "id": "news-69",
+      "id": "news-73",
       "headline": "AI: The future of smart households?",
       "summary": "Could artificial intelligence soon be running our households? Beyond our smartphones, AI is now powering everything from fridges to lawnmowers. The International Household Appliances Fair in Berlin gives us a glimpse into what's next.",
       "urgency": "info",
@@ -1262,7 +1334,7 @@
       "link": "https://www.france24.com/en/video/20260906-ai-the-future-of-smart-households"
     },
     {
-      "id": "news-70",
+      "id": "news-74",
       "headline": "FIFA confirms Gianni Infantino will run in presidential election",
       "summary": "FIFA confirms Infantino will run in presidential election",
       "urgency": "important",
@@ -1280,25 +1352,7 @@
       "link": "https://gulfnews.com/sport/football/fifa-confirms-gianni-infantino-will-run-in-presidential-election-1.500665040"
     },
     {
-      "id": "news-71",
-      "headline": "Live - US says Iran’s oil supply for China is running out as Tehran warns of heavier response - Iran International",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5\" target=\"_blank\"&gt;Live - US says Iran’s oil supply for China is running out as Tehran warns of heavier response&",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-09-06T13:47:36.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5"
-    },
-    {
-      "id": "news-72",
+      "id": "news-75",
       "headline": "Kerala singer known for &apos;Udit Narayan-like&apos; voice dies suddenly in Dubai hours before Ajman show",
       "summary": "Kerala singer known for &apos;Udit Narayan-like&apos; voice dies suddenly in Dubai hours before Ajman show",
       "urgency": "info",
@@ -1316,7 +1370,7 @@
       "link": "https://gulfnews.com/uae/kerala-singer-known-for-udit-narayan-like-voice-dies-suddenly-in-dubai-hours-before-ajman-show-1.500665026"
     },
     {
-      "id": "news-73",
+      "id": "news-76",
       "headline": "How significant are the Yemeni government’s military gains against Houthis?",
       "summary": "Government forces make gains as fighting escalates, raising fears of a return to full-scale war.",
       "urgency": "breaking",
@@ -1334,7 +1388,7 @@
       "link": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss"
     },
     {
-      "id": "news-74",
+      "id": "news-77",
       "headline": "Germany: Why is the AfD so popular in Saxony-Anhalt?",
       "summary": "Voting began in the eastern German state of Saxony-Anhalt on Sunday in a closely watched election that could see the Alternative for Germany (AfD) become the first far-right party to lead a state government since World War II. We discuss this with our guest, Hans Stark, professor of German studies a",
       "urgency": "breaking",
@@ -1352,7 +1406,7 @@
       "link": "https://www.france24.com/en/video/20260906-germany-why-is-the-afd-so-popular-in-saxony-anhalt"
     },
     {
-      "id": "news-75",
+      "id": "news-78",
       "headline": "What UAE residents need to know about the US-Iran standoff this evening, September 6",
       "summary": "What UAE residents need to know about the US-Iran standoff this evening, September 6",
       "urgency": "info",
@@ -1370,7 +1424,7 @@
       "link": "https://gulfnews.com/world/mena/what-uae-residents-need-to-know-about-the-us-iran-standoff-this-evening-september-6-1.500665029"
     },
     {
-      "id": "news-76",
+      "id": "news-79",
       "headline": "California mosque shooting: FBI warned parents about teen suspect’s dark-web activity days before attack",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133838744.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1388,7 +1442,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/california-mosque-shooting-fbi-warned-parents-about-teen-suspects-dark-web-activity-days-before-attack/articleshow/133838744.cms"
     },
     {
-      "id": "news-77",
+      "id": "news-80",
       "headline": "Lake George compound bought for $2.4M in 2006 lists for $7.99M",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133835434.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1406,7 +1460,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2006-a-couple-paid-2-4-million-for-a-lake-george-lot-once-tied-to-a-42-room-mansion-20-years-later-their-6000-sq-ft-compound-with-300-feet-of-shoreline-is-asking-7-99-million/articleshow/133835434.cms"
     },
     {
-      "id": "news-78",
+      "id": "news-81",
       "headline": "Fire Island glass house drops to $3.995M, $1.3M above Cherry Grove record after no buyer",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133834575.cms\" /&gt;<![CDATA[Crest House, a four-bedroom glass estate in Fire Island’s Cherry Grove, has drawn more than 350 viewers since being listed for $5.25 millio",
       "urgency": "info",
@@ -1424,7 +1478,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/a-fire-island-glass-house-drew-350-viewers-at-5-25-million-but-no-buyer-after-1-255-million-in-cuts-its-3-995-million-ask-is-still-nearly-1-3-million-above-cherry-groves-record-sale/articleshow/133834575.cms"
     },
     {
-      "id": "news-79",
+      "id": "news-82",
       "headline": "Scuffle in Karachi's DHA: Fresh case registered after inquiry report finds first FIR unsubstantiated",
       "summary": "&lt;p&gt;KARACHI: A resident of Karachi’s Defence Housing Authority (DHA) has sought action against her neighbours and police personnel for allegedly beating her in a fresh case registered in connection with a scuffle outside her apartment last month, it emerged on Sunday.&lt;/p&gt;\n&lt;p&gt;The mat",
       "urgency": "breaking",
@@ -1442,7 +1496,7 @@
       "link": "https://www.dawn.com/news/2027901/scuffle-in-karachis-dha-fresh-case-registered-after-inquiry-report-finds-first-fir-unsubstantiated"
     },
     {
-      "id": "news-80",
+      "id": "news-83",
       "headline": "Alternative for Germany looks for big boost in regional elections in Germany",
       "summary": "The nationalist, anti-immigrant party known as AfD, has been labeled “extremist” by German authorities, but is running strong in the eastern state of Saxony-Anhalt.",
       "urgency": "important",
@@ -1460,7 +1514,7 @@
       "link": "https://www.washingtonpost.com/world/2026/09/06/alternative-germany-looks-big-boost-regional-elections-germany/"
     },
     {
-      "id": "news-81",
+      "id": "news-84",
       "headline": "In 2015, Mark Pentecost paid $14.5 million for a 104-acre Florida island; after pouring millions...",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/133836447.cms\" /&gt;<![CDATA[Mark Pentecost has listed his stunning private island retreat for a staggering eighty-nine million dollars. Acquired eleven years ago for a",
       "urgency": "info",
@@ -1478,25 +1532,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/in-2015-mark-pentecost-paid-14-5-million-for-a-104-acre-florida-island-after-pouring-millions-into-upgrades-it-is-asking-89-million-with-a-9-hole-golf-course-and-29-developable-lots/articleshow/133836447.cms"
     },
     {
-      "id": "news-82",
-      "headline": "Omani schoolgirl rides horse to school on first day, wins social media praise",
-      "summary": "Omani schoolgirl rides horse to school on first day, wins social media praise",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-06T13:19:48.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/gulf/oman/omani-schoolgirl-rides-horse-to-school-on-first-day-wins-social-media-praise-1.500664979"
-    },
-    {
-      "id": "news-83",
+      "id": "news-85",
       "headline": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
       "summary": "Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.",
       "urgency": "important",
@@ -1514,7 +1550,7 @@
       "link": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss"
     },
     {
-      "id": "news-84",
+      "id": "news-86",
       "headline": "Sharjah launches ‘Impact Rooted in Values’ to turn children’s screen time into lessons in ethics and empathy",
       "summary": "Sharjah launches ‘Impact Rooted in Values’ to turn children’s screen time into lessons in ethics and empathy",
       "urgency": "info",
@@ -1532,7 +1568,7 @@
       "link": "https://gulfnews.com/uae/sharjah-launches-impact-rooted-in-values-to-turn-childrens-screen-time-into-lessons-in-ethics-and-empathy-1.500665009"
     },
     {
-      "id": "news-85",
+      "id": "news-87",
       "headline": "New Delhi building collapse kills 3, traps dozens",
       "summary": "A building collapse in the Indian capital New Delhi killed at least three people on Sunday, local media reports said, as authorities worked to rescue those trapped in the rubble.\nThe building, housing mostly students, came crashing down about midday in the southwestern Satya Niketan area of the city",
       "urgency": "breaking",
@@ -1550,7 +1586,7 @@
       "link": "https://www.scmp.com/news/asia/south-asia/article/3366558/new-delhi-building-collapse-kills-1-traps-others?utm_source=rss_feed"
     },
     {
-      "id": "news-86",
+      "id": "news-88",
       "headline": "Punching above their weight: how China’s AI giants stretch each dollar in compute race",
       "summary": "The massive gap in artificial intelligence spending between US and Chinese tech titans may not buy the advantage expected for American giants, as lower domestic costs and heavy state support allow Chinese firms to secure far more computing power per dollar, according to a new report by Moody’s Ratin",
       "urgency": "info",
@@ -1568,25 +1604,7 @@
       "link": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race?utm_source=rss_feed"
     },
     {
-      "id": "news-87",
-      "headline": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-      "summary": "&lt;p&gt;Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state&lt;/p&gt;&lt;p&gt;A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that stil",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-09-06T13:00:07.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles"
-    },
-    {
-      "id": "news-88",
+      "id": "news-89",
       "headline": "‘A victim’: American Bully dies in surgery, owners question fighting dog rules",
       "summary": "The owners of an American Bully are challenging the authorities’ classification of “fighting dogs” after their pet, a breed strictly controlled in Hong Kong, died during neutering, a procedure they undertook amid a crackdown on non-compliance.\nMonchiu, a female, died under anaesthesia during the ope",
       "urgency": "info",
@@ -1604,7 +1622,7 @@
       "link": "https://www.scmp.com/news/hong-kong/society/article/3366557/victim-american-bully-dies-surgery-owners-question-fighting-dog-rules?utm_source=rss_feed"
     },
     {
-      "id": "news-89",
+      "id": "news-90",
       "headline": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing",
       "summary": "An eruption of Indonesia's Mount Anak Krakatau caused six airports to suspend flight operations on Sunday, affecting hundreds of flights at Jakarta's main airport, after some school activities and fishing were halted.",
       "urgency": "info",
@@ -1622,7 +1640,7 @@
       "link": "https://www.france24.com/en/video/20260906-indonesia-s-anak-krakatau-eruption-halts-flights-schools-fishing"
     },
     {
-      "id": "news-90",
+      "id": "news-91",
       "headline": "Commemoration held for late Bosnian Serb war criminal Ratko Mladic",
       "summary": "A commemoration was held Saturday in Belgrade for war criminal Ratko Mladic two days ahead of his burial, attended by dozens of former military personnel, family members and officials.",
       "urgency": "breaking",
@@ -1638,24 +1656,6 @@
       "timestamp": "2026-09-06T12:52:04.000Z",
       "widgetType": "news",
       "link": "https://www.france24.com/en/video/20260906-commemoration-held-for-late-bosnian-serb-war-criminal-ratko-mladic"
-    },
-    {
-      "id": "news-91",
-      "headline": "Anwar Gargash hails UAE leadership after Sheikh Mohammed bin Rashid unveils new book",
-      "summary": "Anwar Gargash hails UAE leadership after Sheikh Mohammed bin Rashid unveils new book",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-06T12:51:11.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/anwar-gargash-hails-uae-leadership-after-sheikh-mohammed-bin-rashid-unveils-new-book-1.500665006"
     },
     {
       "id": "news-92",
