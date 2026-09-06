@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-09-06T20:21:21.852Z",
+  "lastUpdated": "2026-09-06T20:44:06.936Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 630,
-      "count": 344,
-      "breaking": 126,
-      "latest": "2026-09-06T20:16:57.000Z"
+      "score": 637,
+      "count": 348,
+      "breaking": 127,
+      "latest": "2026-09-06T20:36:10.000Z"
     },
     {
       "id": "middle-east",
-      "score": 378,
-      "count": 170,
-      "breaking": 100,
-      "latest": "2026-09-06T19:53:02.000Z"
+      "score": 369,
+      "count": 165,
+      "breaking": 99,
+      "latest": "2026-09-06T20:20:47.000Z"
     },
     {
       "id": "ukraine-russia",
       "score": 168,
-      "count": 72,
+      "count": 71,
       "breaking": 48,
-      "latest": "2026-09-06T20:18:52.000Z"
+      "latest": "2026-09-06T20:41:58.000Z"
     },
     {
       "id": "sudan",
@@ -44,13 +44,6 @@
       "latest": "2026-08-20T07:00:00.000Z"
     },
     {
-      "id": "venezuela",
-      "score": 35,
-      "count": 23,
-      "breaking": 3,
-      "latest": "2026-09-03T12:47:48.000Z"
-    },
-    {
       "id": "china-taiwan",
       "score": 33,
       "count": 21,
@@ -63,6 +56,13 @@
       "count": 20,
       "breaking": 4,
       "latest": "2026-08-30T13:54:00.000Z"
+    },
+    {
+      "id": "venezuela",
+      "score": 28,
+      "count": 23,
+      "breaking": 0,
+      "latest": "2026-09-05T15:44:32.000Z"
     }
   ],
   "countryEvents": {
@@ -165,10 +165,10 @@
       "ukraine-russia"
     ],
     "united-states": [
+      "venezuela",
       "middle-east",
       "ukraine-russia",
       "korea",
-      "venezuela",
       "china-taiwan",
       "general"
     ],
@@ -227,8 +227,8 @@
       "ukraine-russia"
     ],
     "venezuela": [
-      "middle-east",
       "venezuela",
+      "middle-east",
       "general",
       "ukraine-russia"
     ],
@@ -260,8 +260,8 @@
       "ukraine-russia"
     ],
     "brazil": [
-      "middle-east",
       "venezuela",
+      "middle-east",
       "general",
       "ukraine-russia"
     ],
@@ -394,8 +394,8 @@
       "ukraine-russia"
     ],
     "mexico": [
-      "middle-east",
       "venezuela",
+      "middle-east",
       "general",
       "ukraine-russia"
     ],
