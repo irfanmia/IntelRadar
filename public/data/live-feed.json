@@ -1,15 +1,1834 @@
 {
-  "lastUpdated": "2026-09-22T17:43:32.444Z",
-  "news": [],
+  "lastUpdated": "2026-09-22T18:21:07.187Z",
+  "news": [
+    {
+      "id": "news-0",
+      "headline": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
+      "summary": "Ali al-Zaidi is a political neophyte hoping to succeed where previous leaders failed. In an interview, he laid out an ambitious timeline that could prove hard to meet.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:17:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html"
+    },
+    {
+      "id": "news-1",
+      "headline": "U.N. Live Updates: Trump Says He Faces Choice to Make a Deal or ‘Annihilate’ Iran",
+      "summary": "President Trump delivered the remark before a gathering where world leaders typically present themselves as champions of global harmony. Earlier, António Guterres, the U.N. secretary general, called on leaders to end conflicts.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:16:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news"
+    },
+    {
+      "id": "news-2",
+      "headline": "Trump's world? Leaders navigate consequences of US policy",
+      "summary": "A year ago, Donald Trump went to the rostrum of the United Nations General Assembly - and after taxing an axe to US aid and development funding, read the world the riot act. One Iran war later, the US president sticking to script with a speech that borrowed much of the language of last year. With ci",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:14:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260922-trump-s-world-leaders-navigate-consequences-of-us-policy"
+    },
+    {
+      "id": "news-3",
+      "headline": "'Terrific man' Shehbaz gets special mention during Trump's UNGA speech",
+      "summary": "&lt;p&gt;United States President Donald Trump on Tuesday called Prime Minister Shehbaz Sharif a “terrific man” during his address to the United Nations General Assembly (UNGA) as he once again mentioned his role in ending the &lt;a href=\"https://www.dawn.com/news/1910509\"&gt;Pakistan-India conflict ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:12:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031875/terrific-man-shehbaz-gets-special-mention-during-trumps-unga-speech"
+    },
+    {
+      "id": "news-4",
+      "headline": "E.U. drops sanctions on two of Russia’s richest oligarchs despite Kyiv’s outcry",
+      "summary": "The request, in a bid to free French citizens held in Azerbaijan, would lift sanctions on Alisher Usmanov, whom the E.U once referred to as “one of Vladimir Putin’s favorite oligarchs.”",
+      "urgency": "important",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:12:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/09/22/france-pushes-end-sanctions-alisher-usmanov-oligarch-tied-putin/"
+    },
+    {
+      "id": "news-5",
+      "headline": "Japan Meets With Trump, Hoping to Get His Help on China",
+      "summary": "Japan’s prime minister met with President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:09:44.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html"
+    },
+    {
+      "id": "news-6",
+      "headline": "Iran war live: Trump says US officials met Iranian delegation - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXdSNjVvOUhQbm9XZ2xSR2lRZXBfLVVDd2VUQm96RGFOSXZVdUFTc0VRWndsRUtseTBlR3hQa010Unlaa2xNTlNhcHNyX2p3MVJtZ1ZGR2NoVE0tN1JSaDY2dGtVZkV3OXdqdzYxTkR5VGUya3htYmZEMkxYeUhaMGprS0l1a1ZFMi04YmVHeUNOTnJNeHBuRmxaUW0tclh2aFh6ekp3bm5sVWRTZ3dIeUJSVjRlT1Y",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:05:35.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXdSNjVvOUhQbm9XZ2xSR2lRZXBfLVVDd2VUQm96RGFOSXZVdUFTc0VRWndsRUtseTBlR3hQa010Unlaa2xNTlNhcHNyX2p3MVJtZ1ZGR2NoVE0tN1JSaDY2dGtVZkV3OXdqdzYxTkR5VGUya3htYmZEMkxYeUhaMGprS0l1a1ZFMi04YmVHeUNOTnJNeHBuRmxaUW0tclh2aFh6ekp3bm5sVWRTZ3dIeUJSVjRlT1Y5N3fSAb8BQVVfeXFMTnU3cXBNVTZkd0RVTUhyRlpGbzh3Y1FEMVRNUjVwSGpSeGsybEZiNGdPUVk2UDdzOG9NemJubmRDeXJiblFIOHNxbmF0bnNRMUxhX0tkaFVUREExUkk5NnVrQV82Q3YwVTJRQ0wwemlEYTZpZ2JoRF8zbE51eXQtLS1LR2tuNTNPWFpocC1rcFNoR1lKZFdOcGpuUnpVV2tENTZmYXU1TXJabFQ0dmVTRm1IODBDVnh1eFdDY3QtUFE?oc=5"
+    },
+    {
+      "id": "news-7",
+      "headline": "Pakistan, 7 other Muslim nations call upon Israel to fulfil its commitment under Gaza plan",
+      "summary": "&lt;p&gt;Pakistan joined other Muslim countries on Tuesday in calling for Israel to “immediately fulfill its outstanding commitments” under the first phase of a plan aimed at ending the conflict in Gaza.&lt;/p&gt;\n&lt;p&gt;The demand was made in a joint statement attributed to the foreign ministers ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:03:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031814/pakistan-7-other-muslim-nations-call-upon-israel-to-fulfil-its-commitment-under-gaza-plan"
+    },
+    {
+      "id": "news-8",
+      "headline": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
+      "summary": "India’s first MMA medal at the Asian Games was overshadowed by controversy over the result.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:01:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss"
+    },
+    {
+      "id": "news-9",
+      "headline": "Govt reduces petrol price by Rs1.70 per litre, HSD by Rs3.12 per litre",
+      "summary": "&lt;iframe id=\"raw-html-6ab2c26497311\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"&amp;lt;!DOCTYPE html&amp;gt;\n&amp;lt;html&amp;gt;\n&amp;lt;head&amp;gt;\n    &amp;lt;style&amp;gt;\n        body { margin: 0; ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T18:01:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031887/govt-reduces-petrol-price-by-rs170-per-litre-hsd-by-rs312-per-litre"
+    },
+    {
+      "id": "news-10",
+      "headline": "Gums, ginkgos and a golden wych elm: voting for Victoria’s tree of the year",
+      "summary": "&lt;p&gt;From Carlton to Castlemaine, the National Trust of Victoria competition aims to raise awareness about trees&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:54:40.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/23/gums-gingkos-and-a-golden-wych-elm-voting-for-victorias-tree-of-the-year"
+    },
+    {
+      "id": "news-11",
+      "headline": "Brazil’s Lula backs China peace push at UN, tells US his nation is ‘no one’s backyard’",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva renewed his backing on Tuesday for a peace initiative he launched with China to end the war in Ukraine, using his opening speech at the UN General Assembly to take thinly veiled aim at the United States over tariffs, military pressure and access to criti",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:54:35.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/article/3368437/brazils-lula-backs-china-peace-push-un-tells-us-his-nation-no-ones-backyard?utm_source=rss_feed"
+    },
+    {
+      "id": "news-12",
+      "headline": "SpiceJet delays: India steps up scrutiny as financial woes deepen",
+      "summary": "SpiceJet delays: India steps up scrutiny as financial woes deepen",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:52:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/india/spicejet-delays-india-steps-up-scrutiny-as-financial-woes-deepen-1.500684228"
+    },
+    {
+      "id": "news-13",
+      "headline": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
+      "summary": "Lula’s remarks come as Trump asserts US power in Latin America in his own UN address.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:51:07.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss"
+    },
+    {
+      "id": "news-14",
+      "headline": "Former news anchor working for California Democrat arrested by ICE at Las Vegas airport",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134418098.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:49:49.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/former-news-anchor-working-for-california-democrat-arrested-by-ice-at-las-vegas-airport/articleshow/134418098.cms"
+    },
+    {
+      "id": "news-15",
+      "headline": "U.N. Searches for Its Next Leader",
+      "summary": "António Guterres is stepping down in December after two terms as secretary general. No front-runner to succeed him has emerged so far.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:49:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/world/next-un-leader-guterres.html"
+    },
+    {
+      "id": "news-16",
+      "headline": "Sudan’s historical famine echoes through latest hunger crisis",
+      "summary": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages.",
+      "urgency": "breaking",
+      "topic": "sudan",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:45:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss"
+    },
+    {
+      "id": "news-17",
+      "headline": "A Departing U.N. Chief’s Dire Warning on Climate Change",
+      "summary": "As he nears the end of his term as the Secretary General of the United Nations, António Guterres looks back on his efforts to stop climate change.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:45:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html"
+    },
+    {
+      "id": "news-18",
+      "headline": "🔴Watch live: French President Emmanuel Macron addresses UN General Assembly",
+      "summary": "🔴Watch live: French President Emmanuel Macron addresses UN General Assembly",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:41:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate"
+    },
+    {
+      "id": "news-19",
+      "headline": "Macron to Make His Final U.N. General Assembly Appearance as France’s President",
+      "summary": "During his tenure as France’s president, Emmanuel Macron has evolved from a political upstart to a senior statesman.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:37:10.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/world/europe/macron-un-general-assembly.html"
+    },
+    {
+      "id": "news-20",
+      "headline": "ECHR hears how 10 children went missing after Russia annexed Crimea",
+      "summary": "Ukrainians aged between one and five were taken from childcare institutions and put up for adoption, court hears.",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:35:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss"
+    },
+    {
+      "id": "news-21",
+      "headline": "Anthropic unveils Claude Opus 5.5, says performance comparable to top-tier Fable 5.1",
+      "summary": "&lt;p&gt;Anthropic on Tuesday launched Claude Opus 5.5, a new AI model that it says delivers performance comparable to its top-tier Fable 5.1 while costing 4o per cent less to run than its predecessor.&lt;/p&gt;\n&lt;p&gt;The release lands amid growing debate over AI risks. Anthropic Chief Executive ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:25:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031888/anthropic-unveils-claude-opus-55-says-performance-comparable-to-top-tier-fable-51"
+    },
+    {
+      "id": "news-22",
+      "headline": "US &apos;looksmaxxer&apos; known as &apos;Clavicular&apos; charged with rape",
+      "summary": "US online &apos;looksmaxxer&apos; known as &apos;Clavicular&apos; charged with rape",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:22:55.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/entertainment/us-looksmaxxer-known-as-clavicular-charged-with-rape-1.500684188"
+    },
+    {
+      "id": "news-23",
+      "headline": "Kuwait denies transit flights will start from October 1",
+      "summary": "Kuwait denies transit flights will start from October 1",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:21:16.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-denies-transit-flights-will-start-from-october-1-1.500684196"
+    },
+    {
+      "id": "news-24",
+      "headline": "Trump pledges to open new Arctic military bases as he signs Greenland deal",
+      "summary": "The security agreement gives the president and the Republican Party a foreign policy win heading into the midterm elections.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:18:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/national-security/2026/09/22/trump-pledges-open-new-arctic-military-bases-he-signs-greenland-deal/"
+    },
+    {
+      "id": "news-25",
+      "headline": "‘Kashmir issue should be addressed through dialogue’: Turkey's Erdogan at UNGA",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134417230.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:18:14.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/kashmir-issue-should-be-addressed-through-dialogue-turkeys-erdogan-at-unga/articleshow/134417230.cms"
+    },
+    {
+      "id": "news-26",
+      "headline": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
+      "urgency": "info",
+      "topic": "venezuela",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:17:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-27",
+      "headline": "ICE agent shoots and wounds Venezuelan DoorDash driver in Texas",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
+      "urgency": "info",
+      "topic": "venezuela",
+      "sources": [
+        {
+          "name": "BBC LatAm",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:17:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-28",
+      "headline": "Turkey, Egypt, Saudi, Pak affirm Riyadh’s right to self-defence amid Houthi attacks",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134417077.cms\" /&gt;<![CDATA[Foreign ministers from four nations affirmed Saudi Arabia's right to self-defense. They stressed the importance of maintaining safe navigat",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:12:07.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/turkey-egypt-saudi-arabia-pakistan-affirm-riyadhs-right-to-self-defence-amid-houthi-attacks/articleshow/134417077.cms"
+    },
+    {
+      "id": "news-29",
+      "headline": "Cuban officials walk out after Trump calls the nation a ‘failed state’ in his speech.",
+      "summary": "Cuban officials walk out after Trump calls the nation a ‘failed state’ in his speech.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:11:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/cuban-officials-walk-out-after-trump-calls-the-nation-a-failed-state-in-his-speech"
+    },
+    {
+      "id": "news-30",
+      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWklpaXRwU0xmV1NLc1lUcDBkVy1NWGR0RGlaZ2JxUFQ1ZEhuZURoZjRWUW9nNF9jaHhMSlIxWnFseG5FeWUtUWRTcnFGbGxJTUNpRDZObXNiWTRCMmUtOVQwdlhDYzRZR1p4Q1UxS0hGZ3luaEpGZ0pHVk9ZaTg?oc=5\" target=\"_blank\"&gt;Live Updates: Latest from Israel, Iran, and the Mi",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:11:04.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWklpaXRwU0xmV1NLc1lUcDBkVy1NWGR0RGlaZ2JxUFQ1ZEhuZURoZjRWUW9nNF9jaHhMSlIxWnFseG5FeWUtUWRTcnFGbGxJTUNpRDZObXNiWTRCMmUtOVQwdlhDYzRZR1p4Q1UxS0hGZ3luaEpGZ0pHVk9ZaTg?oc=5"
+    },
+    {
+      "id": "news-31",
+      "headline": "Another U.S. service member dies amid Iran war, Pentagon tally shows",
+      "summary": "The Defense Department’s disclosed total stands at 19 fatalities, though U.S. officials say the actual number is higher.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:10:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
+    },
+    {
+      "id": "news-32",
+      "headline": "Hayden Panettiere died from accidental overdose involving fentanyl, coroner says",
+      "summary": "US actress Hayden Panettiere died from an accidental overdose of several drugs, including fentanyl, a coroner in South Carolina said on Tuesday.\nPanettiere, 36, was found unresponsive in an apartment in Greenville, South Carolina, on August 16. Her on-and-off boyfriend Brian Hickerson and his brothe",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:10:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368436/hayden-panettiere-died-accidental-overdose-involving-fentanyl-coroner-says?utm_source=rss_feed"
+    },
+    {
+      "id": "news-33",
+      "headline": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
+      "summary": "US President Donald Trump launched a full-throated defence of the deeply unpopular US-Israeli war against Iran before the UN General Assembly on Tuesday, claiming that Washington would reach a deal with Tehran after the upcoming US midterm elections. Trump also rejected the idea of global regulation",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:09:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly"
+    },
+    {
+      "id": "news-34",
+      "headline": "‘You shouldn’t be here covering me’: Trump confronts CNN’s Kaitlan Collins at UN amid White House ban",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134416955.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:07:47.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/you-shouldnt-be-here-covering-me-trump-confronts-cnns-kaitlan-collins-at-un-amid-white-house-ban/articleshow/134416955.cms"
+    },
+    {
+      "id": "news-35",
+      "headline": "Turkiye school shooting leaves 11 pupils wounded",
+      "summary": "Eleven pupils were wounded after a student opened fire near a secondary school in Manisa, western Turkiye",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:02:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss"
+    },
+    {
+      "id": "news-36",
+      "headline": "Why sometimes you just need a change of scenery",
+      "summary": "Why sometimes you just need a change of scenery",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T17:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/lifestyle/why-sometimes-you-just-need-a-change-of-scenery-1.500674908"
+    },
+    {
+      "id": "news-37",
+      "headline": "Security forces thwart terrorists' attempt to infiltrate Pak-Afghan border in Kurram: security sources",
+      "summary": "&lt;p&gt;Security forces foiled an attempt by terrorists to cross into Khyber Pakhtunkhwa’s Kurram from Afghanistan and also effectively responded to firing by the Afghan Taliban, security sources said on Tuesday.&lt;/p&gt;\n&lt;p&gt;According to the sources, the terrorists tried to infiltrate the bo",
+      "urgency": "breaking",
+      "topic": "taliban-pakistan",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:59:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031885/security-forces-thwart-terrorists-attempt-to-infiltrate-pak-afghan-border-in-kurram-security-sources"
+    },
+    {
+      "id": "news-38",
+      "headline": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+      "urgency": "info",
+      "topic": "taliban-pakistan",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:57:55.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-39",
+      "headline": "Kuwait approves seven new commercial activities under ministerial resolution",
+      "summary": "Kuwait approves seven new commercial activities under ministerial resolution",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:57:50.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-approves-seven-new-commercial-activities-under-ministerial-resolution-1.500684170"
+    },
+    {
+      "id": "news-40",
+      "headline": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
+      "summary": "Turkish leader says UN has been forced into &#039;dysfunction&#039; and was &#039;bleeding out&#039; in Palestine, Lebanon, Sudan.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:55:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss"
+    },
+    {
+      "id": "news-41",
+      "headline": "Top South African policeman charged with sexual offences",
+      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:54:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-42",
+      "headline": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security",
+      "summary": "Trump signs US-Denmark-Greenland agreement to bolster Arctic security",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:52:03.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/trump-signs-us-denmark-greenland-agreement-to-bolster-arctic-security-1.500684173"
+    },
+    {
+      "id": "news-43",
+      "headline": "UK Leader Burnham to Hold First Meeting With Trump at UN General Assembly",
+      "summary": "Prime Minister Andy Burnham of Britain faces his most high-stakes meeting since taking office, looking to build a rapport with President Trump.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:51:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html"
+    },
+    {
+      "id": "news-44",
+      "headline": "36 weekly European flights to return to Dubai from October",
+      "summary": "36 weekly European flights to return to Dubai from October",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:51:20.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/36-weekly-european-flights-to-return-to-dubai-from-october-1.500684163"
+    },
+    {
+      "id": "news-45",
+      "headline": "Reports of petroleum levy being 'central point' in IMF programme are 'misleading': finance ministry",
+      "summary": "&lt;p&gt;The finance ministry issued a rebuttal on Tuesday, saying that reports of the petrol development levy (PDL) being a “central point” of Pakistan’s ongoing programme with the International Monetary Fund (IMF) were “misleading”.&lt;/p&gt;\n&lt;p&gt;The programme includes a $7 billion Extended F",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:47:51.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031876/reports-of-petroleum-levy-being-central-point-in-imf-programme-are-misleading-finance-ministry"
+    },
+    {
+      "id": "news-46",
+      "headline": "Islamabad-Peshawar Motorway to be closed for all types of traffic from 11pm on Wednesday",
+      "summary": "&lt;p&gt;Islamabad police on Tuesday issued an advisory stating that the Islamabad-Peshawar Motorway (M-1) will be closed to all types of traffic from 11pm on September 23 (Wednesday).&lt;/p&gt;\n&lt;p&gt;“Those travelling from the twin cities of Islamabad and Rawalpindi, and from other areas, should",
+      "urgency": "breaking",
+      "topic": "taliban-pakistan",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:45:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031883/islamabad-peshawar-motorway-to-be-closed-for-all-types-of-traffic-from-11pm-on-wednesday"
+    },
+    {
+      "id": "news-47",
+      "headline": "19,600 students in Abu Dhabi lead peer-driven campaign to address tobacco and nicotine use",
+      "summary": "19,600 students in Abu Dhabi lead peer-driven campaign to address tobacco and nicotine use",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:45:08.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/abu-dhabi/19600-students-in-abu-dhabi-lead-peer-driven-campaign-to-address-tobacco-and-nicotine-use-1.500684157"
+    },
+    {
+      "id": "news-48",
+      "headline": "Trump-Pezeshkian meeting on UNGA sidelines? US president 'open' to talks with Iran",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134416649.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:44:53.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms"
+    },
+    {
+      "id": "news-49",
+      "headline": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
+      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:42:23.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-50",
+      "headline": "Meta&apos;s new AI agent hits 2.8 million downloads in just 12 days",
+      "summary": "Meta&apos;s new AI agent hits 2.8 million downloads in just 12 days",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:41:57.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/technology/companies/metas-new-ai-agent-hits-28-million-downloads-in-just-12-days-1.500684161"
+    },
+    {
+      "id": "news-51",
+      "headline": "An Illinois thrift store has collected more than 100,000 donated items and runs with 200 volunteers",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134416126.cms\" /&gt;<![CDATA[House of Hope Resale, located in Barrington, Illinois, serves as a vital resource for families in financial distress. The non-profit effici",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:40:24.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-illinois-thrift-store-has-collected-more-than-100000-donated-items-and-runs-with-200-regular-volunteers-using-every-resale-purchase-to-support-local-families-in-crisis/articleshow/134416126.cms"
+    },
+    {
+      "id": "news-52",
+      "headline": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
+      "summary": "Jordan&#039;s King Abdullah II decried Israeli settlements in the occupied West Bank as a strategy of ‘forced displacement.&#039;",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:35:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss"
+    },
+    {
+      "id": "news-53",
+      "headline": "Mirroring Trump, Allies Are Expected to Label Latin American Cartels ‘Terrorists’ at U.N.G.A.",
+      "summary": "On the sidelines of the U.N. General Assembly, 14 countries are expected to follow Washington’s lead by designating 25 criminal groups as terrorist organizations.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:35:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/world/americas/unga-trump-allies-latin-america-cartels-terrorist-label.html"
+    },
+    {
+      "id": "news-54",
+      "headline": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
+      "summary": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:31:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss"
+    },
+    {
+      "id": "news-55",
+      "headline": "Houthis Push Into Yemen’s Kahboub Mountains After Seizing Red Sea Coast: who 16 outlets blamed - NewsCord",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2lDUGhaLUk5S3NwX3VJYWJGQXZIeEhFOVplU0VRb0xCS3ZBUWZFVmhvRm9ENnBYUHNBcGRKaUJPUHpUTnVQNEhKbmRQRDNQM052ZlRtcW94VUpsY1JxUHoyV0pOdXdRZVhIUVo0bjJXemNRVmdwNl91bDY2dXh6NDdHaE9uT0lmd1Znby1SdVBSWkpaQzhBaFYwRXhlWm5BQ3owNm9FdTVQdy10ODBsQmdlTEllYU5",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:31:23.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2lDUGhaLUk5S3NwX3VJYWJGQXZIeEhFOVplU0VRb0xCS3ZBUWZFVmhvRm9ENnBYUHNBcGRKaUJPUHpUTnVQNEhKbmRQRDNQM052ZlRtcW94VUpsY1JxUHoyV0pOdXdRZVhIUVo0bjJXemNRVmdwNl91bDY2dXh6NDdHaE9uT0lmd1Znby1SdVBSWkpaQzhBaFYwRXhlWm5BQ3owNm9FdTVQdy10ODBsQmdlTEllYU5OckxrbGFuN0RSOEU4ZENIODFCV1FRRXVoNkhuWk85Z1NRaE5k?oc=5"
+    },
+    {
+      "id": "news-56",
+      "headline": "WATCH: Trump addresses 2026 United Nations General Assembly - PBS",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDlfMEZKSnZWZFVuUEJJUnBsWXA3NWpmSXI0aFl3dTUtcHFmOVJ4MmF6QmxWLXBCVDZ3eGFCeVhYQTh2V2piam8wR1JnYWdBYVJvR0hFU203UFZEMFJqMWw0aFc1aUxyZmNTNGpJVkdVU1hzR2hjUmxpNC1wZVJFWWRQMDlPdWxmdTEtRjhSQXNmeFktYkVHS1pEVFNDcUHSAaQBQVVfeXFMTTNpMXhPNXBsSFdCdnh",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:30:22.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDlfMEZKSnZWZFVuUEJJUnBsWXA3NWpmSXI0aFl3dTUtcHFmOVJ4MmF6QmxWLXBCVDZ3eGFCeVhYQTh2V2piam8wR1JnYWdBYVJvR0hFU203UFZEMFJqMWw0aFc1aUxyZmNTNGpJVkdVU1hzR2hjUmxpNC1wZVJFWWRQMDlPdWxmdTEtRjhSQXNmeFktYkVHS1pEVFNDcUHSAaQBQVVfeXFMTTNpMXhPNXBsSFdCdnhSem52YWt6SUVCdjc3RHRhSGRlSlNsRV9ZRGp2bmx4ZS1YVzZXNW9hUUxTaHJLRG9lcW5vdjVGMWE5ZEh6dHFKTzVmZzQ4Mk52WENMUUVMQlZ5MTU4M2RKV205MmVtaXlYZzhnRDFLVGxadXhQVWJJSGhkblpiRWpSWll5bWp3T2c1cThxWFlQak8zX3ZuSHY?oc=5"
+    },
+    {
+      "id": "news-57",
+      "headline": "Trump at UN calls for all countries to quit ICC",
+      "summary": "Trump at UN calls for all countries to quit ICC",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:30:21.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/trump-at-un-calls-for-all-countries-to-quit-icc-2-1.500684149"
+    },
+    {
+      "id": "news-58",
+      "headline": "Iran delegation to present narrative of resilience, diplomacy at UNGA - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOOF9JanhtM2xPLUdGaDQ0YkpyMlZvbHlCNTU4MkJFbTFzMGFmaDlLSndsM0lhWlRxdUdjTEljam84dUhrMFlKZDRVcFhEWklvSVdSNGdoZzhRYjFvZ1JNeW9xMmhNTUNCNnhvazM1WXE3SlNsZnRuY2Q1bEZTMEUzaVFxem9zV0RXejl5Zjg4MGZ6b05yY0pxaDhDekZ5cllRQlI5RFdYMS1wQVJYdVHSAbMBQVVfeXF",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:30:06.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOF9JanhtM2xPLUdGaDQ0YkpyMlZvbHlCNTU4MkJFbTFzMGFmaDlLSndsM0lhWlRxdUdjTEljam84dUhrMFlKZDRVcFhEWklvSVdSNGdoZzhRYjFvZ1JNeW9xMmhNTUNCNnhvazM1WXE3SlNsZnRuY2Q1bEZTMEUzaVFxem9zV0RXejl5Zjg4MGZ6b05yY0pxaDhDekZ5cllRQlI5RFdYMS1wQVJYdVHSAbMBQVVfeXFMTnRwSUdrMzY1QW50MUxrMUM1OW91ZjQtYXlZRFFkOHo0UmJtSmMwaXFNS0hsSElmbjI4MFVTZVNvaUltSGo4cDlDV093VmxWVVk3ZXE5cklOYV92T2NXLVRQRkp5eV80Vlp6cTJRMFdGamxrMlh3WVR4UXhaZEhRS3NPWHc5TG9DOHFuMHR5ZkhHMDVmUlFBMzJieVJ6OWRfS0NVdTA5cnVFRHRIY0l0djRGZzQ?oc=5"
+    },
+    {
+      "id": "news-59",
+      "headline": "🔴Live: 'Nobody with a conscience can close their eyes to what is happening in Gaza', Erdogan tells UN",
+      "summary": "🔴Live: 'Nobody with a conscience can close their eyes to what is happening in Gaza', Erdogan tells UN",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:24:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate"
+    },
+    {
+      "id": "news-60",
+      "headline": "Trump at UN opposes global AI rules, calls them ‘globalist scheme’",
+      "summary": "Trump at UN opposes global AI rules, calls them ‘globalist scheme’",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:22:28.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/trump-at-un-opposes-global-ai-rules-calls-them-globalist-scheme-1.500684136"
+    },
+    {
+      "id": "news-61",
+      "headline": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
+      "summary": "Speaking at the UN General Assembly, US President Donald Trump claimed he helped end the war in Gaza.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:18:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss"
+    },
+    {
+      "id": "news-62",
+      "headline": "CUHK economist apologises over talk that examined women ‘marrying for money’",
+      "summary": "A prominent economist at the Chinese University of Hong Kong has apologised after he analysed women “marrying for money” in a talk on campus that led students to accuse him of making gender-biased remarks.\nThe backlash erupted shortly after Terence Chong Tai-leung, an associate professor of economic",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:17:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/education/article/3368435/cuhk-economist-apologises-over-talk-examined-women-marrying-money?utm_source=rss_feed"
+    },
+    {
+      "id": "news-63",
+      "headline": "Iran: Trump believes in an agreement after US midterms",
+      "summary": "US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East.\n \nHe added that he believed an agreement was possible after the US midterm elections in November.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:17:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
+    },
+    {
+      "id": "news-64",
+      "headline": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
+      "summary": "US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it \"out of control.\" He also used the speech to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and warn that he could \"annihilate the Is",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:13:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech"
+    },
+    {
+      "id": "news-65",
+      "headline": "Earl Spencer Book Blasts Diana’s Treatment by UK Royal Family",
+      "summary": "The decades have not lessened Earl Spencer’s anger over the House of Windsor’s treatment of the former Princess of Wales. King Charles comes in for special vitriol.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:12:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html"
+    },
+    {
+      "id": "news-66",
+      "headline": "How is the EU responding to record fuel prices?",
+      "summary": "Fuel prices have hit record highs across Europe in recent days, driven by soaring oil prices amid the war in the Middle East and Ukrainian strikes on Russian refineries. However, the scale of the increases, as well as the measures taken to address them, varies significantly from one country to anoth",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:07:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260922-how-is-the-eu-approaching-record-fuel-prices"
+    },
+    {
+      "id": "news-67",
+      "headline": "In 1993, buyers paid $490,000 for Kurt Weill’s former 5.5-acre New York estate; after 33 years...",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134415207.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:05:11.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/real-estate/in-1993-buyers-paid-490000-for-kurt-weills-former-5-5-acre-new-york-estate-after-33-years-of-restoration-the-1880-property-is-now-asking-1-995-million/articleshow/134415207.cms"
+    },
+    {
+      "id": "news-68",
+      "headline": "Saudi Arabia denies buying 25 oil tankers after Iraqi claims",
+      "summary": "Saudi Arabia denies buying 25 oil tankers after Iraqi claims",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:02:29.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-denies-buying-25-oil-tankers-after-iraqi-claims-1.500684102"
+    },
+    {
+      "id": "news-69",
+      "headline": "From tariff overlord to tarmac man, Trump to roll out red carpet for Xi",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134415950.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:02:29.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/from-tariff-overlord-to-tarmac-man-donald-trump-to-roll-out-red-carpet-for-xi-jinping/articleshow/134415950.cms"
+    },
+    {
+      "id": "news-70",
+      "headline": "Best air purifiers on Amazon.ae 2026: Clearing dust, sand and city air at home",
+      "summary": "Best air purifiers on Amazon.ae 2026: Clearing dust, sand and city air at home",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T16:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/best-buys/home-and-kitchen/best-air-purifiers-on-amazonae-2026-clearing-dust-sand-and-city-air-at-home-1.500683352"
+    },
+    {
+      "id": "news-71",
+      "headline": "UNGA 2026: Can the UN stop wars?",
+      "summary": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:49:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss"
+    },
+    {
+      "id": "news-72",
+      "headline": "Live: Rubio says US open to meeting Iranian officials at UN - Middle East Eye",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw?oc=5\" target=\"_b",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Middle East Eye",
+          "logo": "https://www.google.com/s2/favicons?domain=middleeasteye.net&sz=32",
+          "url": "https://middleeasteye.net",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:46:41.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw?oc=5"
+    },
+    {
+      "id": "news-73",
+      "headline": "Amazon says it will provide secure cloud computing to NATO.",
+      "summary": "Over time, the development should allow better intelligence sharing and military planning among the alliance.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:44:19.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/amazon-to-provide-secure-cloud-computing-to-nato"
+    },
+    {
+      "id": "news-74",
+      "headline": "Pilots’ dispute leaves Air New Zealand passengers stranded for 14 hours",
+      "summary": "Pilots’ dispute leaves Air New Zealand passengers stranded for 14 hours",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:40:47.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/pilots-dispute-leaves-air-new-zealand-passengers-stranded-for-14-hours-1.500684088"
+    },
+    {
+      "id": "news-75",
+      "headline": "National Bank of Egypt to acquire Banque Misr’s UAE branches",
+      "summary": "National Bank of Egypt to acquire Banque Misr’s UAE branches",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:40:21.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/banking/national-bank-of-egypt-to-acquire-banque-misrs-uae-branches-1.500684036"
+    },
+    {
+      "id": "news-76",
+      "headline": "New UAE banking platform to reduce repeated customer document updates",
+      "summary": "New UAE banking platform to reduce repeated customer document updates",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:39:55.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/banking/new-uae-banking-platform-to-reduce-repeated-customer-document-updates-1.500684006"
+    },
+    {
+      "id": "news-77",
+      "headline": "Meet Shriyan Avadhanula,Virginia student who built a free college-prep platform after getting frustrated by paid resources",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134412382.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:38:02.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-shriyan-avadhanula-the-16-year-old-virginia-student-who-built-a-free-college-prep-platform-after-getting-frustrated-by-paid-resources-scholark-has-crossed-10000-users/articleshow/134412382.cms"
+    },
+    {
+      "id": "news-78",
+      "headline": "Idaho farm bought for $87.50 an acre in 1916 earns official Century Farm status",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134411176.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:37:57.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-idaho-farm-bought-in-1916-for-about-87-50-an-acre-has-stayed-in-one-family-for-more-than-a-century-110-years-later-the-361-acre-homestead-has-been-named-an-official-century-farm/articleshow/134411176.cms"
+    },
+    {
+      "id": "news-79",
+      "headline": "G7 raises alarm over Houthi attacks in Red Sea - AzerNews",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE50QzRvZ29WVTB0VEM0dTNsWlBmNFY4RmlEdGR2YXJNM2Z3QUhqWXo1Z1R2TEFGOVlFU1dzN2I5bWNoQ3V6YmZTZnlpUUpxVENPcGtKVA?oc=5\" target=\"_blank\"&gt;G7 raises alarm over Houthi attacks in Red Sea&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Aze",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:36:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50QzRvZ29WVTB0VEM0dTNsWlBmNFY4RmlEdGR2YXJNM2Z3QUhqWXo1Z1R2TEFGOVlFU1dzN2I5bWNoQ3V6YmZTZnlpUUpxVENPcGtKVA?oc=5"
+    },
+    {
+      "id": "news-80",
+      "headline": "Trump follows in Hugo Chavez’s footsteps to launch his own TV channel",
+      "summary": "Trump has launched his own channel amid an ongoing rift with the White House press pool.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:33:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss"
+    },
+    {
+      "id": "news-81",
+      "headline": "The return of Palestinian football: ‘We are a people who must live’",
+      "summary": "The Martyrs’ World Cup brings Palestinian football back after nearly three years, despite military restrictions.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:32:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss"
+    },
+    {
+      "id": "news-82",
+      "headline": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
+      "summary": "The White House launched &#039;Trump TV&#039; as major networks suspended the television pool covering the US president.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:27:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
+    },
+    {
+      "id": "news-83",
+      "headline": "Lionel Richie hospitalised again with heart issue, cancels tour dates",
+      "summary": "Lionel Richie hospitalised again with heart issue, cancels tour dates",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:26:43.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/entertainment/lionel-richie-hospitalised-again-with-heart-issue-cancels-tour-dates-1.500684080"
+    },
+    {
+      "id": "news-84",
+      "headline": "PHC to take up plea seeking recovery of 'abducted' KP minister Fazal Shakoor",
+      "summary": "&lt;p&gt;CHARSADDA/PESHAWAR: The Peshawar High Court (PHC) will take up a petition on Wednesday seeking the recovery of Khyber Pakhtunkhwa Minister for Public Health Engineering Fazal Shakoor.&lt;/p&gt;\n&lt;p&gt;The petition was filed on Tuesday, a day after the minister and two other men with him w",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:23:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2031818/phc-to-take-up-plea-seeking-recovery-of-abducted-kp-minister-fazal-shakoor"
+    },
+    {
+      "id": "news-85",
+      "headline": "Dozens of people sue GLP-1 drug companies over alleged vision loss",
+      "summary": "More than 90 lawsuits against GLP-1 companies claim rare eye condition resulted from diabetes and weight loss drugs.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:23:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations?traffic_source=rss"
+    },
+    {
+      "id": "news-86",
+      "headline": "US weighs ‘red phone’ hotline with China ahead of Trump-Xi meet amid AI security risks: Report",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134415536.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:23:11.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-weighs-red-phone-hotline-with-china-ahead-of-trump-xi-meet-amid-ai-security-risks-report/articleshow/134415536.cms"
+    },
+    {
+      "id": "news-87",
+      "headline": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
+      "summary": "With the Alternative for Germany party close to power in a German state, federal officials are planning to limit the group’s access to classified intelligence.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:21:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html"
+    },
+    {
+      "id": "news-88",
+      "headline": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
+      "summary": "US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:19:19.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss"
+    },
+    {
+      "id": "news-89",
+      "headline": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:17:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-90",
+      "headline": "Trump Set to Meet With Persian Gulf Allies as Middle East Wars Widen",
+      "summary": "The Iran war and the fight between the Houthis and Saudi Arabia in Yemen have forced Gulf Arab states to reckon with spiraling conflicts and to reassess U.S. security guarantees.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:17:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html"
+    },
+    {
+      "id": "news-91",
+      "headline": "Syrian man reunited with secret library hidden for 15 years",
+      "summary": "A Syrian man has been reunited with his collection of over 100 Islamic texts, science books and poems,15 years after sealing the collection behind a wall. Mustafa Khaled Alwan had built to conceal the library, which would likely have landed in prison, or worse, under Bashar al-Assad's rule.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:15:25.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260922-syrian-man-reunited-with-secret-library-hidden-for-15-years"
+    },
+    {
+      "id": "news-92",
+      "headline": "Trump warns Iran at UN: ‘Big decision’ looms — deal or military action?",
+      "summary": "Trump warns Iran at UN: ‘Big decision’ looms — deal or military action?",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:14:40.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/trump-warns-iran-at-un-big-decision-looms-deal-or-military-action-1.500684055"
+    },
+    {
+      "id": "news-93",
+      "headline": "Watch: Trump calls Cuba a 'failed state', delegation walks out",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134415385.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:14:21.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/trump-calls-cuba-a-failed-state-delegation-walks-out/articleshow/134415385.cms"
+    },
+    {
+      "id": "news-94",
+      "headline": "Deal or annihilation? Trump speaks about his 'big' Iran dilemma at UNGA",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134415378.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:13:08.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/deal-or-annihilation-trump-speaks-about-his-big-iran-dilemma-at-unga/articleshow/134415378.cms"
+    },
+    {
+      "id": "news-95",
+      "headline": "Trump defends Iran war, touts ‘America is back’ agenda in UN speech",
+      "summary": "US President Donald Trump addressed the global community on Tuesday morning with a speech that sought to justify his war with Iran, touted how he has “made peace” and argued that his “make America great again” policies benefit the world.\nHis speech before the UN General Assembly came as the world gr",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:06:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/us/article/3368434/trump-defends-iran-war-touts-america-back-agenda-un-speech?utm_source=rss_feed"
+    },
+    {
+      "id": "news-96",
+      "headline": "UAE businesses urged to strengthen legal and risk systems",
+      "summary": "UAE businesses urged to strengthen legal and risk systems",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:03:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/uae-businesses-urged-to-strengthen-legal-and-risk-systems-1.500684035"
+    },
+    {
+      "id": "news-97",
+      "headline": "What’s behind French protests against a new police bill?",
+      "summary": "Critics say controversial law will give police officers a &#039;licence to kill&#039;.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:01:19.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss"
+    },
+    {
+      "id": "news-98",
+      "headline": "Learning from Ukraine war, Chinese military doctors target injuries from drones",
+      "summary": "China’s military medical experts are making progress in finding cures for common injuries seen in drone warfare, drawing on lessons from the wars in Ukraine and the Middle East, according to state broadcaster CCTV.\nChen Juxiang, a senior Chinese military doctor, told CCTV on Monday that cranio-maxil",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:00:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/military/article/3368392/learning-ukraine-war-chinese-military-doctors-target-injuries-drones?utm_source=rss_feed"
+    },
+    {
+      "id": "news-99",
+      "headline": "Alex Antic’s rise in SA Liberals has coincided with a collapse in the party’s vote. Is there further to fall?",
+      "summary": "&lt;p&gt;Election of rightwing senator – once called a ‘vote-losing machine’ – as state president in South Australia takes party further from the centre&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;new political email&lt;/a&",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-22T15:00:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/23/right-wing-senator-alex-antic-sweeps-to-victory-as-next-sa-liberals-president-ntwnfb"
+    }
+  ],
   "financials": {
     "exchangeRates": {
       "USD": 1,
-      "AED": 3.67,
+      "AED": 3.6725,
       "SAR": 3.75,
-      "GBP": 0.79,
-      "INR": 83.1,
-      "JPY": 150.2,
-      "EUR": 0.92
+      "GBP": 0.747749,
+      "INR": 95.873393,
+      "JPY": 157.353588,
+      "EUR": 0.87176,
+      "PKR": 277.425913,
+      "EGP": 51.928286,
+      "TRY": 48.824225,
+      "CAD": 1.402289,
+      "AUD": 1.404334,
+      "BRL": 5.131146,
+      "ZAR": 16.247701,
+      "NGN": 1330.691027,
+      "KES": 129.436718,
+      "JOD": 0.709,
+      "LBP": 89500,
+      "IQD": 1311.506614,
+      "QAR": 3.64,
+      "KWD": 0.308357,
+      "BHD": 0.376,
+      "OMR": 0.384497,
+      "ILS": 3.01799,
+      "KRW": 1375.642214
     },
     "gold": {
       "label": "Gold (USD/oz)",
