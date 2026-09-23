@@ -1,8 +1,836 @@
 {
-  "lastUpdated": "2026-09-23T20:50:25.737Z",
+  "lastUpdated": "2026-09-23T23:21:50.014Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "U.N. Live Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+      "summary": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that years of fighting have spilled beyond his country’s borders. Venezuela’s leader, Delcy Rodríguez, is making her comments to world leaders now.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T23:16:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine"
+    },
+    {
+      "id": "news-1",
+      "headline": "Mark Carney Interview: Canada’s Leader Lays Out Vision for Breaking Reliance on U.S.",
+      "summary": "In a wide-ranging interview, the Canadian leader laid out a detailed vision for breaking his country’s dependency on the United States.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T23:11:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "News live: Marles says ‘legal situation’ of OpenAI breach under investigation; Victoria to allow dogs in pubs under election promise",
+      "summary": "&lt;p&gt;Follow the day’s news live&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;, &lt;a href=\"https://app.adjust.com/w4u7jx3\"&gt;free app&lt;/a&gt; or &lt;a href=\"https://www.theguardian.com/aus",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T23:10:05.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
+    },
+    {
+      "id": "news-3",
+      "headline": "Attacks by new rebel alliance stoke fear Ethiopia is returning to war",
+      "summary": "Tigray rebels said they were responding to a \"full-scale offensive\" by the government, which countered that it was the rebels who started the fighting.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T23:09:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/09/23/renewed-violence-stokes-ethiopia/"
+    },
+    {
+      "id": "news-4",
+      "headline": "Peng Liyuan and Melania Trump renew acquaintance as Xi arrives in US",
+      "summary": "Chinese first lady Peng Liyuan shared a light moment with Melania Trump on Wednesday as the two women renewed an acquaintance dating back to the Trumps’ first term in the White House.\nThe first ladies smiled as they greeted each other at the foot of the aircraft stairs at Joint Base Andrews, where P",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T23:04:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3368572/peng-liyuan-and-melania-trump-renew-acquaintance-xi-arrives-us?utm_source=rss_feed"
+    },
+    {
+      "id": "news-5",
+      "headline": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+      "summary": "Sam Altman of OpenAI and Dario Amodei of Anthropic told the Security Council that international cooperation was needed to ensure that A.I. remains under human control.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T23:01:35.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html"
+    },
+    {
+      "id": "news-6",
+      "headline": "Turkey to hand over military base to Iraq",
+      "summary": "Turkey will hand over control of its base in Bashiqa in northern Iraq to Baghdad, the Turkish presidency announced on Wednesday in a joint statement with its neighbour.\n“In light of progress achieved by these security measures implemented by Iraq, Turkish forces will gradually hand over the Bashiqa-",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:59:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3368571/turkey-hand-over-military-base-iraq?utm_source=rss_feed"
+    },
+    {
+      "id": "news-7",
+      "headline": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+      "summary": "&lt;p&gt;US president to give red-carpet treatment to Chinese counterpart despite tensions over AI development&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-late",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:59:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit"
+    },
+    {
+      "id": "news-8",
+      "headline": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
+      "summary": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:56:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss"
+    },
+    {
+      "id": "news-9",
+      "headline": "After Warm Meeting With Trump, Venezuela’s Leader Is Set to Address U.N.",
+      "summary": "She will be the first head of state from her country in eight years to make a speech to the body in person, and she is likely to sound radically different from her recent predecessors.",
+      "urgency": "breaking",
+      "topic": "venezuela",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:55:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/world/americas/trump-venezuela-delcy-rodriguez.html"
+    },
+    {
+      "id": "news-10",
+      "headline": "Canada’s Capital Bids Good Riddance to Trump Avenue as Tensions With U.S. Rise",
+      "summary": "Ottawa’s City Council decided that the street should no longer be named for President Trump, who recently signed an executive order changing Lake Ontario to Lake America.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:54:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/us/ottawa-canada-renaming-trump-avenue.html"
+    },
+    {
+      "id": "news-11",
+      "headline": "Iran’s president hits out at ‘bully’ Trump in UN speech but signals willingness to talk - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1oxSlVDclFlTHV4Uzc4M192RU5maUhGYUlNMk5DQlNmSGhBZV8tOGNyZ3dydjN0YmVqWlNPTVZFOVdUcDVFTndwUnNkN2dHdDZodS14RjFoTkxkbjdkbWJFTlZFZ1JwOXc0YWpmdFZVZVhHa0pJaGM2TmlyNkdndTY0VHpSaG01bFFrczlPWmxKYXFxc3BwOFpoaGVFemp2aUdTd243cDJEVTFXXzVRZTRFcw?oc=5",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:53:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1oxSlVDclFlTHV4Uzc4M192RU5maUhGYUlNMk5DQlNmSGhBZV8tOGNyZ3dydjN0YmVqWlNPTVZFOVdUcDVFTndwUnNkN2dHdDZodS14RjFoTkxkbjdkbWJFTlZFZ1JwOXc0YWpmdFZVZVhHa0pJaGM2TmlyNkdndTY0VHpSaG01bFFrczlPWmxKYXFxc3BwOFpoaGVFemp2aUdTd243cDJEVTFXXzVRZTRFcw?oc=5"
+    },
+    {
+      "id": "news-12",
+      "headline": "Can the US and China verify an AI deal? Start-ups are starting to build the tools",
+      "summary": "There are growing calls for Washington and Beijing to agree to slow down development of artificial intelligence. But even if they wanted to do so, how could they verify that the other side would do the same?\nA group of researchers and start-ups is developing technology intended to make this a possib",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:34:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/us/article/3368570/can-us-and-china-verify-ai-deal-start-ups-are-starting-build-tools?utm_source=rss_feed"
+    },
+    {
+      "id": "news-13",
+      "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:23:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-14",
+      "headline": "Alabama turns old gas rig into two reefs, with one rising 632 feet from seafloor",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134437156.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:20:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/alabama-has-turned-a-decommissioned-natural-gas-rig-into-two-artificial-reefs-one-section-rises-632-feet-from-the-seafloor-preserving-marine-habitat-that-has-been-growing-there-since-1998/articleshow/134437156.cms"
+    },
+    {
+      "id": "news-15",
+      "headline": "Live: Iran is a 'victim of terrorism', Pezeshkian tells UN General Assembly - Middle East Eye",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw?oc=5\" target=\"_b",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Middle East Eye",
+          "logo": "https://www.google.com/s2/favicons?domain=middleeasteye.net&sz=32",
+          "url": "https://middleeasteye.net",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:13:22.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWXNvTzZ4TkdPVHc4bkh4emxSZzBhMXBKM04zNlFFeFoySUpBelZBQlJmVF83WVdXNDQ5VEFXei13SjlVQ0xDSHBpWU9GZElNQk9naS1ESFRMcXRMX3FHV3ptOU9nRFJLRWFBVVI4ejhHNGVSUWJNZVNHZmVBTDNMRXZvc0lfODAyTXJCM0VmQ0FJdGtjbkdWZjIyTGJMSUNOSWdOYlVjcFlCdw?oc=5"
+    },
+    {
+      "id": "news-16",
+      "headline": "OpenAI AI agent breached Australian government website, PM says",
+      "summary": "An AI agent developed by OpenAI gained unauthorised access to an Australian government website in June, accessing public and non-public files in what Prime Minister Anthony Albanese described as the first known case of an AI agent hacking a government system.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:10:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says"
+    },
+    {
+      "id": "news-17",
+      "headline": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:01:17.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-18",
+      "headline": "Australia turns Sydney food waste into power for 4,000 homes",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134442456.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T22:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/australia-turns-sydneys-food-waste-into-biogas-and-electricity-a-62500-tonne-facility-can-power-around-4000-homes/articleshow/134442456.cms"
+    },
+    {
+      "id": "news-19",
+      "headline": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
+      "summary": "&lt;p&gt;Prime minister says he told chief executive he was disappointed it had taken company ‘way too long’ to inform government of breach&lt;/p&gt;&lt;p&gt;Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June.&lt;/p&gt;&lt;p&gt;Australia’s prime minist",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:55:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+    },
+    {
+      "id": "news-20",
+      "headline": "Trump’s Board of Peace Lays Out 6-Month Plan for Gaza That Faces Roadblocks",
+      "summary": "The board briefed donors on the sidelines of the U.N. General Assembly, where some world leaders have criticized Israel’s continued attacks and restrictions on humanitarian access in the Palestinian enclave.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:52:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/world/board-of-peace-gaza-6-month-plan.html"
+    },
+    {
+      "id": "news-21",
+      "headline": "US restricts visas for birth tourism ahead of Xi Jinping’s summit with Trump",
+      "summary": "Hours before Chinese President Xi Jinping arrived in the US for a high-stakes summit, US Secretary of State Marco Rubio moved to restrict visas for those who “engage in or facilitate” birth tourism, a practice the Trump administration has increasingly accused China of.\n“By restricting visa issuance ",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:50:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/politics/article/3368569/us-restricts-visas-birth-tourism-ahead-xi-jinpings-summit-trump?utm_source=rss_feed"
+    },
+    {
+      "id": "news-22",
+      "headline": "Eala Mania hits Singapore as Filipino star draws huge crowd",
+      "summary": "Eala Mania hits Singapore as Filipino star draws huge crowd",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:47:41.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/tennis/eala-mania-hits-singapore-as-filipino-star-draws-huge-crowd-1.500685700"
+    },
+    {
+      "id": "news-23",
+      "headline": "Xi lands in US for high-stakes summit with Trump amid deep tensions",
+      "summary": "Chinese President Xi Jinping landed at Joint Base Andrews late Wednesday afternoon after a 15-hour flight where he was met on the tarmac by US President Donald Trump in an unprecedented move for a top American leader.\nThe closely watched visit – Xi’s first summit in the United States in 11 years – c",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:46:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3368568/xi-lands-us-high-stakes-summit-trump-amid-deep-tensions?utm_source=rss_feed"
+    },
+    {
+      "id": "news-24",
+      "headline": "AI leaders urge caution at UN, with Anthropic chief pledging to slow down",
+      "summary": "Leaders of some of the world's biggest AI companies urged caution at the United Nations on Wednesday, warning that increasingly autonomous systems could outpace human oversight. Anthropic CEO Dario Amodei pledged to slow development to ensure new AI systems are safe, while OpenAI chief Sam Altman ca",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:46:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down"
+    },
+    {
+      "id": "news-25",
+      "headline": "Xi’s Visit Will Fuel More Scrutiny Over His Health",
+      "summary": "Discussion about the Chinese leader’s health is heavily censored in China even as the 73-year-old is expected to remain in power.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:40:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/us/politics/china-xi-health.html"
+    },
+    {
+      "id": "news-26",
+      "headline": "Iran’s president tells U.N. his country ‘must be powerful so as to avoid being threatened’",
+      "summary": "Masoud Pezeshkian began his brief address by saying that he had planned to deliver different remarks before hearing President Donald Trump’s speech Tuesday.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:39:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/09/23/irans-president-address-un-general-assembly-after-trump-threatens-annihilation/"
+    },
+    {
+      "id": "news-27",
+      "headline": "China is leveraging its diaspora to boost the economy, unlike India",
+      "summary": "A country’s diaspora can be a symbol of its pride and power. A nation’s diaspora can help it build international value through success stories, promote its soft power through culture and contribute to its economic progress through remittances, investments and transfers of expertise.\nIndia and China ",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:30:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3367636/china-leveraging-its-diaspora-boost-economy-unlike-india?utm_source=rss_feed"
+    },
+    {
+      "id": "news-28",
+      "headline": "Watch: The arms race in space and how the UK is defending itself",
+      "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:29:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-29",
+      "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:26:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-30",
+      "headline": "Xi’s US visit begins with rare airport welcome from Trump, trade truce extension",
+      "summary": "This live article is freely available to our registered users. Please log in or create an account.\nUnrivalled Xi-Trump summit analysis: get real-time updates and exclusive boots-on-the-ground reporting from our US and China bureaus. Subscribe now with great savings to stay ahead.\nPresident Xi Jinpin",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:18:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368567/xi-begin-3-day-us-visit-rare-airport-welcome-trump?utm_source=rss_feed"
+    },
+    {
+      "id": "news-31",
+      "headline": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+      "summary": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:18:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss"
+    },
+    {
+      "id": "news-32",
+      "headline": "UK survivor of Canadian poison seller says he exploited her despair",
+      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:16:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-33",
+      "headline": "US aviation sanctions disrupt Iran flights, push travellers overland",
+      "summary": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:05:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss"
+    },
+    {
+      "id": "news-34",
+      "headline": "Decoding Trump-Xi",
+      "summary": "The Chinese leader seems to have the upper hand heading into a state visit to Washington and talks on trade, A.I. and Taiwan.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:03:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html"
+    },
+    {
+      "id": "news-35",
+      "headline": "Ukraine’s Zelensky warns of painful winter for Russia if energy truce talks fail",
+      "summary": "Ukrainian President Volodymyr Zelensky warned Moscow at the United Nations on Wednesday that his nation would strike back and make the coming winter deeply painful for Russia, if the two sides cannot agree a truce on energy attacks before the cold sets in.\nUkraine and its allies are racing to secure",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:01:32.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3368566/ukraines-zelensky-warns-painful-winter-russia-if-energy-truce-talks-fail?utm_source=rss_feed"
+    },
+    {
+      "id": "news-36",
+      "headline": "South Dakota collector's $750 crock had a rare twin that sold for $32,000",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134443966.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T21:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-south-dakota-collector-paid-750-for-an-old-crock-more-than-30-years-ago-a-32000-sale-revealed-he-had-its-rare-twin/articleshow/134443966.cms"
+    },
+    {
+      "id": "news-37",
+      "headline": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+      "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:56:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss"
+    },
+    {
+      "id": "news-38",
+      "headline": "Fact-checking Trump’s speech at the United Nations General Assembly",
+      "summary": "Donald Trump’s UN address was packed with claims that are misleading, false or exaggerated. He said the US has more munitions than it could ever use, despite reports of depleting stocks. He claimed the US and Venezuela hold 60% of the world’s oil, despite the numbers not adding up, and he said he ha",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:54:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/fact-checking-trump-s-speech-at-the-united-nations-general-assembly-1"
+    },
+    {
+      "id": "news-39",
+      "headline": "Iran war live: Tehran ready for ‘dialogue, diplomacy without force’ - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQU1vV1JGYzkxNmZDcEs0eUFYYlZtTHQ4ZTJzcWZQREo5NzhHZ2dsTGdIMUQyWTZuMUk2NzZZVVE4QUh0M0ZyS0V4WjdFd0loR1JDZEpkSE9RWjliam5uUVpHTHV0LXhmeHdTa3c5TG1RVzJvRmJqMWFCOUxXckpBRlRTLV9PTDgzd0JodjgwWDc3aWF6MV9SMmJWT1dWUFpkWEt2dWhDRVkxMDNBVFpnZVBB0gG3AUF",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:38:34.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQU1vV1JGYzkxNmZDcEs0eUFYYlZtTHQ4ZTJzcWZQREo5NzhHZ2dsTGdIMUQyWTZuMUk2NzZZVVE4QUh0M0ZyS0V4WjdFd0loR1JDZEpkSE9RWjliam5uUVpHTHV0LXhmeHdTa3c5TG1RVzJvRmJqMWFCOUxXckpBRlRTLV9PTDgzd0JodjgwWDc3aWF6MV9SMmJWT1dWUFpkWEt2dWhDRVkxMDNBVFpnZVBB0gG3AUFVX3lxTE5KdWw4dkNsRGxUTjdRb1JxamNPN1JKVUFTdzVfZUxFS2t5em9ENTdRNE1lMlhVbHhpOEJxM24yUm9LeW80WE1yQy1Vdy1XekttNTZwNVlhRTB0UzFGc0xKajJwamZWTFE3clhUWTFpRVN0b0tCWnhGelJ0V0s1Y3hBcjB6NWhJNk9xeDVYUnJuZXNaQ2xaSHBzRUl5cV8yNEtLaExlTDlwbXNBcl92czVWNVQ1ZUYwRQ?oc=5"
+    },
+    {
+      "id": "news-40",
+      "headline": "Trump sparks debate over diesel export ban",
+      "summary": "The Trump administration's suggestion that it could ban or limit diesel exports has sparked furious backlash from the American oil industry. Politicians are trying to bring down soaring energy prices ahead of the midterm election in November, but critics say a ban would cause supply problems and hig",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:38:13.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/trump-sparks-debate-over-diesel-export-ban"
+    },
+    {
+      "id": "news-41",
+      "headline": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
+      "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:37:18.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss"
+    },
+    {
+      "id": "news-42",
+      "headline": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134445644.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:33:05.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-man-in-canada-a-permanent-resident-jailed-for-sexually-assaulting-15-year-old-loses-bid-to-avoid-deportation/articleshow/134445644.cms"
+    },
+    {
+      "id": "news-43",
+      "headline": "Tigray rebels seize airports",
+      "summary": "In tonight's edition, concerns about South Africa's high rates of crimes are brought even more into focus this week as 11 are killed in a mass killing at a party. Also, TPLF fighters take over the airport in Tigray amidst escalating conflict with federal troops. And in eastern DR Congo, residents of",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:27:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tigray-rebels-seize-airports"
+    },
+    {
+      "id": "news-44",
+      "headline": "Trump administration invites Putin to attend G20 summit in Miami",
+      "summary": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
+      "urgency": "important",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:23:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss"
+    },
+    {
+      "id": "news-45",
+      "headline": "Daniel Levy got £27m after leaving Tottenham in 2025; total club earnings reach £88m",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134438626.cms\" /&gt;<![CDATA[On September 4, 2025, Daniel Levy officially stepped down as the executive chairman of Tottenham Hotspur, receiving a £27 million payout th",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T20:20:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/in-2025-daniel-levys-nearly-25-year-run-as-tottenham-chairman-ended-a-year-later-new-figures-show-he-received-a-27-million-exit-payment-taking-his-total-club-earnings-to-about-88-million/articleshow/134438626.cms"
+    },
+    {
+      "id": "news-46",
       "headline": "Donald Trump built a US$5 million White House helipad. Don’t expect Xi Jinping to use it",
       "summary": "US President Donald Trump has been very eager to show off to Chinese leader Xi Jinping his new US$5 million White House helipad, his latest bid to stamp his image on Washington.\nWhile Xi might act impressed and compliment the US president on his latest building project – part of Trump’s bid to match",
       "urgency": "info",
@@ -20,7 +848,25 @@
       "link": "https://www.scmp.com/news/china/article/3368565/donald-trump-built-us5-million-white-house-helipad-dont-expect-xi-jinping-use-it?utm_source=rss_feed"
     },
     {
-      "id": "news-1",
+      "id": "news-47",
+      "headline": "US visa: Immigration lawyer says Green Card lottery, visa processing for 75 banned countries did not resume despite court order",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134445537.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:59:54.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-visa-immigration-lawyer-says-green-card-lottery-visa-processing-for-75-banned-countries-did-not-resume-despite-court-order/articleshow/134445537.cms"
+    },
+    {
+      "id": "news-48",
       "headline": "Senior IRGC commander killed in clashes in southeast Iran",
       "summary": "Senior IRGC commander killed in clashes in southeast Iran",
       "urgency": "breaking",
@@ -38,7 +884,25 @@
       "link": "https://gulfnews.com/world/mena/senior-irgc-commander-killed-in-clashes-in-southeast-iran-1.500685672"
     },
     {
-      "id": "news-2",
+      "id": "news-49",
+      "headline": "Harvey Weinstein sentenced to 15 years in New York sexual assault retrial",
+      "summary": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:58:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss"
+    },
+    {
+      "id": "news-50",
       "headline": "Grief and pain flow at hearing for Canadian suicide poison vendor Kenneth Law",
       "summary": "Relatives of people who committed suicide using poison sold by a Canadian man gave wrenching accounts of pain and loss on Wednesday in court before a judge tasked with deciding the former chef’s prison term.\nKenneth Law pleaded guilty in May to aiding in the suicide of 14 people in Canada after pros",
       "urgency": "info",
@@ -56,7 +920,7 @@
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3368564/grief-and-pain-flow-hearing-canadian-suicide-poison-vendor-kenneth-law?utm_source=rss_feed"
     },
     {
-      "id": "news-3",
+      "id": "news-51",
       "headline": "Would you date an AI bot? These South Korean celebrities are",
       "summary": "Would you date an AI bot? These South Korean celebrities are",
       "urgency": "info",
@@ -74,7 +938,97 @@
       "link": "https://gulfnews.com/entertainment/would-you-date-an-ai-bot-these-south-korean-celebrities-are-1.500685674"
     },
     {
-      "id": "news-4",
+      "id": "news-52",
+      "headline": "As major powers act unilaterally, experts say UN faces crisis in New York",
+      "summary": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:54:24.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss"
+    },
+    {
+      "id": "news-53",
+      "headline": "Trump invites Putin to this year’s G-20 summit in Florida",
+      "summary": "Planning for the December gathering in Miami comes as security experts warn that escalations between Ukraine and Russia risk deepening the war.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:47:36.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/national-security/2026/09/23/trump-invites-putin-this-years-g-20-summit-florida/"
+    },
+    {
+      "id": "news-54",
+      "headline": "REPLAY: Ukrainian President Zelensky addresses the UN General Assembly",
+      "summary": "Ukrainian President Volodymyr Zelensky urged the world’s leaders Wednesday to keep choking Russia’s revenues and impede its war efforts, telling the UN General Assembly that “Russia’s revenues must remain a target”. Watch his full speech above.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:44:34.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20260923-replay-ukrainian-president-zelensky-addresses-the-un-general-assembly"
+    },
+    {
+      "id": "news-55",
+      "headline": "‘My friend’: Anthony Albanese announces $60m more for Ukraine at Zelenskyy meeting",
+      "summary": "&lt;p&gt;An emotional prime minister says that Kyiv’s cause is ‘an issue for the world’ as he also sets out the need for a new global order&lt;/p&gt;&lt;p&gt;Anthony Albanese has announced Australia will provide $60m more in support for Ukraine’s fight against Russia’s invasion during an emotional m",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:40:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting"
+    },
+    {
+      "id": "news-56",
+      "headline": "6-year-old sets Rubik’s Cube world record",
+      "summary": "Lian Yunzhi of China solved five Rubik’s Cubes in an average of 4.27 seconds at a World Cube Association-certified competition last week.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Washington Post",
+          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
+          "url": "https://washingtonpost.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:40:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.washingtonpost.com/world/2026/09/24/6-year-old-sets-rubiks-cube-world-record/"
+    },
+    {
+      "id": "news-57",
       "headline": "All you need to know about a state visit, as White House rolls out red carpet for Xi",
       "summary": "A grand military welcome, a state dinner, tea at the White House and a tour of the National Archives: Chinese President Xi Jinping’s state visit to Washington will see his American counterpart, Donald Trump, roll out the pomp and pageantry.\nThe United States’ capital is bracing for high-level bilate",
       "urgency": "info",
@@ -92,7 +1046,25 @@
       "link": "https://www.scmp.com/news/us/diplomacy/article/3368563/all-you-need-know-about-state-visit-white-house-rolls-out-red-carpet-xi?utm_source=rss_feed"
     },
     {
-      "id": "news-5",
+      "id": "news-58",
+      "headline": "Manchester United losses jump nearly a third to $57m despite record revenue",
+      "summary": "Manchester United&#039;s debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:35:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss"
+    },
+    {
+      "id": "news-59",
       "headline": "Giant shark swims into Busan canal — then 20,000 people turn up",
       "summary": "Giant shark swims into Busan canal — then 20,000 people turn up",
       "urgency": "info",
@@ -110,7 +1082,97 @@
       "link": "https://gulfnews.com/world/asia/giant-shark-swims-into-busan-canal-then-20000-people-turn-up-1.500685665"
     },
     {
-      "id": "news-6",
+      "id": "news-60",
+      "headline": "Ivory Coast vs Ghana: AFCON 2027 qualifier, kick-off time, lineups, teams",
+      "summary": "A star-studded opening to AFCON 2027 qualifying sees Real Madrid&#039;s Yan Diomande lead Ivory Coast against depleted Ghana.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:32:58.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/9/23/ivory-coast-vs-ghana-caf-afcon-qualifier-prediction-teams-lineups?traffic_source=rss"
+    },
+    {
+      "id": "news-61",
+      "headline": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
+      "summary": "Ukrainian president urges world leaders to keep choking Russia&#039;s revenues to impede its war efforts.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:31:12.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
+    },
+    {
+      "id": "news-62",
+      "headline": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
+      "summary": "Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:29:49.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss"
+    },
+    {
+      "id": "news-63",
+      "headline": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
+      "summary": "Legislation seeks to pause advanced AI systems until federal safety standards are established.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:29:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss"
+    },
+    {
+      "id": "news-64",
+      "headline": "Iran threatens countries enforcing US airline sanctions",
+      "summary": "Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:27:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
+    },
+    {
+      "id": "news-65",
       "headline": "UAE warns public against AI deepfake scams impersonating HR Ministry officials",
       "summary": "UAE warns public against AI deepfake scams impersonating HR Ministry officials",
       "urgency": "breaking",
@@ -128,7 +1190,25 @@
       "link": "https://gulfnews.com/uae/government/uae-warns-public-against-ai-deepfake-scams-impersonating-hr-ministry-officials-1.500685664"
     },
     {
-      "id": "news-7",
+      "id": "news-66",
+      "headline": "US judge leaves White House media ban in place for now",
+      "summary": "A judge heard arguments on Wednesday but did not rule on the case.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:26:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss"
+    },
+    {
+      "id": "news-67",
       "headline": "IMF says AI could transform economic policy, posing new opportunities and risks for workers, countries, and businesses",
       "summary": "IMF says AI could transform economic policy, posing new opportunities and risks for workers, countries, and businesses",
       "urgency": "info",
@@ -146,7 +1226,7 @@
       "link": "https://gulfnews.com/business/imf-says-ai-could-transform-economic-policy-posing-new-opportunities-and-risks-for-workers-countries-and-businesses-1.500685653"
     },
     {
-      "id": "news-8",
+      "id": "news-68",
       "headline": "Indian sailor killed in attack on vessel in Hormuz, India and Oman authorities say",
       "summary": "An attack on a cargo ship in the Strait of Hormuz on Wednesday killed an Indian sailor, Omani and Indian authorities said, with the latter condemning the ongoing attacks in the vital shipping lane.\nSince the start of the Middle East war, Iran has sought to impose its control over the maritime condui",
       "urgency": "breaking",
@@ -164,7 +1244,61 @@
       "link": "https://www.scmp.com/news/world/middle-east/article/3368562/indian-sailor-killed-attack-vessel-hormuz-india-and-oman-authorities-say?utm_source=rss_feed"
     },
     {
-      "id": "news-9",
+      "id": "news-69",
+      "headline": "Meet Lian Yunzhi, 6-year-old Chinese girl who broke women’s Rubik’s Cube world record twice in 3 days; solved in 4.27 seconds",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134445225.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:17:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/china/meet-lian-yunzhi-6-year-old-chinese-girl-who-broke-womens-rubiks-cube-world-record-twice-in-3-days-solved-in-4-27-seconds/articleshow/134445225.cms"
+    },
+    {
+      "id": "news-70",
+      "headline": "Zelenskyy: Putin is making the world ‘more dangerous’",
+      "summary": "Ukrainian President Volodymyr Zelenskyy is warning that Russia&#039;s “never-ending war&quot; could spread throughout Europe.",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:13:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss"
+    },
+    {
+      "id": "news-71",
+      "headline": "Argentina’s Milei says UN ‘looking the other way’ on Falkland Islands",
+      "summary": "Argentina steps up its Las Malvinas claim as tensions with the UK grow over offshore oil drilling.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:12:27.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
+    },
+    {
+      "id": "news-72",
       "headline": "UAE welcomes US statement on efforts for immediate humanitarian truce in Sudan",
       "summary": "UAE welcomes US statement on efforts for immediate humanitarian truce in Sudan",
       "urgency": "info",
@@ -182,7 +1316,7 @@
       "link": "https://gulfnews.com/uae/government/uae-welcomes-us-statement-on-efforts-for-immediate-humanitarian-truce-in-sudan-1.500685647"
     },
     {
-      "id": "news-10",
+      "id": "news-73",
       "headline": "Paraguay’s president urges UN to let Taiwan in, calls island’s exclusion ‘a stain’",
       "summary": "Paraguayan President Santiago Pena told the United Nations General Assembly on Wednesday that his country “is not neutral” on the Taiwan Strait, pledging support for the self-ruled island and calling for its “full and meaningful participation” in the UN system.\nCasting a conflict in the strait as a ",
       "urgency": "breaking",
@@ -200,7 +1334,25 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3368561/paraguays-president-urges-un-let-taiwan-calls-islands-exclusion-stain?utm_source=rss_feed"
     },
     {
-      "id": "news-11",
+      "id": "news-74",
+      "headline": "No, this video doesn't disprove the 9/11 attack on the south tower of the World Trade Center",
+      "summary": "A former British member of parliament implied that a video filmed from a helicopter on September 11, 2001 shows that no planes actually hit the World Trade Center's south tower, but this claim would be unfounded. The plane that hit the south tower hit the other side of the building, which isn’t visi",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T19:01:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11"
+    },
+    {
+      "id": "news-75",
       "headline": "American views of China improve before Xi-Trump summit, Pew report finds",
       "summary": "As Chinese President Xi Jinping makes his high-profile state visit to the US, Americans’ views of China remain negative but have improved in recent years, according to a new Pew Research Centre report.\nUsing a “feeling thermometer” ranging from zero, the coldest rating, to 100, the warmest, Pew foun",
       "urgency": "breaking",
@@ -218,7 +1370,169 @@
       "link": "https://www.scmp.com/news/us/article/3368560/american-views-china-improve-xi-trump-summit-pew-report-finds?utm_source=rss_feed"
     },
     {
-      "id": "news-12",
+      "id": "news-76",
+      "headline": "The White House press pool: What is it and how does it work?",
+      "summary": "White House banned CNN, MS NOW, and Politico, after US President Donald Trump complained about coverage.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:57:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss"
+    },
+    {
+      "id": "news-77",
+      "headline": "Zelensky accuses Putin of using nationals of 47 countries to fight Ukraine war",
+      "summary": "Ukrainian President Volodymyr Zelensky told the UN General Assembly on Wednesday that Russian President Vladimir Putin had enlisted fighters from 47 countries including North Korea, Ghana and India to fight against Ukraine. Zelensky also warned that his forces could target Russian heating and energy",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:53:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/europe/20260923-putin-using-citizens-from-47-countries-to-fight-ukraine-zelensky-tells-un"
+    },
+    {
+      "id": "news-78",
+      "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+      "summary": "&lt;p&gt;Argentinian president accuses United Nations of being filled with ‘parasites’ in bellicose general assembly speech&lt;/p&gt;&lt;p&gt;Javier Milei has condemned the UN as he warned that Argentina would take “matters into our own hands” in its dispute with Britain over the sovereignty of the ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:50:43.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty"
+    },
+    {
+      "id": "news-79",
+      "headline": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
+      "summary": "Palestinian shot dead as Israel&#039;s ambassador to the US identifies injured soldier as his son.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:49:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss"
+    },
+    {
+      "id": "news-80",
+      "headline": "US lawmakers seek sanctions for Israel’s ‘E1’ West Bank settlement plan",
+      "summary": "Project would effectively cleave Palestinian territory in half and has prompted widespread international condemnation.",
+      "urgency": "important",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:48:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss"
+    },
+    {
+      "id": "news-81",
+      "headline": "Holy regulation? Pope in Paris to press case for 'disarming' AI",
+      "summary": "It's all about his high holiness here in France. For weeks already, the nation's been abuzz over the upcoming visit of Leo. From Friday evening mass at Notre Dame Cathedral and mass before 600-thousand faithful in Paris to the pilgrimage city of Lourdes and a trip to Metz, hometown of father of Euro",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:44:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20260923-holy-regulation-pope-in-paris-to-press-case-for-disarming-ai"
+    },
+    {
+      "id": "news-82",
+      "headline": "How Project Dignity went from menstrual product donations to 1,900 women",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134442085.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:30:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2017-one-woman-began-collecting-menstrual-products-for-women-in-need-8-years-later-project-dignity-was-supporting-nearly-1900-women-and-girls-every-month/articleshow/134442085.cms"
+    },
+    {
+      "id": "news-83",
+      "headline": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label",
+      "summary": "Prime Minister Sanae Takaichi said the United Nations should scrub the World War II-era designation from its Charter. China and Russia have used the term recently to attack Japan.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:29:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/world/asia/unga-japan-takaichi-enemy-state.html"
+    },
+    {
+      "id": "news-84",
+      "headline": "'Breakthrough' archeological find could confirm location of Paris's original settlement",
+      "summary": "An ancient wall discovered this summer under a hospital in central Paris is thought to be a fragment of city ramparts built by Iron age settlers. Experts say the stone-and-wood structure could confirm the location of the ancient city of Lutetia.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:19:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/france/20260923-breakthrough-archeological-find-could-confirm-paris-origins"
+    },
+    {
+      "id": "news-85",
       "headline": "Section 144 imposed in Islamabad; district admin warns citizens against participating in any 'illegal activity'",
       "summary": "&lt;p&gt;Section 144 has been imposed for two months in Islamabad, it emerged on Wednesday, with the district administration warning citizens against participating in any “illegal activity”.&lt;/p&gt;\n&lt;p&gt;The order comes as the &lt;a href=\"https://www.dawn.com/news/2024607\"&gt;&lt;u&gt;Kissan I",
       "urgency": "breaking",
@@ -236,7 +1550,43 @@
       "link": "https://www.dawn.com/news/2032130/section-144-imposed-in-islamabad-district-admin-warns-citizens-against-participating-in-any-illegal-activity"
     },
     {
-      "id": "news-13",
+      "id": "news-86",
+      "headline": "Ancient Wall Found in Paris Provides Clues to City’s Origins",
+      "summary": "A discovery at a Parisian hospital, on an island in the Seine, has given archaeologists clues about the city as Julius Caesar may have found it.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:16:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/world/europe/ancient-wall-paris-rome.html"
+    },
+    {
+      "id": "news-87",
+      "headline": "Iran's president tells Trump it will never 'bend the knee'",
+      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:15:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-88",
       "headline": "Govt reduces petrol price by Rs1.93 per litre, HSD by Rs4.21 per litre",
       "summary": "&lt;iframe id=\"raw-html-6ab4160a7e6af\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"&amp;lt;!DOCTYPE html&amp;gt;\n&amp;lt;html&amp;gt;\n&amp;lt;head&amp;gt;\n    &amp;lt;style&amp;gt;\n        body { margin: 0; ",
       "urgency": "breaking",
@@ -254,25 +1604,25 @@
       "link": "https://www.dawn.com/news/2032124/govt-reduces-petrol-price-by-rs193-per-litre-hsd-by-rs421-per-litre"
     },
     {
-      "id": "news-14",
-      "headline": "Brazil Legends beat India Legends 4-3 in Kerala",
-      "summary": "Brazil Legends beat India Legends 4-3 in Kerala",
+      "id": "news-89",
+      "headline": "🔴Live: 'Russia will never stop,' Ukrainian President Volodymyr Zelensky tells UN",
+      "summary": "🔴Live: 'Russia will never stop,' Ukrainian President Volodymyr Zelensky tells UN",
       "urgency": "info",
-      "topic": "general",
+      "topic": "ukraine-russia",
       "sources": [
         {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
         }
       ],
-      "timestamp": "2026-09-23T18:01:38.000Z",
+      "timestamp": "2026-09-23T18:05:29.000Z",
       "widgetType": "news",
-      "link": "https://gulfnews.com/sport/football/brazil-legends-beat-india-legends-4-3-in-kerala-1.500685616"
+      "link": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war"
     },
     {
-      "id": "news-15",
+      "id": "news-90",
       "headline": "Abrar Ahmed rises to No. 1 in ICC T20I bowling rankings",
       "summary": "&lt;p&gt;Pakistan’s Abrar Ahmed has risen to the top of the ICC Men’s T20I bowling rankings for the first time in his career, ending Afghanistan leg-spinner Rashid Khan’s six-month reign at No. 1.&lt;/p&gt;\n&lt;p&gt;Abrar moved to the summit after Rashid slipped one rating point behind the Pakistan ",
       "urgency": "important",
@@ -290,7 +1640,43 @@
       "link": "https://www.dawn.com/news/2032131/abrar-ahmed-rises-to-no-1-in-icc-t20i-bowling-rankings"
     },
     {
-      "id": "news-16",
+      "id": "news-91",
+      "headline": "'Nagarjuna is an H-1B trafficker': Sara Gonzales claims Indian techie hirer she exposed earlier is now selling home, going back to India",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134443825.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T18:00:17.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/nagarjuna-is-an-h-1b-trafficker-sara-gonzales-claims-indian-techie-hirer-she-exposed-earlier-is-now-selling-home-going-back-to-india/articleshow/134443825.cms"
+    },
+    {
+      "id": "news-92",
+      "headline": "One Indian killed in attack on ship heading toward India, says embassy in Oman says - Arab News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1dkajFfeTBLU3ZJaXdtcjJPWW1NVmE0aEw2SUdqRUJSSGt2YWZnX3dWWWRpLVZZNWNXMnpsYlpnRm1HX3BwM0REMEo2cmtQNzBRb1Q1UE5jODItXzB3a0l4QTZMamJpd2s4X3VKSlhxTWxod3hEWjJyQS1nM25zMGh4LS16NlM3Um1BVnY1VlQ1c3p1R3NMTkJWbkJHQjlWYkJNUXJ2VmZVZEE5Ulc4QThYWHk0ajN",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Arab News",
+          "logo": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=32",
+          "url": "https://arabnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-09-23T17:53:03.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1dkajFfeTBLU3ZJaXdtcjJPWW1NVmE0aEw2SUdqRUJSSGt2YWZnX3dWWWRpLVZZNWNXMnpsYlpnRm1HX3BwM0REMEo2cmtQNzBRb1Q1UE5jODItXzB3a0l4QTZMamJpd2s4X3VKSlhxTWxod3hEWjJyQS1nM25zMGh4LS16NlM3Um1BVnY1VlQ1c3p1R3NMTkJWbkJHQjlWYkJNUXJ2VmZVZEE5Ulc4QThYWHk0ajNkcG00aTVzUnpwcmZzNHc?oc=5"
+    },
+    {
+      "id": "news-93",
       "headline": "Pakistan calls for end to Israel's occupation of Palestine at meeting convened by France, UK, Canada",
       "summary": "&lt;p&gt;Deputy Prime Minister and Foreign Minister Ishaq Dar has called for an end to Israel’s occupation of Palestinian territories at a high-level meeting convened by France, the United Kingdom (UK) and Canada.&lt;/p&gt;\n&lt;p&gt;Dar delivered Pakistan’s statement at the High-Level International ",
       "urgency": "breaking",
@@ -308,688 +1694,112 @@
       "link": "https://www.dawn.com/news/2032077/pakistan-calls-for-end-to-israels-occupation-of-palestine-at-meeting-convened-by-france-uk-canada"
     },
     {
-      "id": "news-17",
-      "headline": "Dh30m UAE Lottery: One participant secures Dh100,000 - did you get lucky this time?",
-      "summary": "Dh30m UAE Lottery: One participant secures Dh100,000 - did you get lucky this time?",
+      "id": "news-94",
+      "headline": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
+      "summary": "As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes.",
       "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-09-23T17:46:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html"
+    },
+    {
+      "id": "news-95",
+      "headline": "Last Warthog Clears Nellis Air Force Base Runway",
+      "summary": "The last A-10 Thunderbolt II aircraft assigned to Nellis Air Force Base, Nev., made its final departure. The Warthog's impact will not soon be forgotten.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "US Pentagon",
+          "logo": "https://www.google.com/s2/favicons?domain=defense.gov&sz=32",
+          "url": "https://defense.gov",
+          "category": "government"
+        }
+      ],
+      "timestamp": "2026-09-23T17:44:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4609504/last-warthog-clears-nellis-air-force-base-runway/"
+    },
+    {
+      "id": "news-96",
+      "headline": "Putin says record turnout shows Russians back his military agenda in Ukraine",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134443331.cms\" /&gt;<![CDATA[Vladimir Putin stated that high voter turnout in the parliamentary election reflects public support for government policies. Preliminary re",
+      "urgency": "breaking",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
           "category": "local_media"
         }
       ],
-      "timestamp": "2026-09-23T17:42:35.000Z",
+      "timestamp": "2026-09-23T17:43:50.000Z",
       "widgetType": "news",
-      "link": "https://gulfnews.com/uae/dh30m-uae-lottery-one-participant-secures-dh100000-did-you-get-lucky-this-time-1.500685353"
+      "link": "https://timesofindia.indiatimes.com/world/europe/people-of-russia-support-our-efforts-putin-says-record-turnout-shows-russians-back-his-military-agenda-in-ukraine/articleshow/134443331.cms"
     },
     {
-      "id": "news-18",
-      "headline": "Iraq sentences three MPs to seven years for illicit enrichment",
-      "summary": "Iraq sentences three MPs to seven years for illicit enrichment",
+      "id": "news-97",
+      "headline": "California removed 44,000 trout from Sierra lakes, helping frog numbers soar from 190 to 18,800",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134435177.cms\" /&gt;<![CDATA[",
       "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
           "category": "local_media"
         }
       ],
-      "timestamp": "2026-09-23T17:23:22.000Z",
+      "timestamp": "2026-09-23T17:33:40.000Z",
       "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/iraq-sentences-three-mps-to-seven-years-for-illicit-enrichment-1.500685577"
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/in-2001-california-began-removing-non-native-trout-from-high-sierra-lakes-by-2011-nearly-44000-fish-were-removed-from-19-lakes-as-frogs-in-three-restoration-lakes-rose-from-about-190-to-over-18800/articleshow/134435177.cms"
     },
     {
-      "id": "news-19",
-      "headline": "Marco Rubio defends Xi Jinping’s US visit as essential despite deep disagreements",
-      "summary": "US Secretary of State Marco Rubio defended the welcome planned for Chinese President Xi Jinping on Wednesday, saying it would be “irresponsible” for the world’s two largest economies to avoid talks at the highest level despite their disagreements.\nSpeaking to reporters at the United Nations hours be",
+      "id": "news-98",
+      "headline": "$100 Pocket Muon Detector: Students build handheld CosmicWatch; sparks citizen-science network",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134434469.cms\" /&gt;<![CDATA[CosmicWatch is a compact and affordable particle detector that can be used for research and education purposes. Developed by physicist Spen",
       "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
           "category": "local_media"
         }
       ],
-      "timestamp": "2026-09-23T17:14:07.000Z",
+      "timestamp": "2026-09-23T17:32:32.000Z",
       "widgetType": "news",
-      "link": "https://www.scmp.com/news/us/politics/article/3368559/marco-rubio-defends-xi-jinpings-us-visit-essential-despite-deep-disagreements?utm_source=rss_feed"
+      "link": "https://timesofindia.indiatimes.com/science/discovery/a-student-built-a-particle-detector-for-just-100-the-pocket-sized-device-can-track-invisible-particles-raining-down-from-space-at-lights-speed-it-is-now-being-used-in-high-altitude-balloon-missions-and-major-physics-experiments/articleshow/134434469.cms"
     },
     {
-      "id": "news-20",
-      "headline": "Pezeshkian says Iran will not surrender after Trump's annihilation threat",
-      "summary": "&lt;p&gt;Iranian President Masoud Pezeshkian said in a speech at the United Nations on Wednesday that Tehran would never surrender to the United States but still believes in diplomacy, a day after US President Donald Trump used the same forum to &lt;a href=\"https://www.dawn.com/news/2031983/in-un-sp",
+      "id": "news-99",
+      "headline": "Israel kills Hamas finance chief in Gaza strike, Netanyahu says ‘won’t stop’ until group no longer exists",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134443266.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
           "category": "local_media"
         }
       ],
-      "timestamp": "2026-09-23T17:06:36.000Z",
+      "timestamp": "2026-09-23T17:32:01.000Z",
       "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032120/pezeshkian-says-iran-will-not-surrender-after-trumps-annihilation-threat"
-    },
-    {
-      "id": "news-21",
-      "headline": "Iran’s Pezeshkian accuses Trump of ‘bullying mentality’, vows no surrender",
-      "summary": "Iranian President Masoud Pezeshkian accused US President Donald Trump of a “bullying mentality” at the United Nations on Wednesday, saying Iran would not surrender in the war with the US but remained open to diplomacy to end the conflict.\nIn a wartime address to the 193-member UN General Assembly, P",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T16:38:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3368558/irans-pezeshkian-accuses-trump-bullying-mentality-vows-no-surrender?utm_source=rss_feed"
-    },
-    {
-      "id": "news-22",
-      "headline": "19 terrorists killed, soldier martyred in operations in Balochistan: ISPR",
-      "summary": "&lt;p&gt;Inter-Services Public Relations (ISPR) said on Wednesday that 19 terrorists had been killed and a soldier was martyred in several operations across Balochistan.&lt;/p&gt;\n&lt;p&gt;In a statement, it said intelligence agencies had reported the presence of multiple hideouts of Indian-sponsore",
-      "urgency": "breaking",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T16:29:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032069/19-terrorists-killed-soldier-martyred-in-operations-in-balochistan-ispr"
-    },
-    {
-      "id": "news-23",
-      "headline": "Pakistan stands 'shoulder to shoulder' with Saudi Arabia in safeguarding its sovereignty, security: PM Shehbaz",
-      "summary": "&lt;p&gt;Prime Minister Shehbaz Sharif on Wednesday reiterated Pakistan’s commitment to “safeguarding” Saudi Arabia’s sovereignty and security in his message to the Gulf state on its National Day.&lt;/p&gt;\n&lt;p&gt;The National Day, observed every year on September 23, &lt;a rel=\"noopener noreferre",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T16:28:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032041/pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-in-safeguarding-its-sovereignty-security-pm-shehbaz"
-    },
-    {
-      "id": "news-24",
-      "headline": "Harvey Weinstein gets 15 years in jail for 2006 New York sex crime",
-      "summary": "Harvey Weinstein, the disgraced movie mogul, was sentenced to 15 years in prison Wednesday for a felony sex crime in another #MeToo reckoning.\nWeinstein’s sentencing for sexually assaulting one-time TV production assistant Miriam Haley followed a legal odyssey spanning more than six years after his ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T16:04:14.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368557/harvey-weinstein-gets-15-years-jail-2006-new-york-sex-crime?utm_source=rss_feed"
-    },
-    {
-      "id": "news-25",
-      "headline": "Kate Middleton spotted at Tom Cruise&apos;s movie Digger&apos;s London premiere in 103-year-old necklace",
-      "summary": "Kate Middleton spotted at Tom Cruise&apos;s movie Digger&apos;s London premiere in 103-year-old necklace",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T16:02:26.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/entertainment/kate-middleton-spotted-at-tom-cruises-movie-diggers-london-premiere-in-103-year-old-necklace-1.500685372"
-    },
-    {
-      "id": "news-26",
-      "headline": "Bigger than Busan? US considers China’s ‘bigger deal’ on trade as Xi summit nears",
-      "summary": "US Treasury Secretary Scott Bessent said on Wednesday that Washington is ready to sign on to China’s proposal of a “bigger deal” on trade or extend last year’s Busan trade agreement, hours before Chinese President Xi Jinping was due to arrive for a state visit.\nBessent made the remarks after an unsc",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T15:52:53.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368555/bessent-and-he-meet-again-tackle-some-unfinished-business-xi-summit-nears?utm_source=rss_feed"
-    },
-    {
-      "id": "news-27",
-      "headline": "Pacing problem: can AI fears overcome US-China race dynamics and force a slowdown?",
-      "summary": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good on their agreement to work towards “constructive strategic stability”. In the sixth part of a series, Chong Ming Lee and Vincent Chow examine what’s behi",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T15:00:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/tech/tech-war/article/3368503/pacing-problem-can-ai-fears-overcome-us-china-race-dynamics-and-force-slowdown?utm_source=rss_feed"
-    },
-    {
-      "id": "news-28",
-      "headline": "El Nino could cause 451,000 extra heat deaths, estimates say",
-      "summary": "&lt;p&gt;This year’s powerful El Nino weather pattern could lead to 451,000 additional heat-related deaths worldwide through February as it turbocharges global temperatures, according to projections published on Wednesday.&lt;/p&gt;\n&lt;p&gt;The warming phenomenon, which was &lt;a href=\"https://www.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T15:00:05.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032114/el-nino-could-cause-451000-extra-heat-deaths-estimates-say"
-    },
-    {
-      "id": "news-29",
-      "headline": "From moongazing to bus tours: how to celebrate Mid-Autumn Festival in Hong Kong",
-      "summary": "From moongazing and picnics to bus rides and a lantern extravaganza, the Mid-Autumn Festival in Hong Kong has plenty of activities for everyone.\nThis year the festival falls on September 25, a Friday, with the following day designated as a public holiday in Hong Kong.\nThe South China Morning Post ro",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:54:04.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368553/moongazing-bus-tours-how-celebrate-mid-autumn-festival-hong-kong?utm_source=rss_feed"
-    },
-    {
-      "id": "news-30",
-      "headline": "Mir Raza murder case: Judicial commission notes motives of MLO who conducted first postmortem 'appear tainted'",
-      "summary": "&lt;p&gt;KARACHI: A judicial commission investigating the circumstances and possible negligence in the Mir Raza Ali murder case has observed that the motives of Medico-Legal Officer (MLO) Dr Osama Sheikh, who conducted the first autopsy, “appear tainted”.&lt;/p&gt;\n&lt;p&gt;The body of the 25-year-o",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:39:20.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032086/mir-raza-murder-case-judicial-commission-notes-motives-of-mlo-who-conducted-first-postmortem-appear-tainted"
-    },
-    {
-      "id": "news-31",
-      "headline": "Trump’s Board of Peace proposes US$2.45 billion Gaza reconstruction plan",
-      "summary": "The US-backed Board of Peace is proposing a six-month US$2.45 billion plan to begin reconstruction and governance in Gaza as President Donald Trump’s ceasefire plan struggles to stay afloat.\nAt a meeting of the group’s board, the governors unveiled a 66-project blueprint to get things started while ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:37:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3368551/trumps-board-peace-proposes-us245-billion-gaza-reconstruction-plan?utm_source=rss_feed"
-    },
-    {
-      "id": "news-32",
-      "headline": "Japan finds child’s body on island, possibly missing boy",
-      "summary": "The body of a child was found on Wednesday on the coast of an outlying island in northeastern Japan, with police investigating whether it could be a six-year-old boy who went missing in the area earlier this month.\nThe body, which was found around 11.20am on Tobishima, Yamagata Prefecture, was dress",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:25:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3368550/japan-finds-childs-body-island-possibly-missing-boy?utm_source=rss_feed"
-    },
-    {
-      "id": "news-33",
-      "headline": "Activist charged after microchipped dog caught in probe into suspected attack",
-      "summary": "Hong Kong authorities have charged an animal welfare activist after a stray dog captured during an investigation into a suspected fatal canine attack on a cyclist in Yuen Long was found to have a microchip registered in his name.\nThe Agriculture, Fisheries and Conservation Department and police have",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:24:53.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368549/activist-charged-after-microchipped-dog-caught-probe-suspected-attack?utm_source=rss_feed"
-    },
-    {
-      "id": "news-34",
-      "headline": "Staging protests a legal and constitutional right, says KP CM ahead of PTI's Sept 27 long march",
-      "summary": "&lt;p&gt;Ahead of the PTI’s planned long march to Islamabad on Sept 27, Khyber Pakhtunkhwa Chief Minister Sohail Afridi said on Wednesday that staging a protest was a legal and constitutional right.&lt;/p&gt;\n&lt;p&gt;Addressing a cabinet meeting in Peshawar, CM Afridi alleged that for the past thre",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:23:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032099/staging-protests-a-legal-and-constitutional-right-says-kp-cm-ahead-of-ptis-sept-27-long-march"
-    },
-    {
-      "id": "news-35",
-      "headline": "Hong Kong to welcome 1.29 million mainland Chinese visitors for National Day break",
-      "summary": "Hong Kong is expected to welcome about 1.29 million mainland Chinese travellers over the National Day “golden week” break, with city authorities planning to step up crowd management and tighten supervision of tour agencies and retail outlets.\nChief Secretary Eric Chan Kwok-ki, Hong Kong’s No 2 offic",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:03:40.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368547/hong-kong-welcome-129-million-mainland-chinese-visitors-national-day-break?utm_source=rss_feed"
-    },
-    {
-      "id": "news-36",
-      "headline": "US Air Force to shut down research centre focusing on Chinese military",
-      "summary": "The US Air Force is shutting down a major research centre dedicated to open-source analysis of the Chinese military’s air, space, cyber and missile capabilities.\nThe China Aerospace Studies Institute (CASI) said in a statement on Tuesday that Air University, the US Air Force institution under which ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T14:00:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/military/article/3368540/us-air-force-shut-down-research-centre-focusing-chinese-military?utm_source=rss_feed"
-    },
-    {
-      "id": "news-37",
-      "headline": "'Breaking Bad' inspired teenager arrested in Bahawalpur for allegedly attempting to poison father with AI help",
-      "summary": "&lt;p&gt;LAHORE: The National Cyber Crime Investigation Agency (NCCIA) on Wednesday arrested a 17-year-old student from Bahawalpur for allegedly attempting to poison his father, after seeking guidance from artificial intelligence (AI) on how to administer a potentially fatal substance.&lt;/p&gt;\n&lt",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T13:51:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032097/breaking-bad-inspired-teenager-arrested-in-bahawalpur-for-allegedly-attempting-to-poison-father-with-ai-help"
-    },
-    {
-      "id": "news-38",
-      "headline": "Punjab govt seeks Rangers deployment in Rawalpindi, three other districts until Oct 5",
-      "summary": "&lt;p&gt;The Punjab government has requested the federal government to deploy Rangers in Rawalpindi, Attock, Jhelum and Mianwali districts from Sept 22 to Oct 5 to assist the provincial police in maintaining law and order amid an expected protest on Sept 27.&lt;/p&gt;\n&lt;p&gt;The request comes as t",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T13:51:19.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032067/punjab-govt-seeks-rangers-deployment-in-rawalpindi-three-other-districts-until-oct-5"
-    },
-    {
-      "id": "news-39",
-      "headline": "Your next phone upgrade could include a satellite connection",
-      "summary": "Your next phone upgrade could include a satellite connection",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T13:44:28.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/technology/your-next-phone-upgrade-could-include-a-satellite-connection-1.500685267"
-    },
-    {
-      "id": "news-40",
-      "headline": "Retired Lt Gen Nauman Mahmood appointed first head of Makkah Defence Alliance secretariat",
-      "summary": "&lt;p&gt;The Foreign Office (FO) announced on Wednesday that retired Lieutenant General Nauman Mahmood had been appointed as the first secretary general of the Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye.&lt;/p&gt;\n&lt;p&gt;“The government of Pakistan is pleased to announce th",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T13:37:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032088/retired-lt-gen-nauman-mahmood-appointed-first-head-of-makkah-defence-alliance-secretariat"
-    },
-    {
-      "id": "news-41",
-      "headline": "UK military air chief warns space now 'warfighting' frontier",
-      "summary": "&lt;p&gt;Space has become “a warfighting domain” and Britain and its Western allies must ramp up their capabilities to counter growing threats, the UK’s top air force commander said on Wednesday.&lt;/p&gt;\n&lt;p&gt;Air Chief Marshal Harv Smyth made the stark warning as he announced the creation of a",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T13:30:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032073/uk-military-air-chief-warns-space-now-warfighting-frontier"
-    },
-    {
-      "id": "news-42",
-      "headline": "Xi-Trump summit: China’s state car has already proved a match for the US ‘Beast’",
-      "summary": "US President Donald Trump has made no secret of how little he agrees with his predecessor, Joe Biden, on many things.\nSo, as Chinese President Xi Jinping is about to arrive in Washington on Wednesday, local time, there is one object that may offer a small moment of entertaining comparison between th",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T13:00:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368511/xi-trump-summit-chinas-state-car-has-already-proved-match-us-beast?utm_source=rss_feed"
-    },
-    {
-      "id": "news-43",
-      "headline": "Abused children at higher risk of long-term health problems, Hong Kong NGO warns",
-      "summary": "Child abuse can impair victims’ development and increase their risk of long-term health problems such as obesity and heightened inflammatory responses, a Hong Kong NGO has said, calling for a tiered prevention strategy to strengthen protections.\nAgainst Child Abuse on Wednesday shared the results of",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T12:44:29.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368541/abused-children-higher-risk-long-term-health-problems-hong-kong-ngo-warns?utm_source=rss_feed"
-    },
-    {
-      "id": "news-44",
-      "headline": "Govt to audit Discos to identify causes of power theft, technical and commercial losses",
-      "summary": "&lt;p&gt;ISLAMABAD: The government on Wednesday decided to conduct a comprehensive technical audit of all former Wapda distribution companies (Discos) to determine the actual scale, causes and geographical concentration of power theft, as well as technical and commercial losses.&lt;/p&gt;\n&lt;p&gt;T",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T12:05:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032082/govt-to-audit-discos-to-identify-causes-of-power-theft-technical-and-commercial-losses"
-    },
-    {
-      "id": "news-45",
-      "headline": "Neurobiologist Ye Bing says his return to China is not spurred by Michigan campus tragedy",
-      "summary": "Neurobiologist Ye Bing is returning to China after a long period in the United States, but he says his move is not linked to the suicide of another Chinese scholar at the same university or US policy under the Trump administration.\nYe said his decision to join Nanjing University and leave the Univer",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T12:00:11.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/science/article/3368490/neurobiologist-ye-bing-says-his-return-china-not-spurred-michigan-campus-tragedy?utm_source=rss_feed"
-    },
-    {
-      "id": "news-46",
-      "headline": "Hesson says Pakistan preparing for possible India clash at Asian Games",
-      "summary": "&lt;p&gt;Pakistan head coach Mike Hesson on Wednesday said his side were preparing “as best we can” for a possible clash with India at the Asian Games, but stressed that there was plenty of cricket to be played before the two sides could meet.&lt;/p&gt;\n&lt;p&gt;India and Pakistan are on opposite si",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T10:38:15.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032074/hesson-says-pakistan-preparing-for-possible-india-clash-at-asian-games"
-    },
-    {
-      "id": "news-47",
-      "headline": "LHC chief justice summons Punjab IG Rao Abdul Kareem in contempt plea against Lahore police",
-      "summary": "&lt;p&gt;LAHORE: Lahore High Court’s (LHC) Chief Justice Aalia Neelum on Wednesday summoned Punjab Inspector General (IG) Rao Abdul Kareem in a contempt of court petition against personnel of the Chung police.&lt;/p&gt;\n&lt;p&gt;The chief justice was hearing a petition filed by citizen Mian Muhammad",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T10:11:18.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032061/lhc-chief-justice-summons-punjab-ig-rao-abdul-kareem-in-contempt-plea-against-lahore-police"
-    },
-    {
-      "id": "news-48",
-      "headline": "8 drones launched by Afghan Taliban shot down near Torkham border, Kohat: security sources",
-      "summary": "&lt;p&gt;The armed forces on Wednesday shot down eight drones launched by the Afghan Taliban after they entered Pakistani airspace near the Torkham border and Kohat, according to security sources.&lt;/p&gt;\n&lt;p&gt;The sources said the drones were intercepted by the air defence systems, which they ",
-      "urgency": "breaking",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T10:03:58.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032066/8-drones-launched-by-afghan-taliban-shot-down-near-torkham-border-kohat-security-sources"
-    },
-    {
-      "id": "news-49",
-      "headline": "Saudi oil lifeline reopens: Aramco restarts East-West pipeline bypassing Hormuz",
-      "summary": "Saudi oil lifeline reopens: Aramco restarts East-West pipeline bypassing Hormuz",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T08:46:12.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/business/energy/saudi-oil-lifeline-reopens-aramco-restarts-east-west-pipeline-bypassing-hormuz-1.500684800"
-    },
-    {
-      "id": "news-50",
-      "headline": "'India cannot set aside int'l obligations when inconvenient': Dar raises IWT issue at OIC meeting",
-      "summary": "&lt;p&gt;Deputy Prime Minister and Foreign Minister Ishaq Dar said on Wednesday that India could not set aside its international obligations when they became inconvenient, stressing that the status of the Indus Waters Treaty (IWT) had been reaffirmed by a court of arbitration.&lt;/p&gt;\n&lt;p&gt;Ind",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T07:31:40.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032046/india-cannot-set-aside-intl-obligations-when-inconvenient-dar-raises-iwt-issue-at-oic-meeting"
-    },
-    {
-      "id": "news-51",
-      "headline": "Sara Duterte impeachment: Why the Senate is fighting over the 16-vote threshold",
-      "summary": "Sara Duterte impeachment: Why the Senate is fighting over the 16-vote threshold",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T07:09:07.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/asia/philippines/sara-duterte-impeachment-why-the-senate-is-fighting-over-the-16-vote-threshold-1.500684698"
-    },
-    {
-      "id": "news-52",
-      "headline": "Asian Development Bank keeps Pakistan's growth forecast at 3.7pc",
-      "summary": "&lt;p&gt;ISLAMABAD: The Asian Development Bank (ADB) on Wednesday forecast Pakistan’s economic growth rate at 3.7 per cent — lower than the 4pc budget target — and inflation at 8.3pc — higher than the official estimate of 7pc for the current fiscal year — amid downside risks stemming from the confli",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T04:20:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2032035/asian-development-bank-keeps-pakistans-growth-forecast-at-37pc"
-    },
-    {
-      "id": "news-53",
-      "headline": "Trump threatens Iran with ‘hell’ while revealing ‘very good’ talks at UN",
-      "summary": "Trump threatens Iran with ‘hell’ while revealing ‘very good’ talks at UN",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-09-23T03:18:25.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/americas/trump-threatens-iran-with-hell-while-revealing-very-good-talks-at-un-1.500684492"
-    },
-    {
-      "id": "news-54",
-      "headline": "Filipinos should not fear Pax Silica — Here&apos;s why",
-      "summary": "Filipinos should not fear Pax Silica — Here&apos;s why",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-07-29T07:10:24.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/opinion/filipinos-should-not-fear-pax-silica-heres-why-1.500623503"
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-kills-hamas-finance-chief-in-gaza-strike-netanyahu-says-wont-stop-until-group-no-longer-exists/articleshow/134443266.cms"
     }
   ],
   "financials": {
