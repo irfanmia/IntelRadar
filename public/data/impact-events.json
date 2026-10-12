@@ -1,40 +1,33 @@
 {
-  "lastUpdated": "2026-10-12T11:49:30.070Z",
+  "lastUpdated": "2026-10-12T12:43:23.518Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 633,
-      "count": 358,
-      "breaking": 115,
-      "latest": "2026-10-12T11:44:11.000Z"
+      "score": 289,
+      "count": 148,
+      "breaking": 58,
+      "latest": "2026-10-12T12:26:20.000Z"
     },
     {
       "id": "middle-east",
-      "score": 370,
-      "count": 160,
-      "breaking": 102,
-      "latest": "2026-10-12T11:37:14.000Z"
+      "score": 240,
+      "count": 105,
+      "breaking": 66,
+      "latest": "2026-10-12T12:00:00.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 177,
-      "count": 73,
-      "breaking": 52,
-      "latest": "2026-10-12T10:35:51.000Z"
-    },
-    {
-      "id": "taliban-pakistan",
-      "score": 61,
-      "count": 26,
-      "breaking": 17,
-      "latest": "2026-10-12T10:31:18.000Z"
+      "score": 123,
+      "count": 47,
+      "breaking": 38,
+      "latest": "2026-10-12T12:24:12.000Z"
     },
     {
       "id": "sudan",
-      "score": 55,
-      "count": 28,
-      "breaking": 13,
-      "latest": "2026-10-11T21:12:44.000Z"
+      "score": 49,
+      "count": 26,
+      "breaking": 11,
+      "latest": "2026-10-09T12:00:00.000Z"
     },
     {
       "id": "korea",
@@ -44,18 +37,18 @@
       "latest": "2026-10-03T16:16:42.000Z"
     },
     {
-      "id": "china-taiwan",
-      "score": 31,
-      "count": 22,
-      "breaking": 3,
-      "latest": "2026-10-12T10:23:46.000Z"
-    },
-    {
       "id": "venezuela",
-      "score": 30,
-      "count": 24,
+      "score": 29,
+      "count": 23,
       "breaking": 2,
       "latest": "2026-10-08T19:17:10.000Z"
+    },
+    {
+      "id": "china-taiwan",
+      "score": 28,
+      "count": 20,
+      "breaking": 3,
+      "latest": "2026-10-12T07:11:44.000Z"
     },
     {
       "id": "sahel",
@@ -63,6 +56,13 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-10-09T11:58:49.000Z"
+    },
+    {
+      "id": "taliban-pakistan",
+      "score": 6,
+      "count": 3,
+      "breaking": 1,
+      "latest": "2026-10-12T08:54:25.000Z"
     }
   ],
   "countryEvents": {
@@ -152,15 +152,15 @@
     ],
     "pakistan": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
     "india": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
@@ -168,8 +168,8 @@
       "middle-east",
       "ukraine-russia",
       "korea",
-      "china-taiwan",
       "venezuela",
+      "china-taiwan",
       "general"
     ],
     "united-kingdom": [
