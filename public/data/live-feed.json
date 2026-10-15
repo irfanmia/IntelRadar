@@ -1,8 +1,80 @@
 {
-  "lastUpdated": "2026-10-15T21:00:08.015Z",
+  "lastUpdated": "2026-10-15T21:20:06.200Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
+      "summary": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-15T21:12:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
+      "headline": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+      "summary": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-15T21:05:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss"
+    },
+    {
+      "id": "news-2",
+      "headline": "ICE tactics spark debate before pivotal US midterm elections",
+      "summary": "Polls have found that Trump&#039;s hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-15T21:02:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss"
+    },
+    {
+      "id": "news-3",
+      "headline": "Robots dance the ‘Macarena’ at Japan tech expo",
+      "summary": "Humanoid robots were seen performing the “Macarena” at the annual CEATEC technology exhibition in Chiba, Japan.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-15T21:00:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss"
+    },
+    {
+      "id": "news-4",
       "headline": "Letters with 'suspicious substances' sent to US election offices",
       "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
       "urgency": "important",
@@ -20,7 +92,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-1",
+      "id": "news-5",
       "headline": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
       "summary": "François Picard is pleased to welcome Layla Abdelké Yakoub, Tax Justice and Inequality Advocacy Officer at Oxfam France. \"Today in France a billionaire pays less taxes proportionally than a nurse or a firefighter,\" explains Yakoub. She challenges the foundations of France's fiscal system, arguing th",
       "urgency": "info",
@@ -38,7 +110,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding"
     },
     {
-      "id": "news-2",
+      "id": "news-6",
       "headline": "America’s Most Expensive Senate Race",
       "summary": "The Senate showdown in Texas shows why Donald Trump and the Republican Party are worried about the midterm elections.",
       "urgency": "important",
@@ -56,7 +128,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/us-midterms-texas-zelensky-ukraine.html"
     },
     {
-      "id": "news-3",
+      "id": "news-7",
       "headline": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
       "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
       "urgency": "breaking",
@@ -74,7 +146,25 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html"
     },
     {
-      "id": "news-4",
+      "id": "news-8",
+      "headline": "Hegseth Welcomes U.K. Counterpart to Pentagon",
+      "summary": "Secretary of War Pete Hegseth hosted Wes Streeting, the United Kingdom's defense secretary, at the Pentagon, where the two leaders participated in a bilateral engagement.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "US Pentagon",
+          "logo": "https://www.google.com/s2/favicons?domain=defense.gov&sz=32",
+          "url": "https://defense.gov",
+          "category": "government"
+        }
+      ],
+      "timestamp": "2026-10-15T20:34:00.000Z",
+      "widgetType": "news",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4626344/hegseth-welcomes-uk-counterpart-to-pentagon/"
+    },
+    {
+      "id": "news-9",
       "headline": "EU member states set for budget clash",
       "summary": "European lawmakers have kicked off what's likely to be a long and fierce negotiation over the bloc's seven-year budget. Member states are divided on spending priorities, and pending elections in countries including France and Italy are adding pressure to the talks in Brussels. Also in the show - AI ",
       "urgency": "important",
@@ -92,7 +182,7 @@
       "link": "https://www.france24.com/en/eu-member-states-set-for-budget-clash"
     },
     {
-      "id": "news-5",
+      "id": "news-10",
       "headline": "Saudi Arabia postpones major sporting events amid Houthi attacks",
       "summary": "Several major sporting events in Saudi Arabia have been cancelled or postponed as a result of repeated deadly attacks from Iran-backed Houthi rebels against the Kingdom's airports and infrastructure. FRANCE 24's Mark Owen speaks with Guy Barton, Visiting Fellow at Lancaster University and co-creator",
       "urgency": "breaking",
@@ -110,7 +200,7 @@
       "link": "https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks"
     },
     {
-      "id": "news-6",
+      "id": "news-11",
       "headline": "At least 7 crew members missing after drone attacks on ships in Black Sea",
       "summary": "Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.",
       "urgency": "breaking",
@@ -128,7 +218,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss"
     },
     {
-      "id": "news-7",
+      "id": "news-12",
       "headline": "Kinshasa braces for potential conflict as Kabila joins M23",
       "summary": "In tonight's edition, as Joseph Kabila returns to centre stage with a new alliance with the M23 rebels, political leaders in Congo are having to choose sides. Also, the US is calling for restraint in Ethiopia as a rights group warns that the conflict in Tigray is already taking a toll on civilians. ",
       "urgency": "breaking",
@@ -146,7 +236,7 @@
       "link": "https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23"
     },
     {
-      "id": "news-8",
+      "id": "news-13",
       "headline": "Thrift Find Becomes Windfall: £20 charity-shop jars confirmed as Qing porcelain; auction brings £58,000",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134961343.cms\" /&gt;<![CDATA[A casual ceramics collector stumbled upon two seemingly ordinary porcelain jars in a London charity shop priced at just $25. After a detail",
       "urgency": "info",
@@ -164,7 +254,7 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/a-collector-paid-about-25-for-two-colourful-jars-at-a-london-thrift-shop-experts-later-identified-them-as-rare-18th-century-qing-dynasty-porcelain-and-the-pair-sold-for-more-than-74000/articleshow/134961343.cms"
     },
     {
-      "id": "news-9",
+      "id": "news-14",
       "headline": "Kimberly Guilfoyle gets snubbed in Greece too, no farewell planned for her; Greek leaders believe she's so brazen that she may force one send-off",
       "summary": "Kimberly Guilfoyle gets snubbed in Greece too, no farewell planned for her; Greek leaders believe she's so brazen that she may force one send-off",
       "urgency": "info",
@@ -182,7 +272,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/kimberly-guilfoyle-gets-snubbed-in-greece-too-no-farewell-planned-for-her-greek-leaders-believe-shes-so-brazen-that-she-may-force-one-send-off/articleshow/134976417.cms"
     },
     {
-      "id": "news-10",
+      "id": "news-15",
       "headline": "Why are migrants risking their lives at sea to reach Yemen?",
       "summary": "Al Jazeera’s Al Anoud Al Aqeedi explains why migrants are risking their lives to make the journey to Yemen.",
       "urgency": "info",
@@ -200,7 +290,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss"
     },
     {
-      "id": "news-11",
+      "id": "news-16",
       "headline": "Northern Ireland ex-DUP leader Donaldson sentenced to 15 years for child sex crimes",
       "summary": "Judge says Jeffrey Donaldson never apologised to victims as politician seeks to appeal his convictions.",
       "urgency": "info",
@@ -218,7 +308,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss"
     },
     {
-      "id": "news-12",
+      "id": "news-17",
       "headline": "UK threatens to ban Eritreans over migrant return policy",
       "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
       "urgency": "info",
@@ -236,7 +326,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-13",
+      "id": "news-18",
       "headline": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
       "summary": "Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.",
       "urgency": "info",
@@ -254,7 +344,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss"
     },
     {
-      "id": "news-14",
+      "id": "news-19",
       "headline": "Indian man travels across consulates for F1 visa interviews, gets visa after 13 rejections. In his 14th interview, he was asked to plan a 20-storey residential building",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134976278.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -272,7 +362,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/indian-man-travels-across-consulates-for-f1-visa-interviews-gets-visa-after-13-rejections-in-his-14th-interview-he-was-asked-to-plan-a-20-storey-residential-building/articleshow/134976278.cms"
     },
     {
-      "id": "news-15",
+      "id": "news-20",
       "headline": "Somalia says it will hold elections in 2027",
       "summary": "Critics say unilateral decision to call polls is a recipe for more conflict.",
       "urgency": "important",
@@ -290,7 +380,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss"
     },
     {
-      "id": "news-16",
+      "id": "news-21",
       "headline": "'It is clear that sooner or later we will have European casualties', Romanian MEP",
       "summary": "Rescuers searched on Thursday for seven missing sailors after drones struck two chemical tankers near Romania's Black Sea coast, setting them ablaze and raising fresh security concerns along a vital shipping route used by Ukraine. Speaking with FRANCE 24's Europe editor Armen Georgian, Nicolae Stefa",
       "urgency": "info",
@@ -308,7 +398,7 @@
       "link": "https://www.france24.com/en/it-is-clear-that-sooner-or-later-we-will-have-european-casualties-romanian-mep"
     },
     {
-      "id": "news-17",
+      "id": "news-22",
       "headline": "Cuban-American family’s $119.4 million Expedia verdict overturned by judge",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134973480.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -326,7 +416,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-cuban-american-family-claimed-cuba-seized-its-island-in-1959-won-a-119-4-million-verdict-against-expedia-companies-then-saw-a-judge-overturn-it/articleshow/134973480.cms"
     },
     {
-      "id": "news-18",
+      "id": "news-23",
       "headline": "Houthi attack on palace used by Yemen government in Aden kills five",
       "summary": "At least five people were killed and 16 wounded Thursday in a Houthi missile and drone attack on the palace located in Yemen's interim capital – the southern port city of Aden, used by the country's internationally recognised government, an official said.",
       "urgency": "breaking",
@@ -344,7 +434,7 @@
       "link": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
     },
     {
-      "id": "news-19",
+      "id": "news-24",
       "headline": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
       "summary": "Speaking with FRANCE 24's Mark Owen, Nobel Peace laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that with the diesel-supply deal with Moscow Donald Trump \"is openly financing this war, by lifting sanctions is providing Russia with opportunities to earn more money\" a",
       "urgency": "breaking",
@@ -362,7 +452,7 @@
       "link": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says"
     },
     {
-      "id": "news-20",
+      "id": "news-25",
       "headline": "From Etihad Rail to Metro: Dubai’s new 5-minute connection",
       "summary": "From Etihad Rail to Metro: Dubai’s new 5-minute connection",
       "urgency": "info",
@@ -380,7 +470,7 @@
       "link": "https://gulfnews.com/uae/transport/from-etihad-rail-to-metro-dubais-new-5-minute-connection-1.500712421"
     },
     {
-      "id": "news-21",
+      "id": "news-26",
       "headline": "Fake AI images of protester go viral after woman punched at Trump's Ohio rally",
       "summary": "A protester who heckled Donald Trump at his midterm rally in Youngstown, Ohio, was physically assaulted and removed from the event, but fake AI-generated photos recreating the incident are going viral online. The images carry digital watermarks identifying them as AI-generated. While footage confirm",
       "urgency": "important",
@@ -398,7 +488,7 @@
       "link": "https://www.france24.com/en/fake-ai-images-of-protester-go-viral-after-woman-punched-at-trump-s-ohio-rally"
     },
     {
-      "id": "news-22",
+      "id": "news-27",
       "headline": "Will Israeli voters punish Benjamin Netanyahu?",
       "summary": "Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.",
       "urgency": "breaking",
@@ -416,7 +506,7 @@
       "link": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-28",
       "headline": "6 Members of South Africa’s Biggest Party Are Killed in Shootings",
       "summary": "The two shootings took place only a few weeks before pivotal, nationwide local elections, and as the party, the A.N.C., is embroiled in a dispute over the eligibility of more than 100 candidates.",
       "urgency": "breaking",
@@ -434,7 +524,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/africa/south-africa-anc-campaign-election.html"
     },
     {
-      "id": "news-24",
+      "id": "news-29",
       "headline": "Taylor Swift donated 6,000 books to a library in 2011, helping it serve 27,452 people in 2025",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134976044.cms\" /&gt;<![CDATA[In 2011, Taylor Swift generously donated 6,000 books to bolster local libraries in Berks County amid looming budget cuts. This pivotal supp",
       "urgency": "info",
@@ -452,7 +542,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-2011-taylor-swift-donated-6000-books-worth-68000-to-a-pennsylvania-library-that-was-struggling-to-stay-open-15-years-later-it-circulated-182228-items-and-drew-27452-program-participants-in-2025/articleshow/134976044.cms"
     },
     {
-      "id": "news-25",
+      "id": "news-30",
       "headline": "Kansas couple transforms backyard into a 100,000-gallon tropical lagoon with six waterfalls",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134975035.cms\" /&gt;<![CDATA[Melissa and Mike Morris dedicated nearly a year to constructing a stunning 100,000-gallon swimming lagoon in Olathe, Kansas. Inspired by th",
       "urgency": "info",
@@ -470,7 +560,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-kansas-couple-wanted-a-beach-without-leaving-home-so-they-turned-two-acres-of-their-olathe-backyard-into-a-100000-gallon-lagoon-with-six-waterfalls-tropical-fish-and-a-23000-pound-boulder/articleshow/134975035.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-31",
       "headline": "John Lennon and Yoko Ono’s Palm Beach mansion rises from $725,000 to $36 million",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134963834.cms\" /&gt;<![CDATA[El Solano, a captivating mansion nestled in Palm Beach, was acquired by music legend John Lennon and his partner Yoko Ono in 1980. Followin",
       "urgency": "info",
@@ -488,7 +578,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/in-1980-john-lennon-and-yoko-ono-bought-a-palm-beach-mansion-for-725000-after-his-death-ono-completed-the-renovation-and-sold-it-for-3-15-million-and-the-estate-later-sold-again-for-36-million/articleshow/134963834.cms"
     },
     {
-      "id": "news-27",
+      "id": "news-32",
       "headline": "Teacher, 30 students killed in Peshawar school roof collapse",
       "summary": "&lt;p&gt;PESHAWAR: At least 31 people, including 30 students and a female teacher, were killed when a school roof collapsed in the provincial capital’s Afridi Abad area on Thursday.&lt;/p&gt;\n&lt;p&gt;Lady Reading Hospital (LRH) spokesperson Muhammad Asim initially told &lt;em&gt;Dawn&lt;/em&gt; tha",
       "urgency": "breaking",
@@ -506,7 +596,7 @@
       "link": "https://www.dawn.com/news/2037299/teacher-30-students-killed-in-peshawar-school-roof-collapse"
     },
     {
-      "id": "news-28",
+      "id": "news-33",
       "headline": "Indian Umrah pilgrims urged to check Saudi flight status",
       "summary": "Indian Umrah pilgrims urged to check Saudi flight status",
       "urgency": "info",
@@ -524,7 +614,7 @@
       "link": "https://gulfnews.com/world/asia/india/indian-umrah-pilgrims-urged-to-check-saudi-flight-status-1.500712396"
     },
     {
-      "id": "news-29",
+      "id": "news-34",
       "headline": "Microsoft president Brad Smith says it's ironic that White House targeted his company the same day it gave a medal to former H-1B Satya Nadella",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134975510.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -542,7 +632,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/microsoft-president-brad-smith-says-its-ironic-that-white-house-targeted-his-company-the-same-day-it-gave-a-medal-to-former-h-1b-satya-nadella/articleshow/134975510.cms"
     },
     {
-      "id": "news-30",
+      "id": "news-35",
       "headline": "At UNSC, Pakistan condemns Houthi attacks on Saudi Arabia, reaffirms support for kingdom's security",
       "summary": "&lt;p&gt;WASHINGTON: Pakistan on Thursday strongly condemned Houthi attacks on Saudi Arabia’s civilian and economic infrastructure, reaffirming its support for the kingdom’s security and right to self-defence amid escalating regional tensions.&lt;/p&gt;\n&lt;p&gt;Speaking at a United Nations Security",
       "urgency": "breaking",
@@ -560,7 +650,7 @@
       "link": "https://www.dawn.com/news/2037399/at-unsc-pakistan-condemns-houthi-attacks-on-saudi-arabia-reaffirms-support-for-kingdoms-security"
     },
     {
-      "id": "news-31",
+      "id": "news-36",
       "headline": "Iran-Backed Houthis Strike Presidential Palace, Yemen Says",
       "summary": "Two were killed when Houthi missiles struck the Maashiq Presidential Palace in Aden, a Yemeni minister said. Saudi Arabia has said Iran is fueling the country’s escalating conflict.",
       "urgency": "breaking",
@@ -578,7 +668,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html"
     },
     {
-      "id": "news-32",
+      "id": "news-37",
       "headline": "Seven missing off Romania after latest Black Sea drone attacks",
       "summary": "Romania reported seven people missing on Thursday after two drone attacks on ships in the Black Sea, where several vessels have been hit recently in suspected fallout from the Ukraine war. The attacks are the latest in a series off the coast of Romania and neighbouring Bulgaria in recent weeks. FRAN",
       "urgency": "breaking",
@@ -596,7 +686,7 @@
       "link": "https://www.france24.com/en/seven-missing-off-romania-after-latest-black-sea-drone-attacks"
     },
     {
-      "id": "news-33",
+      "id": "news-38",
       "headline": "Acute hunger in Afghanistan reaches highest levels ever recorded: monitor",
       "summary": "&lt;p&gt;Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.&lt;/p&gt;\n&lt;p&gt;UN agency",
       "urgency": "breaking",
@@ -614,7 +704,7 @@
       "link": "https://www.dawn.com/news/2037406/acute-hunger-in-afghanistan-reaches-highest-levels-ever-recorded-monitor"
     },
     {
-      "id": "news-34",
+      "id": "news-39",
       "headline": "Albania's leader defies calls to resign as student protesters rampage in capital",
       "summary": "​Albanian Prime Minister Edi Rama on Thursday rejected calls to resign as thousands of student-led protesters smashed windows and fought running battles with riot police firing water cannon and tear gas in the capital. The demonstrators accuse officials of corruption and neglecting education and say",
       "urgency": "important",
@@ -632,7 +722,7 @@
       "link": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital"
     },
     {
-      "id": "news-35",
+      "id": "news-40",
       "headline": "20 Hours After Falling Overboard, Cruise Passenger Is Rescued Near Greece",
       "summary": "According to Greek officials, the woman told her rescuers she had jumped off the ship because she “wanted to disembark.”",
       "urgency": "info",
@@ -650,7 +740,7 @@
       "link": "https://www.nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html"
     },
     {
-      "id": "news-36",
+      "id": "news-41",
       "headline": "Dying in ICE custody: Inside one family’s story of heartbreak",
       "summary": "Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.",
       "urgency": "info",
@@ -668,7 +758,7 @@
       "link": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss"
     },
     {
-      "id": "news-37",
+      "id": "news-42",
       "headline": "Houthis launch deadly attack on presidential palace in Yemen’s Aden - South China Morning Post",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmZtUEtSZGJ1U0loaG1zeWQtOXhpQUlMQ2FHQ005VFpQZjVYSTZhU1hpM3FkSUg1emF5bTJkRkdvVzZhMTZUWFQxSS1nTzJWVmVKSFVMU2wyeTBaOHJZVmphOHpJQjZDbjdEajRySUU0TFRYQ2FlOXJaalpFdWZPaU80dXJ1SDBYbVZEMlpxaS1nQmZaMlROS2JCNzM1UXM0OEFMOWFtaVdYYTdDQWRHV09nTUpkbTB",
       "urgency": "breaking",
@@ -686,7 +776,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmZtUEtSZGJ1U0loaG1zeWQtOXhpQUlMQ2FHQ005VFpQZjVYSTZhU1hpM3FkSUg1emF5bTJkRkdvVzZhMTZUWFQxSS1nTzJWVmVKSFVMU2wyeTBaOHJZVmphOHpJQjZDbjdEajRySUU0TFRYQ2FlOXJaalpFdWZPaU80dXJ1SDBYbVZEMlpxaS1nQmZaMlROS2JCNzM1UXM0OEFMOWFtaVdYYTdDQWRHV09nTUpkbTBWTlUxStIBvAFBVV95cUxPUmJ0a3AyUjIwZDNNbnh1NDYtMzJXeFZ1R0Rqb0NmTEZ2Q1dlS3JCRnNnaWJLQ3FUbklHcE00Ukd5LXZIYXNpUlNKTUNCYzdtb3BTcWFsY05JY1g5OW9OU1Q1X2dUMVZrVHdZX2hMR0tLTGtQcEpCY2hZOHl3SFB0dGgxaXlLSVhlX1JwZUZZSDRIamxuVWxuY2lIZWNlQldRUU9CakhGOERMX3JZMFVTbGtlem0tLUdYQTN5bQ?oc=5"
     },
     {
-      "id": "news-38",
+      "id": "news-43",
       "headline": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
       "summary": "Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.",
       "urgency": "info",
@@ -704,7 +794,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss"
     },
     {
-      "id": "news-39",
+      "id": "news-44",
       "headline": "Will Trump really pull the plug? Starlink restored but Ukraine's fate still uncertain",
       "summary": "Can a flick of a switch really be enough for Donald Trump and Elon Musk to end Ukraine's hopes of holding out against Russia? With Kyiv already reeling from daily strikes by Russia's new motor-powered drones, the United States decision to slow SpaceX Starlink service felt immediately Wednesday when ",
       "urgency": "breaking",
@@ -722,7 +812,7 @@
       "link": "https://www.france24.com/en/tv-shows/the-debate/20261015-will-trump-really-pull-the-plug-starlink-restored-but-ukraine-s-fate-still-uncertain"
     },
     {
-      "id": "news-40",
+      "id": "news-45",
       "headline": "Mahomes and Kelce’s jerseys sold for $250,000, helping raise $3.97 million for childhood cancer",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134973976.cms\" /&gt;<![CDATA[The Kansas City Chiefs stars, Patrick Mahomes and Travis Kelce, showcased their commitment to charity by donating signed jerseys that sold ",
       "urgency": "info",
@@ -740,7 +830,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-2024-travis-kelce-and-patrick-mahomes-put-their-game-worn-chiefs-jerseys-into-a-kansas-city-charity-auction-the-nfl-package-sold-for-250000-as-big-slick-raised-3-97-million-for-pediatric-cancer/articleshow/134973976.cms"
     },
     {
-      "id": "news-41",
+      "id": "news-46",
       "headline": "Shark tours make people 40% more likely to protect sharks",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134969125.cms\" /&gt;<![CDATA[Shark populations are declining significantly due to human activities and a third of species are threatened. Participation in shark ecotour",
       "urgency": "info",
@@ -758,7 +848,7 @@
       "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-surveyed-people-who-went-on-shark-tours-in-hawaii-and-found-they-were-40-more-likely-to-engage-in-shark-conservation-than-they-would-have-been-without-the-experience/articleshow/134969125.cms"
     },
     {
-      "id": "news-42",
+      "id": "news-47",
       "headline": "China bought half of Brazil’s oil exports as Iran war shut Hormuz, driving sales to record",
       "summary": "Trade between Brazil and China reached a record US$143 billion in the first nine months of the year, driven by Brazilian oil sales that surged after the war on Iran disrupted Gulf supply, according to a report by the Brazil-China Business Council.\nBrazilian exports to China rose 12 per cent to US$84",
       "urgency": "breaking",
@@ -776,7 +866,7 @@
       "link": "https://www.scmp.com/news/china/article/3371064/china-bought-half-brazils-oil-exports-iran-war-shut-hormuz-driving-sales-record?utm_source=rss_feed"
     },
     {
-      "id": "news-43",
+      "id": "news-48",
       "headline": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
       "summary": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.",
       "urgency": "info",
@@ -794,7 +884,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html"
     },
     {
-      "id": "news-44",
+      "id": "news-49",
       "headline": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
       "summary": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.",
       "urgency": "important",
@@ -812,7 +902,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss"
     },
     {
-      "id": "news-45",
+      "id": "news-50",
       "headline": "Minorities in Pakistan continue to face rights violations despite legislative measures to protect them: HRCP",
       "summary": "&lt;p&gt;LAHORE: The Human Rights Commission of Pakistan (HRCP) on Thursday concluded that religious minorities continue to face violations of their fundamental rights — including through the misuse of blasphemy laws, forced marriages and conversions, hate speech and discriminatory practices — despi",
       "urgency": "breaking",
@@ -830,7 +920,7 @@
       "link": "https://www.dawn.com/news/2037389/minorities-in-pakistan-continue-to-face-rights-violations-despite-legislative-measures-to-protect-them-hrcp"
     },
     {
-      "id": "news-46",
+      "id": "news-51",
       "headline": "FBR extends deadline for filing income tax returns to Oct 31",
       "summary": "&lt;p&gt;ISLAMABAD: The Federal Board of Revenue (FBR) has further extended the date for filing income tax returns for 2026 to Oct 31.&lt;/p&gt;\n&lt;p&gt;The notification, posted on the FBR’s X account, said: “In exercise of the powers conferred under Section 214A of the Income Tax Ordinance, 2001, ",
       "urgency": "breaking",
@@ -848,7 +938,7 @@
       "link": "https://www.dawn.com/news/2037394/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-31"
     },
     {
-      "id": "news-47",
+      "id": "news-52",
       "headline": "Venezuela's Nicolas Maduro and wife Cilia Flores deny US torture charges as 'false accusations'",
       "summary": "Ousted Venezuelan president Nicolas Maduro and his wife Cilia Flores pleaded not guilty on Thursday to new torture charges brought against them by US authorities, calling them “false allegations\". The couple has been held in a New York jail since their capture in early January and is facing a new in",
       "urgency": "info",
@@ -866,7 +956,7 @@
       "link": "https://www.france24.com/en/americas/20261015-venezuela-s-nicolas-maduro-and-wife-cilia-flores-deny-us-torture-charges-as-false-accusations"
     },
     {
-      "id": "news-48",
+      "id": "news-53",
       "headline": "Trump ramps up third-country US deportations despite global rights outcry",
       "summary": "Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.",
       "urgency": "info",
@@ -884,7 +974,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss"
     },
     {
-      "id": "news-49",
+      "id": "news-54",
       "headline": "Yemen claims over 700 Houthis killed after 1,250 strikes rained within 24 hours",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134973857.cms\" /&gt;<![CDATA[Yemen armed forces reported conducting 1,250 targeting operations against Houthis in one day. These strikes coincided with Houthi attacks o",
       "urgency": "breaking",
@@ -902,7 +992,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/yemen-says-1250-strikes-rained-on-houthis-within-24-hours-claims-over-700-houthis-killed/articleshow/134973857.cms"
     },
     {
-      "id": "news-50",
+      "id": "news-55",
       "headline": "Why have US-Ukraine relations soured ahead of the midterms?",
       "summary": "Ukraine's President Volodymyr Zelensky said he felt “betrayed” on Wednesday after access was seemingly restricted to US intelligence and Space X satellite services, raising new questions about US commitment to Ukraine. With Trump under pressure over rising fuel prices, is the White House hoping crit",
       "urgency": "info",
@@ -920,7 +1010,7 @@
       "link": "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms"
     },
     {
-      "id": "news-51",
+      "id": "news-56",
       "headline": "Govt reduces petrol price by Rs3.63 per litre, raises high-speed diesel rate by Re0.31",
       "summary": "&lt;div class=\"raw-html-embed-wrapper\" style=\"width: 100%;\"&gt;\n    &lt;iframe class=\"raw-html-embed\" srcdoc=\"&amp;lt;!DOCTYPE html&amp;gt;&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;&amp;lt;style&amp;gt;body{margin:0;padding:0;font-family:system-ui,-apple-system,sans-serif;overflow-wrap:anywhere;}&amp;",
       "urgency": "breaking",
@@ -938,7 +1028,7 @@
       "link": "https://www.dawn.com/news/2037395/govt-reduces-petrol-price-by-rs363-per-litre-raises-high-speed-diesel-rate-by-re031"
     },
     {
-      "id": "news-52",
+      "id": "news-57",
       "headline": "Indiana teen brothers, 15 and 14, rescue grandmother and two children from pond; toddler revived",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134972338.cms\" /&gt;<![CDATA[During a tense moment in Carmel, Indiana, two brothers displayed extraordinary bravery by rescuing a grandmother and her grandchildren from",
       "urgency": "info",
@@ -956,7 +1046,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/two-indiana-teen-brothers-15-and-14-jumped-into-a-retention-pond-to-save-a-grandmother-and-two-young-children-one-pulled-a-submerged-2-year-old-from-a-stroller-and-got-the-toddler-breathing-again/articleshow/134972338.cms"
     },
     {
-      "id": "news-53",
+      "id": "news-58",
       "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "urgency": "breaking",
@@ -974,7 +1064,7 @@
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-54",
+      "id": "news-59",
       "headline": "A mother’s touch helps premature babies grow strong in Gaza",
       "summary": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
       "urgency": "info",
@@ -992,7 +1082,7 @@
       "link": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss"
     },
     {
-      "id": "news-55",
+      "id": "news-60",
       "headline": "How the Houthis are helping Iran turn Saudi Arabia into a pressure point - Reuters",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0x",
       "urgency": "info",
@@ -1010,7 +1100,7 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGVvZWRvRzA4MGlxRTRTLU95S2ZWTnB2LVZ1ZDBPQTdxbW53SmViQk96X3FpTlVXNEtZaTRvMld4akRJUm9vOU56NjJfSnROV3pCeURHQ3BCcTBYbW1KVVZyLVBaT0VXaE55WGc0WGI5c2RRdC1RaVZiT092ZU9RaTBRdmluamFTQ0JuRWRWNTNYdzhOa1dfNWVBNV9RcVMydFZoaHpFMlJnSHhrckl2cnRyZC0xc0xMcW5Idw?oc=5"
     },
     {
-      "id": "news-56",
+      "id": "news-61",
       "headline": "Second Ebola Infection Announced in Kenya",
       "summary": "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures.",
       "urgency": "info",
@@ -1028,7 +1118,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html"
     },
     {
-      "id": "news-57",
+      "id": "news-62",
       "headline": "US midterms: Postal Service announces special measures to ensure mail-in ballots reach voters on time",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134973570.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1046,7 +1136,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-postal-service-announces-special-measures-to-ensure-mail-in-ballots-reach-voters-on-time/articleshow/134973570.cms"
     },
     {
-      "id": "news-58",
+      "id": "news-63",
       "headline": "From Tehran's pupils to missile makers: Why Houthis are a bigger threat now",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134973516.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1064,7 +1154,7 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/from-tehrans-pupils-to-missile-makers-why-houthis-are-a-bigger-threat-now/articleshow/134973516.cms"
     },
     {
-      "id": "news-59",
+      "id": "news-64",
       "headline": "Green Card lottery latest update: US judge orders Trump administration to reopen 2027 Diversity Visa lottery; registration to begin November 1",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134973456.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1082,7 +1172,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/green-card-lottery-latest-update-us-judge-orders-trump-administration-to-reopen-2027-diversity-visa-lottery-registration-to-begin-november-1/articleshow/134973456.cms"
     },
     {
-      "id": "news-60",
+      "id": "news-65",
       "headline": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
       "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
       "urgency": "breaking",
@@ -1100,7 +1190,7 @@
       "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-61",
+      "id": "news-66",
       "headline": "28-foot statue of biblical pharaoh who enslaved Israelis discovered by Egyptian farmer",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134965090.cms\" /&gt;<![CDATA[A farmer in Behbeit El Hagar, Egypt stumbled upon a remarkable royal statue of Ramses II while tilling his land. In a swift response, local",
       "urgency": "info",
@@ -1118,7 +1208,7 @@
       "link": "https://timesofindia.indiatimes.com/science/archaeology/egyptian-farmer-tilling-the-land-discovered-28-foot-statue-of-biblical-pharaoh-who-enslaved-israelis-allegedly-challenged-moses-in-bible/articleshow/134965090.cms"
     },
     {
-      "id": "news-62",
+      "id": "news-67",
       "headline": "150-million-year-old bird had tiny wings and dinosaur-like teeth",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134964649.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1136,7 +1226,7 @@
       "link": "https://timesofindia.indiatimes.com/science/discovery/a-150-million-year-old-bird-fossil-has-unusually-small-wings-and-dinosaur-like-teeth-the-discovery-challenges-the-idea-that-the-earliest-birds-were-all-built-primarily-for-flight/articleshow/134964649.cms"
     },
     {
-      "id": "news-63",
+      "id": "news-68",
       "headline": "Prince Harry and Meghan in first joint outing since UK return: ‘great to be back!’",
       "summary": "Britain’s Prince Harry and his wife on Thursday carried out their first joint engagement since their surprise move back to the UK in August, with Meghan telling well-wishers: “It’s great to be back.”\nKing Charles’ 42-year-old younger son and Meghan, 45 – who left Britain and quit royal duties in 202",
       "urgency": "info",
@@ -1154,7 +1244,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3371063/prince-harry-and-meghan-first-joint-outing-uk-return-great-be-back?utm_source=rss_feed"
     },
     {
-      "id": "news-64",
+      "id": "news-69",
       "headline": "‘False accusations’: Maduro, wife rejects fresh torture allegations in New York court",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134973301.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1172,7 +1262,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/false-accusations-maduro-wife-rejects-fresh-torture-allegations-in-new-york-court/articleshow/134973301.cms"
     },
     {
-      "id": "news-65",
+      "id": "news-70",
       "headline": "Pope Leo resumes work in hospital while recovering from surgery",
       "summary": "Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.",
       "urgency": "info",
@@ -1190,7 +1280,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss"
     },
     {
-      "id": "news-66",
+      "id": "news-71",
       "headline": "Houthi missile attack on Aden presidential palace kills 2 as Taiz battles intensify - Arab News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2NFckpxTGZOYjNXZy1EandUQ1FldGNTb2RnVE56ejdXdDB1YXFYSGZDanVUZGZRcFVpZVZLMS1zOXpNekxPRXVQTlVKNTlyVlhiTWJDQ0U3Q3RnalVuWGhMam9rMTk4YnR6VFhPcnZvNW5UbnE0U3VkT2pPY0wxd0pDRTgtTUduem14NEhlUno5SE1QMklPRDJCVUItR3NzTnJmUzRJemJsa1ktSG5qN3JfbEhlUnZ",
       "urgency": "breaking",
@@ -1208,7 +1298,7 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2NFckpxTGZOYjNXZy1EandUQ1FldGNTb2RnVE56ejdXdDB1YXFYSGZDanVUZGZRcFVpZVZLMS1zOXpNekxPRXVQTlVKNTlyVlhiTWJDQ0U3Q3RnalVuWGhMam9rMTk4YnR6VFhPcnZvNW5UbnE0U3VkT2pPY0wxd0pDRTgtTUduem14NEhlUno5SE1QMklPRDJCVUItR3NzTnJmUzRJemJsa1ktSG5qN3JfbEhlUnZMUGZLNDVEMVV3eElDSjQ0?oc=5"
     },
     {
-      "id": "news-67",
+      "id": "news-72",
       "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
       "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
       "urgency": "breaking",
@@ -1226,7 +1316,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-68",
+      "id": "news-73",
       "headline": "Firm accused of cost-cutting, false declarations over fire-safety parts in 48 lifts",
       "summary": "Hong Kong authorities have uncovered alleged corner-cutting and false declarations involving fire-safety components in a contractor’s replacement of 48 lifts at two public housing estates.\nThe Electrical and Mechanical Services Department said on Thursday that surprise inspections had found serious ",
       "urgency": "info",
@@ -1244,7 +1334,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371062/firm-accused-cost-cutting-false-declarations-over-fire-safety-parts-48-lifts?utm_source=rss_feed"
     },
     {
-      "id": "news-69",
+      "id": "news-74",
       "headline": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
       "summary": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
       "urgency": "important",
@@ -1262,7 +1352,7 @@
       "link": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss"
     },
     {
-      "id": "news-70",
+      "id": "news-75",
       "headline": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
       "summary": "When police cracked down, Neha Bora helped rally Gen Z protesters with a mix of boundless energy, street theatrics and satirical humor.",
       "urgency": "important",
@@ -1280,7 +1370,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html"
     },
     {
-      "id": "news-71",
+      "id": "news-76",
       "headline": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
       "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.",
       "urgency": "breaking",
@@ -1298,7 +1388,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html"
     },
     {
-      "id": "news-72",
+      "id": "news-77",
       "headline": "Dying in Detention",
       "summary": "Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.",
       "urgency": "info",
@@ -1316,7 +1406,7 @@
       "link": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss"
     },
     {
-      "id": "news-73",
+      "id": "news-78",
       "headline": "US midterms: Trump warns voters Democrats will 'destroy' America, backs Andy Biggs in Arizona governor race",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134972500.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -1334,7 +1424,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-trump-warns-voters-democrats-will-destroy-america-backs-andy-biggs-in-arizona-governor-race/articleshow/134972500.cms"
     },
     {
-      "id": "news-74",
+      "id": "news-79",
       "headline": "Maduro pleads not guilty to new torture-related charges in New York",
       "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges.",
       "urgency": "info",
@@ -1352,7 +1442,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-75",
+      "id": "news-80",
       "headline": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
       "summary": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
       "urgency": "breaking",
@@ -1370,7 +1460,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
     },
     {
-      "id": "news-76",
+      "id": "news-81",
       "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "urgency": "breaking",
@@ -1388,7 +1478,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-77",
+      "id": "news-82",
       "headline": "Albania’s PM dismisses calls to resign as student protests spread",
       "summary": "Prime Minister Edi Rama condemns &#039;chaos&#039; as protests continue for third day in the capital and spread to other cities.",
       "urgency": "important",
@@ -1406,7 +1496,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss"
     },
     {
-      "id": "news-78",
+      "id": "news-83",
       "headline": "EU open to creating ‘kill switch’ weapon to kick Chinese firms out of market",
       "summary": "Brussels is open to developing a powerful new trade weapon that could contain a kill switch that would quickly eject Chinese companies from the EU market, the bloc’s national leaders were told during a top level meeting in the Belgian capital on Thursday.\nThere was broad support among the 27 members",
       "urgency": "info",
@@ -1424,7 +1514,7 @@
       "link": "https://www.scmp.com/news/china/article/3371061/chinese-chemicals-and-machinery-eu-crosshairs-leaders-back-more-trade-curbs?utm_source=rss_feed"
     },
     {
-      "id": "news-79",
+      "id": "news-84",
       "headline": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
       "summary": "&lt;p&gt;Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture&lt;/p&gt;&lt;p&gt;Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug trafficking indictment against the deposed Ven",
       "urgency": "info",
@@ -1442,7 +1532,7 @@
       "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
     },
     {
-      "id": "news-80",
+      "id": "news-85",
       "headline": "Power Division projects Rs2.56 per unit increase in Nov bills, says bigger hike averted due to load management",
       "summary": "&lt;p&gt;ISLAMABAD: The Power Division on Thursday projected a Rs2.56 per unit increase in November bills for electricity consumers on account of fuel cost adjustment (FCA) for September, citing the use of expensive fuel for electricity generation.&lt;/p&gt;\n&lt;p&gt;The increase is expected to brin",
       "urgency": "info",
@@ -1460,7 +1550,7 @@
       "link": "https://www.dawn.com/news/2037388/power-division-projects-rs256-per-unit-increase-in-nov-bills-says-bigger-hike-averted-due-to-load-management"
     },
     {
-      "id": "news-81",
+      "id": "news-86",
       "headline": "UK Green member behind anti-Zionism motion ‘receives death threats’",
       "summary": "Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.",
       "urgency": "info",
@@ -1478,7 +1568,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss"
     },
     {
-      "id": "news-82",
+      "id": "news-87",
       "headline": "Venezuela’s Maduro says new US torture allegations are ‘false’",
       "summary": "Former Venezuelan president Nicolas Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug-trafficking indictment against him and his wife were “false accusations”.\nMaduro, shackled at the ankles, was brought to court to face the new charges",
       "urgency": "info",
@@ -1496,43 +1586,7 @@
       "link": "https://www.scmp.com/news/world/americas/article/3371060/venezuelas-maduro-says-new-us-torture-allegations-are-false?utm_source=rss_feed"
     },
     {
-      "id": "news-83",
-      "headline": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
-      "summary": "Citizen Lab investigation says dozens of Al Jazeera devices were infected by malware planted through advertisements.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-15T16:32:03.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss"
-    },
-    {
-      "id": "news-84",
-      "headline": "Why are eight US states suing OpenAI?",
-      "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-15T16:28:44.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss"
-    },
-    {
-      "id": "news-85",
+      "id": "news-88",
       "headline": "China, Pakistan hold high-altitude army drills with Beijing-supplied arms",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134971447.cms\" /&gt;<![CDATA[In a landmark move, China and Pakistan have kicked off their inaugural joint military exercise, dubbed Karakoram 2026, in the high-altitude",
       "urgency": "info",
@@ -1550,7 +1604,7 @@
       "link": "https://timesofindia.indiatimes.com/world/china/china-pakistan-hold-high-altitude-army-drills-with-beijing-supplied-arms/articleshow/134971447.cms"
     },
     {
-      "id": "news-86",
+      "id": "news-89",
       "headline": "Violent Protests in Albania",
       "summary": "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.",
       "urgency": "important",
@@ -1568,25 +1622,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html"
     },
     {
-      "id": "news-87",
-      "headline": "FIFA President Infantino apologises to council but critics remain unhappy",
-      "summary": "FIFA council meeting lasts over three hours as President Gianni Infantino apologises to members, but critics want more.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-15T16:19:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss"
-    },
-    {
-      "id": "news-88",
+      "id": "news-90",
       "headline": "Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says",
       "summary": "In an interview with FRANCE 24, Palestinian activist Samer Sinijlawi called the postponement of the first legislative elections in 20 years to September 2027 \"a terrible disappointment\" for a generation that has never had a chance to vote. He also dismissed the citing of Israeli restrictions as an e",
       "urgency": "important",
@@ -1604,7 +1640,7 @@
       "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says"
     },
     {
-      "id": "news-89",
+      "id": "news-91",
       "headline": "Hong Kong’s Hospital Authority appeals for liver donor for boy, 13",
       "summary": "Hong Kong’s Hospital Authority has appealed to the public for a liver donation for a 13-year-old boy suffering from severe liver failure who urgently needs a transplant.\nThe authority, which is also seeking help from mainland China, said on Thursday evening that the boy, being treated at Queen Mary ",
       "urgency": "info",
@@ -1622,7 +1658,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3371059/hong-kongs-hospital-authority-appeals-liver-donor-boy-13?utm_source=rss_feed"
     },
     {
-      "id": "news-90",
+      "id": "news-92",
       "headline": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
       "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
       "urgency": "important",
@@ -1640,7 +1676,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-91",
+      "id": "news-93",
       "headline": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
       "summary": "Delano D'Souza is pleased to welcome Peter Zalmayev, Founder and Director of the Eurasia Democracy Initiative, LIVE from Kyiv. As Zelensky declares Ukraine \"done\" with Trump's self-declared energy ceasefire and resumes strikes on Russian oil refineries, Zalmayev warns: \"When you talk about the energ",
       "urgency": "breaking",
@@ -1658,7 +1694,7 @@
       "link": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1"
     },
     {
-      "id": "news-92",
+      "id": "news-94",
       "headline": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
       "summary": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.",
       "urgency": "breaking",
@@ -1676,7 +1712,7 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html"
     },
     {
-      "id": "news-93",
+      "id": "news-95",
       "headline": "Joint sitting of Parliament endorses emergency, governor's rule in KP amid opposition outcry",
       "summary": "&lt;p&gt;ISLAMABAD: A joint sitting of Parliament on Thursday gave its approval to the Centre’s &lt;a href=\"https://www.dawn.com/news/2036352/emergency-governors-rule-imposed-in-kp-as-president-approves-cabinet-decision\"&gt;imposition&lt;/a&gt; of emergency and governor’s rule in Khyber Pakhtunkhwa ",
       "urgency": "breaking",
@@ -1694,7 +1730,7 @@
       "link": "https://www.dawn.com/news/2037325/joint-sitting-of-parliament-endorses-emergency-governors-rule-in-kp-amid-opposition-outcry"
     },
     {
-      "id": "news-94",
+      "id": "news-96",
       "headline": "What is the ‘Mother of All Bombs’ US could use in Iran? - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnpfOHpvZ1VIWHJWQTg0bjRuRXRRMnN5UlBGUE9XaFU2S09EV3dRMFJCbHZDd0hEMnRrUUt2UFhvczBlZDctMTgxSDllOHJNbWlRRXhnZjJfV2xucEh4cy03WGY3YlktZXRTRlRzejdNd0RzQVJKeXduSTVXa2ZXVmxWaXBlUmxTaGdhSUtUWDZVNWFJTS0wdGFn0gGfAUFVX3lxTE1jX2dUMEplUm1OaHppTGpOR1B",
       "urgency": "breaking",
@@ -1712,7 +1748,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQnpfOHpvZ1VIWHJWQTg0bjRuRXRRMnN5UlBGUE9XaFU2S09EV3dRMFJCbHZDd0hEMnRrUUt2UFhvczBlZDctMTgxSDllOHJNbWlRRXhnZjJfV2xucEh4cy03WGY3YlktZXRTRlRzejdNd0RzQVJKeXduSTVXa2ZXVmxWaXBlUmxTaGdhSUtUWDZVNWFJTS0wdGFn0gGfAUFVX3lxTE1jX2dUMEplUm1OaHppTGpOR1BJX0ZidUVwYmt6RGdLLWtMMEJ6RHJ5NTBYd0RXVE5EX0tiUXlTUGVLdl9LYWVuZFktY2hsektwbzh0eU14WVVGcUVfSTdkbXhPR0I4MGUzUmk3N2FuOElxaGxFN1g2cjBBNjJMbXloTnJHazZSRGprVjYtMzFkb2lTUUxXQzNqcTI1c0tqdw?oc=5"
     },
     {
-      "id": "news-95",
+      "id": "news-97",
       "headline": "Singapore weighs legal action against companies over worsening transboundary haze",
       "summary": "Singapore is looking into which companies may be responsible for the forest and peatland fires in Indonesia that have caused the worsening haze, Prime Minister Lawrence Wong said on Thursday.\n“Where warranted, we will take action under Singapore’s Transboundary Haze Pollution Act, and explore joint ",
       "urgency": "breaking",
@@ -1730,7 +1766,7 @@
       "link": "https://www.scmp.com/news/asia/southeast-asia/article/3371058/singapore-weighs-legal-action-against-companies-over-worsening-transboundary-haze?utm_source=rss_feed"
     },
     {
-      "id": "news-96",
+      "id": "news-98",
       "headline": "World's top cocoa producer Ivory Coast aims for a climate-tough bean",
       "summary": "&lt;p&gt;Kofi Alexis Amani has watched the trees on his cocoa plantation wilt and sometimes wither as rains became unpredictable and less abundant in Ivory Coast over the past several decades.&lt;/p&gt;\n&lt;p&gt;“You can lose everything,” he sighed.&lt;/p&gt;\n&lt;p&gt;The west African country is the",
       "urgency": "breaking",
@@ -1748,7 +1784,7 @@
       "link": "https://www.dawn.com/news/2037382/worlds-top-cocoa-producer-ivory-coast-aims-for-a-climate-tough-bean"
     },
     {
-      "id": "news-97",
+      "id": "news-99",
       "headline": "India’s Cockroach movement: Protesters bypass internet blackout with Bluetooth",
       "summary": "🇮🇳 On October 10, New Delhi faced a near-lockdown situation following a call for protests by Gen Z-led Cockroach Janta Party. Authorities imposed a 24-hour internet blackout, but protesters found ways around it.",
       "urgency": "important",
@@ -1764,42 +1800,6 @@
       "timestamp": "2026-10-15T15:29:21.000Z",
       "widgetType": "news",
       "link": "https://www.france24.com/en/video/20261015-india-s-cockroach-movement-protesters-bypass-internet-blackout-with-bluetooth"
-    },
-    {
-      "id": "news-98",
-      "headline": "Trump says military execution of Fort Hood gunman will not be livestreamed",
-      "summary": "&lt;p&gt;US President Donald Trump said on Thursday that the &lt;a href=\"https://www.dawn.com/news/2035879/us-to-livestream-army-firing-squad-execution-of-fort-hood-shooter-pentagon-says\"&gt;execution&lt;/a&gt; of the Fort Hood &lt;a href=\"https://www.dawn.com/news/1039119/us-fort-hood-gunman-senten",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-15T15:26:48.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2037379/trump-says-military-execution-of-fort-hood-gunman-will-not-be-livestreamed"
-    },
-    {
-      "id": "news-99",
-      "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-15T15:26:16.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "financials": {
