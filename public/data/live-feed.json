@@ -1,8 +1,26 @@
 {
-  "lastUpdated": "2026-10-16T14:20:05.925Z",
+  "lastUpdated": "2026-10-16T14:20:11.001Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-16T14:19:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-1",
       "headline": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
       "summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
       "urgency": "breaking",
@@ -20,7 +38,7 @@
       "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html"
     },
     {
-      "id": "news-1",
+      "id": "news-2",
       "headline": "Imaan, Hadi walk out of proceedings after objecting to jail trial in security breach case",
       "summary": "&lt;p&gt;RAWALPINDI: Rights activist and lawyer Imaan Zainab Mazari-Hazir and her husband, Hadi Ali Chattha, on Friday objected to the manner of their presentation during the hearing of the security breach case, with the couple and their lawyers eventually walking out of the proceedings at Adiala ja",
       "urgency": "breaking",
@@ -38,7 +56,7 @@
       "link": "https://www.dawn.com/news/2037580/imaan-hadi-walk-out-of-proceedings-after-objecting-to-jail-trial-in-security-breach-case"
     },
     {
-      "id": "news-2",
+      "id": "news-3",
       "headline": "Pennsylvania court blocked a $250,000 farm sale after siblings challenged a 99-year lease deal",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134995915.cms\" /&gt;<![CDATA[Siblings are embroiled in a legal conflict over the fate of their family-owned 60-acre farm in Pennsylvania. A sister residing on the land ",
       "urgency": "info",
@@ -56,7 +74,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-lived-on-a-60-acre-family-farm-for-22-years-then-agreed-to-sell-it-for-250000-with-a-proposed-99-year-lease-letting-her-stay-an-appeals-court-kept-the-sale-blocked-after-her-siblings-objected/articleshow/134995915.cms"
     },
     {
-      "id": "news-3",
+      "id": "news-4",
       "headline": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
       "summary": "Officials on Friday withdrew an alert sent when they believed a 9.9-magnitude earthquake had taken place. In the end, the tremor was hardly felt.",
       "urgency": "breaking",
@@ -72,24 +90,6 @@
       "timestamp": "2026-10-16T14:08:18.000Z",
       "widgetType": "news",
       "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html"
-    },
-    {
-      "id": "news-4",
-      "headline": "DP World says planned Fujairah terminals could cut Indian Ocean sailing times by up to five days",
-      "summary": "DP World says planned Fujairah terminals could cut Indian Ocean sailing times by up to five days",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-16T14:07:55.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/business/dp-world-says-planned-fujairah-terminals-could-cut-indian-ocean-sailing-times-by-up-to-five-days-1.500713356"
     },
     {
       "id": "news-5",
@@ -1209,24 +1209,6 @@
     },
     {
       "id": "news-67",
-      "headline": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-16T12:16:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-68",
       "headline": "HSBC appoints Sami Abouzahr to lead International Wealth and Premier Banking in UAE and Middle East",
       "summary": "HSBC appoints Sami Abouzahr to lead International Wealth and Premier Banking in UAE and Middle East",
       "urgency": "info",
@@ -1244,7 +1226,7 @@
       "link": "https://gulfnews.com/business/hsbc-appoints-sami-abouzahr-to-lead-international-wealth-and-premier-banking-in-uae-and-middle-east-1.500713174"
     },
     {
-      "id": "news-69",
+      "id": "news-68",
       "headline": "Musk vs Reliance: A timeline of the Starlink India feud",
       "summary": "Musk vs Reliance: A timeline of the Starlink India feud",
       "urgency": "info",
@@ -1262,7 +1244,7 @@
       "link": "https://gulfnews.com/business/musk-vs-reliance-a-timeline-of-the-starlink-india-feud-1.500713005"
     },
     {
-      "id": "news-70",
+      "id": "news-69",
       "headline": "Indian police detain ‘cockroach’ movement leader ahead of New Delhi protest",
       "summary": "Police detained India’s ‘cockroach’ movement founder Abhijeet Dipke on Friday, live images ‌from his group showed, ahead of a protest called by him in capital New Delhi’s central business district, the latest rally to demand the resignation of India’s election chief.\nThe youth-led ‘Cockroach Janta P",
       "urgency": "important",
@@ -1280,7 +1262,7 @@
       "link": "https://www.scmp.com/news/asia/south-asia/article/3371196/indian-police-detain-cockroach-movement-leader-ahead-new-delhi-protest?utm_source=rss_feed"
     },
     {
-      "id": "news-71",
+      "id": "news-70",
       "headline": "Katie Zacharia admits she failed the bar exam on her first attempt in 2011, years after calling herself a lawyer",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/134994490.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1298,7 +1280,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/katie-zacharia-admits-she-failed-the-bar-exam-on-her-first-attempt-in-2011-years-after-calling-herself-a-lawyer/articleshow/134994490.cms"
     },
     {
-      "id": "news-72",
+      "id": "news-71",
       "headline": "EU and Canada seek closer ties: Will Canada become the EU's first associate member?",
       "summary": "As the international context becomes more challenging for the European Union, the bloc is looking to boost its ties with like-minded allies. Canada is part of that architecture that the EU says it wants to build. The big news of EU Commission President Ursula von der Leyen's State of the Union speec",
       "urgency": "info",
@@ -1316,7 +1298,7 @@
       "link": "https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member"
     },
     {
-      "id": "news-73",
+      "id": "news-72",
       "headline": "Sorry, Darwin: Chinese fossil shows that not all early birds evolved to fly",
       "summary": "Chinese scientists have unearthed a fossil of the earliest known flightless bird, offering compelling evidence that not all early birds evolved to take to the skies.\nThe discovery could also challenge long-held assumptions – including ideas dating back to evolutionary theorist Charles Darwin – that ",
       "urgency": "info",
@@ -1332,6 +1314,24 @@
       "timestamp": "2026-10-16T12:00:08.000Z",
       "widgetType": "news",
       "link": "https://www.scmp.com/news/china/science/article/3371125/sorry-darwin-chinese-fossil-shows-not-all-early-birds-evolved-fly?utm_source=rss_feed"
+    },
+    {
+      "id": "news-73",
+      "headline": "Is the ECOVACS WINBOT MINI the window-cleaning shortcut UAE homes have been waiting for?",
+      "summary": "Is the ECOVACS WINBOT MINI the window-cleaning shortcut UAE homes have been waiting for?",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-16T12:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/best-buys/home-and-kitchen/is-the-ecovacs-winbot-mini-the-window-cleaning-shortcut-uae-homes-have-been-waiting-for-1.500711803"
     },
     {
       "id": "news-74",
