@@ -1,8 +1,674 @@
 {
-  "lastUpdated": "2026-10-22T20:34:54.272Z",
+  "lastUpdated": "2026-10-22T23:05:24.543Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong",
+      "summary": "HSBC will launch its Hong Kong dollar-backed stablecoin in stages from Friday for more than 3.3 million users of its PayMe app, as the bank pushes to bring digital currencies into the city’s mainstream retail and investment markets.\nHSBC RedCoin, available only through PayMe and the bank’s Hong Kong",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T23:00:09.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/business/cryptocurrency/article/3371805/hsbc-redcoin-stablecoin-launches-33-million-payme-users-hong-kong"
+    },
+    {
+      "id": "news-1",
+      "headline": "Trump administration offers mixed messages on limits to Ukraine&apos;s Starshield access",
+      "summary": "Trump administration offers mixed messages on limits to Ukraine&apos;s Starshield access",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:47:27.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/technology/trump-administration-offers-mixed-messages-on-limits-to-ukraines-starshield-access-1.500720446"
+    },
+    {
+      "id": "news-2",
+      "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
+      "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:44:35.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
+    },
+    {
+      "id": "news-3",
+      "headline": "UAE oil spill: Umm Al Quwain beaches closed as cleanup efforts begin",
+      "summary": "UAE oil spill: Umm Al Quwain beaches closed as cleanup efforts begin",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:33:40.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/uae-oil-spill-umm-al-quwain-beaches-closed-as-cleanup-efforts-begin-1.500720483"
+    },
+    {
+      "id": "news-4",
+      "headline": "Kyiv denies reports that Trump, Musk have restored Starlink speeds in Ukraine - The Kyiv Independent",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWxhb2JndjVzQVRGOXJPR1IxLVh5OGxHMGVrR0tTaTdiMGdPbjUwanhOUVlPQWpQX0FSVW1mMXhaYnJpcVRNQUlzRV9UZnZnT3JtdFpEQzYzdXJhNkZqVVBvaHlzdER3V1Nzclh2RXgxZHYyZkZ3OFFSVlZkcEZXVU54eGkwZWg2YnFrY1NiLXhDT3JLbUJaSWZEM1hHc2d6b2pTY1h4UTM?oc=5\" target=\"_blan",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Kyiv Independent",
+          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
+          "url": "https://kyivindependent.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:30:26.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWxhb2JndjVzQVRGOXJPR1IxLVh5OGxHMGVrR0tTaTdiMGdPbjUwanhOUVlPQWpQX0FSVW1mMXhaYnJpcVRNQUlzRV9UZnZnT3JtdFpEQzYzdXJhNkZqVVBvaHlzdER3V1Nzclh2RXgxZHYyZkZ3OFFSVlZkcEZXVU54eGkwZWg2YnFrY1NiLXhDT3JLbUJaSWZEM1hHc2d6b2pTY1h4UTM?oc=5"
+    },
+    {
+      "id": "news-5",
+      "headline": "Why these Iowa GOP voters are wary of Trump resuming the Iran war after the midterms - CNN",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1JYzBHenlMcVhid1hEbkMybzdvb2dxQTZKN29OTk1WVnhNZm1yZzhzNkZYNjFaMXhuVUtHUHFIV0lsQ09oaEF3YTE2Z0tUR3lOMUU2V3dWQk50OC1oT3dVdFZxaWVmOGkwczBkeDg0R3o5LWdoNFNwZ2JlMA?oc=5\" target=\"_blank\"&gt;Why these Iowa GOP voters are wary of Trump resuming th",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:29:28.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JYzBHenlMcVhid1hEbkMybzdvb2dxQTZKN29OTk1WVnhNZm1yZzhzNkZYNjFaMXhuVUtHUHFIV0lsQ09oaEF3YTE2Z0tUR3lOMUU2V3dWQk50OC1oT3dVdFZxaWVmOGkwczBkeDg0R3o5LWdoNFNwZ2JlMA?oc=5"
+    },
+    {
+      "id": "news-6",
+      "headline": "Goose Creek Estate Listed: Quirky 1958 ranch hits market at $1.227 million; licensed short-term rental",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135106401.cms\" /&gt;<![CDATA[Nestled at 108 Hampton Avenue, this unique property in Goose Creek is now on the market. It boasts three distinct kitchens, creatively them",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:29:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/a-south-carolina-ranch-house-built-in-1958-grew-into-a-5390-square-foot-retreat-with-three-kitchens-and-an-indoor-pool-under-a-31-foot-ceiling-68-years-later-the-unusual-1-21-acre-home-is-listed-for-1-227-million/articleshow/135106401.cms"
+    },
+    {
+      "id": "news-7",
+      "headline": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+      "summary": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:25:14.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss"
+    },
+    {
+      "id": "news-8",
+      "headline": "Necklace nearly sold for £15 at car boot sale fetches £99,000 at auction",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135094253.cms\" /&gt;<![CDATA[Imagine a dusty car boot sale where a unique necklace fashioned from human hair and whale bone was nearly sold for just £15. Fortunately, i",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:24:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/uk/a-necklace-nearly-taken-to-a-car-boot-sale-with-a-15-price-tag-was-later-identified-as-a-rare-south-pacific-treasure-expected-to-fetch-just-60-to-100-it-sold-for-99000-at-auction/articleshow/135094253.cms"
+    },
+    {
+      "id": "news-9",
+      "headline": "Trump invokes Cold War-era Defence Production Act to boost oil production and refining",
+      "summary": "US ⁠President Donald Trump determined ⁠on Thursday that petroleum ⁠production, refining and related activities are essential to national defence, a move that could open up US funding for fossil fuel projects.\nIn a presidential memo, Trump also invoked part of ‌the Cold War-era Defence Production Act",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:21:42.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3371836/trump-invokes-cold-war-era-defence-production-act-boost-oil-production-and-refining"
+    },
+    {
+      "id": "news-10",
+      "headline": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+      "summary": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T22:09:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss"
+    },
+    {
+      "id": "news-11",
+      "headline": "China-made cancer drug to go on sale in US after Americans travel to buy it",
+      "summary": "Global pharmaceutical firm AstraZeneca said on Thursday it would start selling a cancer drug after coming under criticism for failing to bring it to the US market faster, prompting some Americans to fly to Shanghai to procure the potentially life-saving medicine first developed by China.\nIn recent m",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:56:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/us/article/3371835/china-made-cancer-drug-go-sale-us-after-americans-travel-buy-it"
+    },
+    {
+      "id": "news-12",
+      "headline": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "summary": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;41-year-old set on ‘dream to be able to race in Africa’&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Rwanda to host despite criticism of human rights record&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lewis Hamilton has said he hopes to remain racing in Formula One until he can ta",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:53:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix"
+    },
+    {
+      "id": "news-13",
+      "headline": "US judge blocks federal operations seeking to identify non-citizen voters",
+      "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:52:52.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss"
+    },
+    {
+      "id": "news-14",
+      "headline": "Michigan voters closely divided between Rogers and El-Sayed",
+      "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:51:50.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss"
+    },
+    {
+      "id": "news-15",
+      "headline": "What is the history behind Trump’s LeBron blast over US national anthem?",
+      "summary": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:51:41.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss"
+    },
+    {
+      "id": "news-16",
+      "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "BBC World",
+          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
+          "url": "https://bbc.com/news",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:42:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "id": "news-17",
+      "headline": "Trump’s Gamble to End the Iran War - The Atlantic",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWswU0NELUZIeS0xRll5LUF6Sk5nWUpCWFdKckJwbEhzU29yR2pwWVhUcUNKdlhkc2pMa01ydW1aWTIwYnJRMkphVUJ4a0lUQkZkT1QxaFZRdlN2Qkp0QWh0ODYtVkRjUmhEaVpJRkVySlRjUncyX1ZoLVo0cXZQeERWcFYtTU5OVXVTS0JMbkpFOWxnSndsZE1MNzFsbnRo?oc=5\" target=\"_blank\"&gt;Trump",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:41:50.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWswU0NELUZIeS0xRll5LUF6Sk5nWUpCWFdKckJwbEhzU29yR2pwWVhUcUNKdlhkc2pMa01ydW1aWTIwYnJRMkphVUJ4a0lUQkZkT1QxaFZRdlN2Qkp0QWh0ODYtVkRjUmhEaVpJRkVySlRjUncyX1ZoLVo0cXZQeERWcFYtTU5OVXVTS0JMbkpFOWxnSndsZE1MNzFsbnRo?oc=5"
+    },
+    {
+      "id": "news-18",
+      "headline": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - NBC News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHgyWE1ZbFdVQXhyZ0JRTV82cm5HOW1WYUU0b1o3OVlHbTFmSXBpU3dZMkdTTjJLQWZVN1NRdXYwbXNhY3lwR0xLNndCQmtLRTI2aGlnMkdHd1NIdlJjTlRHYWFoNXN4eTB2SzVtQlF3ZHpQMXZmMDd2S1ZsU3R6elpRT1dZRHNEcms2N3pmekFRZmNmSDNLaS1WREpDcTFZdUVYV0VkUEFFQm5YWl9QaVZPc3E?oc=",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:33:09.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHgyWE1ZbFdVQXhyZ0JRTV82cm5HOW1WYUU0b1o3OVlHbTFmSXBpU3dZMkdTTjJLQWZVN1NRdXYwbXNhY3lwR0xLNndCQmtLRTI2aGlnMkdHd1NIdlJjTlRHYWFoNXN4eTB2SzVtQlF3ZHpQMXZmMDd2S1ZsU3R6elpRT1dZRHNEcms2N3pmekFRZmNmSDNLaS1WREpDcTFZdUVYV0VkUEFFQm5YWl9QaVZPc3E?oc=5"
+    },
+    {
+      "id": "news-19",
+      "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:31:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html"
+    },
+    {
+      "id": "news-20",
+      "headline": "Iran issues 'serious warning' to US military forces in Middle East - Fox News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPa19HUXRONnZSZ3JPZDJDU2hkMzUtOUhOeXJad2RNanh5ME1uMFg3Si1oRkl3UGh2djVTLXNNQXJmbU1mVHgxbmxNNEwzbXdNQ2YtYnMyQ05Qb1ppNVZCY1VEQlhrd0VtbFdyOXZ3VE1hU3ExcjVqNEFYaVVBWGZNeks4eEhodw?oc=5\" target=\"_blank\"&gt;Iran issues 'serious warning' to US mil",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:28:56.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa19HUXRONnZSZ3JPZDJDU2hkMzUtOUhOeXJad2RNanh5ME1uMFg3Si1oRkl3UGh2djVTLXNNQXJmbU1mVHgxbmxNNEwzbXdNQ2YtYnMyQ05Qb1ppNVZCY1VEQlhrd0VtbFdyOXZ3VE1hU3ExcjVqNEFYaVVBWGZNeks4eEhodw?oc=5"
+    },
+    {
+      "id": "news-21",
+      "headline": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
+      "summary": "The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:25:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html"
+    },
+    {
+      "id": "news-22",
+      "headline": "Collisions Fall After Wildlife Overpass: I-25 crossings cut crashes by up to 91%; Colorado plans six more",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135093165.cms\" /&gt;<![CDATA[A network of wildlife crossings in Colorado has reduced collisions along Interstate 25 by approximately 85 percent. This system includes fe",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:24:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/colorado-built-a-wildlife-overpass-across-a-busy-highway-a-new-report-says-animal-vehicle-collisions-fell-by-91-as-elk-bears-and-frogs-began-using-the-crossing/articleshow/135093165.cms"
+    },
+    {
+      "id": "news-23",
+      "headline": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+      "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:23:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss"
+    },
+    {
+      "id": "news-24",
+      "headline": "Trump ordered to sit for deposition in BBC defamation lawsuit",
+      "summary": "Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:20:32.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/10/22/trump-ordered-to-sit-for-deposition-in-bbc-defamation-lawsuit?traffic_source=rss"
+    },
+    {
+      "id": "news-25",
+      "headline": "Can Pakistan save the last two of its four captive African elephants?",
+      "summary": "Of four elephants brought to Pakistan in 2009, two have died. Now, two others are ill, raising welfare concerns.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:19:47.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/10-22-karachi-captive-elephants-sv?traffic_source=rss"
+    },
+    {
+      "id": "news-26",
+      "headline": "Emirati diplomat could become next UN chief despite human rights concerns",
+      "summary": "Human rights defenders are sounding the alarm over the United Arab Emirates’ nomination of its former envoy Lana Nusseibeh to be the next UN Secretary General. They say electing a diplomat from the UAE, a country with a questionable human rights record that is accused of backing forces behind a mass",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:18:37.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/americas/20261022-emirati-diplomat-could-become-next-un-chief-despite-human-rights-concerns-uae-sudan-un-secretary-general-lana-nusseibeh"
+    },
+    {
+      "id": "news-27",
+      "headline": "Strong earthquake strikes China’s remote Tibet region",
+      "summary": "At least 16 people have died and dozens more have been injured after a major earthquake measuring 7.0 on the Richter scale shook China’s remote Tibet region on Thursday, state media said. Hundreds of houses collapsed in the tremor.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:09:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+    },
+    {
+      "id": "news-28",
+      "headline": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
+      "summary": "Bayern Munich striker Kane faces tough competition from Lamine Yamal and Kylian Mbappe, who are also in the ‌‌running.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:03:48.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss"
+    },
+    {
+      "id": "news-29",
+      "headline": "Tom Skerritt, star of Alien and Top Gun, dies at 93",
+      "summary": "Versatile actor Tom Skerritt, who starred in Hollywood megahits including the sci-fi classic Alien, the ⁠war comedy M*A*S*H, and the action drama Top Gun, ⁠has died at the age of 93.\nSkerritt, a Detroit native ⁠whose Hollywood career spanned from the 1960s to the 2020s, died on Wednesday of natural ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:02:38.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3371834/tom-skerritt-star-alien-and-top-gun-dies-93"
+    },
+    {
+      "id": "news-30",
+      "headline": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
+      "summary": "The United States is facing its largest outbreak of measles since the virus was declared eliminated in 2000.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T21:02:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss"
+    },
+    {
+      "id": "news-31",
+      "headline": "US and Israel drawing up plans to resume attacks on Iran post-election, sources say - ABC News - Breaking News, Latest News and Videos",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T20:58:09.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd2d2szU19XZzRNREJQdWV6OG1mRUhtQ0JTWXZYc3Jqa0FOdkFoWTF3b19JMEx3YW9XYkJRbXRlVHkxcWpPbWx3bVVydFBySV9yMW9tVFZRVWljYUNXeEEwNXMzSWJmeEdwdTZwaHh6VG52alZDQ3dmcU5NTXE4MWk1V0w4ZHMzX2FkNXUydndhTktR?oc=5"
+    },
+    {
+      "id": "news-32",
+      "headline": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
+      "summary": "A daily update on the latest business and economic news.",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T20:54:15.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m"
+    },
+    {
+      "id": "news-33",
+      "headline": "IEA chief warns energy is becoming a geopolitical weapon",
+      "summary": "Dr. Fatih Birol, Executive Director of the IEA, warns that energy is becoming a geopolitical weapon.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T20:51:26.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss"
+    },
+    {
+      "id": "news-34",
+      "headline": "A Cancer Revolution",
+      "summary": "We look at how screening and groundbreaking treatments have radically reduced death rates.",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T20:41:16.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html"
+    },
+    {
+      "id": "news-35",
+      "headline": "Trump blasts basketball star LeBron James for not standing still during US anthem",
+      "summary": "US President Donald Trump on Thursday accused LeBron James of disrespecting the United States after the NBA star appeared to continue his warm-ups while the national anthem was performed before Philadelphia’s season opener on Tuesday.\n“I said right from the beginning that he’s no good, a TOTAL DISGR",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T20:38:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3371833/trump-blasts-basketball-star-lebron-james-not-standing-still-during-us-anthem"
+    },
+    {
+      "id": "news-36",
+      "headline": "Karoline Leavitt says her previous job was obviously not for Katie Zacharia who survived as press secretary for 5 days",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135127249.cms\" /&gt;<![CDATA[",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T20:33:09.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/karoline-leavitt-says-her-previous-job-was-obviously-not-for-katie-zacharia-who-survived-as-press-secretary-for-5-days/articleshow/135127249.cms"
+    },
+    {
+      "id": "news-37",
       "headline": "EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia",
       "summary": "Diplomats from the EU’s 27 member states were pressured this week to lift sanctions on Yusha Group, a Chinese textiles manufacturer accused of selling sensitive European technology to Russian buyers.\nIn exchange, Beijing has pledged that the company will refrain from shipping banned items to Russian",
       "urgency": "important",
@@ -20,9 +686,27 @@
       "link": "https://www.scmp.com/news/china/article/3371832/eu-mulls-sanctions-reprieve-chinese-fabric-maker-accused-aiding-russia"
     },
     {
-      "id": "news-1",
-      "headline": "Casualties reported after 7.0 quake strikes China’s Tibet",
-      "summary": "A strong 7.0-magnitude earthquake struck China’s western Tibet autonomous region late on Thursday and casualties have been reported, state news agency Xinhua said, citing local authorities.\nThe report did not offer any details about the number or type of casualties.\nThe epicentre of the quake, which",
+      "id": "news-38",
+      "headline": "After 2005 rat removal, three seabird species on a Pacific island grew up to tenfold over decades",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135092515.cms\" /&gt;<![CDATA[The successful eradication of invasive rodents in 2005 has greatly influenced seabird populations on Surprise Island. Researchers closely m",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-10-22T20:28:00.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/after-invasive-rats-were-eliminated-from-a-pacific-island-in-2005-scientists-monitored-seabirds-for-years-three-species-eventually-recorded-populations-two-to-ten-times-larger-than-before-the-removal/articleshow/135092515.cms"
+    },
+    {
+      "id": "news-39",
+      "headline": "16 killed, 32 hurt after magnitude 7 earthquake strikes China’s Tibet",
+      "summary": "At least 16 people were killed and 32 more injured when a strong 7.0-magnitude earthquake struck China’s western Tibet autonomous region late on Thursday, state news agency Xinhua said, citing local authorities.\nMore than 300 houses collapsed in the earthquake, which struck on Thursday at 10.33pm. O",
       "urgency": "breaking",
       "topic": "general",
       "sources": [
@@ -38,7 +722,7 @@
       "link": "https://www.scmp.com/news/china/article/3371831/casualties-reported-after-70-quake-strikes-chinas-tibet"
     },
     {
-      "id": "news-2",
+      "id": "news-40",
       "headline": "Thousands gather at final student-led rally ahead of Serbia election",
       "summary": "The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.",
       "urgency": "important",
@@ -56,7 +740,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss"
     },
     {
-      "id": "news-3",
+      "id": "news-41",
       "headline": "Kuwaiti H-1B doctor in Ohio poisoned girlfriend with abortion drug to terminate pregnancy, became US citizen lying on his Form N-400",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135127226.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -74,7 +758,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/kuwaiti-h-1b-doctor-in-ohio-poisoned-girlfriend-with-abortion-drug-to-terminate-pregnancy-became-us-citizen-lying-on-his-form-n-400/articleshow/135127226.cms"
     },
     {
-      "id": "news-4",
+      "id": "news-42",
       "headline": "Why has the Libya-Turkiye maritime deal stirred controversy?",
       "summary": "Some countries in the region say it infringes on their rights.",
       "urgency": "info",
@@ -92,7 +776,7 @@
       "link": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss"
     },
     {
-      "id": "news-5",
+      "id": "news-43",
       "headline": "Emmy-winning US actor Tom Skerritt, known for ‘Top Gun’ and ‘Picket Fences’, dies at 93",
       "summary": "US actor Tom Skerritt, known for his roles as the doomed caption in 1979's \"Alien\", a tough flight instructor in the 1986 megahit “Top Gun” and who won an Emmy award winner for his work in the television series “Picket Fences”, has died at 93, his family said in a statement.",
       "urgency": "breaking",
@@ -110,25 +794,7 @@
       "link": "https://www.france24.com/en/culture/20261022-emmy-winning-us-actor-tom-skerritt-top-gun-and-picket-fences-dies-93"
     },
     {
-      "id": "news-6",
-      "headline": "U.S., Australia, U.K. Launch Maritime Demonstration to Enhance Interoperability",
-      "summary": "The Maritime Big Play Pacific demonstration is underway off the coast of Southern California to advance interoperability among the U.S., Australia and the U.K., as part of the AUKUS trilateral partnership.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "US Pentagon",
-          "logo": "https://www.google.com/s2/favicons?domain=defense.gov&sz=32",
-          "url": "https://defense.gov",
-          "category": "government"
-        }
-      ],
-      "timestamp": "2026-10-22T20:06:42.000Z",
-      "widgetType": "news",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4631837/us-australia-uk-launch-maritime-demonstration-to-enhance-interoperability/"
-    },
-    {
-      "id": "news-7",
+      "id": "news-44",
       "headline": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
       "summary": "Some of the core issues that drove Trump&#039;s US supporters and the MAGA movement are no longer Republican talking points.",
       "urgency": "info",
@@ -146,7 +812,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-45",
       "headline": "Friday sermon, October 23, 2026: Speak of people&apos;s good qualities",
       "summary": "Friday sermon, October 23, 2026: Speak of people&apos;s good qualities",
       "urgency": "info",
@@ -164,10 +830,10 @@
       "link": "https://gulfnews.com/uae/friday-sermon-october-23-2026-speak-of-peoples-good-qualities-1.500720289"
     },
     {
-      "id": "news-9",
-      "headline": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BRmRGc3ZtM0I1MHFweHAyVW80Z3hnUkpVQmprX1ZIVDBZMXFvWGswdHBVSUxaX1M4WWZ4c21pU0xKYTdmS0NtQWk0OFk1RVNYS25iQ0UwZDBfN0NPLTgwS0ZaZFZiZEFtMTBYLVFZR3VoWUNnNzNwTEdYTF9sOEU?oc=5\" target=\"_blank\"&gt;Live Updates: Latest from Israel, Iran, and the Mi",
-      "urgency": "info",
+      "id": "news-46",
+      "headline": "US, Israel plan renewed Iran strikes after midterms, focusing on short, intense attacks - report - The Jerusalem Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5\" target=\"_blank\"&gt;US, Israel plan renewed Iran strikes after midterms, focusing on short, intens",
+      "urgency": "breaking",
       "topic": "middle-east",
       "sources": [
         {
@@ -177,12 +843,12 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-10-22T20:00:05.000Z",
+      "timestamp": "2026-10-22T19:59:47.000Z",
       "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BRmRGc3ZtM0I1MHFweHAyVW80Z3hnUkpVQmprX1ZIVDBZMXFvWGswdHBVSUxaX1M4WWZ4c21pU0xKYTdmS0NtQWk0OFk1RVNYS25iQ0UwZDBfN0NPLTgwS0ZaZFZiZEFtMTBYLVFZR3VoWUNnNzNwTEdYTF9sOEU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5"
     },
     {
-      "id": "news-10",
+      "id": "news-47",
       "headline": "‘The best on Earth’: Can weak economic growth undermine Europe’s ‘very sophisticated social system’?",
       "summary": "Can Europe continue to sustain one of the world's most ambitious social models while falling increasingly behind its major economic competitors? For Pascal Lamy, former European Commissioner for Trade and former Director-General of the World Trade Organization, this question lies at the heart of the",
       "urgency": "info",
@@ -200,7 +866,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20261022-the-best-on-earth-can-weak-economic-growth-undermine-europe-s-very-sophisticated-social-system"
     },
     {
-      "id": "news-11",
+      "id": "news-48",
       "headline": "Curfew imposed in certain areas of Paris every night until Monday morning",
       "summary": "The curfew has been extended in certain areas of Paris, every night from 11:00 p.m. to 6:00 a.m. until Monday morning. The measure has been in force since the violence and looting of the weekend, according to an order from the Paris police prefecture published Thursday. A Paris protest Thursday orga",
       "urgency": "important",
@@ -218,7 +884,7 @@
       "link": "https://www.france24.com/en/curfew-imposed-in-certain-areas-of-paris-every-night-until-monday-morning"
     },
     {
-      "id": "news-12",
+      "id": "news-49",
       "headline": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - AP News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5\" target=\"_blank\"&gt;Russian",
       "urgency": "breaking",
@@ -236,7 +902,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5"
     },
     {
-      "id": "news-13",
+      "id": "news-50",
       "headline": "Israel’s Ben-Gvir shares AI videos mocking Gazans as ‘donkeys’ and sending them to Paris",
       "summary": "Israel’s far-right minister Itamar Ben-Gvir is using AI-generated videos to mock Palestinians and push political messages ahead of the country’s election, including videos magically transporting Gazans to Paris or calling them \"donkeys\" for choosing to stay. One video has sparked an online spat with",
       "urgency": "important",
@@ -254,7 +920,7 @@
       "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261022-israel-s-ben-gvir-shares-ai-videos-mocking-gazans-as-donkeys-and-sending-them-to-paris"
     },
     {
-      "id": "news-14",
+      "id": "news-51",
       "headline": "How the Turkiye-Libya deal is reshaping the Mediterranean",
       "summary": "How the Turkiye-Libya deal is reshaping the Mediterranean",
       "urgency": "info",
@@ -272,7 +938,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss"
     },
     {
-      "id": "news-15",
+      "id": "news-52",
       "headline": "White evangelical support for Trump slips but still strong as midterms near",
       "summary": "Poll finds white evangelicals still outpace other demographic groups in supporting Trump, as he rallies right-wing base.",
       "urgency": "info",
@@ -290,7 +956,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss"
     },
     {
-      "id": "news-16",
+      "id": "news-53",
       "headline": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
       "summary": "Health officials are investigating where Nigeria&#039;s first patient, confirmed this week, was infected.",
       "urgency": "breaking",
@@ -308,7 +974,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss"
     },
     {
-      "id": "news-17",
+      "id": "news-54",
       "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
       "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
       "urgency": "breaking",
@@ -326,7 +992,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-18",
+      "id": "news-55",
       "headline": "Vanessa Hudgens bought a 1922 LA home for $5 million; after renovation, she sold it for $6.7 million",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135090425.cms\" /&gt;<![CDATA[In 2018, Vanessa Hudgens acquired a charming historic residence in Los Angeles from Gary Oldman for almost $5 million. She renovated and re",
       "urgency": "info",
@@ -344,7 +1010,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2018-vanessa-hudgens-bought-a-1922-los-angeles-home-from-gary-oldman-for-nearly-5-million-after-restoring-its-kitchen-and-primary-suite-she-sold-the-historic-estate-to-ronan-farrow-for-6-7-million-in-2022/articleshow/135090425.cms"
     },
     {
-      "id": "news-19",
+      "id": "news-56",
       "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
       "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
       "urgency": "important",
@@ -362,7 +1028,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-57",
       "headline": "Ellis Building Hotel Conversion: Aperture buys site for $10.3m; Marriott Tribute Portfolio rooms planned",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135081897.cms\" /&gt;<![CDATA[The iconic Ellis Building, erected in 1922, is set to undergo a transformation into a chic boutique hotel, managed by Aperture Hotels and a",
       "urgency": "info",
@@ -380,7 +1046,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/a-six-story-phoenix-office-tower-dating-to-1922-has-sold-for-10-3-million-and-its-new-owner-aperture-hotels-plans-to-turn-the-century-old-ellis-building-downtown-into-a-marriott-hotel-with-around-100-rooms/articleshow/135081897.cms"
     },
     {
-      "id": "news-21",
+      "id": "news-58",
       "headline": "Claude Monet&apos;s &apos;Iris&apos; sets record with €50m sale at Paris auction",
       "summary": "Monet&apos;s &apos;Iris&apos; fetches 50 mn euros at Paris auction",
       "urgency": "info",
@@ -398,25 +1064,7 @@
       "link": "https://gulfnews.com/world/europe/claude-monets-iris-sets-record-with-50m-sale-at-paris-auction-1.500720360"
     },
     {
-      "id": "news-22",
-      "headline": "Kyiv denies reports that Trump, Musk have restored Starlink speeds in Ukraine - The Kyiv Independent",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWxhb2JndjVzQVRGOXJPR1IxLVh5OGxHMGVrR0tTaTdiMGdPbjUwanhOUVlPQWpQX0FSVW1mMXhaYnJpcVRNQUlzRV9UZnZnT3JtdFpEQzYzdXJhNkZqVVBvaHlzdER3V1Nzclh2RXgxZHYyZkZ3OFFSVlZkcEZXVU54eGkwZWg2YnFrY1NiLXhDT3JLbUJaSWZEM1hHc2d6b2pTY1h4UTM?oc=5\" target=\"_blan",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Kyiv Independent",
-          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
-          "url": "https://kyivindependent.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T19:17:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWxhb2JndjVzQVRGOXJPR1IxLVh5OGxHMGVrR0tTaTdiMGdPbjUwanhOUVlPQWpQX0FSVW1mMXhaYnJpcVRNQUlzRV9UZnZnT3JtdFpEQzYzdXJhNkZqVVBvaHlzdER3V1Nzclh2RXgxZHYyZkZ3OFFSVlZkcEZXVU54eGkwZWg2YnFrY1NiLXhDT3JLbUJaSWZEM1hHc2d6b2pTY1h4UTM?oc=5"
-    },
-    {
-      "id": "news-23",
+      "id": "news-59",
       "headline": "Vance tells Republicans to 'stop whining' after Ramaswamy attack ad in Ohio governor's race",
       "summary": "US Vice President JD Vance on Wednesday defended an explosive attack ad by Republican Vivek Ramaswamy’s campaign against his Democratic rival in the Ohio governor’s race, telling fellow Republicans to \"stop whining\" about it and go win the race. The ad features ​Democrat Amy Acton’s ‌estranged mothe",
       "urgency": "breaking",
@@ -434,7 +1082,7 @@
       "link": "https://www.france24.com/en/vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governor-s-race"
     },
     {
-      "id": "news-24",
+      "id": "news-60",
       "headline": "In the Wake of Riots, the French Authorities Ban Some Protests",
       "summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
       "urgency": "important",
@@ -452,7 +1100,7 @@
       "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html"
     },
     {
-      "id": "news-25",
+      "id": "news-61",
       "headline": "Time just changed forever",
       "summary": "For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world&#039;s clocks.",
       "urgency": "info",
@@ -470,7 +1118,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss"
     },
     {
-      "id": "news-26",
+      "id": "news-62",
       "headline": "4 cops including DSP martyred, 2 terrorists killed during exchange of fire in KP's Karak: police",
       "summary": "&lt;p&gt;LAKKI MARWAT: Four policemen, including two officials, were martyred and two terrorists were killed during an exchange of fire in Khyber Pakhtunkhwa’s Karak district on Thursday, police said.&lt;/p&gt;\n&lt;p&gt;A statement by the KP police said law enforcers had initiated a search and strik",
       "urgency": "breaking",
@@ -488,7 +1136,7 @@
       "link": "https://www.dawn.com/news/2039039/4-cops-including-dsp-martyred-2-terrorists-killed-during-exchange-of-fire-in-kps-karak-police"
     },
     {
-      "id": "news-27",
+      "id": "news-63",
       "headline": "Targeted by Trump, International Criminal Court wins top EU rights prize",
       "summary": "Facing US sanctions, the International Criminal Court was on Thursday awarded the European Union's top rights prize, in a show of support that risks upsetting President Donald Trump. \"The European Union is built on respect for multilateralism and international institutions, and this prize recognises",
       "urgency": "breaking",
@@ -506,7 +1154,7 @@
       "link": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize"
     },
     {
-      "id": "news-28",
+      "id": "news-64",
       "headline": "Pakistan, Egypt, Saudi Arabia, Turkiye to meet European trio in Istanbul",
       "summary": "&lt;p&gt;Turkiye will host an R-4 and an R-4+E-3 meeting of foreign ministers in Istanbul on October 23, the Turkish foreign ministry &lt;a rel=\"nofollow noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://www.mfa.gov.tr/no_-203_-r4-ve-r4_e3-disisleri-bakanlari-toplantilari-hk.",
       "urgency": "breaking",
@@ -524,7 +1172,7 @@
       "link": "https://www.dawn.com/news/2039053/pakistan-egypt-saudi-arabia-turkiye-to-meet-european-trio-in-istanbul"
     },
     {
-      "id": "news-29",
+      "id": "news-65",
       "headline": "Direct flights between Pakistan and Maldives on the horizon as PM stresses connectivity",
       "summary": "&lt;p&gt;Prime Minister Shehbaz Sharif on Thursday announced that he had issued instructions for direct flights between Pakistan and the Maldives.&lt;/p&gt;\n&lt;p&gt;The premier was addressing the Pakistan-Maldives Business Forum, attended by &lt;a href=\"https://www.dawn.com/news/2038736/pm-shehbaz-",
       "urgency": "breaking",
@@ -542,7 +1190,7 @@
       "link": "https://www.dawn.com/news/2039036/direct-flights-between-pakistan-and-maldives-on-the-horizon-as-pm-stresses-connectivity"
     },
     {
-      "id": "news-30",
+      "id": "news-66",
       "headline": "He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.",
       "summary": "Will Murray of Australia’s public broadcaster spotted a man in a sinking truck, then jumped in the water with a bystander. (Just don’t call him Clark Kent.)",
       "urgency": "info",
@@ -560,7 +1208,25 @@
       "link": "https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html"
     },
     {
-      "id": "news-31",
+      "id": "news-67",
+      "headline": "Iran War Updates: Trump accuses Iran of making up fake strikes on ships to drive up oil prices - CBS News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDJacGlyUkJSMmZfSXF5dlBwLU5PRXdsQnZiMFRyRmJTeVU3dHZnQlF6WDVRQ0pjYlFFamxjV3dXU0E4SmZ0SkRUMW1uLVh6cE05SDBLTEhlTnI3T3dwQXNWbFQ3TzFaZ1lZY0RNeVlNSW8zaDN6aDh1NWg2ZTNvTV9OM0xYQQ?oc=5\" target=\"_blank\"&gt;Iran War Updates: Trump accuses Iran of",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-10-22T18:35:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDJacGlyUkJSMmZfSXF5dlBwLU5PRXdsQnZiMFRyRmJTeVU3dHZnQlF6WDVRQ0pjYlFFamxjV3dXU0E4SmZ0SkRUMW1uLVh6cE05SDBLTEhlTnI3T3dwQXNWbFQ3TzFaZ1lZY0RNeVlNSW8zaDN6aDh1NWg2ZTNvTV9OM0xYQQ?oc=5"
+    },
+    {
+      "id": "news-68",
       "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
       "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
       "urgency": "info",
@@ -578,7 +1244,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-69",
       "headline": "Engineer Builds Rental Business: Ohio couple turns cave into cash; social media drives bookings",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135081119.cms\" /&gt;<![CDATA[Bryant Gingerich and his wife Amy turned a sprawling 34-acre land into a thriving hospitality destination known as Dunlap Hollow. This char",
       "urgency": "info",
@@ -596,7 +1262,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-2019-an-ohio-engineer-bought-34-wooded-acres-and-began-building-unusual-vacation-rentals-five-years-later-his-three-property-business-reported-more-than-700000-in-yearly-revenue-and-350000-in-net-profit/articleshow/135081119.cms"
     },
     {
-      "id": "news-33",
+      "id": "news-70",
       "headline": "Roe 8 Corridor Rehabilitation: 200,000 plants and 97 species return; ecosystem only 30% restored",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135081245.cms\" /&gt;<![CDATA[Almost ten years post the controversial Roe 8 highway initiative, Western Australia is witnessing a promising wave of ecological recovery. ",
       "urgency": "info",
@@ -614,7 +1280,7 @@
       "link": "https://timesofindia.indiatimes.com/science/nature/in-2017-bulldozers-cleared-western-australian-wetlands-for-a-highway-that-was-cancelled-nine-years-later-restoration-has-returned-over-200000-plants-and-recorded-97-animal-species-across-18-hectares/articleshow/135081245.cms"
     },
     {
-      "id": "news-34",
+      "id": "news-71",
       "headline": "England's Brook hits record ODI double ton but Sri Lanka pull off epic chase in Rawalpindi clash",
       "summary": "&lt;p&gt;England’s Harry Brook smashed the fastest double-century in One-Day International (ODI) history and became the first Englishman to score 200 in the format but Sri Lanka sealed a two-wicket win in their &lt;a href=\"https://www.dawn.com/news/2038950\"&gt;tri-series&lt;/a&gt; clash with one bal",
       "urgency": "breaking",
@@ -632,7 +1298,7 @@
       "link": "https://www.dawn.com/news/2039027/englands-brook-hits-record-odi-double-ton-but-sri-lanka-pull-off-epic-chase-in-rawalpindi-clash"
     },
     {
-      "id": "news-35",
+      "id": "news-72",
       "headline": "Back to the Bolsonaros? Brazil presidential run-off goes down to the wire",
       "summary": "Brazil's future within the margin of error ahead of Sunday's presidential runoff: most of the latest polls put the far-right's Flavio Bolsonaro ahead of left-wing incumbent Luiz Inacio Lula da Silva... a lead that's narrowed after last weekend's acrimomious debate.",
       "urgency": "info",
@@ -650,7 +1316,7 @@
       "link": "https://www.france24.com/en/tv-shows/the-debate/20261022-back-to-the-bolsonaros-brazil-presidential-run-off-goes-down-to-the-wire"
     },
     {
-      "id": "news-36",
+      "id": "news-73",
       "headline": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
       "summary": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.",
       "urgency": "breaking",
@@ -668,7 +1334,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss"
     },
     {
-      "id": "news-37",
+      "id": "news-74",
       "headline": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM?oc=5\" target=\"_blan",
       "urgency": "breaking",
@@ -686,7 +1352,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM?oc=5"
     },
     {
-      "id": "news-38",
+      "id": "news-75",
       "headline": "In war between Russia and Ukraine, United States is first to surrender, but Americans still stand with Ukraine - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUpzNXh6M3FRRnNjMTYtT1doUFF5RnVrWDRJTEpaVlNGcW1NYmhKSVE3b3p2RXFWbzF1SFVkVnhid0t6ZVNoVkg4Y2t5NU9fMXF0dXdSRVkzVDU4dEQ2Y3BRbEdjQ2FEUWhnUXF5Y24zNXlBYkhabTNraUxndGxrS1h0NGVBa2Q3TlBvQ2w5UDRXUjhJb29IR1NLWTBiMjZOMjh6MmNjUmF4azg3d1JEMUs0QmUzcTl",
       "urgency": "breaking",
@@ -704,7 +1370,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUpzNXh6M3FRRnNjMTYtT1doUFF5RnVrWDRJTEpaVlNGcW1NYmhKSVE3b3p2RXFWbzF1SFVkVnhid0t6ZVNoVkg4Y2t5NU9fMXF0dXdSRVkzVDU4dEQ2Y3BRbEdjQ2FEUWhnUXF5Y24zNXlBYkhabTNraUxndGxrS1h0NGVBa2Q3TlBvQ2w5UDRXUjhJb29IR1NLWTBiMjZOMjh6MmNjUmF4azg3d1JEMUs0QmUzcTlOc3F5Skl5TWU3QUNWcG1yZjdsNVlyMHNlcGg0?oc=5"
     },
     {
-      "id": "news-39",
+      "id": "news-76",
       "headline": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
       "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
       "urgency": "breaking",
@@ -722,8 +1388,8 @@
       "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html"
     },
     {
-      "id": "news-40",
-      "headline": "Trump says NBA star LeBron James disrespected US national anthem",
+      "id": "news-77",
+      "headline": "Trump slams NBA star LeBron James for disrespecting US national anthem",
       "summary": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.",
       "urgency": "info",
       "topic": "general",
@@ -740,7 +1406,7 @@
       "link": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss"
     },
     {
-      "id": "news-41",
+      "id": "news-78",
       "headline": "Ukraine war latest: Ukrainian troops infiltrate Russian rear near Kupiansk through 15 kilometers of gas pipelines - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbTdFSzllekZHa05sQ3gwTzVURW5qZC10dVl4NE9HbFdwTTNaMi1ldkxGTWswRnZlM18yU2Z6ZmdUMlYwQ19oQnItMlRHX1Q1cFNyMDFaVm1XZTduaHA2azEwY0ZicTgtUjgtLWhjNVpISlduekFXbXg4SkJoZGJkV1l3T3huakZldUtPSURCU3J6dUxTSnVJQnRkTlRHNERLOHJfZ01IcVBhNVA0MmM2WHdObDE5NTF",
       "urgency": "breaking",
@@ -758,7 +1424,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbTdFSzllekZHa05sQ3gwTzVURW5qZC10dVl4NE9HbFdwTTNaMi1ldkxGTWswRnZlM18yU2Z6ZmdUMlYwQ19oQnItMlRHX1Q1cFNyMDFaVm1XZTduaHA2azEwY0ZicTgtUjgtLWhjNVpISlduekFXbXg4SkJoZGJkV1l3T3huakZldUtPSURCU3J6dUxTSnVJQnRkTlRHNERLOHJfZ01IcVBhNVA0MmM2WHdObDE5NTFtNHJmZ1d3dktFbWZValNSUFo3RUxMYjBBTzNmTnZIZDI?oc=5"
     },
     {
-      "id": "news-42",
+      "id": "news-79",
       "headline": "DHS can't knock on the doors and ask people about their immigration status, rules federal judge",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135124734.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -776,25 +1442,25 @@
       "link": "https://timesofindia.indiatimes.com/world/us/dhs-cant-knock-on-the-doors-and-ask-people-about-their-immigration-status-rules-federal-judge/articleshow/135124734.cms"
     },
     {
-      "id": "news-43",
-      "headline": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-      "summary": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
-      "urgency": "breaking",
-      "topic": "middle-east",
+      "id": "news-80",
+      "headline": "Stephen Hubbard's son: 'It’s tragic when family members are torn apart' by Russian captivity - The Kyiv Independent",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnpSV1VtRkpZN0s4ZlVZTE9JY2lyUl9lWlhNWXZmSmhSeDE4X1p4RXBxczZlRWxYOV9ZNUpmNHJhZndid0pUakpVdkFhTlNNM0l4Mmdib2dEQ0ZqaW92elRXSDJRaGYyQkhRNjlkQUpqUGlnWmdXU0ZuWmhKdlgxU2hZNl9lYWJ1S1BDVnM2WWNWU1VvVlpqYjlSR0o5cko2ZVV0d3dWcGRkNjU2bWxOd3ljMk01Y1k",
+      "urgency": "info",
+      "topic": "ukraine-russia",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
+          "name": "Kyiv Independent",
+          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
+          "url": "https://kyivindependent.com",
+          "category": "local_media"
         }
       ],
-      "timestamp": "2026-10-22T17:58:04.000Z",
+      "timestamp": "2026-10-22T17:56:26.000Z",
       "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZnpSV1VtRkpZN0s4ZlVZTE9JY2lyUl9lWlhNWXZmSmhSeDE4X1p4RXBxczZlRWxYOV9ZNUpmNHJhZndid0pUakpVdkFhTlNNM0l4Mmdib2dEQ0ZqaW92elRXSDJRaGYyQkhRNjlkQUpqUGlnWmdXU0ZuWmhKdlgxU2hZNl9lYWJ1S1BDVnM2WWNWU1VvVlpqYjlSR0o5cko2ZVV0d3dWcGRkNjU2bWxOd3ljMk01Y1k?oc=5"
     },
     {
-      "id": "news-44",
+      "id": "news-81",
       "headline": "UAE-Greece Strategic Forum opens new horizons for private sector-led trade, investment",
       "summary": "UAE-Greece Strategic Forum opens new horizons for private sector-led trade, investment",
       "urgency": "info",
@@ -812,7 +1478,7 @@
       "link": "https://gulfnews.com/uae/government/uae-greece-strategic-forum-opens-new-horizons-for-private-sector-led-trade-investment-1.500720334"
     },
     {
-      "id": "news-45",
+      "id": "news-82",
       "headline": "Govt reduces petrol price by Rs1.60 per litre, raises high-speed diesel rate by Rs1.64",
       "summary": "&lt;div class=\"raw-html-embed-wrapper\" style=\"width: 100%;\"&gt;\n&lt;script type=\"text/plain\" class=\"raw-html-source\"&gt;\n&lt;div class=\"fpw-root\"&gt;\n\n  &lt;div class=\"fpw-header\"&gt;\n    &lt;div class=\"fpw-title\"&gt;Pakistan fuel prices, 2026&lt;/div&gt;\n    &lt;div class=\"fpw-sub\"&gt;Official ex-d",
       "urgency": "breaking",
@@ -830,7 +1496,7 @@
       "link": "https://www.dawn.com/news/2039051/govt-reduces-petrol-price-by-rs160-per-litre-raises-high-speed-diesel-rate-by-rs164"
     },
     {
-      "id": "news-46",
+      "id": "news-83",
       "headline": "Ukraine hit by strikes after Russia agrees to new peace talks - BBC",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTVNOUmNuUEt3bDA5elVvWlMyZnFHVEZIOHJGUVBidDhNZ01GZnExZ0pLYlY2aHppRUFGOHluOXNpWHNhdlh3anJMSm82Zk4xSDc0bW1sTDQ?oc=5\" target=\"_blank\"&gt;Ukraine hit by strikes after Russia agrees to new peace talks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font co",
       "urgency": "breaking",
@@ -848,7 +1514,7 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTVNOUmNuUEt3bDA5elVvWlMyZnFHVEZIOHJGUVBidDhNZ01GZnExZ0pLYlY2aHppRUFGOHluOXNpWHNhdlh3anJMSm82Zk4xSDc0bW1sTDQ?oc=5"
     },
     {
-      "id": "news-47",
+      "id": "news-84",
       "headline": "Millions in cheese revenue lost as protest hits Italy’s buffalo mozzarella output",
       "summary": "A truckers’ protest in southern Italy has halted the production of the famed buffalo mozzarella, causing an estimated loss of €3 million (US$3.37 million) in just 24 hours as the milk cannot reach dairies in the Naples region and the finished cheese cannot reach customers, an official said.\nThe week",
       "urgency": "breaking",
@@ -866,25 +1532,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3371830/millions-cheese-revenue-lost-protest-hits-italys-buffalo-mozzarella-output"
     },
     {
-      "id": "news-48",
-      "headline": "US-sanctioned ICC wins top EU human rights award",
-      "summary": "The EU has awarded the International Criminal Court its top human rights award.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:46:03.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss"
-    },
-    {
-      "id": "news-49",
+      "id": "news-85",
       "headline": "Air Force Research Lab Demonstrates Rocket Cargo Delivery",
       "summary": "The Air Force Research Laboratory tested the Rocket Cargo project's point-to-point delivery capabilities during a commercial rideshare launch from Cape Canaveral Space Force Station, Florida.",
       "urgency": "info",
@@ -902,25 +1550,7 @@
       "link": "https://www.war.gov/News/News-Stories/Article/Article/4631639/air-force-research-lab-demonstrates-rocket-cargo-delivery/"
     },
     {
-      "id": "news-50",
-      "headline": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
-      "summary": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:40:24.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss"
-    },
-    {
-      "id": "news-51",
+      "id": "news-86",
       "headline": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
       "summary": "One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year.",
       "urgency": "important",
@@ -938,43 +1568,7 @@
       "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
     },
     {
-      "id": "news-52",
-      "headline": "Foreign national beaten to death by a mob in South Africa",
-      "summary": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:35:44.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss"
-    },
-    {
-      "id": "news-53",
-      "headline": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
-      "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:28:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss"
-    },
-    {
-      "id": "news-54",
+      "id": "news-87",
       "headline": "Scientists turned art detectives date van Gogh's 'Starry Night' to actual night sky in 1889",
       "summary": "A team of South Korean researchers has put forward a new date for the night sky depicted in Dutch painter Vincent van Gogh's famed masterpiece \"The Starry Night\". Art historians have long assumed the stars were a product of the artist's fantasy or dated the scene to June 1889 based on the artist's k",
       "urgency": "breaking",
@@ -992,25 +1586,7 @@
       "link": "https://www.france24.com/en/culture/20261022-scientists-turn-art-detectives-trace-van-gogh-starry-night-actual-night-sky-1889"
     },
     {
-      "id": "news-55",
-      "headline": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
-      "summary": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:25:29.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss"
-    },
-    {
-      "id": "news-56",
+      "id": "news-88",
       "headline": "China bets on manufactured water, and wants to sell it to the world",
       "summary": "&lt;p&gt;China is emerging as a major supplier of water technology to parched countries across Asia, the Middle East and Africa, as shrinking natural supplies at home push Beijing to invest heavily in manufactured freshwater, industry experts say.&lt;/p&gt;\n&lt;p&gt;Chinese firms are selling desalin",
       "urgency": "breaking",
@@ -1028,7 +1604,7 @@
       "link": "https://www.dawn.com/news/2039049/china-bets-on-manufactured-water-and-wants-to-sell-it-to-the-world"
     },
     {
-      "id": "news-57",
+      "id": "news-89",
       "headline": "Olivia Wilde sells Studio City home for nearly $1m less than asking",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135076244.cms\" /&gt;<![CDATA[Olivia Wilde recently offloaded her Studio City residence for $5.23 million, a price tag that fell short of her original purchase. Designed",
       "urgency": "info",
@@ -1046,7 +1622,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2023-olivia-wilde-bought-a-four-bedroom-los-angeles-home-for-5-9-million-the-0-66-acre-property-sold-in-december-2025-for-5-23-million-about-670000-below-what-she-paid/articleshow/135076244.cms"
     },
     {
-      "id": "news-58",
+      "id": "news-90",
       "headline": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
       "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
       "urgency": "info",
@@ -1064,7 +1640,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-59",
+      "id": "news-91",
       "headline": "Amazon loses 240 million acres of forest, risking rainfall disruption",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135112133.cms\" /&gt;<![CDATA[According to a recent report, the Amazon has lost 97 million hectares of primary forest by 2025. Most forest loss is attributed to human ac",
       "urgency": "info",
@@ -1082,43 +1658,7 @@
       "link": "https://timesofindia.indiatimes.com/science/earth/amazon-has-lost-240-million-acres-of-primary-forest-about-15-of-its-original-cover-a-new-study-says-32-2-million-acres-disappeared-between-2022-and-2025-threatening-vital-rain-carrying-pathways/articleshow/135112133.cms"
     },
     {
-      "id": "news-60",
-      "headline": "Donald Trump says LeBron James disrespected the United States, demands apology",
-      "summary": "Donald Trump says LeBron James disrespected the United States, demands apology",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:18:54.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/donald-trump-says-lebron-james-disrespected-the-united-states-demands-apology-1.500720305"
-    },
-    {
-      "id": "news-61",
-      "headline": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
-      "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:18:17.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-62",
+      "id": "news-92",
       "headline": "Downing Street rejects Witkoff’s description of Putin as a ‘humanitarian’ - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWc0cFBKNXhnOGZXelRkcTVIalhHMjZtMDAyczZndFFZVmREVDFWWU16b2ZwNGp3UFZoOWJ5ak9DSkdvLXgwVjg2T2VhYjlRS1ZWUEFBaTR3QnNoaHBnN0lZV3hETE1UY0hBRlNOcXFYai1KWTBnNmtkbGVNU2hMT3ZPNno5R19PQ3BYdTlrRVRRcXRDNS03SUpOQTA?oc=5\" target=\"_blank\"&gt;Downing St",
       "urgency": "info",
@@ -1136,7 +1676,7 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWc0cFBKNXhnOGZXelRkcTVIalhHMjZtMDAyczZndFFZVmREVDFWWU16b2ZwNGp3UFZoOWJ5ak9DSkdvLXgwVjg2T2VhYjlRS1ZWUEFBaTR3QnNoaHBnN0lZV3hETE1UY0hBRlNOcXFYai1KWTBnNmtkbGVNU2hMT3ZPNno5R19PQ3BYdTlrRVRRcXRDNS03SUpOQTA?oc=5"
     },
     {
-      "id": "news-63",
+      "id": "news-93",
       "headline": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads",
       "summary": "Truckers protesting high gas prices have prevented deliveries to parts of southern Italy, leading to empty shelves and dry pumps.",
       "urgency": "breaking",
@@ -1154,7 +1694,7 @@
       "link": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html"
     },
     {
-      "id": "news-64",
+      "id": "news-94",
       "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
       "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
       "urgency": "info",
@@ -1172,7 +1712,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-65",
+      "id": "news-95",
       "headline": "Race to update services' computer systems after cyber-security flaw found",
       "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
       "urgency": "info",
@@ -1190,25 +1730,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-66",
-      "headline": "Dubai announces massive plans to tackle rain: Lakes, pumps and personnel ready",
-      "summary": "Dubai announces massive plans to tackle rain: Lakes, pumps and personnel ready",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:10:57.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/dubai-announces-massive-plans-to-tackle-rain-lakes-pumps-and-personnel-ready-1.500720302"
-    },
-    {
-      "id": "news-67",
+      "id": "news-96",
       "headline": "PM vows to bring back progress to KP, assails PTI's 'callousness' during its tenures",
       "summary": "&lt;p&gt;Prime Minister Shehbaz Sharif on Thursday vowed that the federal government, which now runs Khyber Pakhtunkhwa under governor’s rule, would make every effort possible to “bring back” progress to the province.&lt;/p&gt;\n&lt;p&gt;He made the remarks while chairing a meeting of the apex commit",
       "urgency": "breaking",
@@ -1226,7 +1748,7 @@
       "link": "https://www.dawn.com/news/2038980/pm-vows-to-bring-back-progress-to-kp-assails-ptis-callousness-during-its-tenures"
     },
     {
-      "id": "news-68",
+      "id": "news-97",
       "headline": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
       "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
       "urgency": "info",
@@ -1244,25 +1766,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-69",
-      "headline": "Serbian Election Underscores the Region’s Long Political Limbo",
-      "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T17:03:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html"
-    },
-    {
-      "id": "news-70",
+      "id": "news-98",
       "headline": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
       "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
       "urgency": "info",
@@ -1280,7 +1784,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-71",
+      "id": "news-99",
       "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
       "summary": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came just hours after Russian President Vladimir Putin told US envoy Steve Witkoff his country was ready to resume tr",
       "urgency": "breaking",
@@ -1296,510 +1800,6 @@
       "timestamp": "2026-10-22T16:43:59.000Z",
       "widgetType": "news",
       "link": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says"
-    },
-    {
-      "id": "news-72",
-      "headline": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
-      "summary": "Health officials are urgently seeking answers about the origins of a case newly identified in Nigeria, the first in that West African nation.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:41:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html"
-    },
-    {
-      "id": "news-73",
-      "headline": "Judge gives Trump deadline to sit for deposition in BBC defamation suit",
-      "summary": "A federal judge on Thursday ordered US President Donald Trump to sit for a deposition in his US$10 billion defamation lawsuit against the BBC by December 11.\nThe order from US Magistrate Judge Enjolique Lett came as lawyers for the British broadcaster complained that Trump had delayed his appearance",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:40:56.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3371829/judge-gives-trump-deadline-sit-deposition-bbc-defamation-suit"
-    },
-    {
-      "id": "news-74",
-      "headline": "Kuwait launches online service for expatriates to report lost passports",
-      "summary": "Kuwait launches online service for expatriates to report lost passports",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:40:26.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-launches-online-service-for-expatriates-to-report-lost-passports-1.500720265"
-    },
-    {
-      "id": "news-75",
-      "headline": "Netherlands closes embassy in Cairo indefinitely amid protests",
-      "summary": "Netherlands closes embassy in Cairo indefinitely amid protests",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:39:43.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/world/mena/netherlands-closes-embassy-in-cairo-indefinitely-amid-protests-1.500720236"
-    },
-    {
-      "id": "news-76",
-      "headline": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
-      "summary": "Jean-Emile Jammine is pleased to welcome Federico Donelli, Associate Professor of International Relations in the Department of Political and Social Sciences at the University of Trieste in Italy. Can another three days of military strikes achieve what eight months of confrontation have failed to del",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:36:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict"
-    },
-    {
-      "id": "news-77",
-      "headline": "UAE Pension System covers 120,000 Emiratis in private sector",
-      "summary": "UAE Pension System covers 120,000 Emiratis in private sector",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:35:53.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/uae-pension-system-covers-120000-emiratis-in-private-sector-1.500720256"
-    },
-    {
-      "id": "news-78",
-      "headline": "Albanian lawmakers scuffle in parliament as street protests continue",
-      "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:35:12.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss"
-    },
-    {
-      "id": "news-79",
-      "headline": "Beijing slams UK’s ‘irresponsible remarks’ on Hong Kong in 6-monthly report",
-      "summary": "Beijing has slammed “irresponsible remarks” by Britain after a UK report said Hong Kong’s national security law had further diminished the openness that underpinned the city’s success.\nIn the United Kingdom’s latest six-month monitoring report on Hong Kong, released on Thursday, Foreign Secretary Ed",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:34:41.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3371828/beijing-slams-uks-irresponsible-remarks-hong-kong-6-monthly-report"
-    },
-    {
-      "id": "news-80",
-      "headline": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-      "summary": "FIFA to stage inaugural Women&#039;s Club World Cup, with 16 of football&#039;s top teams, in United States in 2028.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:34:38.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss"
-    },
-    {
-      "id": "news-81",
-      "headline": "Caitlin Clark, Angel Reese left out of ESPN&apos;s 30 greatest WNBA players list",
-      "summary": "Caitlin Clark, Angel Reese left out of ESPN&apos;s 30 greatest WNBA players list",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:31:40.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/caitlin-clark-angel-reese-left-out-of-espns-30-greatest-wnba-players-list-1.500720261"
-    },
-    {
-      "id": "news-82",
-      "headline": "North Dakota farmer to earn $5,250 a year for turning erosion-prone land into grassland",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135112720.cms\" /&gt;<![CDATA[In North Dakota, a retired farmer is turning erosion-susceptible farmland into lush grassland to secure annual earnings. Through a state co",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:27:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-north-dakota-farmer-enrolled-35-acres-of-erosion-prone-land-in-a-grassland-programme-planting-grass-instead-of-crops-is-set-to-earn-him-150-per-acre-or-5250-every-year-for-five-years/articleshow/135112720.cms"
-    },
-    {
-      "id": "news-83",
-      "headline": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-      "summary": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:24:43.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss"
-    },
-    {
-      "id": "news-84",
-      "headline": "Hawaii coral study finds reef sounds help larvae settle on coated structures",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135076437.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:23:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/in-a-hawaii-coral-experiment-published-in-october-2026-scientists-put-an-underwater-speaker-beside-3d-printed-structures-and-bacteria-coated-concrete-blocks-coral-larvae-settled-on-coated-blocks-but-not-bare-controls/articleshow/135076437.cms"
-    },
-    {
-      "id": "news-85",
-      "headline": "Crowd of 50 beats foreigner to death in South Africa",
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:15:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-86",
-      "headline": "What Russians are told — and not told — about Ukrainian strikes - The Kyiv Independent",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjhzcllvMjdWR2FOOHRrLVo4VWIyd1lCQkxqQXZNXy04bmp2dEtMSHlMSHJacUdHdFNrWTVfUEFueWRxeS16UDY3ZWoyX1Nia1ZzOFBVWmw5QnlVS01DdTJiNUU0bVRtNmk2a1k1c3NwaUJsNnZqT1N5ajZLTkc0UDJMbWctd1U2bGh3NmhPX3ltUQ?oc=5\" target=\"_blank\"&gt;What Russians are told ",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Kyiv Independent",
-          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
-          "url": "https://kyivindependent.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:09:47.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjhzcllvMjdWR2FOOHRrLVo4VWIyd1lCQkxqQXZNXy04bmp2dEtMSHlMSHJacUdHdFNrWTVfUEFueWRxeS16UDY3ZWoyX1Nia1ZzOFBVWmw5QnlVS01DdTJiNUU0bVRtNmk2a1k1c3NwaUJsNnZqT1N5ajZLTkc0UDJMbWctd1U2bGh3NmhPX3ltUQ?oc=5"
-    },
-    {
-      "id": "news-87",
-      "headline": "South Africa crush Australia by an innings to level cricket Test series",
-      "summary": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:09:44.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
-    },
-    {
-      "id": "news-88",
-      "headline": "Israeli attacks kill four as famine risk looms in Gaza",
-      "summary": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:06:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss"
-    },
-    {
-      "id": "news-89",
-      "headline": "🔴Live: Authorities in Lyon and Marseille ban all protests Saturday",
-      "summary": "🔴Live: Authorities in Lyon and Marseille ban all protests Saturday",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:03:29.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump"
-    },
-    {
-      "id": "news-90",
-      "headline": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-      "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:01:35.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html"
-    },
-    {
-      "id": "news-91",
-      "headline": "The One Question AI Could Not Answer",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nWhy Children Need More Than Screens to Master the Future\nHong Kong is moving decisively into the age of artificial intelligence in education. The government has committed significant funding to digital education, supporting ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T16:00:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/garden-house-waldorf-school/article/3371650/one-question-ai-could-not-answer"
-    },
-    {
-      "id": "news-92",
-      "headline": "ATC replaces state counsel in security breach case after Imaan, Hadi object to appointment",
-      "summary": "&lt;p&gt;RAWALPINDI: An anti-terrorism court (ATC) on Thursday cancelled the appointment of state counsel Taimoor Janjua in a security breach case against lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha, after the accused objected to his past conduct in another case.&lt;/p&gt;\n&lt;p&gt;Imaan ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:57:26.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2039035/atc-replaces-state-counsel-in-security-breach-case-after-imaan-hadi-object-to-appointment"
-    },
-    {
-      "id": "news-93",
-      "headline": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "urgency": "important",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:56:36.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-94",
-      "headline": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-      "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:55:08.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html"
-    },
-    {
-      "id": "news-95",
-      "headline": "French shopkeepers fear new looting in upcoming protests",
-      "summary": "In Paris, shopkeepers fear further losses ahead of a demonstration planned for next Saturday. After last weekend’s protests saw scenes of vandalism, some are considering closing their shops, while others plan to stay open.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:51:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/french-shopkeepers-fear-new-looting-in-upcoming-protests"
-    },
-    {
-      "id": "news-96",
-      "headline": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-      "summary": "Ukraine and Russia exchanged drone and missile strikes on Thursday, killing seven people in Ukraine, according to authorities. Moscow said it had intercepted 630 Ukrainian drones targeting the Russian capital. The strikes came hours after US envoy Steve Witkoff met Vladimir Putin in St. Petersburg. ",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:50:09.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-    },
-    {
-      "id": "news-97",
-      "headline": "Punjab MPA Hina Parvez Butt defends deleted X post on alleged CCD encounter amid criticism",
-      "summary": "&lt;p&gt;Punjab lawmaker Hina Parvez Butt on Thursday defended herself after a social media post by her regarding an &lt;a href=\"https://www.dawn.com/news/2038727/man-accused-of-running-over-multan-teenager-killed-in-alleged-ccd-encounter\"&gt;alleged encounter&lt;/a&gt; by Punjab’s Crime Control Dep",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:45:09.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2039033/punjab-mpa-hina-parvez-butt-defends-deleted-x-post-on-alleged-ccd-encounter-amid-criticism"
-    },
-    {
-      "id": "news-98",
-      "headline": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
-      "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work.",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:44:46.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html"
-    },
-    {
-      "id": "news-99",
-      "headline": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
-      "summary": "President Donald Trump's push to redistrict congressional maps and a Georgia state election law disproportionately affecting African Americans are aimed at diluting the power of the Black vote. Six decades after Atlanta was at the heart of the civil rights movement that granted Blacks in the souther",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-10-22T15:43:57.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling"
     }
   ],
   "financials": {
