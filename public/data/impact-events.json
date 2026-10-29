@@ -1,33 +1,47 @@
 {
-  "lastUpdated": "2026-10-29T02:43:40.276Z",
+  "lastUpdated": "2026-10-29T03:43:15.930Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 458,
-      "count": 268,
-      "breaking": 76,
-      "latest": "2026-10-29T02:13:06.000Z"
+      "score": 552,
+      "count": 325,
+      "breaking": 95,
+      "latest": "2026-10-29T03:35:05.000Z"
     },
     {
       "id": "middle-east",
-      "score": 387,
-      "count": 166,
-      "breaking": 99,
-      "latest": "2026-10-29T02:15:19.000Z"
+      "score": 436,
+      "count": 189,
+      "breaking": 111,
+      "latest": "2026-10-29T03:34:00.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 107,
-      "count": 47,
-      "breaking": 28,
+      "score": 145,
+      "count": 64,
+      "breaking": 39,
       "latest": "2026-10-28T22:34:12.000Z"
     },
     {
+      "id": "sudan",
+      "score": 79,
+      "count": 33,
+      "breaking": 23,
+      "latest": "2026-10-29T02:48:38.000Z"
+    },
+    {
       "id": "taliban-pakistan",
-      "score": 52,
-      "count": 22,
-      "breaking": 14,
+      "score": 49,
+      "count": 21,
+      "breaking": 13,
       "latest": "2026-10-28T10:27:19.000Z"
+    },
+    {
+      "id": "venezuela",
+      "score": 44,
+      "count": 27,
+      "breaking": 6,
+      "latest": "2026-10-28T20:22:05.000Z"
     },
     {
       "id": "china-taiwan",
@@ -44,25 +58,11 @@
       "latest": "2026-10-23T04:28:21.000Z"
     },
     {
-      "id": "venezuela",
-      "score": 35,
-      "count": 24,
-      "breaking": 4,
-      "latest": "2026-10-28T20:22:05.000Z"
-    },
-    {
-      "id": "sudan",
-      "score": 34,
-      "count": 12,
-      "breaking": 11,
-      "latest": "2026-10-28T12:00:00.000Z"
-    },
-    {
       "id": "sahel",
-      "score": 26,
+      "score": 29,
       "count": 20,
       "breaking": 2,
-      "latest": "2026-10-09T07:00:00.000Z"
+      "latest": "2026-09-21T07:00:00.000Z"
     }
   ],
   "countryEvents": {
@@ -167,9 +167,9 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
+      "venezuela",
       "china-taiwan",
       "korea",
-      "venezuela",
       "general"
     ],
     "united-kingdom": [
