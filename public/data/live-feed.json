@@ -1,8 +1,62 @@
 {
-  "lastUpdated": "2026-11-14T15:20:06.509Z",
+  "lastUpdated": "2026-11-14T15:40:04.614Z",
   "news": [
     {
       "id": "news-0",
+      "headline": "Here’s the latest.",
+      "summary": "Here’s the latest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-14T15:28:16.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest"
+    },
+    {
+      "id": "news-1",
+      "headline": "Meet the Fans Who Traveled to Bangkok for Eurovision Asia",
+      "summary": "Some were Asia-based Europeans chasing nostalgia. Others were Americans eager to experience their first edition of the song contest.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-14T15:27:30.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-fans.html"
+    },
+    {
+      "id": "news-2",
+      "headline": "Mir Raza murder case: Ex-SHO dismissed over misconduct, mishandling of evidence",
+      "summary": "&lt;p&gt;Former Gulistan-i-Jauhar station house officer (SHO), Kamran Qureshi, was dismissed from service on Saturday over charges of misconduct in the Mir Raza Ali murder case.&lt;/p&gt;\n&lt;p&gt;Last month, a joint investigation team (JIT) constituted by the Sindh government recommended an &lt;a h",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-14T15:21:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence"
+    },
+    {
+      "id": "news-3",
       "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "urgency": "breaking",
@@ -20,7 +74,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-1",
+      "id": "news-4",
       "headline": "Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership",
       "summary": "US negotiators have floated the idea of Ukraine’s potential withdrawal from its eastern region of Donbas in exchange for joining Nato, President Volodymyr Zelensky said, following the latest round of peace talks with Russia in Abu Dhabi.\nThis is the first time the question of linking Nato membership",
       "urgency": "info",
@@ -38,7 +92,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership"
     },
     {
-      "id": "news-2",
+      "id": "news-5",
       "headline": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16",
       "summary": "&lt;p&gt;The 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers will be held in Islamabad on Nov 15 and 16, the Foreign Office (FO) said on Saturday.&lt;/p&gt;\n&lt;p&gt;The meeting will be chaired by Deputy Prime Minister and Foreign Minister Ishaq Dar and attended by f",
       "urgency": "breaking",
@@ -56,25 +110,43 @@
       "link": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16"
     },
     {
-      "id": "news-3",
-      "headline": "Here’s the latest.",
-      "summary": "Here’s the latest.",
+      "id": "news-6",
+      "headline": "What is the Pentagon's 90-day blackout plan? Former US Army commander raises concern, asks what Pentagon knows that it isn't telling us",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135836141.cms\" /&gt;<![CDATA[",
       "urgency": "info",
       "topic": "general",
       "sources": [
         {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-14T15:10:25.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/what-is-the-pentagons-90-day-blackout-plan-former-us-army-commander-raises-concern-asks-what-pentagon-knows-that-it-isnt-telling-us/articleshow/135836141.cms"
+    },
+    {
+      "id": "news-7",
+      "headline": "Canada’s Stelco to recall 175 workers after government pressure",
+      "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-11-14T15:10:37.000Z",
+      "timestamp": "2026-11-14T15:06:52.000Z",
       "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/heres-the-latest"
+      "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss"
     },
     {
-      "id": "news-4",
+      "id": "news-8",
       "headline": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
       "summary": "China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leave some of the region’s best-known musical cultures out of the mix.",
       "urgency": "info",
@@ -92,7 +164,7 @@
       "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html"
     },
     {
-      "id": "news-5",
+      "id": "news-9",
       "headline": "Bangladesh garment owners threaten to quit wage talks, shut factories indefinitely",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135835836.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -110,7 +182,7 @@
       "link": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-garment-owners-threaten-to-quit-wage-talks-shut-factories-indefinitely/articleshow/135835836.cms"
     },
     {
-      "id": "news-6",
+      "id": "news-10",
       "headline": "Major among 4 troops martyred, 24 terrorists killed during operations in KP and Balochistan: ISPR",
       "summary": "&lt;p&gt;Four troops, including a major, were martyred while 24 terrorists were killed in multiple intelligence-based operations (IBOs) in Balochistan and Khyber Pakhtunkhwa’s North Waziristan, the military’s media wing said on Saturday.&lt;/p&gt;\n&lt;p&gt;In a &lt;a rel=\"nofollow noopener noreferre",
       "urgency": "breaking",
@@ -128,7 +200,61 @@
       "link": "https://www.dawn.com/news/2044488/major-among-4-troops-martyred-24-terrorists-killed-during-operations-in-kp-and-balochistan-ispr"
     },
     {
-      "id": "news-7",
+      "id": "news-11",
+      "headline": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmwzWFBZcnBaWGxPVDkxUXhVTzlRX0FnVEk5a0oyZERVYVExYTk5UDIzT1oxVjRGMjRpc214T3hVT0p3VXZBamlYU1dxVkMzbHlfckZFa3RSa1NDbUNGQjRTMERoZDJHMU9ZdnJhRHQxYW1ONDRXTDRYX3VMRDdWZkxRT2t0bEZ2b1BvSURPcmE0NEhidmdRRg?oc=5\" target=\"_blank\"&gt;How a US extrad",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-14T15:02:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmwzWFBZcnBaWGxPVDkxUXhVTzlRX0FnVEk5a0oyZERVYVExYTk5UDIzT1oxVjRGMjRpc214T3hVT0p3VXZBamlYU1dxVkMzbHlfckZFa3RSa1NDbUNGQjRTMERoZDJHMU9ZdnJhRHQxYW1ONDRXTDRYX3VMRDdWZkxRT2t0bEZ2b1BvSURPcmE0NEhidmdRRg?oc=5"
+    },
+    {
+      "id": "news-12",
+      "headline": "Shah Rukh Khan’s Josh co-star Sharad Kapoor lands Hollywood debut after viral appeal for work",
+      "summary": "Shah Rukh Khan’s Josh co-star Sharad Kapoor lands Hollywood debut after viral appeal for work",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-14T15:00:53.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/entertainment/bollywood/shah-rukh-khans-josh-co-star-sharad-kapoor-lands-hollywood-debut-after-viral-appeal-for-work-1.500747513"
+    },
+    {
+      "id": "news-13",
+      "headline": "'Poisoned chalice': Judo star and presidential hopeful Riner rebuffs Macron's backing",
+      "summary": "French judo champion Teddy Riner on Saturday publicly distanced himself from President Emmanuel Macron, calling his endorsement a \"poisoned chalice\". The presidential hopeful seeks to position himself as an alternative to France's political extremes.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-14T14:57:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron"
+    },
+    {
+      "id": "news-14",
       "headline": "Why US Democrats are expected to keep Schumer and Jeffries in power",
       "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
       "urgency": "info",
@@ -146,7 +272,7 @@
       "link": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss"
     },
     {
-      "id": "news-8",
+      "id": "news-15",
       "headline": "Hatton takes one-shot lead into final round of DP World Tour Championship",
       "summary": "Hatton takes one-shot lead into final round of DP World Tour Championship",
       "urgency": "info",
@@ -164,7 +290,7 @@
       "link": "https://gulfnews.com/sport/hatton-takes-one-shot-lead-into-final-round-of-dp-world-tour-championship-1.500747512"
     },
     {
-      "id": "news-9",
+      "id": "news-16",
       "headline": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
       "summary": "DR Congo and Rwanda clashed Saturday over the leadership of the Francophonie, as tensions between the neighbouring countries spilled into the race to head the 53-member organisation. French President Emmanuel Macron urged Rwanda to withdraw its candidate in favour of a compromise choice ahead of Mon",
       "urgency": "info",
@@ -182,7 +308,7 @@
       "link": "https://www.france24.com/en/africa/20261114-dr-congo-rwanda-clash-over-francophonie-leadership-as-macron-seeks-compromise"
     },
     {
-      "id": "news-10",
+      "id": "news-17",
       "headline": "‘Unable to determine probable cause’: Arizona judge releases DUI suspect over AI-generated police report",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135835795.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -200,25 +326,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/unable-to-determine-probable-cause-arizona-judge-releases-dui-suspect-over-ai-generated-police-report/articleshow/135835795.cms"
     },
     {
-      "id": "news-11",
-      "headline": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz - thenationalnews.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXFoNFFYdTBqTjZjZ3pBRTk4bm9QWkRnRUstbndsQV8wd1dhX281Y1hhblZCNjdJT2dZWGZXZWZBWGZTWDBZNXg0bVc1a1hGbjNSWHFNb2FveFY3VjhXRy1ZRU1CVWFUa3B4aGtNdjVwZU5WTmR2VkhHNmJHYjZ1VGg5dXpYWG5JWmVuSExGQ3MwLUE?oc=5\" target=\"_blank\"&gt;Middle East latest: IR",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-14T14:53:59.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXFoNFFYdTBqTjZjZ3pBRTk4bm9QWkRnRUstbndsQV8wd1dhX281Y1hhblZCNjdJT2dZWGZXZWZBWGZTWDBZNXg0bVc1a1hGbjNSWHFNb2FveFY3VjhXRy1ZRU1CVWFUa3B4aGtNdjVwZU5WTmR2VkhHNmJHYjZ1VGg5dXpYWG5JWmVuSExGQ3MwLUE?oc=5"
-    },
-    {
-      "id": "news-12",
+      "id": "news-18",
       "headline": "Empower conference: officials and youth discuss peace and security",
       "summary": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
       "urgency": "info",
@@ -236,7 +344,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss"
     },
     {
-      "id": "news-13",
+      "id": "news-19",
       "headline": "Trump’s changing Iran war stance leaves Gulf peace efforts in limbo",
       "summary": "Trump’s changing Iran war stance leaves Gulf peace efforts in limbo",
       "urgency": "breaking",
@@ -254,7 +362,7 @@
       "link": "https://gulfnews.com/world/americas/trumps-changing-iran-war-stance-leaves-gulf-peace-efforts-in-limbo-1.500747490"
     },
     {
-      "id": "news-14",
+      "id": "news-20",
       "headline": "Amitabh Bachchan’s iconic Juhu home Jalsa faces legal dispute as Ramola challenges 1993 gift deed to Jaya",
       "summary": "Amitabh Bachchan’s iconic Juhu home Jalsa faces legal dispute as Ramola challenges 1993 gift deed to Jaya",
       "urgency": "info",
@@ -272,7 +380,25 @@
       "link": "https://gulfnews.com/entertainment/bollywood/amitabh-bachchans-iconic-juhu-home-jalsa-faces-legal-dispute-as-ramola-challenges-1993-gift-deed-to-jaya-1.500747491"
     },
     {
-      "id": "news-15",
+      "id": "news-21",
+      "headline": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal - The Guardian",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5\" ",
+      "urgency": "info",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-14T14:35:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5"
+    },
+    {
+      "id": "news-22",
       "headline": "Who is Jonathan Kreiss-Tomkins? Democrat wins Alaska governor's race",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135835288.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -290,7 +416,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/who-is-jonathan-kreiss-tomkins-democrat-wins-alaska-governors-race-for-first-time-since-1998/articleshow/135835288.cms"
     },
     {
-      "id": "news-16",
+      "id": "news-23",
       "headline": "Ted Turner’s UN philanthropy grows to $4 billion after washerwoman’s $150,000 gift inspires him",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135790616.cms\" /&gt;<![CDATA[Inspired by the kindness of a washerwoman, Ted Turner pledged a remarkable $1 billion to the United Nations, paving the way for the creatio",
       "urgency": "info",
@@ -308,7 +434,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-1997-ted-turner-heard-how-a-mississippi-washerwoman-gave-150000-of-her-savings-for-scholarships-and-pledged-1-billion-to-support-un-causes-his-daughter-now-says-another-3-billion-followed/articleshow/135790616.cms"
     },
     {
-      "id": "news-17",
+      "id": "news-24",
       "headline": "Pat Cummins’ $905,000 Moss Vale investment bought in 2017 sells for $1.16 million after eight months",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135831282.cms\" /&gt;<![CDATA[Australian cricket captain Pat Cummins and wife Rebecca have sold their Moss Vale investment property for an estimated $1.16 million after ",
       "urgency": "info",
@@ -326,7 +452,7 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/pat-cummins-and-wife-rebecca-bought-their-moss-vale-investment-property-for-905000-in-2017-rented-it-out-for-550-a-week-now-selling-it-for-1-16-million-after-eight-months-on-the-market/articleshow/135831282.cms"
     },
     {
-      "id": "news-18",
+      "id": "news-25",
       "headline": "Trump, Xi, Putin meet next week: Why fears of a 'Yalta 2.0' are growing",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135834931.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -344,7 +470,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/trump-xi-putin-meet-next-week-why-the-1945-yalta-conference-is-back-in-focus/articleshow/135834931.cms"
     },
     {
-      "id": "news-19",
+      "id": "news-26",
       "headline": "When tech founders leave, what happens to their companies?",
       "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang&#039;s decision to step down, analysts warns.",
       "urgency": "breaking",
@@ -362,7 +488,7 @@
       "link": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss"
     },
     {
-      "id": "news-20",
+      "id": "news-27",
       "headline": "Asian love ballads test Eurovision’s winning song formula.",
       "summary": "While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.",
       "urgency": "info",
@@ -380,7 +506,7 @@
       "link": "https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs"
     },
     {
-      "id": "news-21",
+      "id": "news-28",
       "headline": "AI-powered weapons raise fears of a new era of warfare",
       "summary": "&apos;A moral red line&apos;? World on cusp of autonomous weapons revolution",
       "urgency": "breaking",
@@ -398,7 +524,7 @@
       "link": "https://gulfnews.com/world/europe/ai-powered-weapons-raise-fears-of-a-new-era-of-warfare-1.500747049"
     },
     {
-      "id": "news-22",
+      "id": "news-29",
       "headline": "What we know about the ground stop and what to do if you're affected",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "urgency": "breaking",
@@ -416,7 +542,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-23",
+      "id": "news-30",
       "headline": "India stun Pakistan by one wicket in last-ball U-19 Asia Cup final thriller",
       "summary": "&lt;p&gt;Mohit Ulva and Chigurupati Venkata held their nerve to guide India to a dramatic one-wicket victory over Pakistan in the ACC Men’s U-19 Asia Cup final, chasing down a target of 338 on the final ball at the Al Amerat Cricket Ground in Muscat on Saturday.&lt;/p&gt;\n&lt;p&gt;India were staring",
       "urgency": "breaking",
@@ -434,7 +560,7 @@
       "link": "https://www.dawn.com/news/2044502/india-stun-pakistan-by-one-wicket-in-last-ball-u-19-asia-cup-final-thriller"
     },
     {
-      "id": "news-24",
+      "id": "news-31",
       "headline": "Second catch attempt for SpaceX Starship rocket",
       "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
       "urgency": "info",
@@ -452,7 +578,7 @@
       "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-25",
+      "id": "news-32",
       "headline": "Middle East War: 7 things UAE residents need to know tonight, November 14",
       "summary": "Middle East War: 7 things UAE residents need to know tonight, November 14",
       "urgency": "breaking",
@@ -470,7 +596,7 @@
       "link": "https://gulfnews.com/uae/middle-east-war-7-things-uae-residents-need-to-know-tonight-november-14-1.500747461"
     },
     {
-      "id": "news-26",
+      "id": "news-33",
       "headline": "How this Lebanese expat supports women and underprivileged children through adventures in UAE",
       "summary": "How this Lebanese expat supports women and underprivileged children through adventures in UAE",
       "urgency": "info",
@@ -488,7 +614,7 @@
       "link": "https://gulfnews.com/uae/people/how-this-lebanese-expat-supports-women-and-underprivileged-children-through-adventures-in-uae-1.500747452"
     },
     {
-      "id": "news-27",
+      "id": "news-34",
       "headline": "Walmart outage today: After Microsoft disruption, payroll, HR services affected in 11,500 businesses as Workday goes down",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135834677.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -506,7 +632,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/walmart-outage-today-after-microsoft-disruption-payroll-hr-services-affected-in-11500-businesses-as-workday-goes-down/articleshow/135834677.cms"
     },
     {
-      "id": "news-28",
+      "id": "news-35",
       "headline": "NCCIA warns youth against joining illegal call centres for lucrative salaries",
       "summary": "&lt;p&gt;ISLAMABAD: The National Cyber Crime Investigation Agency (NCCIA) on Saturday warned that loopholes in the existing system are being exploited by &lt;a href=\"https://www.dawn.com/news/2042369\"&gt;illegal call centres&lt;/a&gt;, online betting operators and international fraud networks to lau",
       "urgency": "breaking",
@@ -524,7 +650,25 @@
       "link": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries"
     },
     {
-      "id": "news-29",
+      "id": "news-36",
+      "headline": "Trump weighs holding off on new Iran strikes unless Tehran provokes US - New York Post",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFkya1I4ZDAxM1JfMDIxY1pqVVBLWERpN0ZXVl9EbzRqQmh3MXdOS0FOMmFiMGZ0blo4dk9ZY0pTZExMaC1jajdYYkZudmVPZVlidU1nYWlYb00yMUhHNzlWeHF6bVZaT2Z5R001TDRLTEtMLVdtSWVoSThSYWNmXzh3Z3l1VVFySkJrZktMUHpyUUpkSVM5c3ViOFp5NjQ0TEFzbldaYXJmdw?oc=5\" target=\"_b",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-14T14:01:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFkya1I4ZDAxM1JfMDIxY1pqVVBLWERpN0ZXVl9EbzRqQmh3MXdOS0FOMmFiMGZ0blo4dk9ZY0pTZExMaC1jajdYYkZudmVPZVlidU1nYWlYb00yMUhHNzlWeHF6bVZaT2Z5R001TDRLTEtMLVdtSWVoSThSYWNmXzh3Z3l1VVFySkJrZktMUHpyUUpkSVM5c3ViOFp5NjQ0TEFzbldaYXJmdw?oc=5"
+    },
+    {
+      "id": "news-37",
       "headline": "Zero capital, 116 projects: AI spots the devils in the details of China corruption case",
       "summary": "Disciplinary staff in Wuhan, provincial capital of Hubei in central China, were going about their routine workday when a red alert landed. It was from a large data model – flagging a possible case of corruption.\n“A company took on more than 10 projects this year. Its registered capital reduced from ",
       "urgency": "info",
@@ -542,7 +686,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3374314/zero-capital-116-projects-ai-spots-devils-details-china-corruption-case"
     },
     {
-      "id": "news-30",
+      "id": "news-38",
       "headline": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
       "summary": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
       "urgency": "info",
@@ -560,7 +704,7 @@
       "link": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html"
     },
     {
-      "id": "news-31",
+      "id": "news-39",
       "headline": "Young musicians connect a community across the Line of Control",
       "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
       "urgency": "info",
@@ -578,7 +722,7 @@
       "link": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss"
     },
     {
-      "id": "news-32",
+      "id": "news-40",
       "headline": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news - AP News",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5\" ",
       "urgency": "breaking",
@@ -596,7 +740,7 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5"
     },
     {
-      "id": "news-33",
+      "id": "news-41",
       "headline": "U.S. floated idea of Ukraine ceding Donbas for NATO membership, Zelenskyy says - NBC News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjVFVEFtdTBKVzFnT2s3RkJrS2lpYXZyalJwZWdpc1U1aTJxT2s1NnRmNEVkUXQ1X3FPY0FVWE9oMVU3Ung4STZvZzJCNnpaMFpQcGV4YVRUZV84Q1lMbHZ5MnBXaUY4LWJIN1BwMVNOY05RUFNzRHI3YWh2WVJrUVZ3TjEzMHR3Uld6MkNrTFFjaWttUkxjYmVPMWV5YW45YnRmaEo3S3I5aHZLMGRnN09R?oc=5\" ",
       "urgency": "info",
@@ -614,7 +758,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjVFVEFtdTBKVzFnT2s3RkJrS2lpYXZyalJwZWdpc1U1aTJxT2s1NnRmNEVkUXQ1X3FPY0FVWE9oMVU3Ung4STZvZzJCNnpaMFpQcGV4YVRUZV84Q1lMbHZ5MnBXaUY4LWJIN1BwMVNOY05RUFNzRHI3YWh2WVJrUVZ3TjEzMHR3Uld6MkNrTFFjaWttUkxjYmVPMWV5YW45YnRmaEo3S3I5aHZLMGRnN09R?oc=5"
     },
     {
-      "id": "news-34",
+      "id": "news-42",
       "headline": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says - CBS News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5\" target=\"_blank\"&gt;Live Updates: 3 oil tankers hit mines ",
       "urgency": "info",
@@ -632,7 +776,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5"
     },
     {
-      "id": "news-35",
+      "id": "news-43",
       "headline": "Fujairah Crown Prince visits Indian family that lost three members in accident",
       "summary": "Fujairah Crown Prince visits Indian family that lost three members in accident",
       "urgency": "info",
@@ -650,7 +794,7 @@
       "link": "https://gulfnews.com/uae/transport/fujairah-crown-prince-visits-indian-family-that-lost-three-members-in-accident-1.500747410"
     },
     {
-      "id": "news-36",
+      "id": "news-44",
       "headline": "India stun Pakistan in last-over thriller to win U-19 Asia Cup",
       "summary": "India stun Pakistan in last-over thriller to win U-19 Asia Cup",
       "urgency": "info",
@@ -668,7 +812,7 @@
       "link": "https://gulfnews.com/sport/cricket/india-stun-pakistan-in-last-over-thriller-to-win-u-19-asia-cup-1.500747434"
     },
     {
-      "id": "news-37",
+      "id": "news-45",
       "headline": "President Zardari, PM Shehbaz discuss country's political, economic and security situation",
       "summary": "&lt;p&gt;President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Saturday discussed the country’s political, economic and security situation in detail, the premier’s office said.&lt;/p&gt;\n&lt;p&gt;PM Shehbaz warmly welcomed the president upon his arrival at the former’s residence in Lahore’",
       "urgency": "breaking",
@@ -686,7 +830,7 @@
       "link": "https://www.dawn.com/news/2044497/president-zardari-pm-shehbaz-discuss-countrys-political-economic-and-security-situation"
     },
     {
-      "id": "news-38",
+      "id": "news-46",
       "headline": "How does Iran view shift in US approach after JD Vance ordered away? - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU25YOEt2azhyMVliR1pCWFgyOEFLWW5wTmVwUEpxR2M1MVBNNUc3X2ROUjduSTBIOTVZelBtX0wxM2dnQ0dpb2hPbzlVc2lhV19KVm4wUDlMMk1EODlTb1VpM1ZyZnZzemtaQ2thZV9ZaFBnd3NROUZKS2dSRzNBeWQ3TnVZQmJLM3FERUxGN3dQQWdmckVMblhTYUZHSXNMQWY5c0RQMUJXQdIBrwFBVV95cUxQUlF",
       "urgency": "info",
@@ -704,7 +848,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU25YOEt2azhyMVliR1pCWFgyOEFLWW5wTmVwUEpxR2M1MVBNNUc3X2ROUjduSTBIOTVZelBtX0wxM2dnQ0dpb2hPbzlVc2lhV19KVm4wUDlMMk1EODlTb1VpM1ZyZnZzemtaQ2thZV9ZaFBnd3NROUZKS2dSRzNBeWQ3TnVZQmJLM3FERUxGN3dQQWdmckVMblhTYUZHSXNMQWY5c0RQMUJXQdIBrwFBVV95cUxQUlFndzRxWmxLRUxGT041VHg4R0ZfakRCU20wZUs3WXV3NW5obmYxVVFfNk1LZ1lSSE5QeElIVFhYQ3hmbWFJVXB2OG1ERHB4aDV0UzUyQm5PMmctNl9kVW5aMVRNa0xuMWNNdFRIQ0lmV0w4NzRsSEhOVDZ6alRQSkxvNWZNMmRGeHBiYVdLN0cyN2tWQTd0a2tMSHktc0ZJakZ0elNJZUJUaDdxdzhn?oc=5"
     },
     {
-      "id": "news-39",
+      "id": "news-47",
       "headline": "Mississippi appeals court upholds 2003 will, leaving most of estate to cousins",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135790220.cms\" /&gt;<![CDATA[A recent legal battle over Lamar DeLoach's estate concluded with the Court of Appeals affirming his 2003 will. Frank DeLoach argued that he",
       "urgency": "info",
@@ -722,7 +866,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-mississippi-man-said-his-brother-destroyed-a-newer-will-before-dying-which-would-leave-him-the-entire-estate-a-november-10-appeals-court-upheld-the-signed-2003-will-instead-leaving-most-of-the-estate-to-cousins/articleshow/135790220.cms"
     },
     {
-      "id": "news-40",
+      "id": "news-48",
       "headline": "Sheikh Theyab bin Mohamed offers condolences to families of Fujairah crash victims",
       "summary": "Sheikh Theyab bin Mohamed offers condolences to families of Fujairah crash victims",
       "urgency": "info",
@@ -740,7 +884,7 @@
       "link": "https://gulfnews.com/uae/sheikh-theyab-bin-mohamed-offers-condolences-to-families-of-fujairah-crash-victims-1.500747421"
     },
     {
-      "id": "news-41",
+      "id": "news-49",
       "headline": "Ukraine hits key Russian oil hub, military airbase in latest long-range strikes - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPREdVN2lkREJIaFF5ZDlqa0NIaGhxZnpnMXQ1OHhIa1NyaHo4T2JkcGIzdTJ1T051WEF4M05UTFp2ODQ0ZkN3ZnNQWW5IN0h4WThtY0hOcUZwWFJJWGtrUlhsVGwwS2hvc2FDNnRNb09KSVpMWW1EQ0hycEJ1VURRNmtFZUthdnNySzFqQWgyTGRybVFhSl80NkY3WXJGcDNEa3g3RE9SNzM3NVU?oc=5\" target=\"_",
       "urgency": "breaking",
@@ -758,7 +902,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPREdVN2lkREJIaFF5ZDlqa0NIaGhxZnpnMXQ1OHhIa1NyaHo4T2JkcGIzdTJ1T051WEF4M05UTFp2ODQ0ZkN3ZnNQWW5IN0h4WThtY0hOcUZwWFJJWGtrUlhsVGwwS2hvc2FDNnRNb09KSVpMWW1EQ0hycEJ1VURRNmtFZUthdnNySzFqQWgyTGRybVFhSl80NkY3WXJGcDNEa3g3RE9SNzM3NVU?oc=5"
     },
     {
-      "id": "news-42",
+      "id": "news-50",
       "headline": "Ford turns former Amazon warehouse into home for 125 historic cars",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135833380.cms\" /&gt;<![CDATA[Ford has converted a former Amazon fulfilment centre in Romulus, Michigan, into a 79,000-square-foot archive housing 125 historic vehicles.",
       "urgency": "breaking",
@@ -776,7 +920,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-former-amazon-warehouse-in-michigan-now-holds-125-of-fords-historic-cars-from-rare-le-mans-racers-to-hollywood-mustangs-the-79000-square-foot-vault-will-welcome-its-first-visitors-on-november-14/articleshow/135833380.cms"
     },
     {
-      "id": "news-43",
+      "id": "news-51",
       "headline": "Historic Niagara Falls power station to become C$350 million luxury hotel",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135829774.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -794,9 +938,9 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-power-station-built-beside-niagara-falls-in-1906-stopped-generating-electricity-in-1974-after-more-than-50-years-construction-has-begun-on-a-c350-million-plan-to-turn-it-into-a-five-star-hotel/articleshow/135829774.cms"
     },
     {
-      "id": "news-44",
+      "id": "news-52",
       "headline": "'I never imagined my father was a Nazi': Born in a German-run 'baby factory'",
-      "summary": "Two trainloads of children, some of them born in Nazi-run \"Lebensborn\" maternity homes, were brought from Germany to Commercy in eastern France in 1946. One of them was Édith Pagot.",
+      "summary": "Two trainloads of children, some of them born in Nazi-run \"Lebensborn\" maternity homes, were brought from Germany to Commercy in eastern France in 1946. One of those on board was Édith Pagot.",
       "urgency": "info",
       "topic": "general",
       "sources": [
@@ -812,7 +956,7 @@
       "link": "https://www.france24.com/en/france/20261114-i-never-imagined-my-father-was-a-nazi-born-in-a-german-run-baby-factory"
     },
     {
-      "id": "news-45",
+      "id": "news-53",
       "headline": "Beavers were last recorded around Loch Ness in about 1527; nearly 500 years later, Scotland has licensed conservation groups to release up to 15 beaver families into the River Ness catchment over three years.",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626919.cms\" /&gt;<![CDATA[Scotland has approved a three-year project to reintroduce beavers to the River Ness catchment. Conservation organizations will relocate bea",
       "urgency": "info",
@@ -830,7 +974,7 @@
       "link": "https://timesofindia.indiatimes.com/science/wildlife/beavers-were-last-recorded-around-loch-ness-in-about-1527-nearly-500-years-later-scotland-has-licensed-conservation-groups-to-release-up-to-15-beaver-families-into-the-river-ness-catchment-over-three-years-/articleshow/135626919.cms"
     },
     {
-      "id": "news-46",
+      "id": "news-54",
       "headline": "Why did a Brooklyn building collapse suddenly, killing eight? Experts point to excavation work at neighbouring construction site",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135833971.cms\" /&gt;<![CDATA[",
       "urgency": "important",
@@ -848,7 +992,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/why-did-a-brooklyn-building-collapse-suddenly-killing-eight-experts-point-to-excavation-work-at-neighbouring-construction-site/articleshow/135833971.cms"
     },
     {
-      "id": "news-47",
+      "id": "news-55",
       "headline": "FO says Climate Minister Musadik Malik nominated to represent Pakistan at SCO moot in New Delhi",
       "summary": "&lt;p&gt;The Foreign Office (FO) said on Saturday that Climate Change Minister Musadik Malik had been nominated to represent Pakistan at the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue in New Delhi from Nov 20-22.&lt;/p&gt;\n&lt;p&gt;In a statement, the FO said the gathering would",
       "urgency": "breaking",
@@ -866,7 +1010,7 @@
       "link": "https://www.dawn.com/news/2044492/fo-says-climate-minister-musadik-malik-nominated-to-represent-pakistan-at-sco-moot-in-new-delhi"
     },
     {
-      "id": "news-48",
+      "id": "news-56",
       "headline": "UAE leaders condole with Emir of Kuwait over death of Sheikha Intisar Jassem Mohammed Al-Malik Al-Sabah",
       "summary": "UAE leaders condole with Emir of Kuwait over death of Sheikha Intisar Jassem Mohammed Al-Malik Al-Sabah",
       "urgency": "info",
@@ -884,7 +1028,7 @@
       "link": "https://gulfnews.com/uae/government/uae-leaders-condole-with-emir-of-kuwait-over-death-of-sheikha-intisar-jassem-mohammed-al-malik-al-sabah-1.500747165"
     },
     {
-      "id": "news-49",
+      "id": "news-57",
       "headline": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
       "summary": "So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.",
       "urgency": "info",
@@ -902,7 +1046,7 @@
       "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html"
     },
     {
-      "id": "news-50",
+      "id": "news-58",
       "headline": "USA: All passengers survive after tanker hits docked river cruise ship in New Orleans",
       "summary": "A portion of the Mississippi River remains closed after a collision between an oil tanker and a riverboat forced a chaotic river rescue in Louisiana. Story by Caitlin Brown.",
       "urgency": "info",
@@ -920,7 +1064,7 @@
       "link": "https://www.france24.com/en/usa-all-passengers-survive-after-tanker-hits-docked-river-cruise-ship-in-new-orleans"
     },
     {
-      "id": "news-51",
+      "id": "news-59",
       "headline": "Pakistan, 16 other countries, condemn Israeli strike on southern Gaza hospital",
       "summary": "&lt;p&gt;Pakistan and 16 other countries,on Saturday condemned the &lt;a href=\"https://www.dawn.com/news/2044030\"&gt;Israeli airstrike&lt;/a&gt; on the Nasser Hospital in southern Gaza, calling on Tel Aviv to protect civilians and medical facilities and ensure the sustained and unimpeded delivery of",
       "urgency": "breaking",
@@ -938,7 +1082,7 @@
       "link": "https://www.dawn.com/news/2044496/pakistan-16-other-countries-condemn-israeli-strike-on-southern-gaza-hospital"
     },
     {
-      "id": "news-52",
+      "id": "news-60",
       "headline": "Gaza hospital strike draws strong condemnation from 18 nations",
       "summary": "Joint statement by foreign ministers of several Arab, Islamic countries",
       "urgency": "breaking",
@@ -956,7 +1100,7 @@
       "link": "https://gulfnews.com/world/mena/gaza-hospital-strike-draws-strong-condemnation-from-18-nations-1.500747350"
     },
     {
-      "id": "news-53",
+      "id": "news-61",
       "headline": "EU demands Israel grant ‘immediate, unimpeded’ flood aid to Gaza - The Times of Israel",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDg2WjhZeTJ4SkdQYlk2SHpla2VfR2hkcVRZMm03bDJhXzNJREtVSjd0TnZiQ2N1N3pYZHpFRGc0ZUZwSllzN05meEJ6WGoyS3VFWEFxWlFoWGpRaFhaWk1XaGVxY3ZkV29pZXhnWFI2OENIaGRLblZhYkI0WEo3RGtCT0wxbnlUdjJ2SHF1d2otU2lFUmd2NUhRWnV0RU1vaExfbnhWdmM5c1E?oc=5\" target=\"_",
       "urgency": "info",
@@ -974,7 +1118,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDg2WjhZeTJ4SkdQYlk2SHpla2VfR2hkcVRZMm03bDJhXzNJREtVSjd0TnZiQ2N1N3pYZHpFRGc0ZUZwSllzN05meEJ6WGoyS3VFWEFxWlFoWGpRaFhaWk1XaGVxY3ZkV29pZXhnWFI2OENIaGRLblZhYkI0WEo3RGtCT0wxbnlUdjJ2SHF1d2otU2lFUmd2NUhRWnV0RU1vaExfbnhWdmM5c1E?oc=5"
     },
     {
-      "id": "news-54",
+      "id": "news-62",
       "headline": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
       "summary": "Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.",
       "urgency": "info",
@@ -992,7 +1136,7 @@
       "link": "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss"
     },
     {
-      "id": "news-55",
+      "id": "news-63",
       "headline": "UAE strongly condemns Israeli strikes on Gaza&apos;s Nasser Medical Complex",
       "summary": "UAE strongly condemns targeting of Nasser Medical Complex in Gaza Strip",
       "urgency": "breaking",
@@ -1010,7 +1154,7 @@
       "link": "https://gulfnews.com/uae/government/c392jg5-uae-strongly-condemns-targeting-nasser-medical-1.500747374"
     },
     {
-      "id": "news-56",
+      "id": "news-64",
       "headline": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
       "summary": "&lt;p&gt;People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe&lt;/p&gt;&lt;p&gt;After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thous",
       "urgency": "breaking",
@@ -1028,7 +1172,7 @@
       "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026"
     },
     {
-      "id": "news-57",
+      "id": "news-65",
       "headline": "Before you replace your old sweaters, try this Philips Fabric Shaver that removes unsightly fuzz",
       "summary": "Before you replace your old sweaters, try this Philips Fabric Shaver that removes unsightly fuzz",
       "urgency": "info",
@@ -1046,7 +1190,7 @@
       "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/before-you-replace-your-old-sweaters-try-this-philips-fabric-shaver-that-removes-unsightly-fuzz-1.500745667"
     },
     {
-      "id": "news-58",
+      "id": "news-66",
       "headline": "Analysis: How much firepower do Yemen’s Houthis still possess? - Arab News",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZU1kWGlwcUdWWHZpeXNJVmdVUWE4ekIyVkgyM0xjbkpfb080VEg0aV9HVEx1STBUcTFrTTRDb1phVktSbldIcGQxaDVyWnBmT2VwaWRjT3NwTDdQSkJiM1R0MGN6RWNUbnJMdVRyUGYxbTVUS2d6QjRKM3IwYzZqeEg1c0IzSmZoSlF6c0UxZG54VXJFSkhDbWNJa05OV3A3UDJKV3lXNA?oc=5\" target=\"_blank",
       "urgency": "info",
@@ -1064,7 +1208,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZU1kWGlwcUdWWHZpeXNJVmdVUWE4ekIyVkgyM0xjbkpfb080VEg0aV9HVEx1STBUcTFrTTRDb1phVktSbldIcGQxaDVyWnBmT2VwaWRjT3NwTDdQSkJiM1R0MGN6RWNUbnJMdVRyUGYxbTVUS2d6QjRKM3IwYzZqeEg1c0IzSmZoSlF6c0UxZG54VXJFSkhDbWNJa05OV3A3UDJKV3lXNA?oc=5"
     },
     {
-      "id": "news-59",
+      "id": "news-67",
       "headline": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
       "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
       "urgency": "breaking",
@@ -1082,7 +1226,7 @@
       "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss"
     },
     {
-      "id": "news-60",
+      "id": "news-68",
       "headline": "UAE and Mozambique Presidents explore ways to strengthen bilateral cooperation",
       "summary": "UAE and Mozambique Presidents explore ways to strengthen bilateral cooperation",
       "urgency": "info",
@@ -1100,7 +1244,7 @@
       "link": "https://gulfnews.com/uae/government/uae-and-mozambique-presidents-explore-ways-to-strengthen-bilateral-cooperation-1.500747379"
     },
     {
-      "id": "news-61",
+      "id": "news-69",
       "headline": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF - Al Jazeera",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkJmM3UzMlNSRkw2MDNRMUNzZmw1d2Zja21STWpNQUdtenRGRE4wVDlpRlNmdGJkM3FOZzFYV01PWVZxc2Y0S1MydktyME9FZUlRVDhpcmtHTENfdUtTa1czRDBVRDRRQ0lSLTFRdXEyS2JtSjM3eUZraG15SVE5azFNOXBrTzJLYlZVTmhBT3NKYkJHNExuanBDQ3NHNGJGNHozZXB4U3lNU3dXcFg00gG0AUFVX3l",
       "urgency": "info",
@@ -1118,7 +1262,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkJmM3UzMlNSRkw2MDNRMUNzZmw1d2Zja21STWpNQUdtenRGRE4wVDlpRlNmdGJkM3FOZzFYV01PWVZxc2Y0S1MydktyME9FZUlRVDhpcmtHTENfdUtTa1czRDBVRDRRQ0lSLTFRdXEyS2JtSjM3eUZraG15SVE5azFNOXBrTzJLYlZVTmhBT3NKYkJHNExuanBDQ3NHNGJGNHozZXB4U3lNU3dXcFg00gG0AUFVX3lxTFBKTkdiU0JuTU1QNVQxTm1MVVhzNWl4dVBpZWFnSnNEak5JbFNjbE9GNEkxS2YwNjRISTNoNHloMkR2WE5JWDNqSU1odk1OOGJzeVY3Ujg0cUNCamgtM25MVEtlV2tjeFZpaEZRYjJXSTdiVDEyalk4Ykw1S0lqb2ViSng2V1pfRk9oQmJucVhsZmJmOWNSeXZSVUpIcno5VG1ZWDVCTnFfX0ZBQi05YmptQTZmTQ?oc=5"
     },
     {
-      "id": "news-62",
+      "id": "news-70",
       "headline": "Green turtles move from ‘endangered’ to ‘least concern’ status",
       "summary": "Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.",
       "urgency": "info",
@@ -1136,7 +1280,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/green-turtles-move-from-endangered-to-least-concern-status?traffic_source=rss"
     },
     {
-      "id": "news-63",
+      "id": "news-71",
       "headline": "The official Saudi Press Agency - وكالة الأنباء السعودية",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiPkFVX3lxTFBpdG1KYXluY01ZVFdjczhKck56Q0R1QlFLZnZ6aGtxZTNHaUx5VEJFcE9JSy1OUFBnb0Zndi13?oc=5\" target=\"_blank\"&gt;The official Saudi Press Agency&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;وكالة الأنباء السعودية&lt;/font&gt;",
       "urgency": "info",
@@ -1154,7 +1298,7 @@
       "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBpdG1KYXluY01ZVFdjczhKck56Q0R1QlFLZnZ6aGtxZTNHaUx5VEJFcE9JSy1OUFBnb0Zndi13?oc=5"
     },
     {
-      "id": "news-64",
+      "id": "news-72",
       "headline": "Achakzai, Abbas move FCC for release of Sohail Afridi, detained lawmakers",
       "summary": "&lt;p&gt;ISLAMABAD: The leaders of the opposition in both Houses of Parliament on Saturday approached the Federal Constitutional Court (FCC), seeking the immediate release of Sohail Afridi, the non-functional Khyber Pakhtunkhwa chief minister, along with eight other elected members of the provincial",
       "urgency": "breaking",
@@ -1172,7 +1316,7 @@
       "link": "https://www.dawn.com/news/2044493/achakzai-abbas-move-fcc-for-release-of-sohail-afridi-detained-lawmakers"
     },
     {
-      "id": "news-65",
+      "id": "news-73",
       "headline": "US flight chaos continues: Over 2,500 cancellations as services resume",
       "summary": "US flight chaos continues: Over 2,500 cancellations as services resume",
       "urgency": "info",
@@ -1190,7 +1334,7 @@
       "link": "https://gulfnews.com/business/aviation/us-flight-chaos-continues-over-2500-cancellations-as-services-resume-1.500747367"
     },
     {
-      "id": "news-66",
+      "id": "news-74",
       "headline": "Turkey detains 6 over deadly steel blast that killed 17",
       "summary": "Six people were arrested overnight after a huge blast at a steel plant near the western city of Izmir killed 17 workers, with grieving families waiting on Tuesday to receive their loved ones’ bodies for burial.\nOnlookers said Monday’s massive explosion felt like “an earthquake” when it ripped throug",
       "urgency": "breaking",
@@ -1208,7 +1352,7 @@
       "link": "https://www.scmp.com/news/world/europe/article/3374446/turkey-detains-6-over-deadly-steel-blast-killed-17"
     },
     {
-      "id": "news-67",
+      "id": "news-75",
       "headline": "‘Every picture has a story’: Celebrating Sheikh Hamdan’s birthday through the candid moments that show who he truly is",
       "summary": "‘Every picture has a story’: Celebrating Sheikh Hamdan’s birthday through the candid moments that show who he truly is",
       "urgency": "info",
@@ -1226,7 +1370,7 @@
       "link": "https://gulfnews.com/uae/every-picture-has-a-story-celebrating-sheikh-hamdans-birthday-through-the-candid-moments-that-show-who-he-truly-is-1.500747247"
     },
     {
-      "id": "news-68",
+      "id": "news-76",
       "headline": "Pakistan’s polio paradox",
       "summary": "&lt;p&gt;PAKISTAN’S &lt;a href=\"https://www.dawn.com/news/2042344\"&gt;latest polio case&lt;/a&gt;, a seven-month-old boy in Khyber district reported on Nov 6, is the ninth of 2026 and the seventh in Khyber Pakh­tun­khwa. It is another reminder of how elusive eradication has proved.&lt;/p&gt;\n&lt;p&g",
       "urgency": "info",
@@ -1244,7 +1388,7 @@
       "link": "https://www.dawn.com/news/2044451/pakistans-polio-paradox"
     },
     {
-      "id": "news-69",
+      "id": "news-77",
       "headline": "Former Australian MP found guilty of raping 13-year-old boy he met on dating app",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135832566.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1262,7 +1406,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/former-australian-mp-rory-amon-found-guilty-of-raping-13-year-old-boy-he-met-on-dating-app/articleshow/135832566.cms"
     },
     {
-      "id": "news-70",
+      "id": "news-78",
       "headline": "Zelensky says Starshield restrictions give Russia more room to attack, accuses SpaceX of treating occupied territories as 'not ours' - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT3JEU1JIVkktVFc2dHlXUWJleVRCS0FBU0ozSHM4NEQ5RUlaWUlzU0ZfQkpWQkEyTjBmaDZjVDlvdGkwOWpBN0hDMXVYZVdYUjJqNXhLZG9fTlA0Q2JEVjZQZURBbkIwRTE1djFNMFFLb0lTTWxseGFxdkFZWWVwVWpZQkE1bTVMdEsxcVV5QnFlZ0k4OWxvQzYtbktXYzZWb2J3bmljTlhMZnkwbVAtbzZSTnV3c09",
       "urgency": "breaking",
@@ -1280,7 +1424,7 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT3JEU1JIVkktVFc2dHlXUWJleVRCS0FBU0ozSHM4NEQ5RUlaWUlzU0ZfQkpWQkEyTjBmaDZjVDlvdGkwOWpBN0hDMXVYZVdYUjJqNXhLZG9fTlA0Q2JEVjZQZURBbkIwRTE1djFNMFFLb0lTTWxseGFxdkFZWWVwVWpZQkE1bTVMdEsxcVV5QnFlZ0k4OWxvQzYtbktXYzZWb2J3bmljTlhMZnkwbVAtbzZSTnV3c09DOHJzeFhGWjRacjA5VXlJbTNxaFg4NlBLYTFtbFlwQkJlLTJ2cVptdXRGZjkxV09lYVFGY0ZwNA?oc=5"
     },
     {
-      "id": "news-71",
+      "id": "news-79",
       "headline": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
       "summary": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
       "urgency": "breaking",
@@ -1298,7 +1442,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss"
     },
     {
-      "id": "news-72",
+      "id": "news-80",
       "headline": "Madhuri Dixit was 16 and preparing for Class 12 exams during Bollywood debut, recalls Ashok Saraf",
       "summary": "Madhuri Dixit was 16 and preparing for Class 12 exams during Bollywood debut, recalls Ashok Saraf",
       "urgency": "info",
@@ -1316,7 +1460,7 @@
       "link": "https://gulfnews.com/entertainment/bollywood/madhuri-dixit-was-16-and-preparing-for-class-12-exams-during-bollywood-debut-recalls-ashok-saraf-1.500747357"
     },
     {
-      "id": "news-73",
+      "id": "news-81",
       "headline": "Mineral wealth",
       "summary": "&lt;p&gt;PAKISTAN’S mineral wealth offers an opportunity to attract investment, earn foreign exchange and support long-term economic growth. But turning this potential into reality will require more than promises.&lt;/p&gt;\n&lt;p&gt;At the &lt;a href=\"https://www.dawn.com/news/2044014/canadian-minin",
       "urgency": "breaking",
@@ -1334,7 +1478,7 @@
       "link": "https://www.dawn.com/news/2044454/mineral-wealth"
     },
     {
-      "id": "news-74",
+      "id": "news-82",
       "headline": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
       "summary": "Ethiopia's renewed conflict is taking an increasing toll on civilians, with humanitarian organisations reporting a rise in casualties. In the Amhara region, FRANCE 24’s correspondent Tom Canetti was granted rare access to a civilian hospital where surgeons are struggling to treat the influx of wound",
       "urgency": "breaking",
@@ -1352,7 +1496,7 @@
       "link": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting"
     },
     {
-      "id": "news-75",
+      "id": "news-83",
       "headline": "&apos;Truly beautiful&apos; to make football return, says Ronaldinho",
       "summary": "&apos;Truly beautiful&apos; to make football return, says Ronaldinho",
       "urgency": "info",
@@ -1370,7 +1514,7 @@
       "link": "https://gulfnews.com/sport/football/truly-beautiful-to-make-football-return-says-ronaldinho-1.500747351"
     },
     {
-      "id": "news-76",
+      "id": "news-84",
       "headline": "Who are the 'street medics' showing up at protests around the world?",
       "summary": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did they start showing up at demonstrations? Story by Daniel Quinlan.",
       "urgency": "important",
@@ -1388,7 +1532,7 @@
       "link": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world"
     },
     {
-      "id": "news-77",
+      "id": "news-85",
       "headline": "U2 releases first new studio album in a decade, 'Caranaval de Luz'",
       "summary": "U2 just released a new album after nine years of no new content. And fans are already rocking out to the new songs. Details on the Irish rock band’s comeback by Ophelie Jacobson.",
       "urgency": "info",
@@ -1406,7 +1550,7 @@
       "link": "https://www.france24.com/en/u2-releases-first-new-studio-album-in-a-decade-caranaval-de-luz"
     },
     {
-      "id": "news-78",
+      "id": "news-86",
       "headline": "Was Marco Rubio behind Jensen Huang's downfall?",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135832381.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1424,7 +1568,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/marco-rubio-rewrote-cia-assessment-on-jensen-huangs-alleged-china-spy-link-and-used-more-forceful-language-report/articleshow/135832381.cms"
     },
     {
-      "id": "news-79",
+      "id": "news-87",
       "headline": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
       "summary": "A nuclear treaty and the US&#039;s war on Iran are among priority topics for China, Russia and US leaders.",
       "urgency": "breaking",
@@ -1442,7 +1586,7 @@
       "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
     },
     {
-      "id": "news-80",
+      "id": "news-88",
       "headline": "Hong Kong rail giant warns of cash crunch despite Northern Metropolis land grant",
       "summary": "Hong Kong’s MTR Corporation has warned that it will face significant cash flow pressures over the next few years, even with the government’s grant of eight new sites for developing the Northern Link rail project in the Northern Metropolis.\nThe warning came as the Liber Research Community cast doubt ",
       "urgency": "breaking",
@@ -1460,25 +1604,7 @@
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374441/hong-kong-rail-giant-warns-cash-crunch-despite-northern-metropolis-land-grant"
     },
     {
-      "id": "news-81",
-      "headline": "AI cuts perfume development time by up to 30%, industry experts say",
-      "summary": "AI helps cosmetic giants overcome perfume&apos;s nasal &apos;paradoxes&apos;",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-14T12:11:33.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/technology/ai-cuts-perfume-development-time-by-up-to-30-industry-experts-say-1.500747314"
-    },
-    {
-      "id": "news-82",
+      "id": "news-89",
       "headline": "Inside Sudan: The war the world ignored where ‘nowhere is safe’ - The Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWlKcVRPVUlFbk1iWHhFUXItU3llVDdSQkpMb1F4V0lFemlkc3NVQ1F2UEs5RHlKN21fVU81LWdacERKejJ1VVpYMWlqR2RoNElGWWdibWNMdWdpNjBKWmtVQnYtZ2x6LXM4cktrejVUSHc3Q1ZSdnJMcUd0a2w0TjVkTERNRWw4Z0o0RGFkN2piMEZJa1dPLXVfaGw3Yk1G?oc=5\" target=\"_blank\"&gt;Insid",
       "urgency": "breaking",
@@ -1496,7 +1622,7 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWlKcVRPVUlFbk1iWHhFUXItU3llVDdSQkpMb1F4V0lFemlkc3NVQ1F2UEs5RHlKN21fVU81LWdacERKejJ1VVpYMWlqR2RoNElGWWdibWNMdWdpNjBKWmtVQnYtZ2x6LXM4cktrejVUSHc3Q1ZSdnJMcUd0a2w0TjVkTERNRWw4Z0o0RGFkN2piMEZJa1dPLXVfaGw3Yk1G?oc=5"
     },
     {
-      "id": "news-83",
+      "id": "news-90",
       "headline": "As Apec looms, China’s Shenzhen wraps up preparations for its toughest stress test ever",
       "summary": "Drones are banned, security cameras bristle at intersections and some residents have been asked to vacate their homes as the southern Chinese city of Shenzhen counts down to the Apec meetings.\nThousands of government officials, journalists, tourists and entrepreneurs are expected to descend on the c",
       "urgency": "info",
@@ -1514,25 +1640,7 @@
       "link": "https://www.scmp.com/news/china/politics/article/3374445/apec-looms-chinas-shenzhen-wraps-preparations-its-toughest-stress-test-ever"
     },
     {
-      "id": "news-84",
-      "headline": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy - The Guardian",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5\" ",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-14T11:55:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5"
-    },
-    {
-      "id": "news-85",
+      "id": "news-91",
       "headline": "17,000 Hong Kong Disneyland ticket QR codes stolen, online sales suspended",
       "summary": "Hong Kong Disneyland Resort has reported to police the theft of 17,000 ticket QR codes from its online ticketing system and suspended sales through its website, the South China Morning Post has learned.\nA source said on Saturday that an IT worker at the amusement park on Lantau Island had detected a",
       "urgency": "info",
@@ -1550,7 +1658,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374444/17000-hong-kong-disneyland-ticket-qr-codes-stolen-online-sales-suspended"
     },
     {
-      "id": "news-86",
+      "id": "news-92",
       "headline": "What is happening in Sudan? The civil war the world forgot - The Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQM0piWlBMRDhWdUpTYjE3VWV6cWREY1lrQUF0Q1hINjdTYWFUU0xLUEFCMlBqZVFwdURlQTZCb2pORVZ1Ml9uaWNQVFl6WFdwTUVqbDd0X2V5NWljTnRkRm1tUlF2U0gzT0F2eGJ5RmV3b2FFVXJYQzJyeFU0d19mbVVHM05pbVhhMUV2STFkXzhSX09FOWcybnJlLUNqZw?oc=5\" target=\"_blank\"&gt;What is",
       "urgency": "breaking",
@@ -1568,7 +1676,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0piWlBMRDhWdUpTYjE3VWV6cWREY1lrQUF0Q1hINjdTYWFUU0xLUEFCMlBqZVFwdURlQTZCb2pORVZ1Ml9uaWNQVFl6WFdwTUVqbDd0X2V5NWljTnRkRm1tUlF2U0gzT0F2eGJ5RmV3b2FFVXJYQzJyeFU0d19mbVVHM05pbVhhMUV2STFkXzhSX09FOWcybnJlLUNqZw?oc=5"
     },
     {
-      "id": "news-87",
+      "id": "news-93",
       "headline": "China, South Korea vow to deepen ties at Apec summit as Seoul pushes North Korea talks",
       "summary": "China and South Korea have agreed to use next week’s Asia-Pacific Economic Cooperation summit in Shenzhen to advance bilateral ties, according to their top diplomats.\nThe pledge by Chinese Foreign Minister Wang Yi and his South Korean counterpart Cho Hyun after talks in Beijing on Friday comes as Se",
       "urgency": "important",
@@ -1586,7 +1694,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3374442/china-south-korea-vow-deepen-ties-apec-summit-seoul-pushes-north-korea-talks"
     },
     {
-      "id": "news-88",
+      "id": "news-94",
       "headline": "Three killed in Russia as Ukraine claims US floated NATO membership option",
       "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
       "urgency": "breaking",
@@ -1604,7 +1712,7 @@
       "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
     },
     {
-      "id": "news-89",
+      "id": "news-95",
       "headline": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday.",
       "urgency": "info",
@@ -1622,7 +1730,7 @@
       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-90",
+      "id": "news-96",
       "headline": "Ramla Hammoud and her Canadian university team turn fish waste into dog biscuits",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135748980.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -1640,7 +1748,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-ramla-hammoud-and-her-canadian-university-team-who-developed-a-business-idea-to-turn-discarded-lake-erie-fish-into-nutritious-dog-biscuits/articleshow/135748980.cms"
     },
     {
-      "id": "news-91",
+      "id": "news-97",
       "headline": "Tennessee couple win $57,200 after storage firm made false security claims and belongings vanished",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135704448.cms\" /&gt;<![CDATA[Nathan and Devan Dickey experienced a devastating loss when their belongings disappeared from their rented storage units at Posey Storage S",
       "urgency": "breaking",
@@ -1658,7 +1766,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-tennessee-couple-moved-their-household-belongings-into-two-storage-units-after-selling-their-home-then-found-both-nearly-emptied-judges-upheld-33500-in-damages-and-23700-in-fees-over-fake-security-claims/articleshow/135704448.cms"
     },
     {
-      "id": "news-92",
+      "id": "news-98",
       "headline": "Half a million people gather for an open-air mass by Pope Leo in Peru",
       "summary": "Pope Leo said it was a \"joy to be back\" in his second home of Chiclayo, where he made his name as a bishop. This is the latest stop on his South America tour, the very tour that saw fears of cancellation after the Pope underwent surgery for lung cancer. Story by Vedika Bahl.",
       "urgency": "info",
@@ -1676,7 +1784,7 @@
       "link": "https://www.france24.com/en/half-a-million-people-gather-for-an-open-air-mass-by-pope-leo-in-peru"
     },
     {
-      "id": "news-93",
+      "id": "news-99",
       "headline": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
       "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
       "urgency": "info",
@@ -1692,114 +1800,6 @@
       "timestamp": "2026-11-14T11:14:18.000Z",
       "widgetType": "news",
       "link": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss"
-    },
-    {
-      "id": "news-94",
-      "headline": "US floats NATO membership for Ukraine in exchange for Donbas withdrawal, Zelensky says - The Kyiv Independent",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONnhtMWJNaHJyTVJDVXN4MzVOeVdVM1BPN0VidUZha3VnZGxrUDlSMFZqSTRReEszTlc4Q0lzTHVfdUNpaXM1bU9qMkdBenVFc1NYTVpMeXFCS2xES3dyaU5sYVBESi1JS2RzbHl6dTZ5N051aHRkYzhGYjl2MDk4SE90RkNjTGY5YzRkVlp1ZWdJNmdyaWN6MGFXcmNMazJtX21ZWGIzS0hQS3JkejZvLUEtbzI?oc=",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Kyiv Independent",
-          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
-          "url": "https://kyivindependent.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-14T11:11:26.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnhtMWJNaHJyTVJDVXN4MzVOeVdVM1BPN0VidUZha3VnZGxrUDlSMFZqSTRReEszTlc4Q0lzTHVfdUNpaXM1bU9qMkdBenVFc1NYTVpMeXFCS2xES3dyaU5sYVBESi1JS2RzbHl6dTZ5N051aHRkYzhGYjl2MDk4SE90RkNjTGY5YzRkVlp1ZWdJNmdyaWN6MGFXcmNMazJtX21ZWGIzS0hQS3JkejZvLUEtbzI?oc=5"
-    },
-    {
-      "id": "news-95",
-      "headline": "Mamdani, Trump agree to 90-day delay in SNAP food stocking rules for US retailers",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135830580.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-14T11:10:58.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/mamdani-trump-agree-to-90-day-delay-in-snap-food-stocking-rules-for-us-retailers/articleshow/135830580.cms"
-    },
-    {
-      "id": "news-96",
-      "headline": "Microsoft's widespread outages caused global chaos, including in the healthcasre industry",
-      "summary": "Microsoft says it is seeing improvements in its service availability after an hours-long disruption knocked out its platforms including Outlook and Teams. The outage has affected hundreds of millions of people across the globe. The healthcare industry was among those impacted, as Ophelie Jacobson ex",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-14T11:07:33.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/microsoft-s-widespread-outages-caused-global-chaos-including-in-the-healthcasre-industry"
-    },
-    {
-      "id": "news-97",
-      "headline": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUF",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-14T11:04:10.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5"
-    },
-    {
-      "id": "news-98",
-      "headline": "Iran war live: Coalition downs 2 Houthi drones; 5 ships hit mines in Hormuz - Al Jazeera",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTk1OSExWR3RnVjVaQTRhcmd6WDRva3IzT3NiZWd6QlpLSllUbmZSUm5VZ1dyRHJna3AyVWhBem1SU3F0S1p1UW93WjMyM19uQzlwSHFjYzd0VjBIV21GaTBWaUx6MjhXU1VGN2hMX2tEVXo1amk0YXVyRTA4cnlXbzMyOUVVNnZkNGFfYlpSRW1Ia2d3MjkzTUZKam5qUWF6eE4xcGFaU2p3V0xvVXFsSFIzSHNzMVN",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-14T11:02:12.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTk1OSExWR3RnVjVaQTRhcmd6WDRva3IzT3NiZWd6QlpLSllUbmZSUm5VZ1dyRHJna3AyVWhBem1SU3F0S1p1UW93WjMyM19uQzlwSHFjYzd0VjBIV21GaTBWaUx6MjhXU1VGN2hMX2tEVXo1amk0YXVyRTA4cnlXbzMyOUVVNnZkNGFfYlpSRW1Ia2d3MjkzTUZKam5qUWF6eE4xcGFaU2p3V0xvVXFsSFIzSHNzMVNnbWFnZdIBwgFBVV95cUxQVXJvM011WXlEMmp6dkxhcGFjc01ZSTlZaTlVdnNOWTY2NFdiU1F0LTJ6ZUFwQ1NpdTRhemlnVmp0MU1xaXVyS2c1S3lTWHhZZ1VxTk8xc0txSlZRbXdsOV90N0JjVUVDNzd6cWlTRU5JQS1FWFNyRWk1RTNiZmpkOERNd1c5NHZSNzBtSmstNGNobDdrU2pZRHdybnhrMV9TOXN2Yld0eGRrZUkzN012Y2Y2dERuYjZVSjR4TmxzSzg0Zw?oc=5"
-    },
-    {
-      "id": "news-99",
-      "headline": "Ukraine, Russia race to build military satellite networks as war rages on",
-      "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-14T11:00:39.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
     }
   ],
   "financials": {
