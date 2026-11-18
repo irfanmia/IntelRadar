@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-11-18T11:20:09.636Z",
+  "lastUpdated": "2026-11-18T11:40:09.090Z",
   "globalRanking": [
     {
       "id": "general",
       "score": 568,
-      "count": 358,
-      "breaking": 88,
-      "latest": "2026-11-18T11:13:59.000Z"
+      "count": 356,
+      "breaking": 90,
+      "latest": "2026-11-18T11:39:10.000Z"
     },
     {
       "id": "middle-east",
-      "score": 349,
-      "count": 161,
-      "breaking": 90,
-      "latest": "2026-11-18T10:40:40.000Z"
+      "score": 362,
+      "count": 164,
+      "breaking": 96,
+      "latest": "2026-11-18T11:23:43.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 181,
-      "count": 71,
+      "score": 183,
+      "count": 73,
       "breaking": 53,
       "latest": "2026-11-18T11:09:52.000Z"
     },
@@ -35,13 +35,6 @@
       "count": 22,
       "breaking": 14,
       "latest": "2026-11-12T17:47:08.000Z"
-    },
-    {
-      "id": "korea",
-      "score": 41,
-      "count": 21,
-      "breaking": 10,
-      "latest": "2026-11-17T10:13:27.000Z"
     },
     {
       "id": "china-taiwan",
@@ -63,6 +56,13 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-09-21T07:00:00.000Z"
+    },
+    {
+      "id": "korea",
+      "score": 1,
+      "count": 1,
+      "breaking": 0,
+      "latest": "2026-11-17T10:13:27.000Z"
     }
   ],
   "countryEvents": {
@@ -165,9 +165,9 @@
       "ukraine-russia"
     ],
     "united-states": [
+      "korea",
       "middle-east",
       "ukraine-russia",
-      "korea",
       "china-taiwan",
       "venezuela",
       "general"
@@ -206,8 +206,8 @@
       "ukraine-russia"
     ],
     "china": [
-      "middle-east",
       "korea",
+      "middle-east",
       "china-taiwan",
       "general",
       "ukraine-russia"
@@ -272,15 +272,15 @@
       "general"
     ],
     "australia": [
-      "middle-east",
       "korea",
+      "middle-east",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "japan": [
-      "middle-east",
       "korea",
+      "middle-east",
       "china-taiwan",
       "general",
       "ukraine-russia"
