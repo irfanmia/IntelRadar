@@ -1,10 +1,514 @@
 {
-  "lastUpdated": "2026-11-18T13:20:13.392Z",
+  "lastUpdated": "2026-11-18T14:06:13.528Z",
   "news": [
     {
       "id": "news-0",
-      "headline": "Live Updates: In a Rare Gesture, Xi Greets Trump as He Lands in China",
-      "summary": "The Chinese leader hugged President Trump on the tarmac in Shenzhen. They are expected to hold a summit on Thursday with President Vladimir V. Putin of Russia.",
+      "headline": "‘End of an era’: Hong Kong’s ‘Symphony of Lights’ goes out with a bang",
+      "summary": "Hong Kong’s “A Symphony of Lights” has taken its final bow over Victoria Harbour, closing a 22-year run with rooftop pyrotechnics as tourism authorities launch an expanded WinterFest.\nThousands of tourists and Hong Kong residents flocked to the Tsim Sha Tsui harbourfront to watch the 10-minute show,",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T14:03:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374950/end-era-hong-kongs-symphony-lights-goes-out-bang"
+    },
+    {
+      "id": "news-1",
+      "headline": "Live Updates: Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+      "urgency": "important",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T14:02:08.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec"
+    },
+    {
+      "id": "news-2",
+      "headline": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+      "summary": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T14:01:31.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html"
+    },
+    {
+      "id": "news-3",
+      "headline": "Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say",
+      "summary": "Daithi O’Corrain sealed himself inside a National Guard C-130 at Ireland’s Shannon Airport in April for hours, causing so much damage that the aircraft was retired from service, prosecutors said.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T14:00:39.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/man-charged-ireland-shannon-us-military-plane.html"
+    },
+    {
+      "id": "news-4",
+      "headline": "How China’s ‘carrier nannies’ are powering the Liaoning’s long Pacific push",
+      "summary": "Chinese replenishment ships were seen repeatedly transiting two major waterways around Japan as the Liaoning aircraft carrier conducted an extended western Pacific Ocean deployment that could test its 40-day endurance record.\nAccording to Japanese defence ministry statements, the ships made at least",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T14:00:07.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/military/article/3374918/how-chinas-carrier-nannies-are-powering-liaonings-long-pacific-push"
+    },
+    {
+      "id": "news-5",
+      "headline": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
+      "summary": "&lt;p&gt;Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\"&gt;breaking news email&lt;/a&gt;",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T14:00:02.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns"
+    },
+    {
+      "id": "news-6",
+      "headline": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+      "summary": "&lt;p&gt;Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\"&gt;Shenzhen takes centre stage as Xi sends ",
+      "urgency": "important",
+      "topic": "ukraine-russia",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
+          "url": "https://theguardian.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:57:11.000Z",
+      "widgetType": "news",
+      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+    },
+    {
+      "id": "news-7",
+      "headline": "Texas man loses $105,000 property claim after failing to trace inheritance in divorce case",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135963834.cms\" /&gt;<![CDATA[A Texas appellate court has confirmed a lower court's decision regarding the divorce property division between Julian and Alice Devon Poole",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:53:51.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-texas-man-said-he-inherited-35000-from-his-father-and-used-70000-from-earlier-accounts-for-his-marital-home-after-divorce-a-november-17-court-upheld-the-property-division-because-he-could-not-trace-the-money/articleshow/135963834.cms"
+    },
+    {
+      "id": "news-8",
+      "headline": "China’s first lady Peng Liyuan again lets her English do the talking in welcoming Trump",
+      "summary": "Chinese first lady Peng Liyuan again let her English do the talking as she accompanied President Xi Jinping in welcoming his US counterpart Donald Trump and other leaders to Shenzhen for the Apec summit’s welcome dinner.\nOn Wednesday night, leaders gathered at the Shenzhen International Communicatio",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:50:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374946/chinas-first-lady-peng-liyuan-again-lets-her-english-do-talking-welcoming-trump"
+    },
+    {
+      "id": "news-9",
+      "headline": "Bihar jewellery heist: Armed gang steals up to Rs 400 million in daylight robbery",
+      "summary": "Bihar: Armed robbers loot jewellery worth Rs400 millio",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:49:38.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/asia/india/bihar-jewellery-heists-armed-gang-steals-up-to-rs-400-million-in-daylight-robbery-1.500752377"
+    },
+    {
+      "id": "news-10",
+      "headline": "Iran fires at Kuwait after US strike on Iranian island - The Detroit News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0xlNS1uU1dlOGhFYnJwX01LVlB1MjV2V25BYTBYZlNLQmdNQVNZcTFmMTVQZlFOSVNvcGlveGpFNm1PTDloc1lKek9JdEQzNjZnWXFoQ3FRblZEYkpRSURoX0lnZko5b0pmODJKLTVkMDR1R3R4c18xMkFoMHRSNURhZFFXRmJkenl6bWRNMGtUN1NEcHZ0OXZfWnpSVmdzQ202N21uU0h1eTVrQlhSdk1RRm84bmR",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:49:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0xlNS1uU1dlOGhFYnJwX01LVlB1MjV2V25BYTBYZlNLQmdNQVNZcTFmMTVQZlFOSVNvcGlveGpFNm1PTDloc1lKek9JdEQzNjZnWXFoQ3FRblZEYkpRSURoX0lnZko5b0pmODJKLTVkMDR1R3R4c18xMkFoMHRSNURhZFFXRmJkenl6bWRNMGtUN1NEcHZ0OXZfWnpSVmdzQ202N21uU0h1eTVrQlhSdk1RRm84bmRwbE9DUg?oc=5"
+    },
+    {
+      "id": "news-11",
+      "headline": "Asean, Canada speed up trade pact over Trump, but can it curb US reliance?",
+      "summary": "Canada and Asean are closing in on a free-trade agreement after five years of negotiations – a potential breakthrough that could deepen their economic ties and give businesses more opportunities amid growing uncertainty over global trade.\nIts greatest value, though, might come from strengthening sup",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:48:29.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/week-asia/economics/article/3374945/asean-canada-speed-trade-pact-over-trump-can-it-curb-us-reliance"
+    },
+    {
+      "id": "news-12",
+      "headline": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR",
+      "summary": "&lt;p&gt;The Pakistan Army on Wednesday successfully launched the Fatah-3 supersonic cruise missile, according to the military’s media wing.&lt;/p&gt;\n&lt;p&gt;In a statement, Inter-Services Public Relations (ISPR) said, “The Pakistan Army successfully conducted the launch of the Fatah-3 supersonic ",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:48:04.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr"
+    },
+    {
+      "id": "news-13",
+      "headline": "North Korea completes external works on enrichment facility extension, says IAEA",
+      "summary": "A new extension to North Korea's Yongbyon enrichment facility has been \"externally complete\" since mid-October, according to the International Atomic Energy Agency (IAEA), which relies on satellite imagery and open sources to monitor the country's nuclear programme. IAEA chief Rafael Grossi on Wedne",
+      "urgency": "info",
+      "topic": "korea",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:46:57.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea"
+    },
+    {
+      "id": "news-14",
+      "headline": "Leaders of China and Japan Meet Amid Political Feud",
+      "summary": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:46:45.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html"
+    },
+    {
+      "id": "news-15",
+      "headline": "Bomb threat forces Russian passenger plane into secure area at Turkey airport",
+      "summary": "Russia flight lands in Turkey after bomb threat hoax: reports",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:45:24.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/aviation/bomb-threat-forces-russian-passenger-plane-into-secure-area-at-turkey-airport-1.500752354"
+    },
+    {
+      "id": "news-16",
+      "headline": "Nawaz hails his govt’s ‘serious’ work on AJK development as PML-N charts 100-day plan",
+      "summary": "&lt;p&gt;PML-N supremo Nawaz Sharif hailed the “serious” work done by his government for the development of Azad Jammu and Kashmir (AJK) during a meeting with the region’s President Muhammad Najeeb Naqi Khan and Prime Minister Syed Iftikhar Ali Gillani on Wednesday.&lt;/p&gt;\n&lt;p&gt;According to s",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:44:42.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2045412/nawaz-hails-his-govts-serious-work-on-ajk-development-as-pml-n-charts-100-day-plan"
+    },
+    {
+      "id": "news-17",
+      "headline": "California's $114m wildlife bridge records coyote believed to make first full crossing",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135963082.cms\" /&gt;<![CDATA[In an exciting development, a coyote has been spotted utilizing a newly constructed wildlife bridge spanning California's US 101 Freeway. T",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:40:20.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/a-114-million-wildlife-bridge-over-californias-101-freeway-has-recorded-a-coyote-believed-to-have-made-the-first-full-crossing-before-its-december-2-opening-the-project-spans-1250-feet-and-reconnects-habitat-divided-by-300000-cars-a-day/articleshow/135963082.cms"
+    },
+    {
+      "id": "news-18",
+      "headline": "MIT engineers copied the branching patterns of leaves and dragonfly wings to 3Dprint structures",
+      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135861727.cms\" /&gt;<![CDATA[Engineers from MIT and Northeastern University have pioneered a novel material, known as scale-rich metamaterials, distinguished by their s",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Times of India",
+          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
+          "url": "https://timesofindia.indiatimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:40:08.000Z",
+      "widgetType": "news",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/mit-engineers-copied-the-branching-patterns-of-leaves-and-dragonfly-wings-to-3d-print-small-protective-structures-in-laboratory-tests-the-uneven-networks-absorbed-impacts-better-than-conventional-honeycomb-designs/articleshow/135861727.cms"
+    },
+    {
+      "id": "news-19",
+      "headline": "Early Childhood Cup inspires young footballers with teamwork and confidence in Al Ain",
+      "summary": "Early Childhood Cup inspires young footballers with teamwork and confidence in Al Ain",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:39:45.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/abu-dhabi/early-childhood-cup-inspires-young-footballers-with-teamwork-and-confidence-in-al-ain-1.500752306"
+    },
+    {
+      "id": "news-20",
+      "headline": "Untenable stalemate",
+      "summary": "&lt;p&gt;NEARLY nine months into a &lt;a href=\"https://www.dawn.com/news/2041393\"&gt;conflict&lt;/a&gt; of choice that has rattled economies from Europe to Asia, there seem to be few agreeable options for the US where ending the Iran war is concerned.&lt;/p&gt;\n&lt;p&gt;No one — perhaps apart from I",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:39:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2045358/untenable-stalemate"
+    },
+    {
+      "id": "news-21",
+      "headline": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes - CBS News",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5\" target=\"_blank\"&gt;Iran War Updates: ",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:39:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5"
+    },
+    {
+      "id": "news-22",
+      "headline": "Al Burhan's forces push towards RSF stronghold as UN warns of Sudan drone toll - The National",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUtBT0lGbnduZm9kckl2UWdKcUhIVUxnaEdIZncyQlRKUkY2NzU0dzNDeEJhZ1VaVVpSRjlvYnhLWlNVbk5kUUFNQndIaUN0Smk5NXZWYkFYZE94djBsNHp2Tll0WURLU1dxSzZHMHAxMFVDQUFUQ2dDT1RIS01xSmVPYWlMd2RETlo5RGFiUHk1XzR1czFseUxjSTVyVkl2R09XRS1SNUJmQ1BFZHlIR2l0ZlpHcjB",
+      "urgency": "breaking",
+      "topic": "sudan",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:37:14.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUtBT0lGbnduZm9kckl2UWdKcUhIVUxnaEdIZncyQlRKUkY2NzU0dzNDeEJhZ1VaVVpSRjlvYnhLWlNVbk5kUUFNQndIaUN0Smk5NXZWYkFYZE94djBsNHp2Tll0WURLU1dxSzZHMHAxMFVDQUFUQ2dDT1RIS01xSmVPYWlMd2RETlo5RGFiUHk1XzR1czFseUxjSTVyVkl2R09XRS1SNUJmQ1BFZHlIR2l0ZlpHcjBmelpoYmtvUTk4c2NvU3Y5bTFkbw?oc=5"
+    },
+    {
+      "id": "news-23",
+      "headline": "Xi greets Takaichi with a smile – but no words – as China-Japan freeze lingers",
+      "summary": "Japanese Prime Minister Sanae Takaichi and Chinese President Xi Jinping had their first in-person interaction in Shenzhen since last autumn, when ties froze due to her controversial remarks on Taiwan.\nTakaichi shook hands with Xi and his wife, Peng Liyuan, as they posed for greeting photos ahead of ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:37:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374944/xi-greets-takaichi-smile-no-words-china-japan-freeze-lingers"
+    },
+    {
+      "id": "news-24",
+      "headline": "Spanish court opens sexual abuse probe into Julio Iglesias",
+      "summary": "A Spanish court opened a probe into veteran crooner Julio Iglesias on Wednesday after two women ex-employees filed a complaint against him for alleged sexual abuse, which he denies.\nThe announcement marks a turnaround after a first complaint was shelved on the grounds that Spain had no jurisdiction ",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:35:53.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/world/europe/article/3374943/spanish-court-opens-sexual-abuse-probe-julio-iglesias"
+    },
+    {
+      "id": "news-25",
+      "headline": "Dubai Future Week 2026: New test aims to detect newborn sepsis in 2 hours - Khaleej Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHplMDFYR1FCUWRpMG9TNUJxZURFNFU4T0pSQzhNd2FMb3Fvd2E0QTFhbkctQnB4eXJyeTVaYnJRa05WcEtJd3pGVGJIQWxzYlJMUzZGVXN3dnZqVnluZWhXVDJBSFN1LVQ0WGV0b3V0aG55UVU1QTNLd1BqMnhZMmpLTmhDQVBDSjhWcjVLYmQzeWdLSWZVTFA3NE5ySUdH0gGoAUFVX3lxTFB2emQ0VVVRUTVFS3h",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
+          "url": "https://khaleejtimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:35:44.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHplMDFYR1FCUWRpMG9TNUJxZURFNFU4T0pSQzhNd2FMb3Fvd2E0QTFhbkctQnB4eXJyeTVaYnJRa05WcEtJd3pGVGJIQWxzYlJMUzZGVXN3dnZqVnluZWhXVDJBSFN1LVQ0WGV0b3V0aG55UVU1QTNLd1BqMnhZMmpLTmhDQVBDSjhWcjVLYmQzeWdLSWZVTFA3NE5ySUdH0gGoAUFVX3lxTFB2emQ0VVVRUTVFS3hfQzJZa0IydnprWjBxSlQwMGM1MzlFWl9pdWY2X3Z1WnUxR2liU0xtS2VQVkdPRG42RkpIdV9KRkhkU1lwYUhZR0Z2Z3RfaVFpZjNYYkdlSXZsZWNmNVI4Skk1bThtQk5NQm10SjRpZjVmc2JWNUY2aXF6T0tkWUphb04tZVI4TUhWeFZvXzlITURZdHllclJfRWN3VQ?oc=5"
+    },
+    {
+      "id": "news-26",
+      "headline": "US Saudi nuclear agreement &apos;satisfactory&apos;: IAEA",
+      "summary": "US Saudi nuclear agreement &apos;satisfactory&apos;: IAEA",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:34:23.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/americas/us-saudi-nuclear-agreement-satisfactory-iaea-1.500752317"
+    },
+    {
+      "id": "news-27",
+      "headline": "Amnesty calls for an investigation into drone strikes in Sudan - Yahoo",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGs0V3p2REdNOTI5YlRtZWg2LXAzdGJqREk4NFg2NjlYek9teURLRm5qYlliOTN2aS1hSlVudU13N3B5X0YtZDctcEdfdGJ2V1RJWU9HejdxOTBfRUk5Snh3S3hYNWFtbTUyRk1NUEtaZmhLUWtXbk1Wb082cmxrMHRnTFVHZGtpellEeEdoSzRDdDE5TndWOVd1N0xobzg?oc=5\" target=\"_blank\"&gt;Amnest",
+      "urgency": "breaking",
+      "topic": "sudan",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:33:54.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGs0V3p2REdNOTI5YlRtZWg2LXAzdGJqREk4NFg2NjlYek9teURLRm5qYlliOTN2aS1hSlVudU13N3B5X0YtZDctcEdfdGJ2V1RJWU9HejdxOTBfRUk5Snh3S3hYNWFtbTUyRk1NUEtaZmhLUWtXbk1Wb082cmxrMHRnTFVHZGtpellEeEdoSzRDdDE5TndWOVd1N0xobzg?oc=5"
+    },
+    {
+      "id": "news-28",
+      "headline": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+      "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
       "urgency": "important",
       "topic": "general",
       "sources": [
@@ -15,12 +519,336 @@
           "category": "global_media"
         }
       ],
-      "timestamp": "2026-11-18T13:15:57.000Z",
+      "timestamp": "2026-11-18T13:33:41.000Z",
       "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec"
+      "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html"
     },
     {
-      "id": "news-1",
+      "id": "news-29",
+      "headline": "15,000-tonne LPG cargo arrives from Abu Dhabi under new policy to ease shortages",
+      "summary": "&lt;p&gt;ISLAMABAD: The government on Wednesday said it received the first cargo of 15,000 tonnes of liquefied petroleum gas (LPG) from Abu Dhabi after it introduced policy changes earlier this month to arrange imports through &lt;a href=\"https://www.dawn.com/news/2042903\"&gt;state-owned enterprises",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:33:03.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2045423/15000-tonne-lpg-cargo-arrives-from-abu-dhabi-under-new-policy-to-ease-shortages"
+    },
+    {
+      "id": "news-30",
+      "headline": "Saudi Arabia begins enforcing 15% Saudisation in 12 sports professions",
+      "summary": "Saudi Arabia begins enforcing 15% Saudisation in 12 sports professions",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:32:56.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-begins-enforcing-15-saudisation-in-12-sports-professions-1.500752329"
+    },
+    {
+      "id": "news-31",
+      "headline": "From Shenzhen to Silicon Valley: Xi Jinping calls for global association of bay areas",
+      "summary": "President Xi Jinping has called for closer economic links between major coastal innovation centres across the globe – a proposal observers said could create new opportunities and exchanges for China and the United States.\nSpeaking at the opening of the Apec CEO Summit in Shenzhen on Wednesday, Xi us",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:32:01.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/economy/china-economy/article/3374942/shenzhen-silicon-valley-xi-jinping-calls-global-association-bay-areas"
+    },
+    {
+      "id": "news-32",
+      "headline": "£190m corruption case: IHC directs proper medical care, hygienic living conditions for Bushra Bibi as per prison rules",
+      "summary": "&lt;p&gt;ISLAMABAD: The Islamabad High Court (IHC) on Wednesday directed prison authorities to ensure medical care and hygienic living conditions for Bushra Bibi as per prison rules, while adjourning the hearing of appeals filed by her and her husband, PTI founder Imran Khan, against their convictio",
+      "urgency": "breaking",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Dawn",
+          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
+          "url": "https://dawn.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:28:25.000Z",
+      "widgetType": "news",
+      "link": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi-as-per-prison-rules"
+    },
+    {
+      "id": "news-33",
+      "headline": "Dubai Future Week 2026: Can this artificial tube help patients recover from nerve injuries? - Khaleej Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXFnMy1ZT1VmNW40V3ZLdnRzVGZFY092aWx1dUtQX1lKSUhjNGJMTVowZjVHeGF0N0xHZVpZRFctMl91Qmg2c0RkUDh1TVBxRTNoVDFnMTk0NE1VaHFVOXg4NmdYVEV5V2duZUlLbmc2SDF1TnhqVkdfT1drVHp1T1UxbFFiYTVFNUNHd2liVVU0R3NpdGI1ZUZhQ2ZIckhKNnIwQmMxc2ZZN29rWlI5SHhOOVdld9I",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
+          "url": "https://khaleejtimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:26:19.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXFnMy1ZT1VmNW40V3ZLdnRzVGZFY092aWx1dUtQX1lKSUhjNGJMTVowZjVHeGF0N0xHZVpZRFctMl91Qmg2c0RkUDh1TVBxRTNoVDFnMTk0NE1VaHFVOXg4NmdYVEV5V2duZUlLbmc2SDF1TnhqVkdfT1drVHp1T1UxbFFiYTVFNUNHd2liVVU0R3NpdGI1ZUZhQ2ZIckhKNnIwQmMxc2ZZN29rWlI5SHhOOVdld9IBvgFBVV95cUxPY09sdHdrTHc0WkdRWlRNSGk1SnpILVZsNFc2NGNBNUFkVkNwR3RLdFc3eXc0SFh1RGE5eHFkMU5vMlR3SG5URDlUY3RuNEpveFVWT3FLWjdqUUlRalpRakJCZDVqMTRSbGtKVE80bTF1c2JNclRLQTFVRC10UWVsX1dfNmRwLWdrWjJIZHdqcjNMZ21fT0pOTXlRNXJqZEF2TUNlanlPTEw3cjdiYmZsbjBMb2twOTNkVDlsVEN3?oc=5"
+    },
+    {
+      "id": "news-34",
+      "headline": "Rohit Sharma says wife Ritika is a better dancer than him",
+      "summary": "Rohit Sharma says wife Ritika is a better dancer than him",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:24:38.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/sport/cricket/rohit-sharma-says-wife-ritika-is-a-better-dancer-than-him-1.500752333"
+    },
+    {
+      "id": "news-35",
+      "headline": "Harry Styles, Billie Eilish, and Sam Fender to lead Glastonbury 2027&apos;s star-studded lineup",
+      "summary": "Harry Styles, Billie Eilish, and Sam Fender to lead Glastonbury 2027&apos;s star-studded lineup",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:24:30.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/entertainment/harry-styles-billie-eilish-and-sam-fender-to-lead-glastonbury-2027s-star-studded-lineup-1.500752313"
+    },
+    {
+      "id": "news-36",
+      "headline": "How the US House of Representatives chooses its leaders: A visual guide",
+      "summary": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
+          "url": "https://aljazeera.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:24:22.000Z",
+      "widgetType": "news",
+      "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss"
+    },
+    {
+      "id": "news-37",
+      "headline": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027 - Reuters",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0txUndxQmRJNU1nMUZSVFc5d29OSDkwSWMyOHB5VC1iVVZwY3IwaEs3VlRkbEtHVGRmazVueE1YSjA4N0N4OElZRVdfM0trQ0dnaVptanRtRWVoWERLMWlUUjlac2ozVlRjMWdqMDQ1ODBOZEtPb2FKVFA0UXJpeGdjck1OMDMzdEhhQ2piTDd4QnFXcm12Vlh2MHVKcXNQUTdJWVZlV1E?oc=5\" target=\"_blan",
+      "urgency": "info",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:24:06.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0txUndxQmRJNU1nMUZSVFc5d29OSDkwSWMyOHB5VC1iVVZwY3IwaEs3VlRkbEtHVGRmazVueE1YSjA4N0N4OElZRVdfM0trQ0dnaVptanRtRWVoWERLMWlUUjlac2ozVlRjMWdqMDQ1ODBOZEtPb2FKVFA0UXJpeGdjck1OMDMzdEhhQ2piTDd4QnFXcm12Vlh2MHVKcXNQUTdJWVZlV1E?oc=5"
+    },
+    {
+      "id": "news-38",
+      "headline": "Anthropic IPO: How to trade the Claude developer&apos;s Nasdaq debut on Plus500",
+      "summary": "Anthropic IPO: How to trade the Claude developer&apos;s Nasdaq debut on Plus500",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:23:54.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/anthropic-ipo-how-to-trade-the-claude-developers-nasdaq-debut-on-plus500-1.500751921"
+    },
+    {
+      "id": "news-39",
+      "headline": "Classic Cantonese dim sum and music from around the world on the menu for Apec banquet",
+      "summary": "Chinese President Xi Jinping and first lady Peng Liyuan welcomed Apec leaders to a gala dinner in Shenzhen on Wednesday night where every dish and musical performance was chosen to tell a story.\nEarlier in the evening, the heads of government gathered at the lakeside Shenzhen International Communica",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "SCMP",
+          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
+          "url": "https://scmp.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:21:21.000Z",
+      "widgetType": "news",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374938/classic-cantonese-dim-sum-and-music-around-world-menu-apec-banquet"
+    },
+    {
+      "id": "news-40",
+      "headline": "Watch: It&apos;s raining in Fujairah, Ras Al Khaimah",
+      "summary": "Watch: It&apos;s raining in Fujairah, Ras Al Khaimah",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:19:08.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/uae/weather/watch-its-raining-in-fujairah-ras-al-khaimah-1.500752314"
+    },
+    {
+      "id": "news-41",
+      "headline": "'Extreme wealth can become a type of brain damage': Journalist Alexander Hurst",
+      "summary": "An international journalist who poured his meagre savings into highly risky options trading at the start of the Covid-19 pandemic and quickly made $1.2 million, before losing it all again, has spoken to FRANCE 24 about his experience. Alexander Hurst works for a number of media outlets, including th",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:18:33.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/tv-shows/perspective/20261118-extreme-wealth-can-become-a-type-of-brain-damage-journalist-alexander-hurst"
+    },
+    {
+      "id": "news-42",
+      "headline": "Fried chicken and a chat with an old friend: How Marcos catered to Trump",
+      "summary": "President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila. It is unclear what dividends the strategy will yield.",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "NY Times",
+          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
+          "url": "https://nytimes.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:17:06.000Z",
+      "widgetType": "news",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump"
+    },
+    {
+      "id": "news-43",
+      "headline": "Athlete support under spotlight as South Africa swimmer switches to Netherlands",
+      "summary": "South Africa's sports minister said Tuesday he had ordered an investigation into the national swimming federation following the departure of the country's most decorated Olympic athlete, swimmer Tatjana Smith, for the Netherlands. In an emotional video on social media, the 29-year-old two-time Olymp",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:16:40.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20261118-athlete-support-under-spotlight-as-south-africa-swimmer-switches-to-netherlands"
+    },
+    {
+      "id": "news-44",
+      "headline": "French police hold Paris rally after weeks of protests",
+      "summary": "French police staged a surprise demonstration in front of the French interior ministry in Paris on Wednesday, including members of the specialist riot control unit the CRS. It comes after weeks of huge protest marches around the country that have often descended into violence and led to criticism of",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:15:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20261118-french-police-hold-paris-rally-after-weeks-of-protests"
+    },
+    {
+      "id": "news-45",
+      "headline": "Awqaf Abu Dhabi advances its strategy to develop an endowment ecosystem built on global practices during a visit to the United States",
+      "summary": "Awqaf Abu Dhabi advances its strategy to develop an endowment ecosystem built on global practices during a visit to the United States",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Gulf News",
+          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
+          "url": "https://gulfnews.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:14:47.000Z",
+      "widgetType": "news",
+      "link": "https://gulfnews.com/business/corporate-news/awqaf-abu-dhabi-advances-its-strategy-to-develop-an-endowment-ecosystem-built-on-global-practices-during-a-visit-to-the-united-states-1.500752318"
+    },
+    {
+      "id": "news-46",
+      "headline": "Inside Nigeria's illegal gold mining industry",
+      "summary": "Nigerian authorities are attempting to clean up the mining sector in a country whose subsoil is rich in deposits of uranium, gold and lithium. The vast majority of these resources are mined illegally, meaning billions of euros are not included in the national GDP. Two years ago, the Nigerian governm",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:14:28.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20261118-inside-nigeria-s-illegal-gold-mining-industry"
+    },
+    {
+      "id": "news-47",
       "headline": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory'",
       "summary": "&lt;p&gt;UN nuclear watchdog head Rafael Grossi on Wednesday welcomed a &lt;a href=\"https://www.dawn.com/news/2017642\"&gt;deal&lt;/a&gt; between the United States and Saudi Arabia on equipping the kingdom with a civilian nuclear programme.&lt;/p&gt;\n&lt;p&gt;The deal announced in July has provoked q",
       "urgency": "info",
@@ -38,7 +866,25 @@
       "link": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory"
     },
     {
-      "id": "news-2",
+      "id": "news-48",
+      "headline": "Is use of AI threatening Nigerian elections?",
+      "summary": "With less than two months to Nigeria’s general elections, there are growing concerns about the possible use of artificial intelligence to influence the outcome of the election. Artificial intelligence is being used for various sinister purposes sometimes to influence voters' perceptions. There also ",
+      "urgency": "important",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "France 24",
+          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
+          "url": "https://france24.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T13:12:59.000Z",
+      "widgetType": "news",
+      "link": "https://www.france24.com/en/video/20261118-is-use-of-ai-threatening-nigerian-elections"
+    },
+    {
+      "id": "news-49",
       "headline": "US seeks stronger Southeast Asia ties to keep sensitive technology out of ‘wrong hands’",
       "summary": "The United States wants to strengthen its cooperation with Southeast Asian governments to prevent sensitive technology from falling “into the wrong hands”, its envoy to Asean has said, as new restrictions on advanced chips raise concerns about the region’s access to cutting-edge artificial intellige",
       "urgency": "info",
@@ -56,25 +902,7 @@
       "link": "https://www.scmp.com/week-asia/politics/article/3374937/us-seeks-stronger-southeast-asia-ties-keep-sensitive-technology-out-wrong-hands"
     },
     {
-      "id": "news-3",
-      "headline": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR",
-      "summary": "&lt;p&gt;The Pakistan Army on Wednesday successfully launched the Fatah-3 supersonic cruise missile, according to the military’s media wing.&lt;/p&gt;\n&lt;p&gt;In a statement, Inter-Services Public Relations (ISPR) said, “The Pakistan Army successfully conducted the launch of the Fatah-3 supersonic ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T13:06:17.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr"
-    },
-    {
-      "id": "news-4",
+      "id": "news-50",
       "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
       "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
       "urgency": "breaking",
@@ -92,7 +920,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-5",
+      "id": "news-51",
       "headline": "Bollywood star Adah Sharma, Irfan Pathan launch YCLT10 cricket league in Mumbai",
       "summary": "Bollywood star Adah Sharma, Irfan Pathan launch YCLT10 cricket league in Mumbai",
       "urgency": "info",
@@ -110,7 +938,7 @@
       "link": "https://gulfnews.com/sport/cricket/bollywood-star-adah-sharma-irfan-pathan-launch-yclt10-cricket-league-in-mumbai-1.500752296"
     },
     {
-      "id": "news-6",
+      "id": "news-52",
       "headline": "US avoids all-out war, but why is the Gulf paying the price for Iran’s aggression?",
       "summary": "Iran’s attacks leave Gulf paying price for US restrain",
       "urgency": "breaking",
@@ -128,7 +956,7 @@
       "link": "https://gulfnews.com/world/gulf/us-avoids-all-out-war-but-why-is-the-gulf-paying-the-price-for-iran-s-aggression-1.500752217"
     },
     {
-      "id": "news-7",
+      "id": "news-53",
       "headline": "IDF launches rare operation beyond ‘Yellow Line’ in central Gaza - The Times of Israel",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPaERPVnBKZXA5MUtYSGVuN2tVU0NRS1VwYkRXWEd4elA3eWpXU3EyRTh6Qy1VclozQUUtYnRab0VzUTlkUGNrNktsTFUzaU5MT2M5bFprNHMtcmU4R29pM21JVllkcWlQek5XcnVHY0U3Rkw3V1dJNmNvU1dieDlvN3NrZVBkTkh1cWFUWWJrY082dE9HaWRUR0ZJQXRGTHNEa1dtMmhQdHBTWlZ1?oc=5\" target=\"",
       "urgency": "info",
@@ -146,7 +974,7 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaERPVnBKZXA5MUtYSGVuN2tVU0NRS1VwYkRXWEd4elA3eWpXU3EyRTh6Qy1VclozQUUtYnRab0VzUTlkUGNrNktsTFUzaU5MT2M5bFprNHMtcmU4R29pM21JVllkcWlQek5XcnVHY0U3Rkw3V1dJNmNvU1dieDlvN3NrZVBkTkh1cWFUWWJrY082dE9HaWRUR0ZJQXRGTHNEa1dtMmhQdHBTWlZ1?oc=5"
     },
     {
-      "id": "news-8",
+      "id": "news-54",
       "headline": "GTA 6: Everything you need to know about the highly anticipated game",
       "summary": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
       "urgency": "info",
@@ -164,7 +992,7 @@
       "link": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss"
     },
     {
-      "id": "news-9",
+      "id": "news-55",
       "headline": "Abu Dhabi Grand Prix weekend: Global DJs and star-studded concerts await fans",
       "summary": "Abu Dhabi Grand Prix weekend: Global DJs and star-studded concerts await fans",
       "urgency": "info",
@@ -182,25 +1010,7 @@
       "link": "https://gulfnews.com/entertainment/abu-dhabi-grand-prix-weekend-global-djs-and-star-studded-concerts-await-fans-1.500752286"
     },
     {
-      "id": "news-10",
-      "headline": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-      "summary": "&lt;p&gt;Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\"&gt;Shenzhen takes centre stage as Xi sends ",
-      "urgency": "important",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "logo": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=32",
-          "url": "https://theguardian.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T13:00:04.000Z",
-      "widgetType": "news",
-      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
-    },
-    {
-      "id": "news-11",
+      "id": "news-56",
       "headline": "These 5 chic jackets and cosy layers might be the only winter wardrobe update you need",
       "summary": "These 5 chic jackets and cosy layers might be the only winter wardrobe update you need",
       "urgency": "breaking",
@@ -218,7 +1028,7 @@
       "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/these-5-chic-jackets-and-cosy-layers-might-be-the-only-winter-wardrobe-update-you-need-1.500751825"
     },
     {
-      "id": "news-12",
+      "id": "news-57",
       "headline": "Ship captain to set sail home after Hong Kong drops HK$400m pipeline damage case",
       "summary": "Marine authorities have withdrawn the prosecution of the captain of a Hong Kong-flagged container ship who was accused of severing a critical Baltic Sea gas pipeline linking Estonia and Finland three years ago, despite the court hearing that the incident caused HK$400 million in damage.\nProceedings ",
       "urgency": "info",
@@ -236,7 +1046,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374935/ship-captain-set-sail-home-after-hong-kong-drops-hk400m-pipeline-damage-case"
     },
     {
-      "id": "news-13",
+      "id": "news-58",
       "headline": "Explainer: where Hong Kong has been hit by major data leaks, and how to protect yourself",
       "summary": "Multiple organisations in Hong Kong have experienced data breaches in the past few weeks, from a department store and a jeweller to a university and airlines, with experts saying artificial intelligence has enabled more targeted attacks.\nThe South China Morning Post rounds up what has been happening",
       "urgency": "breaking",
@@ -254,25 +1064,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374934/explainer-where-hong-kong-has-been-hit-major-data-leaks-and-how-protect-yourself"
     },
     {
-      "id": "news-14",
-      "headline": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes - CBS News",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5\" target=\"_blank\"&gt;Iran War Updates: ",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T12:55:00.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5"
-    },
-    {
-      "id": "news-15",
+      "id": "news-59",
       "headline": "England end eight-year Australia drought as Sandpapergate remains in spotlight",
       "summary": "England end eight-year Australia drought as Sandpapergate remains in spotlight",
       "urgency": "info",
@@ -290,7 +1082,25 @@
       "link": "https://gulfnews.com/sport/cricket/england-end-eight-year-australia-drought-as-sandpapergate-remains-in-spotlight-1.500752259"
     },
     {
-      "id": "news-16",
+      "id": "news-60",
+      "headline": "Three Palestinians, including a child, reported dead in Israeli attacks across Gaza - Middle East Eye",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFhQQnRTaFpJYVRxN3lpVGNmSldUSmRlTzJ0dTVVZTJLTnd6ZE5KYmxsa3NrWGlLdW9RdXZMVGpPNTNoZ3VtN1NoQk5mM080VHRuTGlKQkFpSGhSalFHc2plWGNZMnhMNEVuTDVDRmVYN0NpdnBUaGFzYy1UeHhCZnl0cTBvdTE1VlVLVFRVcm5hcGNXNUpUaGdUY19ELVRQWU0zOWlOODFXVF9KRWhtWE95cmdEdWV",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
+        }
+      ],
+      "timestamp": "2026-11-18T12:54:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFhQQnRTaFpJYVRxN3lpVGNmSldUSmRlTzJ0dTVVZTJLTnd6ZE5KYmxsa3NrWGlLdW9RdXZMVGpPNTNoZ3VtN1NoQk5mM080VHRuTGlKQkFpSGhSalFHc2plWGNZMnhMNEVuTDVDRmVYN0NpdnBUaGFzYy1UeHhCZnl0cTBvdTE1VlVLVFRVcm5hcGNXNUpUaGdUY19ELVRQWU0zOWlOODFXVF9KRWhtWE95cmdEdWVYbTNGaVVR?oc=5"
+    },
+    {
+      "id": "news-61",
       "headline": "Xi personally greets Trump in Shenzhen in rare gesture",
       "summary": "The Chinese president reciprocated for an honor President Donald Trump extended him in September.",
       "urgency": "info",
@@ -308,7 +1118,7 @@
       "link": "https://www.washingtonpost.com/world/2026/11/18/xi-personally-greets-trump-shenzhen-rare-gesture/"
     },
     {
-      "id": "news-17",
+      "id": "news-62",
       "headline": "Burj Khalifa cost $1.5b, will GTA 6 match that?",
       "summary": "Burj Khalifa cost $1.5b, will GTA 6 match that?",
       "urgency": "info",
@@ -326,7 +1136,7 @@
       "link": "https://gulfnews.com/business/burj-khalifa-cost-15b-will-gta-6-match-that-1.500752231"
     },
     {
-      "id": "news-18",
+      "id": "news-63",
       "headline": "How data centres are turning AI-generated heat into energy",
       "summary": "How data centres are turning AI-generated heat into energy",
       "urgency": "info",
@@ -344,7 +1154,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss"
     },
     {
-      "id": "news-19",
+      "id": "news-64",
       "headline": "Hong Kong student arrested over alleged HK$4.2 million mortgage scams",
       "summary": "A 19-year-old university student in Hong Kong has been arrested and charged over allegations that he posed as a law firm employee in a series of mortgage scams that defrauded victims of more than HK$4 million (US$509,792).\nInspector Frankie Chiu of the Yau Tsim police district said the scheme began ",
       "urgency": "info",
@@ -362,7 +1172,7 @@
       "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374932/hong-kong-student-arrested-over-alleged-hk42-million-mortgage-scams"
     },
     {
-      "id": "news-20",
+      "id": "news-65",
       "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
       "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
       "urgency": "important",
@@ -380,7 +1190,7 @@
       "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "id": "news-21",
+      "id": "news-66",
       "headline": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3",
       "summary": "&lt;p&gt;Pakistan strengthened their grip on the second Test on Wednesday, taking a commanding 227-run first-innings lead before reducing Sri Lanka to 74-3 at stumps on the second day at the Rawalpindi Cricket Stadium.&lt;/p&gt;\n&lt;p&gt;After wicket-keeper-batter Ghazi Ghori’s half-century and an e",
       "urgency": "breaking",
@@ -398,7 +1208,7 @@
       "link": "https://www.dawn.com/news/2045398/pakistan-tighten-grip-on-second-test-as-sri-lanka-stumble-to-74-3"
     },
     {
-      "id": "news-22",
+      "id": "news-67",
       "headline": "Dubai paints the future bright as Future Week kicks off",
       "summary": "Dubai paints the future bright as Future Week kicks off",
       "urgency": "info",
@@ -416,7 +1226,7 @@
       "link": "https://gulfnews.com/uae/dubai/dubai-paints-the-future-bright-as-future-week-kicks-off-1.500752152"
     },
     {
-      "id": "news-23",
+      "id": "news-68",
       "headline": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war - Reuters",
       "summary": "&lt;ol&gt;&lt;li&gt;&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUo2UWtYUkdWbUFwMVlzSHJwTVNrZlhyMzVuVnk3YVFXLW9mN1g5ZU44SmpMZG9kUUc1NFhacHEwbFJBN0lTQUdaMzFmNXNyd0RQaHNsaG9vY1lNRHRzV2pqV1dmT0Q0dXdWVDdORjZCVDczU2NueUdWaVZNd01GSXdBa05pQ0E1ZmkwRWFENXdlckFVLUdHVUFSNmhwa29oU1gyS0NJaTU",
       "urgency": "breaking",
@@ -434,7 +1244,7 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUo2UWtYUkdWbUFwMVlzSHJwTVNrZlhyMzVuVnk3YVFXLW9mN1g5ZU44SmpMZG9kUUc1NFhacHEwbFJBN0lTQUdaMzFmNXNyd0RQaHNsaG9vY1lNRHRzV2pqV1dmT0Q0dXdWVDdORjZCVDczU2NueUdWaVZNd01GSXdBa05pQ0E1ZmkwRWFENXdlckFVLUdHVUFSNmhwa29oU1gyS0NJaTU1S2dJa3U5VmtKWQ?oc=5"
     },
     {
-      "id": "news-24",
+      "id": "news-69",
       "headline": "Returning the favour, Xi personally welcomes Trump ahead of high-stakes Apec talks",
       "summary": "US President Donald Trump received a historic red-carpet welcome from Chinese President Xi Jinping upon arriving in Shenzhen on Wednesday as the leaders prepare for high-stakes talks at the Asia-Pacific Economic Cooperation (Apec) summit.\nXi personally greeted Trump on the tarmac on Wednesday aftern",
       "urgency": "important",
@@ -452,7 +1262,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3374931/returning-favour-xi-personally-welcomes-trump-ahead-high-stakes-apec-talks"
     },
     {
-      "id": "news-25",
+      "id": "news-70",
       "headline": "From a Tennessee cabin to Nashville’s legacy, Dolly Parton’s dream lives on in a 240-room hotel",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135962018.cms\" /&gt;<![CDATA[Following the sad demise of Dolly Parton, Nashville unveiled her final creation, the stunning SongTeller Hotel. Designed to honor her illus",
       "urgency": "info",
@@ -470,7 +1280,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/dolly-parton-grew-up-in-a-small-tennessee-cabin-and-dreamed-of-leaving-a-lasting-mark-on-nashville-weeks-after-her-death-a-240-room-hotel-and-museum-spanning-over-20000-square-feet-opened-to-visitors/articleshow/135962018.cms"
     },
     {
-      "id": "news-26",
+      "id": "news-71",
       "headline": "Xi, Trump, Putin exchange first greetings in China ahead of historic meeting",
       "summary": "&lt;p&gt;United States President Donald Trump, China’s Xi Jinping and Russia’s Vladimir Putin exchanged first greetings in China on Wednesday, a day before their first formal trilateral meeting.&lt;/p&gt;\n&lt;p&gt;Footage showed Putin shaking hands with Trump and the two exchanging pleasantries with",
       "urgency": "breaking",
@@ -488,7 +1298,7 @@
       "link": "https://www.dawn.com/news/2045414/xi-trump-putin-exchange-first-greetings-in-china-ahead-of-historic-meeting"
     },
     {
-      "id": "news-27",
+      "id": "news-72",
       "headline": "For the Thai prime minister, Apec in Shenzhen is almost home ground",
       "summary": "The Apec summit in Shenzhen is something of a homecoming for Thai Prime Minister Anutin Charnvirakul.\nAnutin can trace his family roots back to southern China, and when he was asked on Wednesday how it felt to be in Guangdong province, he burst out laughing and replied in Cantonese.\n“Hou hoi sam!” h",
       "urgency": "important",
@@ -506,7 +1316,7 @@
       "link": "https://www.scmp.com/news/china/diplomacy/article/3374930/thai-prime-minister-apec-shenzhen-almost-home-ground"
     },
     {
-      "id": "news-28",
+      "id": "news-73",
       "headline": "The big test facing the Middle East’s emerging security autonomy",
       "summary": "Gulf governments are building collective defences while exploring security arrangements with the very country many of those defences are designed to deter.\nOn November 5, Turkey’s parliament approved a mutual defence pact with Saudi Arabia and Pakistan. Five days later, the Gulf Cooperation Council ",
       "urgency": "info",
@@ -524,7 +1334,7 @@
       "link": "https://www.scmp.com/opinion/world-opinion/article/3374400/big-test-facing-middle-easts-emerging-security-autonomy"
     },
     {
-      "id": "news-29",
+      "id": "news-74",
       "headline": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
       "summary": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
       "urgency": "breaking",
@@ -542,7 +1352,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss"
     },
     {
-      "id": "news-30",
+      "id": "news-75",
       "headline": "Rwanda and DRC: What is holding up the Washington peace process?",
       "summary": "The two sides remain divided over key security commitments under the Washington Accords.",
       "urgency": "info",
@@ -560,7 +1370,7 @@
       "link": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss"
     },
     {
-      "id": "news-31",
+      "id": "news-76",
       "headline": "Chinese cars shake up Ivory Coast's auto industry",
       "summary": "In the space of just a few years, more than a dozen Chinese carmakers have established themselves in Ivory Coast and are becoming increasingly visible on the country's streets. How have they managed to win over a growing number of customers? FRANCE 24's Jean Barrère and Eunice Stolz-Masson report.",
       "urgency": "info",
@@ -578,7 +1388,7 @@
       "link": "https://www.france24.com/en/tv-shows/focus/20261118-chinese-cars-shake-up-ivory-coast-s-auto-industry"
     },
     {
-      "id": "news-32",
+      "id": "news-77",
       "headline": "US Dems probe whether Lutnick used office to protect sons' firm amid Nvidia scandal",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135963217.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -596,25 +1406,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/us-democrats-probe-whether-lutnick-used-office-to-protect-sons-firm-amid-nvidia-controversy/articleshow/135963217.cms"
     },
     {
-      "id": "news-33",
-      "headline": "Xi greets Japan’s leader amid a diplomatic feud.",
-      "summary": "Xi greets Japan’s leader amid a diplomatic feud.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T12:24:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/xi-jinping-china-sanae-takaichi-japan"
-    },
-    {
-      "id": "news-34",
+      "id": "news-78",
       "headline": "US senators from rival parties warn AI cyber threats outpacing defences",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135963065.cms\" /&gt;<![CDATA[",
       "urgency": "breaking",
@@ -632,7 +1424,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/two-us-senators-from-opposing-parties-warned-trumps-white-house-that-ai-powered-cyber-threats-are-outpacing-defences-citing-rogue-agents-software-vulnerabilities-and-a-models-attempted-link-to-china/articleshow/135963065.cms"
     },
     {
-      "id": "news-35",
+      "id": "news-79",
       "headline": "‘The UAE flag can be raised by them too&apos;, Shouq Aldhanhani on her historic belt",
       "summary": "‘The UAE flag can be raised by them too&apos;, Shouq Aldhanhani on her historic belt",
       "urgency": "info",
@@ -650,7 +1442,7 @@
       "link": "https://gulfnews.com/uae/abu-dhabi/the-uae-flag-can-be-raised-by-them-too-shouq-aldhanhani-on-her-historic-belt-1.500752134"
     },
     {
-      "id": "news-36",
+      "id": "news-80",
       "headline": "EFG Holding Q3 revenue rises 5% to EGP 6.7 billion",
       "summary": "EFG Holding Q3 revenue rises 5% to EGP 6.7 billion",
       "urgency": "info",
@@ -668,25 +1460,7 @@
       "link": "https://gulfnews.com/business/banking/efg-holding-q3-revenue-rises-5-to-egp-67-billion-1.500752181"
     },
     {
-      "id": "news-37",
-      "headline": "Russian Soldier Tries to Escape Barbed Wire Trap as Ukrainian FPV Drone Closes In, Video - UNITED24 Media",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmpqTnkxZVlfalN6Uk44bHFJU3MyYl9RWVl3ckR4ZnUzcWY0TzNvWVV6WnhOanV2YVR4NlZjbjczX3oxQkJ0dDlQLTR0eGs3V25KdjBnWVVSLTctY214cExGQXN5Rm5POVV1R05tYVl5TnByRWZ0WmNieUN4eHRjcWNGMV9qUFNidUVKMlJ4S2hvWjdINlF3Rk5DTFpUXy13ZU5VMWttZk9ZTjBvUUVQaXdQMnBkcVd",
-      "urgency": "info",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T12:12:21.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmpqTnkxZVlfalN6Uk44bHFJU3MyYl9RWVl3ckR4ZnUzcWY0TzNvWVV6WnhOanV2YVR4NlZjbjczX3oxQkJ0dDlQLTR0eGs3V25KdjBnWVVSLTctY214cExGQXN5Rm5POVV1R05tYVl5TnByRWZ0WmNieUN4eHRjcWNGMV9qUFNidUVKMlJ4S2hvWjdINlF3Rk5DTFpUXy13ZU5VMWttZk9ZTjBvUUVQaXdQMnBkcVdjaDhjWjJDRDIzQW5TUjI4clpFcVBHWWs?oc=5"
-    },
-    {
-      "id": "news-38",
+      "id": "news-81",
       "headline": "ICJ to rule on Rohingya genocide case: What to expect",
       "summary": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
       "urgency": "breaking",
@@ -704,43 +1478,7 @@
       "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss"
     },
     {
-      "id": "news-39",
-      "headline": "Fried Chicken and a Chat With an Old Friend: How Marcos Catered to Trump",
-      "summary": "President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila. It is unclear what dividends the strategy will yield.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T12:09:47.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump"
-    },
-    {
-      "id": "news-40",
-      "headline": "Messi, Ronaldo, Yamal headline Dubai's Globe Soccer Awards nominees - Khaleej Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYi0zanVyelFfWUwxMVE4T1BId0hWa3ZCX09CbVNncWdMZ1JKdkxnTjJnYmsyblVtQk80TlZFcFUzMFZzSldnNENVaE5xY1ZGZ2psY0E4UTFSRUlibVdaLXlQNDVmdHhjZWJhOV9rZmsyaWdWRGI2aVd1QzJkbFBJRGFZS1dMcGhIby1idFY4SUJUaEN1b3c0VVVlRms0elVXOEQ3MEt5N24yaGhxb3fSAbYBQVVfeXF",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Khaleej Times",
-          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
-          "url": "https://khaleejtimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T12:09:44.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYi0zanVyelFfWUwxMVE4T1BId0hWa3ZCX09CbVNncWdMZ1JKdkxnTjJnYmsyblVtQk80TlZFcFUzMFZzSldnNENVaE5xY1ZGZ2psY0E4UTFSRUlibVdaLXlQNDVmdHhjZWJhOV9rZmsyaWdWRGI2aVd1QzJkbFBJRGFZS1dMcGhIby1idFY4SUJUaEN1b3c0VVVlRms0elVXOEQ3MEt5N24yaGhxb3fSAbYBQVVfeXFMUG52UkdkQm05eHJnX2NrMU1oczEyaGk0NGFyVWZmWUktZTQzVDFDX3B6VXQ0Q2RBZzdTU2UyWjBUZHVVVE9ZUzFNeHpILWJDNDNmTlRMckk3a05jWDZNY0l6U2VoUXpwSjdlT3VCZWlNaVFyN0hNY1h1SmlncTRlSl81dXB2YjZ1Ynl1ZFh6MmJtYjBWMUZiODFTQXFVUzNjcm91TjNaeEhqYTB6N0FRdFhvSmJzb1E?oc=5"
-    },
-    {
-      "id": "news-41",
+      "id": "news-82",
       "headline": "Nintendo employee rescued Donkey Kong art from trash; later sold for $329,400",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135961483.cms\" /&gt;<![CDATA[",
       "urgency": "info",
@@ -758,7 +1496,7 @@
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/nintendo-employee-saved-a-1981-donkey-kong-painting-from-trash-and-tucked-it-into-a-coffee-table-decades-later-it-sold-for-329400/articleshow/135961483.cms"
     },
     {
-      "id": "news-42",
+      "id": "news-83",
       "headline": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia - The Guardian",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOektDcHNLTnJVdGQtUFpFelJJNFZaN1R3dElHdFNKcEdMTHNjME9zMTk0RF9CQzctZHo5bzV0cllaVlVpeGpSaFpKaG0wWGkyMC1OcFlNdDJvaWRHU2dvVzBYSEpfWl94QzY2NjR0MzBfMzdhU1hRMl8xenBCNS1yeE9iTjA?oc=5\" target=\"_blank\"&gt;Key Hegseth adviser faces questions over t",
       "urgency": "info",
@@ -776,25 +1514,7 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOektDcHNLTnJVdGQtUFpFelJJNFZaN1R3dElHdFNKcEdMTHNjME9zMTk0RF9CQzctZHo5bzV0cllaVlVpeGpSaFpKaG0wWGkyMC1OcFlNdDJvaWRHU2dvVzBYSEpfWl94QzY2NjR0MzBfMzdhU1hRMl8xenBCNS1yeE9iTjA?oc=5"
     },
     {
-      "id": "news-43",
-      "headline": "Could these 5 affordable earbuds make expensive models harder to justify?",
-      "summary": "Could these 5 affordable earbuds make expensive models harder to justify?",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T12:06:56.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/could-these-5-affordable-earbuds-make-expensive-models-harder-to-justify-1.500751271"
-    },
-    {
-      "id": "news-44",
+      "id": "news-84",
       "headline": "'A masterpiece of the gaming industry': GTA 'most expensive' entertainment production in history",
       "summary": "François Picard is pleased to welcome Olivier Mauco, President of the European Video Game Observatory and Lecturer at Paris Dauphine University. For Spotlight, he discusses the extraordinary anticipation surrounding GTA 6, the game's enduring popularity and the economics of blockbuster video game pr",
       "urgency": "info",
@@ -812,7 +1532,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20261118-a-masterpiece-of-the-gaming-industry-gta-most-expensive-entertainment-production-in-history"
     },
     {
-      "id": "news-45",
+      "id": "news-85",
       "headline": "Palestinians find refuge in ancient caves after Israel demolishes homes",
       "summary": "Palestinians displaced in the occupied West Bank&#039;s Masafer Yatta area have been forced to live in underground caves.",
       "urgency": "info",
@@ -830,7 +1550,7 @@
       "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss"
     },
     {
-      "id": "news-46",
+      "id": "news-86",
       "headline": "Pineapple pizza debate reignites after Italian chef sacked in Australia",
       "summary": "An Italian chef in Australia has lost his job after refusing to put pineapple on a pizza - calling it \"an insult\" to his culture. He then took his case to an employment tribunal, but his claim was dismissed. The case has reignited one the debate over what many, particularly in Italy consider to be c",
       "urgency": "info",
@@ -848,25 +1568,25 @@
       "link": "https://www.france24.com/en/video/20261118-pineapple-pizza-debate-reignites-after-italian-chef-sacked-in-australia"
     },
     {
-      "id": "news-47",
-      "headline": "British Airways flight to London cancelled after emergency slide deploys in Sri Lanka",
-      "summary": "British Airways flight to London cancelled after emergency slide deploys in Sri Lanka",
+      "id": "news-87",
+      "headline": "LIVE: Iran shoots down US drone; Israel launches military operation in Gaza - Al Jazeera",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVFjTXR2c2dUek5TbExaQzd1OUI5aFQxS3FsdUZPTktoTzE1Mmhwem5QQVQwQzN6cjh1WTVqMTI3OVhfVDlXazBCZi1qM01aajA4WXhPQnJvRU9uV0hrakRHU3BwaW5KN25ldG84MGI0TzJwMlU5Rk1uMERIcml0V1lJQTJzLXVBY0diOGtkeVBFeWhmMHQtY2YzT1VaMm91NEpGVkNoWGRKLVlYQlFyZNIBtgFBVV9",
       "urgency": "info",
-      "topic": "general",
+      "topic": "middle-east",
       "sources": [
         {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
+          "name": "Google News",
+          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
+          "url": "https://news.google.com",
+          "category": "global_media"
         }
       ],
-      "timestamp": "2026-11-18T12:01:15.000Z",
+      "timestamp": "2026-11-18T12:01:46.000Z",
       "widgetType": "news",
-      "link": "https://gulfnews.com/world/europe/british-airways-flight-to-london-cancelled-after-emergency-slide-deploys-in-sri-lanka-1.500752168"
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVFjTXR2c2dUek5TbExaQzd1OUI5aFQxS3FsdUZPTktoTzE1Mmhwem5QQVQwQzN6cjh1WTVqMTI3OVhfVDlXazBCZi1qM01aajA4WXhPQnJvRU9uV0hrakRHU3BwaW5KN25ldG84MGI0TzJwMlU5Rk1uMERIcml0V1lJQTJzLXVBY0diOGtkeVBFeWhmMHQtY2YzT1VaMm91NEpGVkNoWGRKLVlYQlFyZNIBtgFBVV95cUxQV1lSbDdNZlJ2cm5FYVdNZ1pIdWc4UzZYQVlpVUlBOUZ5U3NRYU43QWlzek44X1dfdkhqTVBuaVNQUlFzM0NmcHNrcGE0YkN5b041U2g5eTdlTzEwQ2ZuTk5HSVJjcGxpX2t4U2ZqV21reENqODVjTDVUT0VqOEwtNzdTbV9nV1Q4YWtUTmhSUUxyUjdMNWhlWU8tVnNjUHI3NzdSRk5iRWluaF93enVZbU1WTnVRQQ?oc=5"
     },
     {
-      "id": "news-48",
+      "id": "news-88",
       "headline": "Woman denied medical insurance claim after breast cancer diagnosis",
       "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135962517.cms\" /&gt;<![CDATA[Jeanette Mozuch bought a cancer policy from Heartland National Life Insurance for extra coverage. After being diagnosed with breast cancer,",
       "urgency": "info",
@@ -884,25 +1604,7 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-says-her-supplemental-cancer-insurance-was-cancelled-after-her-breast-cancer-diagnosis-the-insurer-cites-incorrect-medical-information-on-her-application-as-the-reason-for-denying-her-claim/articleshow/135962517.cms"
     },
     {
-      "id": "news-49",
-      "headline": "GTA VI reviews are in, and they are historic",
-      "summary": "GTA VI reviews are in, and they are historic",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T12:00:24.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/technology/gaming/gta-vi-reviews-are-in-and-they-are-historic-1.500752154"
-    },
-    {
-      "id": "news-50",
+      "id": "news-89",
       "headline": "Field of fire: Chinese scientists develop drone gun that can plant rice more efficiently",
       "summary": "For years, engineers around the world have experimented with mounting guns on drones to boost battlefield firepower.\nBut a new study by Chinese researchers shows that unmanned vehicles could be used to shoot a very different kind of ammunition – rice.\nIn a paper published last month, the researchers",
       "urgency": "info",
@@ -920,7 +1622,7 @@
       "link": "https://www.scmp.com/news/china/science/article/3374863/field-fire-chinese-scientists-develop-drone-gun-can-plant-rice-more-efficiently"
     },
     {
-      "id": "news-51",
+      "id": "news-90",
       "headline": "‘Felt like nothing happened’: Hongkonger lauds incision-free kidney cancer therapy",
       "summary": "Hongkonger Li Sing-yan has recalled how he “felt like nothing happened” on the day he became one of Asia’s first two kidney cancer patients to receive an incision-free procedure that left him with no wounds or pain, enabling him to eat normal meals by that evening.\nThe cutting-edge technique, called",
       "urgency": "info",
@@ -938,7 +1640,7 @@
       "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3374917/felt-nothing-happened-hongkonger-lauds-incision-free-kidney-cancer-therapy"
     },
     {
-      "id": "news-52",
+      "id": "news-91",
       "headline": "After 49 years in space, Nasa’s Voyager 1 probe one light-day away from Earth",
       "summary": "&lt;p&gt;Nasa’s Voyager 1 probe, which has been travelling through space for nearly 50 years, hit a milestone distance of one light-day away from Earth on Wednesday.&lt;/p&gt;\n&lt;p&gt;Already the most distant man-made object in the universe, the spacecraft is now about 26 billion kilometres (16 bil",
       "urgency": "info",
@@ -956,7 +1658,25 @@
       "link": "https://www.dawn.com/news/2045417/after-49-years-in-space-nasas-voyager-1-probe-one-light-day-away-from-earth"
     },
     {
-      "id": "news-53",
+      "id": "news-92",
+      "headline": "Dozens more children killed in Yemen amid escalating hostilities",
+      "summary": "The UN child rights agency, UNICEF, on Thursday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
+      "urgency": "breaking",
+      "topic": "middle-east",
+      "sources": [
+        {
+          "name": "United Nations",
+          "logo": "https://www.google.com/s2/favicons?domain=un.org&sz=32",
+          "url": "https://news.un.org",
+          "category": "government"
+        }
+      ],
+      "timestamp": "2026-11-18T12:00:00.000Z",
+      "widgetType": "news",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168830"
+    },
+    {
+      "id": "news-93",
       "headline": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
       "summary": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
       "urgency": "info",
@@ -974,7 +1694,25 @@
       "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss"
     },
     {
-      "id": "news-54",
+      "id": "news-94",
+      "headline": "Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News - Khaleej Times",
+      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fYk8tWjBWRG9iZzVYQWtsRTQxaXpwVDY4OHVmV3ZDd055V2ptWVQzcURXVlN0WGFyUE4xdlFBYWxBcTQ?oc=5\" target=\"_blank\"&gt;Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News&lt;/a&gt;&amp;nbsp;&amp;nbs",
+      "urgency": "info",
+      "topic": "general",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
+          "url": "https://khaleejtimes.com",
+          "category": "local_media"
+        }
+      ],
+      "timestamp": "2026-11-18T11:57:35.000Z",
+      "widgetType": "news",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fYk8tWjBWRG9iZzVYQWtsRTQxaXpwVDY4OHVmV3ZDd055V2ptWVQzcURXVlN0WGFyUE4xdlFBYWxBcTQ?oc=5"
+    },
+    {
+      "id": "news-95",
       "headline": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
       "summary": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
       "urgency": "breaking",
@@ -992,25 +1730,7 @@
       "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss"
     },
     {
-      "id": "news-55",
-      "headline": "PM Shehbaz, PML-N supremo Nawaz discuss AJK's development, reconstruction at Muzaffarabad huddle",
-      "summary": "&lt;p&gt;The PML-N’s top leadership on Wednesday discussed development and reconstruction in Azad Jammu and Kashmir (AJK) with the region’s President Muhammad Najeeb Naqi Khan and Prime Minister Syed Iftikhar Ali Gillani, the party said.&lt;/p&gt;\n&lt;p&gt;The meeting, held in Muzaffarabad, was atte",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:55:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2045412/pm-shehbaz-pml-n-supremo-nawaz-discuss-ajks-development-reconstruction-at-muzaffarabad-huddle"
-    },
-    {
-      "id": "news-56",
+      "id": "news-96",
       "headline": "Democrat Mary Peltola wins US Senate race in Alaska",
       "summary": "Democrat Mary Peltola ​won Alaska's US Senate race on Tuesday, projections from US media showed, defeating Republican incumbent Dan Sullivan and giving her party its ninth Senate flip of the midterm elections and a commanding 56-44 majority in the upper house of Congress. France 24's Washington corr",
       "urgency": "important",
@@ -1028,7 +1748,7 @@
       "link": "https://www.france24.com/en/video/20261118-democrat-mary-peltola-wins-us-senate-race-in-alaska"
     },
     {
-      "id": "news-57",
+      "id": "news-97",
       "headline": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
       "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia&#039;s investigation into the scandal.",
       "urgency": "info",
@@ -1046,7 +1766,7 @@
       "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss"
     },
     {
-      "id": "news-58",
+      "id": "news-98",
       "headline": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
       "summary": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
       "urgency": "info",
@@ -1064,742 +1784,22 @@
       "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html"
     },
     {
-      "id": "news-59",
-      "headline": "Advice alone may fall short in helping smokers quit, doctors warn at Dubai Primary Care Academy",
-      "summary": "Advice alone may fall short in helping smokers quit, doctors warn at Dubai Primary Care Academy",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:50:25.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/gn-focus/advice-alone-may-fall-short-in-helping-smokers-quit-doctors-warn-at-dubai-primary-care-academy-1.500745042"
-    },
-    {
-      "id": "news-60",
+      "id": "news-99",
       "headline": "'The goal was to halt aid to Ukraine' — Russia planned high casualty false-flag attack near Kaliningrad border, Rzeczpospolita reports - The Kyiv Independent",
       "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR3huU0Q2ZWNiYVA4WlRfMGRFR2pPbW9hbUFOblZvMWRVYXhMZWo5aTF3RC1xWC10bXVfVEc1em5EdmlhVzV2UTNfTW1TZDEwS1BVLXBOTVc3Y2VJWUxWVGFNXzBYcldfSE5Ca05neWFKNkRwbmlzSmdzRUstalVIdzIwa0dPUmhjZUpNVU8zaS10NkhyYUNTejU3SGwtZDFsUmdRV1ZvaEp3TzZrS0JLOEVUUVVOend",
       "urgency": "breaking",
       "topic": "ukraine-russia",
       "sources": [
         {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
+          "name": "Kyiv Independent",
+          "logo": "https://www.google.com/s2/favicons?domain=kyivindependent.com&sz=32",
+          "url": "https://kyivindependent.com",
+          "category": "local_media"
         }
       ],
       "timestamp": "2026-11-18T11:49:53.000Z",
       "widgetType": "news",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR3huU0Q2ZWNiYVA4WlRfMGRFR2pPbW9hbUFOblZvMWRVYXhMZWo5aTF3RC1xWC10bXVfVEc1em5EdmlhVzV2UTNfTW1TZDEwS1BVLXBOTVc3Y2VJWUxWVGFNXzBYcldfSE5Ca05neWFKNkRwbmlzSmdzRUstalVIdzIwa0dPUmhjZUpNVU8zaS10NkhyYUNTejU3SGwtZDFsUmdRV1ZvaEp3TzZrS0JLOEVUUVVOend2NUF4REN5MVdCNm1WN2M5MFFnZzgxRGYxREZ0a2taMnBEbDBnSlRSVE15b1QxeEFLQktNRjE4SQ?oc=5"
-    },
-    {
-      "id": "news-61",
-      "headline": "Malaysia’s Pardons Board minutes expose legal rift over Najib’s house arrest",
-      "summary": "Malaysia’s attorney general objected to former prime minister Najib Razak’s house arrest, saying it had no legal basis – but the king approved the arrangement, newly disclosed Pardons Board minutes showed, fuelling a debate over the limits of royal clemency powers.\nAttorney General Mohd Dusuki Mokht",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:49:03.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/week-asia/people/article/3374928/malaysias-pardons-board-minutes-expose-legal-rift-over-najibs-house-arrest"
-    },
-    {
-      "id": "news-62",
-      "headline": "Woman killed as high-voltage cable falls on house in Balochistan's Turbat",
-      "summary": "&lt;p&gt;GWADAR: A woman was killed, while her husband and son sustained critical burn injuries after an 11,000-volt power line snapped and fell on their house in the Wasto Bazaar area of Turbat in the early hours of Wednesday.&lt;/p&gt;\n&lt;p&gt;The high-tension wire fell on the residence, electroc",
-      "urgency": "breaking",
-      "topic": "taliban-pakistan",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:49:01.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2045418/woman-killed-as-high-voltage-cable-falls-on-house-in-balochistans-turbat"
-    },
-    {
-      "id": "news-63",
-      "headline": "Who would gain from carving up Pakistan’s provinces?",
-      "summary": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:47:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss"
-    },
-    {
-      "id": "news-64",
-      "headline": "Trump arrives in China ahead of trilateral summit with Putin and Xi",
-      "summary": "Donald Trump arrived in Shenzhen, China on Wednesday, ahead of a historic trilateral on the sidelines of the APEC summit with his Russian and Chinese counterparts. The three men are expected to address the wars in Ukraine and Iran as well as nuclear disarmament.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:46:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20261118-trump-arrives-in-china-ahead-of-trilateral-summit-with-putin-and-xi"
-    },
-    {
-      "id": "news-65",
-      "headline": "EU proposes new US$49 billion Ukraine loan for 2027",
-      "summary": "The European Union on Wednesday proposed member states give Ukraine an extra €45 billion (US$49 billion) loan to plug Kyiv’s 2027 budget shortfalls as Russia’s war drags on.\nThe funding would go two-thirds of the way towards filling a €70 billion black hole Kyiv is facing next year – with Brussels l",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:45:06.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/world/europe/article/3374925/eu-proposes-new-us49-billion-ukraine-loan-2027"
-    },
-    {
-      "id": "news-66",
-      "headline": "Pochettino fires warning to Man City with bold Man Utd vow",
-      "summary": "Pochettino fires warning to Man City with bold Man Utd vow",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:44:56.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/sport/pochettino-fires-warning-to-man-city-with-bold-man-utd-vow-1.500752133"
-    },
-    {
-      "id": "news-67",
-      "headline": "Who to watch in Spain's election race",
-      "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC Europe",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:44:25.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-68",
-      "headline": "Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait",
-      "summary": "&lt;p&gt;After 13 years of waiting, including two delays and several leaks, the first gamers began playing on Wednesday the latest instalment of “Grand Theft Auto”, the most expensive — and among the most profitable — video game ever developed.&lt;/p&gt;\n&lt;p&gt;“GTA VI” becomes available on PlaySt",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:42:04.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2045422/gaming-phenomenon-grand-theft-auto-goes-live-after-13-year-wait"
-    },
-    {
-      "id": "news-69",
-      "headline": "Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News - Khaleej Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fYk8tWjBWRG9iZzVYQWtsRTQxaXpwVDY4OHVmV3ZDd055V2ptWVQzcURXVlN0WGFyUE4xdlFBYWxBcTQ?oc=5\" target=\"_blank\"&gt;Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News&lt;/a&gt;&amp;nbsp;&amp;nbs",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Khaleej Times",
-          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
-          "url": "https://khaleejtimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:41:35.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fYk8tWjBWRG9iZzVYQWtsRTQxaXpwVDY4OHVmV3ZDd055V2ptWVQzcURXVlN0WGFyUE4xdlFBYWxBcTQ?oc=5"
-    },
-    {
-      "id": "news-70",
-      "headline": "North Carolina father sues HOA over $70,000 Christmas display with 60,000 lights",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135961473.cms\" /&gt;<![CDATA[Neil Heuer's dazzling Christmas light display in North Carolina, costing over $70,000, has become a beloved holiday attraction. However, th",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:40:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-father-spent-more-than-70000-on-a-60000-light-christmas-display-that-drew-families-to-his-street-his-hoa-objected-and-he-is-now-suing-as-neighbours-face-a-vote-on-new-rules/articleshow/135961473.cms"
-    },
-    {
-      "id": "news-71",
-      "headline": "Rubio says 'zero' information that US tech outages are linked",
-      "summary": "Secretary of State Marco Rubio on Tuesday sought to assure Americans that there’s \"zero\" information that a cascade of service outages are related to each other or to a malign actor. Outages that shut down email for many companies and grounded thousands of flights over the past few days extended to ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:39:21.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20261118-rubio-says-zero-information-that-us-tech-outages-are-linked"
-    },
-    {
-      "id": "news-72",
-      "headline": "How low tech exposure turned India into a haven during Asia’s chip sell-off",
-      "summary": "India is emerging as an unlikely winner in Asia’s artificial intelligence-driven market rout following the Nvidia fallout, as tighter US chip curbs and falling oil prices steer investors towards Indian equities – even as observers question how long the rally will last.\nThe boost to India’s markets c",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:39:10.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/week-asia/economics/article/3374927/how-low-tech-exposure-turned-india-haven-during-asias-chip-sell"
-    },
-    {
-      "id": "news-73",
-      "headline": "Ring Returned After 47 Years: Detectorist reunites Benson with brother; school names him honorary member",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135914253.cms\" /&gt;<![CDATA[In a touching story of lost and found, metal detector enthusiast Lucas Thrun returned a class ring to Paul Benson, who had lost it 47 years",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:38:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-seattle-metal-detectorist-found-a-rhode-island-mans-class-ring-on-a-puget-sound-beach-47-years-after-his-brother-lost-it-to-the-tide-then-flew-about-3000-miles-to-hand-it-back-in-person/articleshow/135914253.cms"
-    },
-    {
-      "id": "news-74",
-      "headline": "Morris Brown alumni donate $700,000 to restore historic 1882 campus landmark",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135925863.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:36:29.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-couple-who-met-at-atlantas-morris-brown-college-more-than-50-years-ago-has-donated-700000-to-restore-an-1882-landmark-that-has-stood-unused-since-2004-bringing-a-long-promised-1-million-gift-closer/articleshow/135925863.cms"
-    },
-    {
-      "id": "news-75",
-      "headline": "UAE: Can your employer withhold gratuity if you don&apos;t serve your full notice period?",
-      "summary": "UAE: Can your employer withhold gratuity if you don&apos;t serve your full notice period?",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:36:22.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/living-in-uae/ask-us/uae-can-your-employer-withhold-gratuity-if-you-dont-serve-your-full-notice-period-1.500752099"
-    },
-    {
-      "id": "news-76",
-      "headline": "Flagship features for under Dh3,000? Meet the HUAWEI nova 16s Pro",
-      "summary": "Flagship features for under Dh3,000? Meet the HUAWEI nova 16s Pro",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:34:00.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/technology/consumer-electronics/flagship-features-for-under-dh3000-meet-the-huawei-nova-16s-pro-1.500752014"
-    },
-    {
-      "id": "news-77",
-      "headline": "Parking meter operator to pay HK$1.3 million over citywide outage",
-      "summary": "A parking meter operator has agreed to pay the government about HK$1.3 million (US$165,682) after a citywide outage that affected more than half of Hong Kong’s devices earlier this month, the transport minister has told lawmakers.\nSecretary for Transport and Logistics Mable Chan said the Transport D",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:33:48.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3374926/parking-meter-operator-pay-hk13-million-over-citywide-outage"
-    },
-    {
-      "id": "news-78",
-      "headline": "Carney and Trump to Hold Unscheduled Trade Meeting at Asia Summit",
-      "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:33:37.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html"
-    },
-    {
-      "id": "news-79",
-      "headline": "Israeli parliament elects speaker backed by Netanyahu opponents",
-      "summary": "Israel's parliament voted on Tuesday to select a new speaker opposed to the agenda of Benjamin Netanyahu, a potential first step in rolling back the prime minister's divisive political agenda even as his main rival struggles to form a government. France 24's correspondent Noga Tarnopolsky has the de",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:33:01.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20261118-israeli-parliament-elects-speaker-backed-by-netanyahu-opponents"
-    },
-    {
-      "id": "news-80",
-      "headline": "India lodges complaint against Palestinian footballer after under-17 match",
-      "summary": "Palestinian player Taha Soueidan &#039;deeply surprised&#039; by criticism following accusations that he made a racist gesture.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:32:24.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss"
-    },
-    {
-      "id": "news-81",
-      "headline": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
-      "summary": "Research into Tim Hortons’s app finds that it began transmitting information to Forter as soon as it opened.",
-      "urgency": "info",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "logo": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=32",
-          "url": "https://aljazeera.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:30:34.000Z",
-      "widgetType": "news",
-      "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss"
-    },
-    {
-      "id": "news-82",
-      "headline": "GTA V vs GTA VI comparison: How much has the game changed in 13 years?",
-      "summary": "GTA V vs GTA VI comparison: How much has the game changed in 13 years?",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:25:51.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/technology/gaming/gta-v-vs-gta-vi-comparison-how-much-has-the-game-changed-in-13-years-1.500751676"
-    },
-    {
-      "id": "news-83",
-      "headline": "UAE National Day 2026: Sharjah government employees get five-day break",
-      "summary": "UAE National Day 2026: Sharjah government employees get five-day break",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:23:50.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/uae/government/uae-national-day-2026-sharjah-government-employees-get-five-day-break-1.500752088"
-    },
-    {
-      "id": "news-84",
-      "headline": "Trump is trying to put the Iran war behind him, but it’s not over",
-      "summary": "Turmoil reigns in the Strait of Hormuz as an emboldened Iran launches fresh attacks on Gulf states, following President Donald Trump’s midterm losses.",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Washington Post",
-          "logo": "https://www.google.com/s2/favicons?domain=washingtonpost.com&sz=32",
-          "url": "https://washingtonpost.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:23:31.000Z",
-      "widgetType": "news",
-      "link": "https://www.washingtonpost.com/world/2026/11/18/trump-is-trying-put-iran-war-behind-him-its-not-over/"
-    },
-    {
-      "id": "news-85",
-      "headline": "ADNOC Onshore taps Mannesmann Energy to boost capacity at North East Bab oil facilities",
-      "summary": "ADNOC Onshore taps Mannesmann Energy to boost capacity at North East Bab oil facilities",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Gulf News",
-          "logo": "https://www.google.com/s2/favicons?domain=gulfnews.com&sz=32",
-          "url": "https://gulfnews.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:23:02.000Z",
-      "widgetType": "news",
-      "link": "https://gulfnews.com/business/adnoc-onshore-taps-mannesmann-energy-to-boost-capacity-at-north-east-bab-oil-facilities-1.500752068"
-    },
-    {
-      "id": "news-86",
-      "headline": "GTA 6 launch: Gaming phenomenon goes live in New Zealand after 13-year wait - Khaleej Times",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPekhVVVhGcURHUmw2ZnZrdElhVTZaaC1uNnUzVS1YaG1jV3ViNzhpVEdiOHhjR1ZLbnRGRnN5dUVyTGJ3ZnQxNnRPbGp2ekt6N0JKNXdVSlJ1ZW9QeVpmSGxsT1VpZmZDZDlOSUlxS1N1bWUwZjBOV3NLYWZ1bEVqN2pJZjQ1R014cnhEZ29FOVoyMzU3cmoxQ0xYVXQ2eEHSAacBQVVfeXFMTXMweWtudnZjaVdqR2M",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Khaleej Times",
-          "logo": "https://www.google.com/s2/favicons?domain=khaleejtimes.com&sz=32",
-          "url": "https://khaleejtimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:14:48.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekhVVVhGcURHUmw2ZnZrdElhVTZaaC1uNnUzVS1YaG1jV3ViNzhpVEdiOHhjR1ZLbnRGRnN5dUVyTGJ3ZnQxNnRPbGp2ekt6N0JKNXdVSlJ1ZW9QeVpmSGxsT1VpZmZDZDlOSUlxS1N1bWUwZjBOV3NLYWZ1bEVqN2pJZjQ1R014cnhEZ29FOVoyMzU3cmoxQ0xYVXQ2eEHSAacBQVVfeXFMTXMweWtudnZjaVdqR2M3d09wZlExdVpkbTEtdzE0ckdEd0JSelQ0dU9jX2g4S29zTFFsVnhfUnNwMlJSMmJIbDhReVZHeF92X0dvN25IUHRRc3RXaHRpeHhReUp1VDdRUHZWTDB0R04zcUpWSXQxeW1RRlJMSDQ4eGRfWTdyYTFXdThsMUphRUZTSG12bzgzRWxJekxNX0g5S3hHYzR1eVk?oc=5"
-    },
-    {
-      "id": "news-87",
-      "headline": "In a Rare Move, Xi Greets Trump as He Lands in China",
-      "summary": "The appearance was the first time Xi Jinping had personally received a foreign dignitary at an airport during more than a decade as China’s leader.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:13:59.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html"
-    },
-    {
-      "id": "news-88",
-      "headline": "Bancroft sandpaper claims heap pressure on Cummins",
-      "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "BBC World",
-          "logo": "https://www.google.com/s2/favicons?domain=bbc.com&sz=32",
-          "url": "https://bbc.com/news",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:12:46.000Z",
-      "widgetType": "news",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "id": "news-89",
-      "headline": "'Failures, incompetence, broken promises': Deutsche Bank exposed in major leak",
-      "summary": "PRESS REVIEW – Wednesday, November 18: A joint investigation following the leak of 15 million documents shows that Deutsche Bank turned a blind eye to the criminal activities of some of its clients. Next, for its 175th birthday, The New York Times has chosen the top 10 stories that made history. Wir",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:12:28.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20261118-failures-incompetence-broken-promises-deutsche-bank-exposed-in-major-leak"
-    },
-    {
-      "id": "news-90",
-      "headline": "Russia, China look to deepen ties at APEC as Trump arrives",
-      "summary": "China's leader Xi Jinping urged closer political and military ties between his country and Russia, as he met with President Vladimir Putin in Shenzhen on Wednesday on the sidelines of the APEC summit. It comes as Donald Trump arrives in China for trilateral talks with Xi and Putin.",
-      "urgency": "important",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "France 24",
-          "logo": "https://www.google.com/s2/favicons?domain=france24.com&sz=32",
-          "url": "https://france24.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:11:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.france24.com/en/video/20261118-russia-china-look-to-deepen-ties-at-apec-as-trump-arrives"
-    },
-    {
-      "id": "news-91",
-      "headline": "Indiana father on disability ordered to sell $270,000 home; court overturns college fee order",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135961023.cms\" /&gt;<![CDATA[An Indiana appeals court has decided on a divorce settlement case involving an Indiana man and his former wife. The court ordered the sale ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:10:37.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-father-living-on-disability-payments-was-ordered-to-sell-his-270000-home-and-help-pay-for-his-daughters-college-on-november-17-appeals-judges-kept-the-sale-order-but-overturned-the-college-costs/articleshow/135961023.cms"
-    },
-    {
-      "id": "news-92",
-      "headline": "Saudi-Backed Forces in Yemen Step Up Attacks on Houthis - Bloomberg.com",
-      "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanZPTTZ6QzdLcEd4bzlITmRjVl9GOUxMaHczSGd1MkNfTDl0UnBzYWt1cl94SkNXQS0zZWZhSTZwVjBNUVd1X2JSVXpHNEJPVm1yZ0ZvZkUxM2VneHpwQ1pnc3VUT0FxQlJLR1FnLS1UOU9nOUNnYWhpUVRSdnA4TzFjUjRpLVhxai0yTkp4VlhTdGhXRWx5em50QXR4RVRvWW5MNi1OZUZQdw?oc=5\" target=\"_b",
-      "urgency": "breaking",
-      "topic": "middle-east",
-      "sources": [
-        {
-          "name": "Google News",
-          "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=32",
-          "url": "https://news.google.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:10:05.000Z",
-      "widgetType": "news",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanZPTTZ6QzdLcEd4bzlITmRjVl9GOUxMaHczSGd1MkNfTDl0UnBzYWt1cl94SkNXQS0zZWZhSTZwVjBNUVd1X2JSVXpHNEJPVm1yZ0ZvZkUxM2VneHpwQ1pnc3VUT0FxQlJLR1FnLS1UOU9nOUNnYWhpUVRSdnA4TzFjUjRpLVhxai0yTkp4VlhTdGhXRWx5em50QXR4RVRvWW5MNi1OZUZQdw?oc=5"
-    },
-    {
-      "id": "news-93",
-      "headline": "Woman reclaimed her repossessed car, but police treated it as stolen",
-      "summary": "&lt;img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135958210.cms\" /&gt;<![CDATA[",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Times of India",
-          "logo": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32",
-          "url": "https://timesofindia.indiatimes.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:10:00.000Z",
-      "widgetType": "news",
-      "link": "https://timesofindia.indiatimes.com/world/us/pennsylvania-woman-arrested-after-taking-back-her-repossessed-car-which-police-had-listed-as-stolen-man-driving-it-with-her-permission-spent-two-weeks-in-jail/articleshow/135958210.cms"
-    },
-    {
-      "id": "news-94",
-      "headline": "Hong Kong’s Tsim Sha Tsui remains Asia’s priciest retail district as New York leads globally",
-      "summary": "Hong Kong’s Tsim Sha Tsui is still the Asia-Pacific region’s most expensive retail district this year, despite a 6 per cent annual decline in rents to €13,016 (US$14,318) per square metre, according to property consultancy Cushman &amp; Wakefield’s latest report.\nNew York’s Upper Fifth Avenue (49th ",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:08:55.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/business/article/3374922/hong-kongs-tsim-sha-tsui-remains-asias-priciest-retail-district-new-york-leads-globally"
-    },
-    {
-      "id": "news-95",
-      "headline": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
-      "summary": "Russian military planes flew through the region, prompting Japan and South Korea to scramble jets in response, and drawing complaints from Taiwan.",
-      "urgency": "breaking",
-      "topic": "ukraine-russia",
-      "sources": [
-        {
-          "name": "NY Times",
-          "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=32",
-          "url": "https://nytimes.com",
-          "category": "global_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:08:23.000Z",
-      "widgetType": "news",
-      "link": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html"
-    },
-    {
-      "id": "news-96",
-      "headline": "'He who claims equity must come with clean hands': Asif hits back at Bilawal",
-      "summary": "&lt;p&gt;Defence Minister Khawaja Asif joined others from the ruling PML-N on Wednesday in responding to PPP Chairperson Bilawal Bhutto-Zardari following the latter’s hard-hitting speech over several issues, including new provinces, constitutional tweaks and treatment of the opposition.&lt;/p&gt;\n&l",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:08:13.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal"
-    },
-    {
-      "id": "news-97",
-      "headline": "Takaichi makes low-key arrival in Shenzhen after South Korea’s Lee is greeted by dancers",
-      "summary": "Japanese Prime Minister Sanae Takaichi arrived in Shenzhen on Wednesday for the Asia-Pacific Economic Cooperation summit amid strained ties between Beijing and Tokyo.\nThe low-key arrival marking the first China visit by a Japanese leader in seven years contrasted sharply with the warm welcome given ",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "SCMP",
-          "logo": "https://www.google.com/s2/favicons?domain=scmp.com&sz=32",
-          "url": "https://scmp.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:07:30.000Z",
-      "widgetType": "news",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3374921/takaichi-makes-low-key-arrival-shenzhen-while-lee-greeted-dancers"
-    },
-    {
-      "id": "news-98",
-      "headline": "One light day",
-      "summary": "&lt;p&gt;ON Nov 18, 2026 (today), the National Aeronautics and Space Administration (Nasa) spacecraft, Voyager 1, the furthest travelled human-made object, launched in 1977 and since then travelling at a non-stop average speed of 61,200km per hour, will&lt;a href=\"https://www.dawn.com/news/2045417/v",
-      "urgency": "info",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:05:32.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2045352/one-light-day"
-    },
-    {
-      "id": "news-99",
-      "headline": "£190m corruption case: IHC directs proper medical care, hygienic living conditions for Bushra Bibi as per prison rules",
-      "summary": "&lt;p&gt;ISLAMABAD: The Islamabad High Court (IHC) on Wednesday directed prison authorities to ensure medical care and hygienic living conditions for Bushra Bibi as per prison rules, while adjourning the hearing of appeals filed by her and her husband, PTI founder Imran Khan, against their convictio",
-      "urgency": "breaking",
-      "topic": "general",
-      "sources": [
-        {
-          "name": "Dawn",
-          "logo": "https://www.google.com/s2/favicons?domain=dawn.com&sz=32",
-          "url": "https://dawn.com",
-          "category": "local_media"
-        }
-      ],
-      "timestamp": "2026-11-18T11:05:24.000Z",
-      "widgetType": "news",
-      "link": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi-as-per-prison-rules"
     }
   ],
   "financials": {
