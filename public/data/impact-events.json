@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-11-19T22:20:07.466Z",
+  "lastUpdated": "2026-11-19T22:40:04.676Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 536,
+      "score": 534,
       "count": 324,
-      "breaking": 97,
-      "latest": "2026-11-19T22:09:04.000Z"
+      "breaking": 96,
+      "latest": "2026-11-19T22:36:05.000Z"
     },
     {
       "id": "middle-east",
-      "score": 360,
-      "count": 163,
-      "breaking": 95,
-      "latest": "2026-11-19T21:43:38.000Z"
+      "score": 357,
+      "count": 164,
+      "breaking": 93,
+      "latest": "2026-11-19T21:40:38.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 217,
-      "count": 89,
-      "breaking": 56,
+      "score": 213,
+      "count": 88,
+      "breaking": 55,
       "latest": "2026-11-19T22:04:42.000Z"
     },
     {
@@ -28,13 +28,6 @@
       "count": 27,
       "breaking": 19,
       "latest": "2026-11-19T10:48:24.000Z"
-    },
-    {
-      "id": "taliban-pakistan",
-      "score": 51,
-      "count": 22,
-      "breaking": 14,
-      "latest": "2026-10-29T12:00:00.000Z"
     },
     {
       "id": "korea",
@@ -63,6 +56,13 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "id": "taliban-pakistan",
+      "score": 4,
+      "count": 2,
+      "breaking": 1,
+      "latest": "2026-10-29T12:00:00.000Z"
     }
   ],
   "countryEvents": {
@@ -152,15 +152,15 @@
     ],
     "pakistan": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
     "india": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
@@ -435,4 +435,5 @@
       "ukraine-russia"
     ]
   }
+}}
 }
