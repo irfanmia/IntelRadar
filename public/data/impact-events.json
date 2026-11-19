@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T15:00:06.538Z",
+  "lastUpdated": "2026-11-19T15:00:08.467Z",
   "globalRanking": [
     {
       "id": "general",
@@ -37,6 +37,13 @@
       "latest": "2026-11-19T12:40:47.000Z"
     },
     {
+      "id": "korea",
+      "score": 39,
+      "count": 21,
+      "breaking": 9,
+      "latest": "2026-11-17T10:13:27.000Z"
+    },
+    {
       "id": "venezuela",
       "score": 36,
       "count": 26,
@@ -56,13 +63,6 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-09-21T07:00:00.000Z"
-    },
-    {
-      "id": "korea",
-      "score": 1,
-      "count": 1,
-      "breaking": 0,
-      "latest": "2026-11-17T10:13:27.000Z"
     }
   ],
   "countryEvents": {
@@ -165,9 +165,9 @@
       "ukraine-russia"
     ],
     "united-states": [
-      "korea",
       "middle-east",
       "ukraine-russia",
+      "korea",
       "venezuela",
       "china-taiwan",
       "general"
@@ -206,8 +206,8 @@
       "ukraine-russia"
     ],
     "china": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
@@ -272,15 +272,15 @@
       "general"
     ],
     "australia": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
     ],
     "japan": [
-      "korea",
       "middle-east",
+      "korea",
       "china-taiwan",
       "general",
       "ukraine-russia"
