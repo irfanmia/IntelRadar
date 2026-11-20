@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T07:40:05.789Z",
+  "lastUpdated": "2026-11-20T07:40:07.034Z",
   "globalRanking": [
     {
       "id": "general",
@@ -21,13 +21,6 @@
       "count": 84,
       "breaking": 52,
       "latest": "2026-11-20T07:11:54.000Z"
-    },
-    {
-      "id": "taliban-pakistan",
-      "score": 65,
-      "count": 23,
-      "breaking": 21,
-      "latest": "2026-11-20T07:04:07.000Z"
     },
     {
       "id": "sudan",
@@ -63,6 +56,13 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "id": "taliban-pakistan",
+      "score": 7,
+      "count": 3,
+      "breaking": 2,
+      "latest": "2026-11-20T07:04:07.000Z"
     }
   ],
   "countryEvents": {
@@ -152,15 +152,15 @@
     ],
     "pakistan": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
     "india": [
       "middle-east",
-      "taliban-pakistan",
       "china-taiwan",
+      "taliban-pakistan",
       "general",
       "ukraine-russia"
     ],
