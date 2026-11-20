@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-11-20T15:03:04.639Z",
+  "lastUpdated": "2026-11-20T15:35:14.344Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 551,
-      "count": 338,
-      "breaking": 94,
-      "latest": "2026-11-20T14:59:35.000Z"
+      "score": 558,
+      "count": 342,
+      "breaking": 95,
+      "latest": "2026-11-20T15:34:06.000Z"
     },
     {
       "id": "middle-east",
-      "score": 357,
-      "count": 164,
+      "score": 358,
+      "count": 165,
       "breaking": 94,
-      "latest": "2026-11-20T14:52:47.000Z"
+      "latest": "2026-11-20T15:20:12.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 205,
-      "count": 80,
+      "score": 204,
+      "count": 79,
       "breaking": 59,
-      "latest": "2026-11-20T15:00:08.000Z"
+      "latest": "2026-11-20T15:14:01.000Z"
     },
     {
       "id": "sudan",
-      "score": 66,
+      "score": 64,
       "count": 28,
-      "breaking": 18,
-      "latest": "2026-11-19T14:01:02.000Z"
+      "breaking": 17,
+      "latest": "2026-11-19T10:48:24.000Z"
     },
     {
       "id": "taliban-pakistan",
@@ -37,20 +37,6 @@
       "latest": "2026-11-20T12:47:07.000Z"
     },
     {
-      "id": "korea",
-      "score": 50,
-      "count": 20,
-      "breaking": 15,
-      "latest": "2026-11-02T19:19:21.000Z"
-    },
-    {
-      "id": "china-taiwan",
-      "score": 40,
-      "count": 22,
-      "breaking": 8,
-      "latest": "2026-11-20T14:27:14.000Z"
-    },
-    {
       "id": "venezuela",
       "score": 39,
       "count": 27,
@@ -58,11 +44,25 @@
       "latest": "2026-11-19T19:55:00.000Z"
     },
     {
-      "id": "sahel",
-      "score": 27,
+      "id": "korea",
+      "score": 38,
       "count": 20,
-      "breaking": 2,
-      "latest": "2026-11-13T11:31:12.000Z"
+      "breaking": 9,
+      "latest": "2026-10-03T07:00:00.000Z"
+    },
+    {
+      "id": "sahel",
+      "score": 32,
+      "count": 20,
+      "breaking": 3,
+      "latest": "2026-11-16T08:00:00.000Z"
+    },
+    {
+      "id": "china-taiwan",
+      "score": 31,
+      "count": 22,
+      "breaking": 4,
+      "latest": "2026-11-20T14:27:14.000Z"
     }
   ],
   "countryEvents": {
@@ -167,9 +167,9 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
+      "venezuela",
       "korea",
       "china-taiwan",
-      "venezuela",
       "general"
     ],
     "united-kingdom": [
