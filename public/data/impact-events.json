@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-11-20T11:40:49.162Z",
+  "lastUpdated": "2026-11-20T12:24:08.789Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 567,
-      "count": 345,
-      "breaking": 96,
-      "latest": "2026-11-20T11:37:25.000Z"
+      "score": 535,
+      "count": 315,
+      "breaking": 97,
+      "latest": "2026-11-20T12:16:17.000Z"
     },
     {
       "id": "middle-east",
-      "score": 366,
-      "count": 163,
-      "breaking": 99,
-      "latest": "2026-11-20T11:15:19.000Z"
+      "score": 354,
+      "count": 159,
+      "breaking": 95,
+      "latest": "2026-11-20T12:02:39.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 154,
-      "count": 62,
-      "breaking": 42,
-      "latest": "2026-11-20T11:12:57.000Z"
+      "score": 196,
+      "count": 78,
+      "breaking": 55,
+      "latest": "2026-11-20T12:09:55.000Z"
     },
     {
       "id": "sudan",
@@ -31,10 +31,17 @@
     },
     {
       "id": "taliban-pakistan",
-      "score": 65,
+      "score": 56,
       "count": 23,
-      "breaking": 21,
+      "breaking": 16,
       "latest": "2026-11-20T08:55:12.000Z"
+    },
+    {
+      "id": "korea",
+      "score": 41,
+      "count": 21,
+      "breaking": 10,
+      "latest": "2026-11-20T11:58:31.000Z"
     },
     {
       "id": "venezuela",
@@ -44,11 +51,11 @@
       "latest": "2026-11-19T19:55:00.000Z"
     },
     {
-      "id": "korea",
-      "score": 38,
-      "count": 20,
-      "breaking": 9,
-      "latest": "2026-10-23T07:00:00.000Z"
+      "id": "china-taiwan",
+      "score": 37,
+      "count": 21,
+      "breaking": 7,
+      "latest": "2026-11-20T12:00:07.000Z"
     },
     {
       "id": "sahel",
@@ -56,13 +63,6 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-11-16T08:00:00.000Z"
-    },
-    {
-      "id": "china-taiwan",
-      "score": 28,
-      "count": 20,
-      "breaking": 4,
-      "latest": "2026-11-19T13:50:41.000Z"
     }
   ],
   "countryEvents": {
@@ -167,8 +167,8 @@
     "united-states": [
       "middle-east",
       "ukraine-russia",
-      "venezuela",
       "korea",
+      "venezuela",
       "china-taiwan",
       "general"
     ],
