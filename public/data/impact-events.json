@@ -1,26 +1,33 @@
 {
-  "lastUpdated": "2026-11-20T18:43:24.878Z",
+  "lastUpdated": "2026-11-20T19:01:06.122Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 559,
-      "count": 341,
-      "breaking": 95,
-      "latest": "2026-11-20T18:33:17.000Z"
+      "score": 557,
+      "count": 346,
+      "breaking": 92,
+      "latest": "2026-11-20T18:54:33.000Z"
     },
     {
       "id": "middle-east",
-      "score": 325,
-      "count": 148,
-      "breaking": 86,
-      "latest": "2026-11-20T18:36:15.000Z"
+      "score": 281,
+      "count": 128,
+      "breaking": 74,
+      "latest": "2026-11-20T18:36:37.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 158,
-      "count": 60,
-      "breaking": 46,
-      "latest": "2026-11-20T18:21:13.000Z"
+      "score": 199,
+      "count": 80,
+      "breaking": 56,
+      "latest": "2026-11-20T18:37:35.000Z"
+    },
+    {
+      "id": "sudan",
+      "score": 60,
+      "count": 28,
+      "breaking": 15,
+      "latest": "2026-11-20T16:14:47.000Z"
     },
     {
       "id": "taliban-pakistan",
@@ -37,13 +44,6 @@
       "latest": "2026-11-20T14:27:14.000Z"
     },
     {
-      "id": "venezuela",
-      "score": 39,
-      "count": 27,
-      "breaking": 3,
-      "latest": "2026-11-19T19:55:00.000Z"
-    },
-    {
       "id": "korea",
       "score": 38,
       "count": 20,
@@ -51,18 +51,11 @@
       "latest": "2026-10-03T07:00:00.000Z"
     },
     {
-      "id": "sahel",
-      "score": 32,
-      "count": 20,
-      "breaking": 3,
-      "latest": "2026-11-16T08:00:00.000Z"
-    },
-    {
-      "id": "sudan",
-      "score": 19,
-      "count": 8,
-      "breaking": 5,
-      "latest": "2026-11-16T20:53:11.000Z"
+      "id": "venezuela",
+      "score": 36,
+      "count": 26,
+      "breaking": 2,
+      "latest": "2026-11-19T13:31:23.000Z"
     }
   ],
   "countryEvents": {
@@ -108,8 +101,8 @@
       "ukraine-russia"
     ],
     "saudi-arabia": [
-      "middle-east",
       "sahel",
+      "middle-east",
       "sudan",
       "general",
       "ukraine-russia"
@@ -168,8 +161,8 @@
       "middle-east",
       "ukraine-russia",
       "china-taiwan",
-      "venezuela",
       "korea",
+      "venezuela",
       "general"
     ],
     "united-kingdom": [
@@ -183,9 +176,9 @@
       "general"
     ],
     "france": [
+      "sahel",
       "middle-east",
       "ukraine-russia",
-      "sahel",
       "general"
     ],
     "ukraine": [
@@ -233,8 +226,8 @@
       "ukraine-russia"
     ],
     "sudan": [
-      "middle-east",
       "sahel",
+      "middle-east",
       "sudan",
       "general",
       "ukraine-russia"
@@ -298,20 +291,20 @@
       "ukraine-russia"
     ],
     "algeria": [
-      "middle-east",
       "sahel",
+      "middle-east",
       "general",
       "ukraine-russia"
     ],
     "libya": [
-      "middle-east",
       "sahel",
+      "middle-east",
       "general",
       "ukraine-russia"
     ],
     "morocco": [
-      "middle-east",
       "sahel",
+      "middle-east",
       "general",
       "ukraine-russia"
     ],
