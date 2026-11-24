@@ -1,26 +1,33 @@
 {
-  "lastUpdated": "2026-11-24T18:40:06.753Z",
+  "lastUpdated": "2026-11-24T19:01:48.793Z",
   "globalRanking": [
     {
       "id": "general",
-      "score": 561,
-      "count": 353,
-      "breaking": 93,
-      "latest": "2026-11-24T18:36:13.000Z"
+      "score": 536,
+      "count": 331,
+      "breaking": 92,
+      "latest": "2026-11-24T18:55:59.000Z"
     },
     {
       "id": "middle-east",
-      "score": 384,
-      "count": 176,
-      "breaking": 99,
-      "latest": "2026-11-24T18:20:00.000Z"
+      "score": 332,
+      "count": 147,
+      "breaking": 88,
+      "latest": "2026-11-24T18:47:05.000Z"
     },
     {
       "id": "ukraine-russia",
-      "score": 183,
-      "count": 73,
-      "breaking": 54,
-      "latest": "2026-11-24T17:57:38.000Z"
+      "score": 135,
+      "count": 55,
+      "breaking": 39,
+      "latest": "2026-11-24T18:38:49.000Z"
+    },
+    {
+      "id": "taliban-pakistan",
+      "score": 62,
+      "count": 22,
+      "breaking": 20,
+      "latest": "2026-11-24T14:14:34.000Z"
     },
     {
       "id": "sudan",
@@ -30,25 +37,11 @@
       "latest": "2026-11-24T15:31:34.000Z"
     },
     {
-      "id": "taliban-pakistan",
-      "score": 53,
-      "count": 22,
-      "breaking": 15,
-      "latest": "2026-11-24T14:14:34.000Z"
-    },
-    {
       "id": "korea",
-      "score": 43,
-      "count": 21,
+      "score": 42,
+      "count": 20,
       "breaking": 10,
       "latest": "2026-11-24T12:30:58.000Z"
-    },
-    {
-      "id": "venezuela",
-      "score": 29,
-      "count": 21,
-      "breaking": 3,
-      "latest": "2026-11-19T19:55:00.000Z"
     },
     {
       "id": "sahel",
@@ -63,6 +56,13 @@
       "count": 20,
       "breaking": 3,
       "latest": "2026-11-20T14:27:14.000Z"
+    },
+    {
+      "id": "venezuela",
+      "score": 4,
+      "count": 2,
+      "breaking": 1,
+      "latest": "2026-11-19T19:55:00.000Z"
     }
   ],
   "countryEvents": {
@@ -168,8 +168,8 @@
       "middle-east",
       "ukraine-russia",
       "korea",
-      "venezuela",
       "china-taiwan",
+      "venezuela",
       "general"
     ],
     "united-kingdom": [
